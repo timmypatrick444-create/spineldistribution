@@ -12,6 +12,7 @@ import { CartPage } from './components/CartPage';
 import { CheckoutPage } from './components/CheckoutPage';
 import { OrdersPage } from './components/OrdersPage';
 import { AuthPage } from './components/AuthPage';
+import { RequestQuotePage } from './components/RequestQuotePage';
 import { AdminLogin } from './pages/AdminLogin';
 import { AdminDashboard } from './pages/AdminDashboard';
 import { Product, Order } from './types';
@@ -22,6 +23,7 @@ function MainApp() {
   // Navigation / View State
   const [currentView, setCurrentView] = useState<string>('home');
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
+  const [quoteInitialProduct, setQuoteInitialProduct] = useState<Product | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | undefined>(undefined);
   const [selectedSubcategory, setSelectedSubcategory] = useState<string | undefined>(undefined);
   const [searchQuery, setSearchQuery] = useState<string>('');
@@ -71,6 +73,8 @@ function MainApp() {
         setCurrentView('checkout');
       } else if (path === '/catalog') {
         setCurrentView('catalog');
+      } else if (path === '/quote') {
+        setCurrentView('quote');
       }
     };
 
@@ -97,6 +101,7 @@ function MainApp() {
     else if (view === 'orders') targetPath = '/orders';
     else if (view === 'catalog') targetPath = '/catalog';
     else if (view === 'auth') targetPath = '/auth';
+    else if (view === 'quote') targetPath = '/quote';
 
     if (window.location.pathname !== targetPath) {
       window.history.pushState({}, '', targetPath);
@@ -135,8 +140,18 @@ function MainApp() {
     }
   };
 
-  // Buy Now immediate navigation
+  // Request Quote handler
+  const handleRequestQuote = (prod?: Product) => {
+    setQuoteInitialProduct(prod || null);
+    navigateTo('quote');
+  };
+
+  // Buy Now immediate navigation - redirects to Request Quote if product has no price
   const handleBuyNow = (product: Product, quantity: number) => {
+    if (!product.priceUSD || product.priceUSD <= 0) {
+      handleRequestQuote(product);
+      return;
+    }
     navigateTo('checkout');
   };
 
@@ -213,6 +228,7 @@ function MainApp() {
                 onSelectProduct={handleSelectProduct}
                 onSelectCategory={handleSelectCategory}
                 onNavigate={navigateTo}
+                onRequestQuote={handleRequestQuote}
               />
             )}
 
@@ -224,6 +240,7 @@ function MainApp() {
                 searchQuery={searchQuery}
                 onSelectProduct={handleSelectProduct}
                 onSelectCategory={handleSelectCategory}
+                onRequestQuote={handleRequestQuote}
               />
             )}
 
@@ -232,6 +249,15 @@ function MainApp() {
                 product={selectedProduct}
                 onSelectCategory={handleSelectCategory}
                 onBuyNow={handleBuyNow}
+                onRequestQuote={handleRequestQuote}
+              />
+            )}
+
+            {currentView === 'quote' && (
+              <RequestQuotePage
+                initialProduct={quoteInitialProduct}
+                onNavigate={navigateTo}
+                onSelectProduct={handleSelectProduct}
               />
             )}
 

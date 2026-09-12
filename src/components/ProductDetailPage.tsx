@@ -9,7 +9,8 @@ import {
   Check, 
   ChevronRight,
   Share2,
-  Heart
+  Heart,
+  FileText
 } from 'lucide-react';
 import { Product } from '../types';
 import { useCurrency } from '../context/CurrencyContext';
@@ -19,12 +20,14 @@ interface ProductDetailPageProps {
   product: Product;
   onSelectCategory: (categoryName: string, subcategoryName?: string) => void;
   onBuyNow: (product: Product, quantity: number) => void;
+  onRequestQuote?: (product: Product, quantity?: number) => void;
 }
 
 export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
   product,
   onSelectCategory,
-  onBuyNow
+  onBuyNow,
+  onRequestQuote
 }) => {
   const { formatPrice, currency, exchangeRate } = useCurrency();
   const { addToCart } = useCart();
@@ -33,13 +36,29 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
   const [quantity, setQuantity] = useState(1);
   const [addedToast, setAddedToast] = useState(false);
 
+  const hasPrice = !!(product.priceUSD && product.priceUSD > 0);
+
   const handleAddToCart = () => {
+    if (!hasPrice) {
+      if (onRequestQuote) {
+        onRequestQuote(product, quantity);
+      }
+      return;
+    }
     addToCart(product, quantity);
     setAddedToast(true);
     setTimeout(() => setAddedToast(false), 3000);
   };
 
   const handleBuyNow = () => {
+    if (!hasPrice) {
+      if (onRequestQuote) {
+        onRequestQuote(product, quantity);
+      } else {
+        onBuyNow(product, quantity);
+      }
+      return;
+    }
     addToCart(product, quantity);
     onBuyNow(product, quantity);
   };
@@ -139,20 +158,38 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
 
           {/* Price Block */}
           <div className="space-y-1 pb-4 border-b border-gray-200">
-            <div className="text-xs text-gray-500">List Price:</div>
-            <div className="text-3xl font-bold text-[#b12704] flex items-baseline gap-2">
-              <span>{formatPrice(product.priceUSD)}</span>
-              {currency === 'USD' && (
-                <span className="text-sm font-normal text-gray-600">
-                  (Equivalent in NGN: <strong className="text-gray-900">₦{(product.priceUSD * exchangeRate).toLocaleString()}</strong>)
-                </span>
-              )}
-            </div>
+            {hasPrice ? (
+              <>
+                <div className="text-xs text-gray-500">List Price:</div>
+                <div className="text-3xl font-bold text-[#b12704] flex items-baseline gap-2">
+                  <span>{formatPrice(product.priceUSD)}</span>
+                  {currency === 'USD' && (
+                    <span className="text-sm font-normal text-gray-600">
+                      (Equivalent in NGN: <strong className="text-gray-900">₦{(product.priceUSD * exchangeRate).toLocaleString()}</strong>)
+                    </span>
+                  )}
+                </div>
 
-            {product.isPrime && (
-              <div className="flex items-center gap-1.5 text-xs text-gray-700 pt-1">
-                <span className="text-[#007185] font-black text-sm italic">✓prime</span>
-                <span>FREE Returns &amp; International Delivery</span>
+                {product.isPrime && (
+                  <div className="flex items-center gap-1.5 text-xs text-gray-700 pt-1">
+                    <span className="text-[#007185] font-black text-sm italic">✓prime</span>
+                    <span>FREE Returns &amp; International Delivery</span>
+                  </div>
+                )}
+              </>
+            ) : (
+              <div className="space-y-1.5">
+                <div className="flex items-center gap-2">
+                  <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2 py-0.5 rounded border border-amber-300">
+                    Enterprise Hardware • RFQ Required
+                  </span>
+                </div>
+                <div className="text-2xl sm:text-3xl font-bold text-gray-900">
+                  Price on Request
+                </div>
+                <p className="text-xs text-gray-600">
+                  Direct project pricing, government &amp; tender quotes, and volume contractor rates available on demand.
+                </p>
               </div>
             )}
           </div>
@@ -199,20 +236,31 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
             
             {/* Price in Buy Box */}
             <div className="text-2xl font-bold text-[#b12704]">
-              {formatPrice(product.priceUSD)}
+              {hasPrice ? (
+                formatPrice(product.priceUSD)
+              ) : (
+                <span className="text-xl text-gray-900">Price on Request</span>
+              )}
             </div>
 
             {/* Delivery Info */}
             <div className="text-xs text-gray-700 space-y-1">
               <div>
                 <span className="text-[#007185] font-bold italic">✓prime</span>{' '}
-                <span className="font-bold">FREE Delivery</span> Tomorrow
+                <span className="font-bold">FREE Delivery</span> by Spinel
               </div>
               <div className="flex items-center gap-1 text-gray-600 text-[11px]">
                 <ShieldCheck size={12} className="text-emerald-600" />
                 <span>Enterprise Direct Dispatch</span>
               </div>
             </div>
+
+            {/* Quotation Notice if unpriced */}
+            {!hasPrice && (
+              <div className="bg-amber-50 border border-amber-200 rounded p-2 text-xs text-amber-900">
+                <span className="font-semibold">Quotation Required:</span> This item does not have an online checkout price. Submit an official RFQ for project pricing.
+              </div>
+            )}
 
             {/* Stock Availability */}
             <div>
@@ -244,23 +292,37 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
               </select>
             </div>
 
-            {/* Add to Cart Yellow Amazon Button */}
-            <button
-              type="button"
-              onClick={handleAddToCart}
-              className="w-full bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-bold py-2.5 px-4 rounded-full border border-[#fcd200] shadow-sm cursor-pointer transition-colors text-xs"
-            >
-              Add to Cart
-            </button>
+            {/* Action Buttons */}
+            {hasPrice ? (
+              <>
+                {/* Add to Cart Yellow Amazon Button */}
+                <button
+                  type="button"
+                  onClick={handleAddToCart}
+                  className="w-full bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-bold py-2.5 px-4 rounded-full border border-[#fcd200] shadow-sm cursor-pointer transition-colors text-xs"
+                >
+                  Add to Cart
+                </button>
 
-            {/* Buy Now Orange Amazon Button */}
-            <button
-              type="button"
-              onClick={handleBuyNow}
-              className="w-full bg-[#ffa41c] hover:bg-[#fa8900] active:bg-[#ee7600] text-gray-900 font-bold py-2.5 px-4 rounded-full border border-[#ff8f00] shadow-sm cursor-pointer transition-colors text-xs"
-            >
-              Buy Now
-            </button>
+                {/* Buy Now Orange Amazon Button */}
+                <button
+                  type="button"
+                  onClick={handleBuyNow}
+                  className="w-full bg-[#ffa41c] hover:bg-[#fa8900] active:bg-[#ee7600] text-gray-900 font-bold py-2.5 px-4 rounded-full border border-[#ff8f00] shadow-sm cursor-pointer transition-colors text-xs"
+                >
+                  Buy Now
+                </button>
+              </>
+            ) : (
+              <button
+                type="button"
+                onClick={handleAddToCart}
+                className="w-full bg-[#f0c14b] hover:bg-[#e2b33c] active:bg-[#d8a32a] text-gray-950 font-bold py-2.5 px-4 rounded-full border border-[#a88734] shadow-md hover:shadow cursor-pointer transition-all text-xs flex items-center justify-center gap-1.5"
+              >
+                <FileText size={15} />
+                <span>Request Quote</span>
+              </button>
+            )}
 
             {/* Added Toast Notification */}
             {addedToast && (

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { 
   Search, 
   ShoppingCart, 
@@ -39,11 +39,20 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
   const [accountMenuOpen, setAccountMenuOpen] = useState(false);
   const [currencyMenuOpen, setCurrencyMenuOpen] = useState(false);
 
-  const handleSearchSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    const searchFn = onSearch || onSearchSubmit;
+  // Sync category state with prop changes
+  useEffect(() => {
+    if (currentCategory) {
+      setSelectedCategory(currentCategory);
+    } else {
+      setSelectedCategory('All');
+    }
+  }, [currentCategory]);
+
+  const handleSearchSubmit = (e?: React.FormEvent) => {
+    if (e) e.preventDefault();
+    const searchFn = onSearchSubmit || onSearch;
     if (typeof searchFn === 'function') {
-      searchFn(searchQuery, selectedCategory === 'All' ? undefined : selectedCategory);
+      searchFn(searchQuery.trim(), selectedCategory === 'All' ? undefined : selectedCategory);
     }
   };
 
@@ -52,18 +61,21 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
       {/* Top Primary Amazon Navbar */}
       <div className="bg-[#131921] text-white px-3 py-1.5 flex items-center justify-between gap-3 text-sm">
         
-        {/* Brand Logo - Official Spinel Distribution Logo */}
+        {/* Brand Logo - Official SPINEL DISTRIBUITION */}
         <div 
           onClick={() => onNavigate('home')}
-          className="flex items-center gap-1.5 p-1 hover:outline hover:outline-1 hover:outline-white rounded cursor-pointer shrink-0 transition-opacity"
-          title="Spinel Distribution - Homepage"
+          className="flex items-center gap-2.5 p-1 hover:outline hover:outline-1 hover:outline-white rounded cursor-pointer shrink-0 transition-opacity"
+          title="SPINEL DISTRIBUITION - Homepage"
         >
           <img 
             src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788619290/Spinel_Distribution.jpg"
-            alt="Spinel Distribution"
+            alt="SPINEL DISTRIBUITION"
             className="h-9 sm:h-10 w-auto object-contain rounded bg-white p-0.5 shadow-sm"
             referrerPolicy="no-referrer"
           />
+          <span className="font-extrabold tracking-tight text-white text-sm sm:text-base md:text-lg leading-tight uppercase font-sans whitespace-nowrap">
+            SPINEL DISTRIBUITION
+          </span>
         </div>
 
         {/* Amazon Global Search Bar */}
@@ -71,21 +83,21 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
           onSubmit={handleSearchSubmit} 
           className="flex-1 max-w-3xl flex items-center h-10 rounded-md overflow-hidden focus-within:ring-2 focus-within:ring-[#f3a847] bg-white text-black"
         >
-          {/* Category Dropdown inside Search */}
-          <div className="relative bg-gray-100 hover:bg-gray-200 border-r border-gray-300 h-full flex items-center px-2 cursor-pointer shrink-0">
+          {/* Category Dropdown inside Search - Styled cleanly with 'All' */}
+          <div className="relative bg-gray-100 hover:bg-gray-200/90 border-r border-gray-300 h-full flex items-center px-2.5 cursor-pointer shrink-0 transition-colors">
             <select
               value={selectedCategory}
               onChange={(e) => setSelectedCategory(e.target.value)}
-              className="bg-transparent text-xs text-gray-700 font-medium pr-3 outline-none cursor-pointer appearance-none max-w-[120px] truncate"
+              className="bg-transparent text-xs text-gray-800 font-semibold pr-3 outline-none cursor-pointer appearance-none max-w-[130px] truncate py-1"
             >
-              <option value="All">All Categories</option>
+              <option value="All">All</option>
               {CATEGORIES.map(cat => (
                 <option key={cat.id} value={cat.name}>
                   {cat.name}
                 </option>
               ))}
             </select>
-            <ChevronDown size={12} className="text-gray-600 pointer-events-none -ml-2" />
+            <ChevronDown size={13} className="text-gray-600 pointer-events-none -ml-2 shrink-0" />
           </div>
 
           {/* Search Input */}
@@ -94,13 +106,14 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder="Search cameras, NVRs, solar inverters, access control, PoE switches..."
-            className="flex-1 h-full px-3 text-sm text-gray-900 outline-none bg-white placeholder-gray-500"
+            className="flex-1 h-full px-3 text-sm text-gray-900 outline-none bg-white placeholder-gray-500 min-w-[100px]"
           />
 
           {/* Submit Yellow Button */}
           <button
             type="submit"
             aria-label="Search"
+            onClick={handleSearchSubmit}
             className="bg-[#febd69] hover:bg-[#f3a847] h-full px-4.5 flex items-center justify-center transition-colors cursor-pointer text-[#131921]"
           >
             <Search size={20} className="stroke-[2.5]" />
@@ -108,14 +121,14 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
         </form>
 
         {/* Right Action Items */}
-        <div className="flex items-center gap-2 shrink-0">
+        <div className="flex items-center gap-2 sm:gap-2.5 shrink-0">
           
-          {/* 1-DROPDOWN FOR CURRENCY: DOLLAR & NAIRA WITH RESPECTIVE FLAG IMAGES (NO EXCHANGE RATE DISPLAYED) */}
+          {/* 1-DROPDOWN FOR CURRENCY: WITH SOFT BACKGROUND */}
           <div className="relative">
             <button
               type="button"
               onClick={() => setCurrencyMenuOpen(!currencyMenuOpen)}
-              className="flex items-center gap-1.5 p-1.5 hover:outline hover:outline-1 hover:outline-white rounded cursor-pointer"
+              className="flex items-center gap-1.5 px-2.5 py-1.5 bg-white/10 hover:bg-white/20 border border-white/15 rounded-md cursor-pointer transition-colors shadow-xs"
               title="Select Currency"
             >
               <img
@@ -129,7 +142,7 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
               <span className="text-xs font-bold text-white uppercase tracking-wider">
                 {currency}
               </span>
-              <ChevronDown size={12} className="text-gray-400" />
+              <ChevronDown size={12} className="text-gray-300" />
             </button>
 
             {currencyMenuOpen && (
@@ -176,7 +189,18 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
             )}
           </div>
 
-          {/* Account & Lists */}
+          {/* 2-REQUEST QUOTE NAV BUTTON BESIDE CURRENCY */}
+          <button
+            type="button"
+            onClick={() => onNavigate('quote')}
+            className="flex items-center gap-1.5 px-3 py-1.5 bg-[#f0c14b] hover:bg-[#e2b33c] active:bg-[#d8a32a] text-[#111] font-bold text-xs rounded border border-[#a88734] shadow-sm hover:shadow transition-all cursor-pointer whitespace-nowrap"
+            title="Request Enterprise Quotation (RFQ)"
+          >
+            <FileText size={14} className="stroke-[2.5]" />
+            <span className="hidden xs:inline sm:inline">Request Quote</span>
+          </button>
+
+          {/* Accounts (previously Account & Lists) */}
           <div className="relative">
             <div
               onClick={() => setAccountMenuOpen(!accountMenuOpen)}
@@ -186,7 +210,7 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
                 {user ? `Hello, ${user.fullName.split(' ')[0]}` : 'Hello, sign in'}
               </div>
               <div className="text-xs font-bold text-white flex items-center gap-0.5">
-                <span>Account &amp; Lists</span>
+                <span>Accounts</span>
                 <ChevronDown size={12} className="text-gray-400" />
               </div>
             </div>
@@ -234,6 +258,14 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
                     <FileText size={14} className="text-gray-500" />
                     Your Orders &amp; Invoices
                   </button>
+                  <button
+                    type="button"
+                    onClick={() => { setAccountMenuOpen(false); onNavigate('quote'); }}
+                    className="w-full text-left px-2 py-1.5 hover:bg-gray-100 rounded text-gray-700 flex items-center gap-2"
+                  >
+                    <FileText size={14} className="text-gray-500" />
+                    Request Quote / RFQ
+                  </button>
 
                   {user && (
                     <button
@@ -275,14 +307,14 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
       {/* Sub Navbar (Amazon Dark Slate #232f3e) */}
       <div className="bg-[#232f3e] text-white px-3 py-1 flex items-center gap-4 text-xs font-medium overflow-x-auto whitespace-nowrap scrollbar-none shadow-sm">
         
-        {/* All Drawer Toggle */}
+        {/* All Products Drawer Toggle */}
         <button
           type="button"
           onClick={onOpenDrawer}
           className="flex items-center gap-1.5 py-1 px-2 hover:outline hover:outline-1 hover:outline-white rounded cursor-pointer font-bold text-sm text-white shrink-0"
         >
           <Menu size={18} />
-          <span>All</span>
+          <span>All Products</span>
         </button>
 
         {/* Direct category shortcuts */}
@@ -338,3 +370,4 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
     </header>
   );
 };
+

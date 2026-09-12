@@ -115,8 +115,15 @@ export const AmazonDrawer: React.FC<AmazonDrawerProps> = ({
 
               <div className="border-t border-gray-200 mt-3 pt-3">
                 <div className="px-6 py-2 font-bold text-gray-900 text-base uppercase tracking-wider text-xs">
-                  Help &amp; Settings
+                  Enterprise Services &amp; Settings
                 </div>
+                <button
+                  onClick={() => { onNavigate('quote'); onClose(); }}
+                  className="w-full text-left px-6 py-2.5 text-gray-800 font-medium hover:bg-gray-100 flex items-center justify-between"
+                >
+                  <span className="text-[#b12704] font-semibold">Request Enterprise Quote (RFQ)</span>
+                  <ChevronRight size={14} className="text-gray-400" />
+                </button>
                 <button
                   onClick={() => { onNavigate('orders'); onClose(); }}
                   className="w-full text-left px-6 py-2.5 text-gray-700 hover:bg-gray-100"
@@ -127,7 +134,7 @@ export const AmazonDrawer: React.FC<AmazonDrawerProps> = ({
                   onClick={() => { onNavigate('auth'); onClose(); }}
                   className="w-full text-left px-6 py-2.5 text-gray-700 hover:bg-gray-100"
                 >
-                  Your Account
+                  Accounts
                 </button>
               </div>
             </div>

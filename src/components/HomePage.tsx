@@ -20,7 +20,8 @@ interface HomePageProps {
   products: Product[];
   onSelectProduct: (product: Product) => void;
   onSelectCategory: (categoryName: string, subcategoryName?: string) => void;
-  onNavigate: (view: string) => void;
+  onNavigate: (view: string, param?: string) => void;
+  onRequestQuote?: (product: Product) => void;
 }
 
 const HERO_SLIDES = [
@@ -57,7 +58,8 @@ export const HomePage: React.FC<HomePageProps> = ({
   products,
   onSelectProduct,
   onSelectCategory,
-  onNavigate
+  onNavigate,
+  onRequestQuote
 }) => {
   const safeProducts = Array.isArray(products) ? products : [];
   const { formatPrice, currency, exchangeRate } = useCurrency();
@@ -497,31 +499,58 @@ export const HomePage: React.FC<HomePageProps> = ({
 
                     {/* Price */}
                     <div className="mb-2">
-                      <div className="text-lg font-bold text-gray-900 flex items-baseline gap-1">
-                        <span>{formatPrice(prod.priceUSD)}</span>
-                        {currency === 'USD' && (
-                          <span className="text-xs font-normal text-gray-500">
-                            (₦{(prod.priceUSD * exchangeRate).toLocaleString()})
+                      {prod.priceUSD && prod.priceUSD > 0 ? (
+                        <>
+                          <div className="text-lg font-bold text-gray-900 flex items-baseline gap-1">
+                            <span>{formatPrice(prod.priceUSD)}</span>
+                            {currency === 'USD' && (
+                              <span className="text-xs font-normal text-gray-500">
+                                (₦{(prod.priceUSD * exchangeRate).toLocaleString()})
+                              </span>
+                            )}
+                          </div>
+                          {prod.isPrime && (
+                            <div className="text-xs text-gray-600 flex items-center gap-1 mt-0.5">
+                              <span className="text-[#007185] font-extrabold text-xs italic">✓prime</span>
+                              <span>FREE Delivery by Spinel</span>
+                            </div>
+                          )}
+                        </>
+                      ) : (
+                        <div className="mt-1">
+                          <span className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2 py-0.5 rounded border border-amber-300">
+                            Price on Request
                           </span>
-                        )}
-                      </div>
-                      {prod.isPrime && (
-                        <div className="text-xs text-gray-600 flex items-center gap-1 mt-0.5">
-                          <span className="text-[#007185] font-extrabold text-xs italic">✓prime</span>
-                          <span>FREE Delivery by Spinel</span>
+                          <p className="text-[11px] text-gray-500 mt-0.5">Contact for RFQ / Project rates</p>
                         </div>
                       )}
                     </div>
                   </div>
 
-                  {/* Add to Cart Yellow Amazon Button */}
-                  <button
-                    type="button"
-                    onClick={() => addToCart(prod, 1)}
-                    className="w-full mt-2 bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-semibold text-xs py-2 px-3 rounded-full border border-[#fcd200] shadow-sm cursor-pointer transition-colors"
-                  >
-                    Add to Cart
-                  </button>
+                  {/* Add to Cart or Request Quote Button */}
+                  {prod.priceUSD && prod.priceUSD > 0 ? (
+                    <button
+                      type="button"
+                      onClick={() => addToCart(prod, 1)}
+                      className="w-full mt-2 bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-semibold text-xs py-2 px-3 rounded-full border border-[#fcd200] shadow-sm cursor-pointer transition-colors"
+                    >
+                      Add to Cart
+                    </button>
+                  ) : (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        if (onRequestQuote) {
+                          onRequestQuote(prod);
+                        } else {
+                          onNavigate('quote');
+                        }
+                      }}
+                      className="w-full mt-2 bg-[#f0c14b] hover:bg-[#e2b33c] active:bg-[#d8a32a] text-gray-950 font-bold text-xs py-2 px-3 rounded-full border border-[#a88734] shadow-sm cursor-pointer transition-colors"
+                    >
+                      Request Quote
+                    </button>
+                  )}
                 </div>
               ))}
             </div>
@@ -543,66 +572,6 @@ export const HomePage: React.FC<HomePageProps> = ({
             </button>
           </div>
         )}
-      </div>
-
-      {/* 4. INDUSTRIAL SOLUTIONS BANNER (Trust & Speed) */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 mt-8">
-        <div className="bg-[#131921] text-white rounded-lg p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 border-t-4 border-[#febd69]">
-          <div className="space-y-2 text-left">
-            <span className="text-[#febd69] font-bold text-xs uppercase tracking-wider">
-              International Procurement &amp; Distribution
-            </span>
-            <h3 className="text-2xl font-extrabold text-white">
-              Need Bulk Quantities or Project Bids?
-            </h3>
-            <p className="text-sm text-gray-300 max-w-2xl">
-              Spinel Distribution provides direct manufacturer supply chains with custom batch billing in both USD ($) and NGN (₦). Instant Paystack settlement, local warranty fulfillment, and express air freight.
-            </p>
-          </div>
-          <div className="flex flex-col sm:flex-row gap-3 shrink-0">
-            <button
-              onClick={() => onNavigate('catalog')}
-              className="bg-[#febd69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs py-2.5 px-6 rounded shadow cursor-pointer transition-colors"
-            >
-              Browse Full Catalog
-            </button>
-            <button
-              onClick={() => onNavigate('admin-login')}
-              className="bg-transparent hover:bg-white/10 text-white border border-gray-500 font-semibold text-xs py-2.5 px-6 rounded cursor-pointer transition-colors"
-            >
-              Admin Upload Portal (/admin)
-            </button>
-          </div>
-        </div>
-      </div>
-
-      {/* 5. ALL 16 CATEGORIES BROWSER STRIP */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 mt-8">
-        <div className="bg-white p-5 rounded shadow-sm border border-gray-200">
-          <h3 className="text-lg font-bold text-gray-900 mb-4">
-            Explore All 16 Distribution Categories
-          </h3>
-          <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-8 gap-3 text-center text-xs">
-            {CATEGORIES.map(cat => (
-              <div
-                key={cat.id}
-                onClick={() => onSelectCategory(cat.name)}
-                className="p-2.5 rounded border border-gray-100 hover:border-gray-300 hover:bg-gray-50 cursor-pointer flex flex-col items-center justify-between transition-colors group"
-              >
-                <div className="w-12 h-12 rounded-full bg-gray-100 flex items-center justify-center mb-2 group-hover:bg-[#febd69]/20 transition-colors">
-                  <img 
-                    src={cat.image} 
-                    alt={cat.name} 
-                    className="w-10 h-10 object-cover rounded-full" 
-                  />
-                </div>
-                <span className="font-medium text-gray-800 group-hover:text-[#c45500] line-clamp-2 leading-snug">
-                  {cat.name}
-                </span>
-              </div>
-            ))}
-          </div>
-        </div>
       </div>
 
     </div>

@@ -19,6 +19,7 @@ interface CatalogPageProps {
   searchQuery?: string;
   onSelectProduct: (product: Product) => void;
   onSelectCategory: (categoryName?: string, subcategoryName?: string) => void;
+  onRequestQuote?: (product: Product) => void;
 }
 
 export const CatalogPage: React.FC<CatalogPageProps> = ({
@@ -27,7 +28,8 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
   selectedSubcategory,
   searchQuery,
   onSelectProduct,
-  onSelectCategory
+  onSelectCategory,
+  onRequestQuote
 }) => {
   const { formatPrice, currency, exchangeRate } = useCurrency();
   const { addToCart } = useCart();
@@ -60,24 +62,29 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
   // Filtered & Sorted Products
   const filteredProducts = useMemo(() => {
     return safeProducts.filter(p => {
-      // Category
-      if (selectedCategory && p.category.toLowerCase() !== selectedCategory.toLowerCase()) {
-        return false;
+      // Category Matching (Support partial & accessory synonyms)
+      if (selectedCategory && selectedCategory !== 'All') {
+        const selLower = selectedCategory.toLowerCase().trim();
+        const pCatLower = p.category.toLowerCase().trim();
+        const pSubLower = (p.subcategory || '').toLowerCase().trim();
+        const isCatMatch = 
+          pCatLower === selLower ||
+          pCatLower.includes(selLower) ||
+          selLower.includes(pCatLower) ||
+          (selLower.includes('accessories') && pCatLower.includes('accessories')) ||
+          (selLower.includes('surveillance') && pCatLower.includes('surveillance'));
+        if (!isCatMatch) return false;
       }
       // Subcategory
       if (selectedSubcategory && p.subcategory.toLowerCase() !== selectedSubcategory.toLowerCase()) {
         return false;
       }
-      // Search
-      if (searchQuery) {
-        const q = searchQuery.toLowerCase();
-        const matches = 
-          p.name.toLowerCase().includes(q) ||
-          p.description.toLowerCase().includes(q) ||
-          p.sku.toLowerCase().includes(q) ||
-          p.brand.toLowerCase().includes(q) ||
-          p.category.toLowerCase().includes(q) ||
-          p.subcategory.toLowerCase().includes(q);
+      // Search (Tokenized multi-term search across title, SKU, brand, category, subcategory, specs)
+      if (searchQuery && searchQuery.trim()) {
+        const q = searchQuery.toLowerCase().trim();
+        const words = q.split(/\s+/).filter(Boolean);
+        const searchableText = `${p.name} ${p.sku} ${p.brand} ${p.category} ${p.subcategory || ''} ${p.description || ''} ${Object.values(p.specs || {}).join(' ')}`.toLowerCase();
+        const matches = searchableText.includes(q) || words.every(w => searchableText.includes(w));
         if (!matches) return false;
       }
       // Brand
@@ -444,42 +451,69 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
 
                     {/* Pricing */}
                     <div className="mb-2">
-                      <div className="text-xl font-bold text-gray-900 flex items-baseline gap-1.5">
-                        <span>{formatPrice(prod.priceUSD)}</span>
-                        {currency === 'USD' && (
-                          <span className="text-xs font-normal text-gray-500">
-                            (₦{(prod.priceUSD * exchangeRate).toLocaleString()})
-                          </span>
-                        )}
-                      </div>
+                      {prod.priceUSD && prod.priceUSD > 0 ? (
+                        <>
+                          <div className="text-xl font-bold text-gray-900 flex items-baseline gap-1.5">
+                            <span>{formatPrice(prod.priceUSD)}</span>
+                            {currency === 'USD' && (
+                              <span className="text-xs font-normal text-gray-500">
+                                (₦{(prod.priceUSD * exchangeRate).toLocaleString()})
+                              </span>
+                            )}
+                          </div>
 
-                      {prod.isPrime && (
-                        <div className="text-xs text-gray-600 flex items-center gap-1 mt-0.5">
-                          <span className="text-[#007185] font-extrabold text-xs italic">✓prime</span>
-                          <span>FREE delivery Tomorrow</span>
+                          {prod.isPrime && (
+                            <div className="text-xs text-gray-600 flex items-center gap-1 mt-0.5">
+                              <span className="text-[#007185] font-extrabold text-xs italic">✓prime</span>
+                              <span>FREE delivery Tomorrow</span>
+                            </div>
+                          )}
+
+                          <div className="text-[11px] text-gray-500 mt-0.5">
+                            {prod.stock > 10 ? (
+                              <span className="text-green-700 font-medium">In Stock</span>
+                            ) : prod.stock > 0 ? (
+                              <span className="text-amber-700 font-medium">Only {prod.stock} left in stock - order soon.</span>
+                            ) : (
+                              <span className="text-red-700 font-medium">Temporarily out of stock.</span>
+                            )}
+                          </div>
+                        </>
+                      ) : (
+                        <div className="py-0.5">
+                          <span className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2 py-0.5 rounded border border-amber-300">
+                            Price on Request
+                          </span>
+                          <div className="text-[11px] text-gray-500 mt-0.5">
+                            Enterprise RFQ Quotation Required
+                          </div>
                         </div>
                       )}
-
-                      <div className="text-[11px] text-gray-500 mt-0.5">
-                        {prod.stock > 10 ? (
-                          <span className="text-green-700 font-medium">In Stock</span>
-                        ) : prod.stock > 0 ? (
-                          <span className="text-amber-700 font-medium">Only {prod.stock} left in stock - order soon.</span>
-                        ) : (
-                          <span className="text-red-700 font-medium">Temporarily out of stock.</span>
-                        )}
-                      </div>
                     </div>
                   </div>
 
-                  {/* Add to Cart Button */}
-                  <button
-                    type="button"
-                    onClick={() => addToCart(prod, 1)}
-                    className="w-full mt-3 bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-semibold text-xs py-2 px-3 rounded-full border border-[#fcd200] shadow-sm cursor-pointer transition-colors"
-                  >
-                    Add to Cart
-                  </button>
+                  {/* Add to Cart or Request Quote Button */}
+                  {prod.priceUSD && prod.priceUSD > 0 ? (
+                    <button
+                      type="button"
+                      onClick={() => addToCart(prod, 1)}
+                      className="w-full mt-3 bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-semibold text-xs py-2 px-3 rounded-full border border-[#fcd200] shadow-sm cursor-pointer transition-colors"
+                    >
+                      Add to Cart
+                    </button>
+                  ) : (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        if (onRequestQuote) {
+                          onRequestQuote(prod);
+                        }
+                      }}
+                      className="w-full mt-3 bg-[#f0c14b] hover:bg-[#e2b33c] active:bg-[#d8a32a] text-gray-950 font-bold text-xs py-2 px-3 rounded-full border border-[#a88734] shadow-sm cursor-pointer transition-colors"
+                    >
+                      Request Quote
+                    </button>
+                  )}
                 </div>
               ))}
             </div>

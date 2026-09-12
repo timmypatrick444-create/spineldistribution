@@ -39200,5 +39200,20840 @@ export const SEED_PRODUCTS: Product[] = [
     "isBestSeller": true,
     "featured": true,
     "createdAt": "2026-09-11T21:27:12.280Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-wireless-repeater-bluenet-repeater03us",
+    "sku": "AC-SALTO-WIRELESS-REPEATER-BLUENET-REPEATER03US",
+    "name": "SALTO REPEATER03US",
+    "description": "Wireless Repeater|BLUEnet|white; Wired|requires GATEWAYx3 or RFNODE3 for operation (Available only in the USA and Canada)",
+    "priceUSD": 195.2,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 208,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "Wireless Repeater|BLUEnet|white",
+      "Feature_2": "Wired|requires GATEWAYx3 or RFNODE3 for operation (Available only in the USA and Canada)",
+      "Feature_3": "SALTO REPEATER03US"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.626Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-wrdm0a4b",
+    "sku": "AC-SALTO-WRDM0A4B",
+    "name": "Salto Wall Reader Mifare BLE HSE ANSI (standard) Black",
+    "description": "Salto Wall Reader Mifare BLE HSE ANSI (standard) Black",
+    "priceUSD": 740.51,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 187,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "Salto Wall Reader Mifare BLE HSE ANSI (standard) Black"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-wrdm0a4w",
+    "sku": "AC-SALTO-WRDM0A4W",
+    "name": "Salto Wall Reader Mifare BLE HSE ANSI (standard) White",
+    "description": "Salto Wall Reader Mifare BLE HSE ANSI (standard) White",
+    "priceUSD": 740.51,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 171,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "Salto Wall Reader Mifare BLE HSE ANSI (standard) White"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-wrdm0m4b",
+    "sku": "AC-SALTO-WRDM0M4B",
+    "name": "Salto Wall Reader Mifare BLE HSE Mullion Black",
+    "description": "Salto Wall Reader Mifare BLE HSE Mullion Black",
+    "priceUSD": 740.51,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 139,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "Salto Wall Reader Mifare BLE HSE Mullion Black"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-op-panic-bar-kit-cr-kpp17im",
+    "sku": "AC-SALTO-XS4-OP-PANIC-BAR-KIT-CR-KPP17IM",
+    "name": "SALTO KPP17IM",
+    "description": "SALTO XS4 Original + PB Kit| Corbin Russwin ED2500 & Yale 7100 | SVN|satin stainless (Available only in the USA and Canada)",
+    "priceUSD": 456.19,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 155,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "SALTO XS4 Original + PB Kit| Corbin Russwin ED2500 & Yale 7100 | SVN|satin stainless (Available only in the USA and Canada)",
+      "Feature_2": "SALTO KPP17IM"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-op-panic-bar-kit-dk-kpp55im",
+    "sku": "AC-SALTO-XS4-OP-PANIC-BAR-KIT-DK-KPP55IM",
+    "name": "SALTO KPP55IM",
+    "description": "SALTO XS4 Original + PB Kit | Dorma Kabba | SVN|satin stainless (Available only in the USA and Canada)",
+    "priceUSD": 456.19,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 295,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "SALTO XS4 Original + PB Kit | Dorma Kabba | SVN|satin stainless (Available only in the USA and Canada)",
+      "Feature_2": "SALTO KPP55IM"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-op-panic-bar-kit-sar-kpp08im",
+    "sku": "AC-SALTO-XS4-OP-PANIC-BAR-KIT-SAR-KPP08IM",
+    "name": "SALTO KPP08IM",
+    "description": "SALTO XS4 Original + PB Kit| SARGENT 8888 | SVN|satin stainless (Available only in the USA and Canada)",
+    "priceUSD": 456.19,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 186,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "SALTO XS4 Original + PB Kit| SARGENT 8888 | SVN|satin stainless (Available only in the USA and Canada)",
+      "Feature_2": "SALTO KPP08IM"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-op-wb-escutcheon-ansi-am666g00imb38",
+    "sku": "AC-SALTO-XS4-OP-WB-ESCUTCHEON-ANSI-AM666G00IMB38",
+    "name": "SALTO AM666G00IMB38",
+    "description": "SALTO XS4 Electronic Escutcheon Ax666; For ANSI mortise locks; 2 handles; any type; electronic \"do not disturb\" system; built in mechanical cylinder with audit housing; (mechanical cylinder not included). Technology: Mifare + Bluetooth LE + HSE; finishes and handles.(Available only in the USA and Canada)",
+    "priceUSD": 1301.66,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 126,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-XS4-ESCUTION-ANSI-03242021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "SALTO XS4 Electronic Escutcheon Ax666",
+      "Feature_2": "For ANSI mortise locks",
+      "Feature_3": "2 handles",
+      "Feature_4": "any type",
+      "Feature_5": "electronic \"do not disturb\" system",
+      "Feature_6": "built in mechanical cylinder with audit housing",
+      "Feature_7": "(mechanical cylinder not included)",
+      "Feature_8": "Technology: Mifare + Bluetooth LE + HSE",
+      "Feature_9": "finishes and handles",
+      "Feature_10": "(Available only in the USA and Canada)",
+      "Feature_11": "SALTO AM666G00IMB38"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-pb-kit-cr-kpb17im",
+    "sku": "AC-SALTO-XS4-PB-KIT-CR-KPB17IM",
+    "name": "SALTO KPB17IM",
+    "description": "XS4 PB Kit|Corbin Russwin ED2500 & Yale 7100 - SVN|satin stainless (Available only in the USA and Canada)",
+    "priceUSD": 456.19,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 123,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "XS4 PB Kit|Corbin Russwin ED2500 & Yale 7100 - SVN|satin stainless (Available only in the USA and Canada)",
+      "Feature_2": "SALTO KPB17IM"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-pb-kit-sg-kpb08im",
+    "sku": "AC-SALTO-XS4-PB-KIT-SG-KPB08IM",
+    "name": "SALTO KPB08IM",
+    "description": "XS4 PB Kit| SARGENT 8888 - SVN|satin stainless (Available only in the USA and Canada)",
+    "priceUSD": 456.19,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 197,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "XS4 PB Kit| SARGENT 8888 - SVN|satin stainless (Available only in the USA and Canada)",
+      "Feature_2": "SALTO KPB08IM"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-pb-kit-vd-kpb03im",
+    "sku": "AC-SALTO-XS4-PB-KIT-VD-KPB03IM",
+    "name": "SALTO KPB03IM",
+    "description": "XS4 PB Kit|Salto PBF110|Von Duprin series 98 & 99 - SVN|satin stainless (Available only in the USA and Canada)",
+    "priceUSD": 456.19,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 124,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "XS4 PB Kit|Salto PBF110|Von Duprin series 98 & 99 - SVN|satin stainless (Available only in the USA and Canada)",
+      "Feature_2": "SALTO KPB03IM"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-salto-ac-salto-xs4-pb-kit-vd-kpb04im",
+    "sku": "AC-SALTO-XS4-PB-KIT-VD-KPB04IM",
+    "name": "SALTO KPB04IM",
+    "description": "XS4 PB Kit|Von Duprin series 98/9927 & 98/9957 - SVN|satin stainless (Available only in the USA and Canada)",
+    "priceUSD": 456.19,
+    "category": "Access Control & Door Security",
+    "subcategory": "Electronic Locks",
+    "brand": "Salto",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 191,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-WIRELESS-REPEATER-WHITE-03242021.png"
+    ],
+    "specs": {
+      "Feature_1": "XS4 PB Kit|Von Duprin series 98/9927 & 98/9957 - SVN|satin stainless (Available only in the USA and Canada)",
+      "Feature_2": "SALTO KPB04IM"
+    },
+    "features": [
+      "Official Salto High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-avigilon-ac-hid-el-dymo-30856",
+    "sku": "AC-HID-EL-DYMO-30856",
+    "name": "HID EL-DYMO-30856",
+    "description": "DYMO 30856 non-adhesive badges (250)(HID Part Number: EL-DYMO-30856)",
+    "priceUSD": 98.64,
+    "category": "Access Control & Door Security",
+    "subcategory": "Visitor Management",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 188,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/EL-DYMO-30856-Lbl_08212020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DYMO 30856 non-adhesive badges (250)(HID Part Number: EL-DYMO-30856)",
+      "Feature_2": "HID EL-DYMO-30856"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-avigilon-ac-hid-el-dymo-30911",
+    "sku": "AC-HID-EL-DYMO-30911",
+    "name": "HID EL-DYMO-30911",
+    "description": "DYMO 30911 adhesive self-expiring badges (250)(HID Part Number: EL-DYMO-30911)",
+    "priceUSD": 169.1,
+    "category": "Access Control & Door Security",
+    "subcategory": "Visitor Management",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 254,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/EL-DYMO-30911-Lbl_08212020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DYMO 30911 adhesive self-expiring badges (250)(HID Part Number: EL-DYMO-30911)",
+      "Feature_2": "HID EL-DYMO-30911"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-avigilon-ac-hid-el-k12-svm",
+    "sku": "AC-HID-EL-K12-SVM",
+    "name": "HID EL-K12-SVM",
+    "description": "1 copy of SVM software; includes Free Administrator™ software (admin/reporting) Special bundle package for K-12 schools only (HID # EL-K12-SVM)(HID Part Number: EL-K12-SVM)",
+    "priceUSD": 3228.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Visitor Management",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 167,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/easylobby-dvd-case-mockup_08212020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "1 copy of SVM software",
+      "Feature_2": "includes Free Administrator™ software (admin/reporting) Special bundle package for K-12 schools only (HID # EL-K12-SVM)(HID Part Number: EL-K12-SVM)",
+      "Feature_3": "HID EL-K12-SVM"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-avigilon-ac-safr-accs-sfr-scexwar-2yr",
+    "sku": "AC-SAFR-ACCS-SFR-SCEXWAR-2YR",
+    "name": "AC-SAFR-ACCS-SFR-SCEXWAR-2YR",
+    "description": "AC-SAFR-ACCS-SFR-SCEXWAR-2YR",
+    "priceUSD": 552.7,
+    "category": "Access Control & Door Security",
+    "subcategory": "Visitor Management",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 111,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-BLUENET-WHITE-GATEWAYW3CUS-03242021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "AC-SAFR-ACCS-SFR-SCEXWAR-2YR"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-avigilon-ac-safr-accs-sfr-scfma-100",
+    "sku": "AC-SAFR-ACCS-SFR-SCFMA-100",
+    "name": "AC-SAFR-ACCS-SFR-SCFMA-100",
+    "description": "AC-SAFR-ACCS-SFR-SCFMA-100",
+    "priceUSD": 236.08,
+    "category": "Access Control & Door Security",
+    "subcategory": "Visitor Management",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 286,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-BLUENET-WHITE-GATEWAYW3CUS-03242021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "AC-SAFR-ACCS-SFR-SCFMA-100"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-avigilon-ac-safr-accs-sfr-scwdg-20",
+    "sku": "AC-SAFR-ACCS-SFR-SCWDG-20",
+    "name": "AC-SAFR-ACCS-SFR-SCWDG-20",
+    "description": "AC-SAFR-ACCS-SFR-SCWDG-20",
+    "priceUSD": 127.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Visitor Management",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 217,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-BLUENET-WHITE-GATEWAYW3CUS-03242021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "AC-SAFR-ACCS-SFR-SCWDG-20"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-avigilon-ac-safr-rdr-sfr-sc100",
+    "sku": "AC-SAFR-RDR-SFR-SC100",
+    "name": "AC-SAFR-RDR-SFR-SC100",
+    "description": "AC-SAFR-RDR-SFR-SC100",
+    "priceUSD": 2785.73,
+    "category": "Access Control & Door Security",
+    "subcategory": "Visitor Management",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 237,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-BLUENET-WHITE-GATEWAYW3CUS-03242021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "AC-SAFR-RDR-SFR-SC100"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-a-res-1k32",
+    "sku": "AC-MER-A-RES-1K32",
+    "name": "AXIAL LEADED 1K1%1/4W RESISTORS; 32-pack (Mercury Part #: RES-1K32)",
+    "description": "AXIAL LEADED 1K1%1/4W RESISTORS; 32-pack(Mercury  Part Number: RES-1K32)",
+    "priceUSD": 13.45,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 131,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SALTO/AC-SALTO-BLUENET-WHITE-GATEWAYW3CUS-03242021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "AXIAL LEADED 1K1%1/4W RESISTORS",
+      "Feature_2": "32-pack(Mercury  Part Number: RES-1K32)",
+      "Feature_3": "AXIAL LEADED 1K1%1/4W RESISTORS",
+      "Feature_4": "32-pack (Mercury Part #: RES-1K32)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-a-tc-mr50",
+    "sku": "AC-MER-A-TC-MR50",
+    "name": "CABLE FOR MR-50 TAMPER (Mercury Part #: A-TC-MR50)",
+    "description": "CABLE FOR MR-50 TAMPER (Mercury  Part Number: A-TC-MR50)",
+    "priceUSD": 5.28,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 196,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "CABLE FOR MR-50 TAMPER (Mercury  Part Number: A-TC-MR50)",
+      "Feature_2": "CABLE FOR MR-50 TAMPER (Mercury Part #: A-TC-MR50)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-a-term5-3",
+    "sku": "AC-MER-A-TERM5-3",
+    "name": "Replace 3-Position Terminal Blocks; 10-pack(Mercury  Part Number: A-TERM5-3)",
+    "description": "Replace 3-Position Terminal Blocks; 10-pack(Mercury  Part Number: A-TERM5-3)",
+    "priceUSD": 39.52,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 120,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Replace 3-Position Terminal Blocks",
+      "Feature_2": "10-pack(Mercury  Part Number: A-TERM5-3)",
+      "Feature_3": "Replace 3-Position Terminal Blocks",
+      "Feature_4": "10-pack(Mercury  Part Number: A-TERM5-3)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-a-term5-4",
+    "sku": "AC-MER-A-TERM5-4",
+    "name": "Replace 4-Position Terminal Blocks; 10-pack (Mercury  Part #: A-TERM5-4)",
+    "description": "Replace 4-Position Terminal Blocks; 10-pack(Mercury  Part Number: A-TERM5-4)",
+    "priceUSD": 52.78,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 241,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Replace 4-Position Terminal Blocks",
+      "Feature_2": "10-pack(Mercury  Part Number: A-TERM5-4)",
+      "Feature_3": "Replace 4-Position Terminal Blocks",
+      "Feature_4": "10-pack (Mercury  Part #: A-TERM5-4)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-a-term5-5",
+    "sku": "AC-MER-A-TERM5-5",
+    "name": "Replace 5-Position Terminal Blocks; 10-pack (Mercury  Part #: A-TERM5-5)",
+    "description": "Replace 5-Position Terminal Blocks; 10-pack(Mercury  Part Number: A-TERM5-5)",
+    "priceUSD": 65.94,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 175,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Replace 5-Position Terminal Blocks",
+      "Feature_2": "10-pack(Mercury  Part Number: A-TERM5-5)",
+      "Feature_3": "Replace 5-Position Terminal Blocks",
+      "Feature_4": "10-pack (Mercury  Part #: A-TERM5-5)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-a-term5-6",
+    "sku": "AC-MER-A-TERM5-6",
+    "name": "Replace 6-Position Terminal Blocks; 10-pack(Mercury Part #: A-TERM5-6)",
+    "description": "Replace 6-Position Terminal Blocks; 10-pack(Mercury  Part Number: A-TERM5-6)",
+    "priceUSD": 79.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 260,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Replace 6-Position Terminal Blocks",
+      "Feature_2": "10-pack(Mercury  Part Number: A-TERM5-6)",
+      "Feature_3": "Replace 6-Position Terminal Blocks",
+      "Feature_4": "10-pack(Mercury Part #: A-TERM5-6)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-con-mr16in",
+    "sku": "AC-MER-CON-MR16IN",
+    "name": "16 Zone Input Monitor Module with 2 relays (Mercury Part #: MR16in-S3)",
+    "description": "16 Zone Input Monitor Module with 2 relays (Mercury Part Number: MR16in-S3)",
+    "priceUSD": 1704.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 258,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/MR16IN-S3-Angled-Landscape_070820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "16 Zone Input Monitor Module with 2 relays (Mercury Part Number: MR16in-S3)",
+      "Feature_2": "16 Zone Input Monitor Module with 2 relays (Mercury Part #: MR16in-S3)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-con-mr16out",
+    "sku": "AC-MER-CON-MR16OUT",
+    "name": "16 Relay Output Control Module (Mercury Part #: MR16out-S3)",
+    "description": "16 Relay Output Control Module (Mercury Part Number: MR16out-S3)",
+    "priceUSD": 1704.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 192,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/MR16OUT-S3-Landscape_070820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "16 Relay Output Control Module (Mercury Part Number: MR16out-S3)",
+      "Feature_2": "16 Relay Output Control Module (Mercury Part #: MR16out-S3)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-con-mr50",
+    "sku": "AC-MER-CON-MR50",
+    "name": "Series 3 Single Reader Interface Module (Mercury Part #: MR50-S3)",
+    "description": "Series 3 Single Reader Interface Module: mag or wiegand; 2 inputs; 2 relays (Mercury Part Number: MR50-S3)",
+    "priceUSD": 585.25,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 247,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/MR50-S3-Portrait-Orientation_070820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Series 3 Single Reader Interface Module: mag or wiegand",
+      "Feature_2": "2 inputs",
+      "Feature_3": "2 relays (Mercury Part Number: MR50-S3)",
+      "Feature_4": "Series 3 Single Reader Interface Module (Mercury Part #: MR50-S3)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-con-mr52-s3b",
+    "sku": "AC-MER-CON-MR52-S3B",
+    "name": "Series 3B Two-Reader Interface Module (Mercury Part #: MR52-S3B)",
+    "description": "HID® Mercury™ MR52-S3B Controller Serial I/O Dual Card Reader Interface; 2-Reader Interface Module - (2 reader: mag; wiegand; 4 reader OSDP; 8 inputs; 6 relays) (Mercury MR52-S3B)",
+    "priceUSD": 1065.98,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 149,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "HID® Mercury™ MR52-S3B Controller Serial I/O Dual Card Reader Interface",
+      "Feature_2": "2-Reader Interface Module - (2 reader: mag",
+      "Feature_3": "wiegand",
+      "Feature_4": "4 reader OSDP",
+      "Feature_5": "8 inputs",
+      "Feature_6": "6 relays) (Mercury MR52-S3B)",
+      "Feature_7": "Series 3B Two-Reader Interface Module (Mercury Part #: MR52-S3B)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-cont-mp1501",
+    "sku": "AC-MER-CONT-MP1501",
+    "name": "CONTROLLER MERCURY MP1501",
+    "description": "MERCURY MP1501 INTELLIGENT CONTROLLER WITH POE+ (1 DOOR; 2 READERS; 2 INPUTS; 2 OUTPUTS)",
+    "priceUSD": 1170.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 280,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MERCURY MP1501 INTELLIGENT CONTROLLER WITH POE+ (1 DOOR",
+      "Feature_2": "2 READERS",
+      "Feature_3": "2 INPUTS",
+      "Feature_4": "2 OUTPUTS)",
+      "Feature_5": "CONTROLLER MERCURY MP1501"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-cont-mp1502",
+    "sku": "AC-MER-CONT-MP1502",
+    "name": "CONTROLLER MERCURY MP1502",
+    "description": "MERCURY MP1502 INTELLIGENT CONTROLLER (2 DOORS; 4 READERS; 8 INPUTS; 4 OUTPUTS)",
+    "priceUSD": 2037.98,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 117,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MERCURY MP1502 INTELLIGENT CONTROLLER (2 DOORS",
+      "Feature_2": "4 READERS",
+      "Feature_3": "8 INPUTS",
+      "Feature_4": "4 OUTPUTS)",
+      "Feature_5": "CONTROLLER MERCURY MP1502"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-cont-mp2500",
+    "sku": "AC-MER-CONT-MP2500",
+    "name": "CONTROLLER MERCURY MP2500",
+    "description": "MERCURY MP2500 INTELLIGENT CONTROLLER (NO ON-BOARD IO)",
+    "priceUSD": 2988,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 111,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MERCURY MP2500 INTELLIGENT CONTROLLER (NO ON-BOARD IO)",
+      "Feature_2": "CONTROLLER MERCURY MP2500"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-cont-mp4502",
+    "sku": "AC-MER-CONT-MP4502",
+    "name": "CONTROLLER MERCURY MP4502",
+    "description": "MERCURY MP4502 INTELLIGENT CONTROLLER WITH EXTENDED APPLICATIONS (2 DOORS; 4 READERS; 8 INPUTS; 4 OUTPUTS)",
+    "priceUSD": 4100.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 269,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/CONTROLLER-MODULE-MR52-S3B-260422.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MERCURY MP4502 INTELLIGENT CONTROLLER WITH EXTENDED APPLICATIONS (2 DOORS",
+      "Feature_2": "4 READERS",
+      "Feature_3": "8 INPUTS",
+      "Feature_4": "4 OUTPUTS)",
+      "Feature_5": "CONTROLLER MERCURY MP4502"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-mercury-ac-mer-mux8",
+    "sku": "AC-MER-MUX8",
+    "name": "RS-232/485 to 8 RS-485 Channel Mux (Mercury  Part #: MUX8)",
+    "description": "RS-232/485 to 8 RS-485 Channel Mux (Mercury  Part Number: MUX8)",
+    "priceUSD": 1281.08,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "Mercury",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 158,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/mux8new_070820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "RS-232/485 to 8 RS-485 Channel Mux (Mercury  Part Number: MUX8)",
+      "Feature_2": "RS-232/485 to 8 RS-485 Channel Mux (Mercury  Part #: MUX8)"
+    },
+    "features": [
+      "Official Mercury High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-fob-9651",
+    "sku": "AC-ALL-SCH-FOB-9651",
+    "name": "Allegion 9651",
+    "description": "Schlage 13.56 MHz smart credential; keyfob; MIFARE Classic; 1K byte/8Kbit; minimum order quantity: 50 (Allegion Part Number: 9651)",
+    "priceUSD": 11.1,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 297,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage 13",
+      "Feature_2": "56 MHz smart credential",
+      "Feature_3": "keyfob",
+      "Feature_4": "MIFARE Classic",
+      "Feature_5": "1K byte/8Kbit",
+      "Feature_6": "minimum order quantity: 50 (Allegion Part Number: 9651)",
+      "Feature_7": "Allegion 9651"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-fob-9651t",
+    "sku": "AC-ALL-SCH-FOB-9651T",
+    "name": "Allegion 9651T",
+    "description": "Schlage 13.56 MHz smart credential; thin keyfob; MIFARE Classic; 1K byte/8Kbit; minimum order quantity: 50 (Allegion Part Number: 9651T)",
+    "priceUSD": 11.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 174,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage 13",
+      "Feature_2": "56 MHz smart credential",
+      "Feature_3": "thin keyfob",
+      "Feature_4": "MIFARE Classic",
+      "Feature_5": "1K byte/8Kbit",
+      "Feature_6": "minimum order quantity: 50 (Allegion Part Number: 9651T)",
+      "Feature_7": "Allegion 9651T"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.627Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-card-aptiq-xf7510",
+    "sku": "AC-ING-CARD-APTIQ-XF7510",
+    "name": "Assa Abloy HES K100 Aperio Cabinet Lock",
+    "description": "Proximity Card ISO Glossy White",
+    "priceUSD": 7.9,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 120,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Proximity Card ISO Glossy White",
+      "Feature_2": "Assa Abloy HES K100 Aperio Cabinet Lock"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.628Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-card-aptiq-xf8740",
+    "sku": "AC-ING-CARD-APTIQ-XF8740",
+    "name": "Allegion 8740",
+    "description": "Schlage (formerly Schlage (formerly aptiQ™)™) Smart Card 4K byte/32k bit PVC Patch  (Allegion Part Number: XF8740)",
+    "priceUSD": 10.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 159,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage (formerly Schlage (formerly aptiQ™)™) Smart Card 4K byte/32k bit PVC Patch  (Allegion Part Number: XF8740)",
+      "Feature_2": "Allegion 8740"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.628Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-card-aptiq-xf9520",
+    "sku": "AC-ING-CARD-APTIQ-XF9520",
+    "name": "Allegion 9520",
+    "description": "MIFARE Smart Card 2.5 k bit ISO Glossy White  (Allegion Part Number: XF9520)",
+    "priceUSD": 8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 125,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "MIFARE Smart Card 2",
+      "Feature_2": "5 k bit ISO Glossy White  (Allegion Part Number: XF9520)",
+      "Feature_3": "Allegion 9520"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Enterprise Access Control Systems and Infrastructure"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:34:10.628Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-card-aptiq-xf9551",
+    "sku": "AC-ING-CARD-APTIQ-XF9551",
+    "name": "Allegion 9551",
+    "description": "MIFARE Contactless Smart Card 1k byte/8k bit ISO Glossy White  (Allegion Part Number: XF9551)",
+    "priceUSD": 9.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 197,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "MIFARE Contactless Smart Card 1k byte/8k bit ISO Glossy White  (Allegion Part Number: XF9551)",
+      "Feature_2": "Allegion 9551"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.100Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-card-aptiq-xf9558",
+    "sku": "AC-ING-CARD-APTIQ-XF9558",
+    "name": "Allegion 9558",
+    "description": "MIFARE Contactless Smart Card 4k byte/32k bit ISO Glossy White (Allegion Part Number: XF9558)",
+    "priceUSD": 13.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 171,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "MIFARE Contactless Smart Card 4k byte/32k bit ISO Glossy White (Allegion Part Number: XF9558)",
+      "Feature_2": "Allegion 9558"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-fob-aptiq-xf7610",
+    "sku": "AC-ING-FOB-APTIQ-XF7610",
+    "name": "Allegion 7610",
+    "description": "Proximity Keyfob; minimum order quantity: 50 (Allegion Part Number: XF7610)",
+    "priceUSD": 8.2,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 216,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Proximity Keyfob",
+      "Feature_2": "minimum order quantity: 50 (Allegion Part Number: XF7610)",
+      "Feature_3": "Allegion 7610"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-card-8543",
+    "sku": "AC-SCH-CARD-8543",
+    "name": "Schlage 8543",
+    "description": "Schlage 13.56 MHz Smart credential ISO glossy white 4K byte/32k bit card (minimum order 100)",
+    "priceUSD": 11.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 262,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage 13",
+      "Feature_2": "56 MHz Smart credential ISO glossy white 4K byte/32k bit card (minimum order 100)",
+      "Feature_3": "Schlage 8543"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-card-8543m1",
+    "sku": "AC-SCH-CARD-8543M1",
+    "name": "Schlage 8543M1",
+    "description": "Schlage MIFARE DESFire EV3 4K byte/32K bit with Magnetic Stripe ISO Glossy White (minimum order 100)",
+    "priceUSD": 12.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 193,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage MIFARE DESFire EV3 4K byte/32K bit with Magnetic Stripe ISO Glossy White (minimum order 100)",
+      "Feature_2": "Schlage 8543M1"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-card-ce404033",
+    "sku": "AC-SCH-CARD-CE404033",
+    "name": "Allegion CE-404-033",
+    "description": "Enable CSN; Disable Secure MIFARE Classic; MIFARE DESFire EV1; EV3; and PIV - Manufacturer part number: CE-404-033",
+    "priceUSD": 38.33,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 141,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Enable CSN",
+      "Feature_2": "Disable Secure MIFARE Classic",
+      "Feature_3": "MIFARE DESFire EV1",
+      "Feature_4": "EV3",
+      "Feature_5": "and PIV - Manufacturer part number: CE-404-033",
+      "Feature_6": "Allegion CE-404-033"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-card-mt-8943",
+    "sku": "AC-SCH-CARD-MT-8943",
+    "name": "Schlage 8943",
+    "description": "Schlage Multi-technology credential; 125 kHz + 13.56 MHz; Proximity and Schlage MIFARE DESFire EV3 4K byte/32K bit ISO Glossy White Card; No Slot Punch (Minimum order 100)",
+    "priceUSD": 16.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 194,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage Multi-technology credential",
+      "Feature_2": "125 kHz + 13",
+      "Feature_3": "56 MHz",
+      "Feature_4": "Proximity and Schlage MIFARE DESFire EV3 4K byte/32K bit ISO Glossy White Card",
+      "Feature_5": "No Slot Punch (Minimum order 100)",
+      "Feature_6": "Schlage 8943"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-fob-8643t",
+    "sku": "AC-SCH-FOB-8643T",
+    "name": "Schlage 8643T",
+    "description": "Schlage 13.56 MHz Smart credential Thin keyfob 4K byte/32k bit card (minimum order 100)",
+    "priceUSD": 11.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 190,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage 13",
+      "Feature_2": "56 MHz Smart credential Thin keyfob 4K byte/32k bit card (minimum order 100)",
+      "Feature_3": "Schlage 8643T"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-fob-mt-8843t",
+    "sku": "AC-SCH-FOB-MT-8843T",
+    "name": "Schlage 8843T",
+    "description": "Schlage Multi-technology credential; 125 kHz + 13.56 MHz; Proximity and Schlage MIFARE DESFire EV3 4K byte/32K bit; Thin keyfob; keyring hole (Minimum order 100)",
+    "priceUSD": 17.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 153,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage Multi-technology credential",
+      "Feature_2": "125 kHz + 13",
+      "Feature_3": "56 MHz",
+      "Feature_4": "Proximity and Schlage MIFARE DESFire EV3 4K byte/32K bit",
+      "Feature_5": "Thin keyfob",
+      "Feature_6": "keyring hole (Minimum order 100)",
+      "Feature_7": "Schlage 8843T"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-conekt-csm-2p",
+    "sku": "AC-FP-CARD-CONEKT-CSM-2P",
+    "name": "Farpointe Data CSM-2P",
+    "description": "CONEKT™ High-security ISO-style composite card",
+    "priceUSD": 9.12,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 271,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csm2p_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "CONEKT™ High-security ISO-style composite card",
+      "Feature_2": "Farpointe Data CSM-2P"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-csc-2",
+    "sku": "AC-FP-CARD-CSC-2",
+    "name": "Farpointe Data CSC-2",
+    "description": "High-security clamshell-style card; MIFARE® DESFire® EV2",
+    "priceUSD": 8.98,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 168,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csc2_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "High-security clamshell-style card",
+      "Feature_2": "MIFARE® DESFire® EV2",
+      "Feature_3": "Farpointe Data CSC-2"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-csm-2s",
+    "sku": "AC-FP-CARD-CSM-2S",
+    "name": "Farpointe Data CSM-2S",
+    "description": "CONEKT™ Credential High-security ISO-style composite card with HiCo (2750Oe) magnetic stripe",
+    "priceUSD": 9.35,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 279,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csm2s_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "CONEKT™ Credential High-security ISO-style composite card with HiCo (2750Oe) magnetic stripe",
+      "Feature_2": "Farpointe Data CSM-2S"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-dc1-1",
+    "sku": "AC-FP-CARD-DC1-1",
+    "name": "Farpointe Data DC1-1",
+    "description": "DC1-1 Delta Clamshell Contactless Smartcard - ISO14443-compliant; clamshell-style contactless smartcard card with a 1K-byte memory. Constructed of durable ABS; it is backed by a lifetime warranty. Memory of the model number DC4-1 is 4K-bytes (Minimum order is 50) (Farpointe Data Part Number: DC1-1)",
+    "priceUSD": 5.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 274,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dc1_1200x1200_071820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DC1-1 Delta Clamshell Contactless Smartcard - ISO14443-compliant",
+      "Feature_2": "clamshell-style contactless smartcard card with a 1K-byte memory",
+      "Feature_3": "Constructed of durable ABS",
+      "Feature_4": "it is backed by a lifetime warranty",
+      "Feature_5": "Memory of the model number DC4-1 is 4K-bytes (Minimum order is 50) (Farpointe Data Part Number: DC1-1)",
+      "Feature_6": "Farpointe Data DC1-1"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-dc4-1",
+    "sku": "AC-FP-CARD-DC4-1",
+    "name": "Farpointe Data DC4-1",
+    "description": "DC4-1 Delta Clamshell Contactless Smartcard - ISO14443-compliant; clamshell-style contactless smartcard card with a 4K-byte memory. Constructed of durable ABS; it is backed by a lifetime warranty (Minimum order is 50) (Farpointe Data Part Number: DC4-1)",
+    "priceUSD": 7.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 265,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dc4_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DC4-1 Delta Clamshell Contactless Smartcard - ISO14443-compliant",
+      "Feature_2": "clamshell-style contactless smartcard card with a 4K-byte memory",
+      "Feature_3": "Constructed of durable ABS",
+      "Feature_4": "it is backed by a lifetime warranty (Minimum order is 50) (Farpointe Data Part Number: DC4-1)",
+      "Feature_5": "Farpointe Data DC4-1"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-de2",
+    "sku": "AC-FP-CARD-DE2",
+    "name": "Farpointe Data DE2",
+    "description": "DE2 MIFARE® DESFire® EV1 SMARTCARD; Frequency: 13.56 MHz; Read Range: Up to 2.5 inches (64 mm)  (Farpointe Data Part Number: DE2)",
+    "priceUSD": 11.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 118,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/de2_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DE2 MIFARE® DESFire® EV1 SMARTCARD",
+      "Feature_2": "Frequency: 13",
+      "Feature_3": "56 MHz",
+      "Feature_4": "Read Range: Up to 2",
+      "Feature_5": "5 inches (64 mm)  (Farpointe Data Part Number: DE2)",
+      "Feature_6": "Farpointe Data DE2"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-dm1-3",
+    "sku": "AC-FP-CARD-DM1-3",
+    "name": "Farpointe Data DM1-3",
+    "description": "DM1-3 Delta ISO Contactless Smartcard - ISO14443-compliant; contactless smartcard card with a 1K-byte memory. Manufactured from glossy PVC; it is appropriate for dye sublimation imaging (ISO style) (Minimum order is 50) (Farpointe Data Part Number: DM1-3)",
+    "priceUSD": 5.93,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 255,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dm1_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DM1-3 Delta ISO Contactless Smartcard - ISO14443-compliant",
+      "Feature_2": "contactless smartcard card with a 1K-byte memory",
+      "Feature_3": "Manufactured from glossy PVC",
+      "Feature_4": "it is appropriate for dye sublimation imaging (ISO style) (Minimum order is 50) (Farpointe Data Part Number: DM1-3)",
+      "Feature_5": "Farpointe Data DM1-3"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-dm1-3s",
+    "sku": "AC-FP-CARD-DM1-3S",
+    "name": "Farpointe Data DM1-3S",
+    "description": "DM1-3S Delta ISO Contactless Smartcard - ISO14443-compliant; contactless smartcard card with a 1K-byte memory. Manufactured from glossy PVC; it is appropriate for dye sublimation imaging (ISO style) - with a magnetic stripe (Minimum order is 50) (Farpointe Data Part Number: DM1-3S)",
+    "priceUSD": 6.53,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 262,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dm1s_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DM1-3S Delta ISO Contactless Smartcard - ISO14443-compliant",
+      "Feature_2": "contactless smartcard card with a 1K-byte memory",
+      "Feature_3": "Manufactured from glossy PVC",
+      "Feature_4": "it is appropriate for dye sublimation imaging (ISO style) - with a magnetic stripe (Minimum order is 50) (Farpointe Data Part Number: DM1-3S)",
+      "Feature_5": "Farpointe Data DM1-3S"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-dm4-3",
+    "sku": "AC-FP-CARD-DM4-3",
+    "name": "Farpointe Data DM4-3",
+    "description": "DM4-3 Delta ISO Contactless Smartcard - ISO14443-compliant; contactless smartcard card with a 4K-byte memory. Manufactured from glossy PVC; it is appropriate for dye sublimation imaging (ISO style) (Minimum order is 50) (Farpointe Data Part Number: DM4-3)",
+    "priceUSD": 7.99,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 143,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dm4_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DM4-3 Delta ISO Contactless Smartcard - ISO14443-compliant",
+      "Feature_2": "contactless smartcard card with a 4K-byte memory",
+      "Feature_3": "Manufactured from glossy PVC",
+      "Feature_4": "it is appropriate for dye sublimation imaging (ISO style) (Minimum order is 50) (Farpointe Data Part Number: DM4-3)",
+      "Feature_5": "Farpointe Data DM4-3"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-dm4-3s",
+    "sku": "AC-FP-CARD-DM4-3S",
+    "name": "Farpointe Data DM4-3S",
+    "description": "DM4-3S Delta ISO Contactless Smartcard - ISO14443-compliant; contactless smartcard card with a 4K-byte memory. Manufactured from glossy PVC; it is appropriate for dye sublimation imaging (ISO style) - with a magnetic stripe (Minimum order is 50) (Farpointe Data Part Number: DM4-3S)",
+    "priceUSD": 9.11,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 236,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dm4s_1200x1200_071820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DM4-3S Delta ISO Contactless Smartcard - ISO14443-compliant",
+      "Feature_2": "contactless smartcard card with a 4K-byte memory",
+      "Feature_3": "Manufactured from glossy PVC",
+      "Feature_4": "it is appropriate for dye sublimation imaging (ISO style) - with a magnetic stripe (Minimum order is 50) (Farpointe Data Part Number: DM4-3S)",
+      "Feature_5": "Farpointe Data DM4-3S"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-psc-1-h",
+    "sku": "AC-FP-CARD-PSC-1-H",
+    "name": "Farpointe Data PSC-1-H",
+    "description": "PSC-1 Standard Light Proximity Card - Clamshell style proximity card backed by a lifetime warranty (Minimum order is 50) (Farpointe Data Part Number: PSC-1-H)",
+    "priceUSD": 3.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 286,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/psc1_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "PSC-1 Standard Light Proximity Card - Clamshell style proximity card backed by a lifetime warranty (Minimum order is 50) (Farpointe Data Part Number: PSC-1-H)",
+      "Feature_2": "Farpointe Data PSC-1-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-psi-4-h",
+    "sku": "AC-FP-CARD-PSI-4-H",
+    "name": "Farpointe Data PSI-4-H",
+    "description": "PSI-4 Image Technology Proximity Card - Thicker-format (0.046 inches (1.17 mm)) proximity card appropriate for dye sublimation imaging (Minimum order is 50) (Farpointe Data Part Number: PSI-4-H)",
+    "priceUSD": 3.91,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 162,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/psi4_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "PSI-4 Image Technology Proximity Card - Thicker-format (0",
+      "Feature_2": "046 inches (1",
+      "Feature_3": "17 mm)) proximity card appropriate for dye sublimation imaging (Minimum order is 50) (Farpointe Data Part Number: PSI-4-H)",
+      "Feature_4": "Farpointe Data PSI-4-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-psm-2p-h",
+    "sku": "AC-FP-CARD-PSM-2P-H",
+    "name": "Farpointe Data PSM-2P-H",
+    "description": "PSM-2P Multi Technology Proximity Card - ISO-style multi technology proximity card appropriate for dye sublimation imaging (Minimum order is 50) (Farpointe Data Part Number: PSM-2P-H)",
+    "priceUSD": 6.58,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 141,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/psm2p_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "PSM-2P Multi Technology Proximity Card - ISO-style multi technology proximity card appropriate for dye sublimation imaging (Minimum order is 50) (Farpointe Data Part Number: PSM-2P-H)",
+      "Feature_2": "Farpointe Data PSM-2P-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-card-psm-2s-h",
+    "sku": "AC-FP-CARD-PSM-2S-H",
+    "name": "Farpointe Data PSM-2S-H",
+    "description": "PSM-2S Multi Technology Proximity Card - ISO-style multi technology style proximity card appropriate for dye sublimation imaging with a magnetic stripe (Minimum order is 50) (Farpointe Data Part Number: PSM-2S-H)",
+    "priceUSD": 7.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 218,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/psm2s_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "PSM-2S Multi Technology Proximity Card - ISO-style multi technology style proximity card appropriate for dye sublimation imaging with a magnetic stripe (Minimum order is 50) (Farpointe Data Part Number: PSM-2S-H)",
+      "Feature_2": "Farpointe Data PSM-2S-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-conekt-cmc-2-25",
+    "sku": "AC-FP-CONEKT-CMC-2-25",
+    "name": "Farpointe Data CMC-2-25",
+    "description": "CONEKT Credentials; 2.4-GHz Mobile supporting BLE-enabled smartphones; 25 Pack with QR Code",
+    "priceUSD": 216.65,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 197,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/cmc2_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "CONEKT Credentials",
+      "Feature_2": "2",
+      "Feature_3": "4-GHz Mobile supporting BLE-enabled smartphones",
+      "Feature_4": "25 Pack with QR Code",
+      "Feature_5": "Farpointe Data CMC-2-25"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-fob-csk-2",
+    "sku": "AC-FP-FOB-CSK-2",
+    "name": "Farpointe Data CSK-2",
+    "description": "High-security key fob-style tag; MIFARE® DESFire® EV2",
+    "priceUSD": 10.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 169,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csk2_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "High-security key fob-style tag",
+      "Feature_2": "MIFARE® DESFire® EV2",
+      "Feature_3": "Farpointe Data CSK-2"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-fob-dk1-3",
+    "sku": "AC-FP-FOB-DK1-3",
+    "name": "Farpointe Data DK1-3",
+    "description": "DK1-3 Delta Keyfob Contactless Smartcard Credential - ISO14443-compliant key tag-style contactless smartcard credential with a 1K-byte memory. It is designed to be carried on a key ring; and includes a brass reinforcing eyelet (Minimum Order 50) (Farpointe Data Part Number: DK1-3)",
+    "priceUSD": 9.62,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 263,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dk1_1200x1200-%281%29_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DK1-3 Delta Keyfob Contactless Smartcard Credential - ISO14443-compliant key tag-style contactless smartcard credential with a 1K-byte memory",
+      "Feature_2": "It is designed to be carried on a key ring",
+      "Feature_3": "and includes a brass reinforcing eyelet (Minimum Order 50) (Farpointe Data Part Number: DK1-3)",
+      "Feature_4": "Farpointe Data DK1-3"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-fob-dk4-3",
+    "sku": "AC-FP-FOB-DK4-3",
+    "name": "Farpointe Data DK4-3",
+    "description": "DK4-3 Delta Keyfob Contactless Smartcard Credential - ISO14443-compliant key tag-style contactless smartcard credential with a 4K-byte memory. It is designed to be carried on a key ring; and includes a brass reinforcing eyelet (Minimum Order 50) (Farpointe Data Part Number: DK4-3)",
+    "priceUSD": 13.7,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 276,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/dk4_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DK4-3 Delta Keyfob Contactless Smartcard Credential - ISO14443-compliant key tag-style contactless smartcard credential with a 4K-byte memory",
+      "Feature_2": "It is designed to be carried on a key ring",
+      "Feature_3": "and includes a brass reinforcing eyelet (Minimum Order 50) (Farpointe Data Part Number: DK4-3)",
+      "Feature_4": "Farpointe Data DK4-3"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-tag-pdt-1-h",
+    "sku": "AC-FP-TAG-PDT-1-H",
+    "name": "Farpointe Data PDT-1-H",
+    "description": "Model PDT-1 Proximity Disc Tag - Has an adhesive on one side that allows for the prox-enabling of a variety of non RFID devices; including ID credentials; cell phones and wallets.  The PDT-1 offers a read range up to 3.5 inches (88.9 mm) when used with a P-500.  Model P-PDT-1-H is 125 HID kHz compatible; while PDT-1-A is 125 kHz AWID compatible (Minimum order 50) (Farpointe Data Part Number: PDT-1-H)",
+    "priceUSD": 4.39,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 242,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/pdt1_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Model PDT-1 Proximity Disc Tag - Has an adhesive on one side that allows for the prox-enabling of a variety of non RFID devices",
+      "Feature_2": "including ID credentials",
+      "Feature_3": "cell phones and wallets",
+      "Feature_4": "The PDT-1 offers a read range up to 3",
+      "Feature_5": "5 inches (88",
+      "Feature_6": "9 mm) when used with a P-500",
+      "Feature_7": "Model P-PDT-1-H is 125 HID kHz compatible",
+      "Feature_8": "while PDT-1-A is 125 kHz AWID compatible (Minimum order 50) (Farpointe Data Part Number: PDT-1-H)",
+      "Feature_9": "Farpointe Data PDT-1-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-tag-psk-3-h",
+    "sku": "AC-FP-TAG-PSK-3-H",
+    "name": "Farpointe Data PSK-3-H",
+    "description": "PSK-3 Proximity Key Ring Tag - Small proximity tag designed to be carried on a key ring; includes a re-enforcing brass eyelet; and is backed by a lifetime warranty (Minimum order 50) (Farpointe Data Part Number: PSK-3-H)",
+    "priceUSD": 7.28,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 156,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/psk3_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "PSK-3 Proximity Key Ring Tag - Small proximity tag designed to be carried on a key ring",
+      "Feature_2": "includes a re-enforcing brass eyelet",
+      "Feature_3": "and is backed by a lifetime warranty (Minimum order 50) (Farpointe Data Part Number: PSK-3-H)",
+      "Feature_4": "Farpointe Data PSK-3-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-long-range-wrt-2-d2",
+    "sku": "AC-FP-TRANS-LONG-RANGE-WRT-2+D2",
+    "name": "Farpointe Data WRT-2+D2",
+    "description": "WRT-2+ Ranger Two Button Long Range Transmitter - 2-button clicker-type access credential; featuring both long range 433 MHz (upon button push) and MIFARE® DESFire® EV2 2K memory smartcard insert 13.56-MHz Smartcard protocols operation. (Farpointe Data Part Number: WRT-2+D2)",
+    "priceUSD": 52.62,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 275,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/wrt2_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "WRT-2+ Ranger Two Button Long Range Transmitter - 2-button clicker-type access credential",
+      "Feature_2": "featuring both long range 433 MHz (upon button push) and MIFARE® DESFire® EV2 2K memory smartcard insert 13",
+      "Feature_3": "56-MHz Smartcard protocols operation",
+      "Feature_4": "(Farpointe Data Part Number: WRT-2+D2)",
+      "Feature_5": "Farpointe Data WRT-2+D2"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-long-range-wrt-2-s1",
+    "sku": "AC-FP-TRANS-LONG-RANGE-WRT-2+S1",
+    "name": "Farpointe Data WRT-2+S1",
+    "description": "Ranger® 433-MHz Long-Range Transmitters; 2-button; with 1K insert. (Farpointe Data Part Number: WRT-2+S1)",
+    "priceUSD": 53.11,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 183,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p403_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Ranger® 433-MHz Long-Range Transmitters",
+      "Feature_2": "2-button",
+      "Feature_3": "with 1K insert",
+      "Feature_4": "(Farpointe Data Part Number: WRT-2+S1)",
+      "Feature_5": "Farpointe Data WRT-2+S1"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-long-range-wrt-2-s4",
+    "sku": "AC-FP-TRANS-LONG-RANGE-WRT-2+S4",
+    "name": "Farpointe Data WRT-2+S4",
+    "description": "Ranger® 433-MHz Long-Range Transmitters; 2-button; with 4K insert. (Farpointe Data Part Number: WRT-2+S4)",
+    "priceUSD": 56.88,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 296,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p403_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Ranger® 433-MHz Long-Range Transmitters",
+      "Feature_2": "2-button",
+      "Feature_3": "with 4K insert",
+      "Feature_4": "(Farpointe Data Part Number: WRT-2+S4)",
+      "Feature_5": "Farpointe Data WRT-2+S4"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-long-range-wrt-2m",
+    "sku": "AC-FP-TRANS-LONG-RANGE-WRT-2M",
+    "name": "Farpointe Data WRT-2M",
+    "description": "Ranger® 433-MHz Long-Range Transmitters; Mini 2-button; no proximity insert. (Farpointe Data Part Number: WRT-2M)",
+    "priceUSD": 32.33,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 298,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/wrt2m_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Ranger® 433-MHz Long-Range Transmitters",
+      "Feature_2": "Mini 2-button",
+      "Feature_3": "no proximity insert",
+      "Feature_4": "(Farpointe Data Part Number: WRT-2M)",
+      "Feature_5": "Farpointe Data WRT-2M"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-long-range-wrt-4-s4",
+    "sku": "AC-FP-TRANS-LONG-RANGE-WRT-4+S4",
+    "name": "Farpointe Data WRT-4+S4",
+    "description": "WRT-2+ Ranger Two Button Long Range Transmitter - 2-button clicker-type access credential; featuring both long range 433 MHz (upon button push) and w/ Farpointe 13.56-MHz 4K memory smartcard insert. (Farpointe Data Part Number: WRT-2+S4)",
+    "priceUSD": 59.27,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 114,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/wrt4_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "WRT-2+ Ranger Two Button Long Range Transmitter - 2-button clicker-type access credential",
+      "Feature_2": "featuring both long range 433 MHz (upon button push) and w/ Farpointe 13",
+      "Feature_3": "56-MHz 4K memory smartcard insert",
+      "Feature_4": "(Farpointe Data Part Number: WRT-2+S4)",
+      "Feature_5": "Farpointe Data WRT-4+S4"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-long-range-wrt-4-si",
+    "sku": "AC-FP-TRANS-LONG-RANGE-WRT-4+SI",
+    "name": "Farpointe Data WRT-4+SI",
+    "description": "Ranger® 433-MHz Long-Range Transmitters; 4-button; with 1K insert. (Farpointe Data Part Number: WRT-4+SI)",
+    "priceUSD": 55.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 158,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/wrt4_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Ranger® 433-MHz Long-Range Transmitters",
+      "Feature_2": "4-button",
+      "Feature_3": "with 1K insert",
+      "Feature_4": "(Farpointe Data Part Number: WRT-4+SI)",
+      "Feature_5": "Farpointe Data WRT-4+SI"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-wrt-2-h",
+    "sku": "AC-FP-TRANS-WRT-2+H",
+    "name": "Farpointe Data WRT-2+H",
+    "description": "WRT-2+ Ranger Two Button Long Range Transmitter - 2-button clicker-type access credential; featuring both long range 433 MHz (upon button push) and 125 kHz proximity operation. (Farpointe Data Part Number: WRT-2+H)",
+    "priceUSD": 44.59,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 108,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/wrt2_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "WRT-2+ Ranger Two Button Long Range Transmitter - 2-button clicker-type access credential",
+      "Feature_2": "featuring both long range 433 MHz (upon button push) and 125 kHz proximity operation",
+      "Feature_3": "(Farpointe Data Part Number: WRT-2+H)",
+      "Feature_4": "Farpointe Data WRT-2+H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-trans-wrt-4-h",
+    "sku": "AC-FP-TRANS-WRT-4+H",
+    "name": "Farpointe Data WRT-4+H",
+    "description": "WRT-4+ Ranger Four-Button Long Range Transmitter - 4-button clicker-type access credential; featuring both long range (upon button push) and proximity operation. (Farpointe Data Part Number: WRT-4+H)",
+    "priceUSD": 45.7,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 180,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/wrt4_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "WRT-4+ Ranger Four-Button Long Range Transmitter - 4-button clicker-type access credential",
+      "Feature_2": "featuring both long range (upon button push) and proximity operation",
+      "Feature_3": "(Farpointe Data Part Number: WRT-4+H)",
+      "Feature_4": "Farpointe Data WRT-4+H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-402221b",
+    "sku": "AC-HID-CARD-402221B",
+    "name": "HID Crescendo C2300",
+    "description": "HID Crescendo C2300; CL Only; ICLASS SR; Prox; Blank - Manufacturer PN: 402221B",
+    "priceUSD": 78.47,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 202,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "HID Crescendo C2300",
+      "Feature_2": "CL Only",
+      "Feature_3": "ICLASS SR",
+      "Feature_4": "Prox",
+      "Feature_5": "Blank - Manufacturer PN: 402221B"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-corp1k-mc-1000",
+    "sku": "AC-HID-CORP1K-MC-1000",
+    "name": "HID MC-1000",
+    "description": "Service fee per card for Corporate 1000 card format. (HID Part Number: MC-1000)",
+    "priceUSD": 0.55,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 168,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CORP1K-MC-1000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Service fee per card for Corporate 1000 card format",
+      "Feature_2": "(HID Part Number: MC-1000)",
+      "Feature_3": "HID MC-1000"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-mob-mid-sub-t103",
+    "sku": "AC-HID-MOB-MID-SUB-T103",
+    "name": "HID MID-SUB-T103",
+    "description": "HID Origo Mobile Identities - User licenses - initial and renewal. Number of user licenses (maximum number of concurrent users) valid for three years in an HID Origo account (linked to the Organization ID). Please provide the organization and credential access control data format information (Organization ID; Organization Name; MOB or ICE and format: facility/site code; card number range; etc.). Require automated onboarding form to be completed. (LINK to Automated Onboarding: https://managedservices.hidglobal.com/faces/maUserOnBoardingStart). Minimum Order Quantity: 20. (HID Part Number: MID-SUB-T103)",
+    "priceUSD": 18.05,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 116,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "HID Origo Mobile Identities - User licenses - initial and renewal",
+      "Feature_2": "Number of user licenses (maximum number of concurrent users) valid for three years in an HID Origo account (linked to the Organization ID)",
+      "Feature_3": "Please provide the organization and credential access control data format information (Organization ID",
+      "Feature_4": "Organization Name",
+      "Feature_5": "MOB or ICE and format: facility/site code",
+      "Feature_6": "card number range",
+      "Feature_7": "etc",
+      "Feature_8": ")",
+      "Feature_9": "Require automated onboarding form to be completed",
+      "Feature_10": "(LINK to Automated Onboarding: https://managedservices",
+      "Feature_11": "hidglobal",
+      "Feature_12": "com/faces/maUserOnBoardingStart)",
+      "Feature_13": "Minimum Order Quantity: 20",
+      "Feature_14": "(HID Part Number: MID-SUB-T103)",
+      "Feature_15": "HID MID-SUB-T103"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-duoproxii-cl",
+    "sku": "AC-HID-CARD-DUOPROXII-CL",
+    "name": "HID 1336LGGMN",
+    "description": "DuoProx II Graphics Quality PVC; Proximity Access Card; w/ Magnetic Stripe; Minimum Order 100 (HID Part Number: 1336LGGMN)",
+    "priceUSD": 10.82,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 154,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-DUOPROXII-CL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "DuoProx II Graphics Quality PVC",
+      "Feature_2": "Proximity Access Card",
+      "Feature_3": "w/ Magnetic Stripe",
+      "Feature_4": "Minimum Order 100 (HID Part Number: 1336LGGMN)",
+      "Feature_5": "HID 1336LGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-2000",
+    "sku": "AC-HID-CARD-ICLASS-2000",
+    "name": "HID 2000PGGMN",
+    "description": "iCLASS Contactless Smart Card; 2k bit with 2 application areas; Minimum Order 100 (HID Part Number: 2000PGGMN)",
+    "priceUSD": 8.45,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 245,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-2000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS Contactless Smart Card",
+      "Feature_2": "2k bit with 2 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 2000PGGMN)",
+      "Feature_4": "HID 2000PGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-2002",
+    "sku": "AC-HID-CARD-ICLASS-2002",
+    "name": "HID 2002PGGMN",
+    "description": "iCLASS Contactless Smart Card; 16k bit with 16 application areas; Minimum Order 100 (HID Part Number: 2002PGGMN)",
+    "priceUSD": 15.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 283,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-2002_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS Contactless Smart Card",
+      "Feature_2": "16k bit with 16 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 2002PGGMN)",
+      "Feature_4": "HID 2002PGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-2004",
+    "sku": "AC-HID-CARD-ICLASS-2004",
+    "name": "HID 2004PGGMN",
+    "description": "iCLASS Contactless Smart Card; 32k bit with16k/16 + 16k/1 application areas; Minimum Order 100 (HID Part Number: 2004PGGMN)",
+    "priceUSD": 15.91,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 180,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-2004_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS Contactless Smart Card",
+      "Feature_2": "32k bit with16k/16 + 16k/1 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 2004PGGMN)",
+      "Feature_4": "HID 2004PGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-2050",
+    "sku": "AC-HID-CARD-ICLASS-2050",
+    "name": "HID 2050PNNMN",
+    "description": "iCLASS Key II Contactless Smart Key Fob 2k bit with 2 application areas; Minimum Order 100 (HID Part Number: 2050PNNMN)",
+    "priceUSD": 10.98,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 154,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-2050_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS Key II Contactless Smart Key Fob 2k bit with 2 application areas",
+      "Feature_2": "Minimum Order 100 (HID Part Number: 2050PNNMN)",
+      "Feature_3": "HID 2050PNNMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-2080",
+    "sku": "AC-HID-CARD-ICLASS-2080",
+    "name": "HID 2080PMSMV",
+    "description": "iCLASS Clamshell Contactless Smart Card; 2k bit with 2 application areas; Minimum Order 100 (HID Part Number: 2080PMSMV)",
+    "priceUSD": 5.63,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 267,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-2080_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS Clamshell Contactless Smart Card",
+      "Feature_2": "2k bit with 2 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 2080PMSMV)",
+      "Feature_4": "HID 2080PMSMV"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-se-3000",
+    "sku": "AC-HID-CARD-ICLASS-SE-3000",
+    "name": "HID 3000PGGMN",
+    "description": "iCLASS SE Contactless Smart Card; 2k bit with 2 application areas; Minimum Order 100 (HID Part Number: 3000PGGMN)",
+    "priceUSD": 8.45,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 227,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-SE-3000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS SE Contactless Smart Card",
+      "Feature_2": "2k bit with 2 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 3000PGGMN)",
+      "Feature_4": "HID 3000PGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-se-3000-avg",
+    "sku": "AC-HID-CARD-ICLASS-SE-3000-AVG",
+    "name": "HID 3000PGGMN AVIGILON FORMAT & LOGO",
+    "description": "iCLASS SE Contactless Smart Card; 2k bit with 2 application areas; Avigilon Format; Avigilon logo on back; Order quantity must be in boxes of 100; no partial boxes allowed; packaged in box of 100 (Stock Item)",
+    "priceUSD": 9.17,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 201,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS SE Contactless Smart Card",
+      "Feature_2": "2k bit with 2 application areas",
+      "Feature_3": "Avigilon Format",
+      "Feature_4": "Avigilon logo on back",
+      "Feature_5": "Order quantity must be in boxes of 100",
+      "Feature_6": "no partial boxes allowed",
+      "Feature_7": "packaged in box of 100 (Stock Item)",
+      "Feature_8": "HID 3000PGGMN AVIGILON FORMAT & LOGO"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-se-3002",
+    "sku": "AC-HID-CARD-ICLASS-SE-3002",
+    "name": "HID 3002PGGMN",
+    "description": "iCLASS SE Contactless Smart Card; 16k bit with 16 application areas; Minimum Order 100 (HID Part Number: 3002PGGMN)",
+    "priceUSD": 15.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 264,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-SE-3002_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS SE Contactless Smart Card",
+      "Feature_2": "16k bit with 16 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 3002PGGMN)",
+      "Feature_4": "HID 3002PGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-se-3004",
+    "sku": "AC-HID-CARD-ICLASS-SE-3004",
+    "name": "HID 3004PGGMN",
+    "description": "iCLASS SE Contactless Smart Card; 32k bit with 16k/16 + 16k/1 application areas; Minimum Order 100 (HID Part Number: 3004PGGMN)",
+    "priceUSD": 15.91,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 217,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-SE-3004_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS SE Contactless Smart Card",
+      "Feature_2": "32k bit with 16k/16 + 16k/1 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 3004PGGMN)",
+      "Feature_4": "HID 3004PGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-iclass-sr-2080",
+    "sku": "AC-HID-CARD-ICLASS-SR-2080",
+    "name": "HID 2080HPMSMV",
+    "description": "iCLASS SR (note: SR instead of SE is correct for this card) Clamshell Contactless Smart Card; 2k bit with 2 application areas; Minimum Order 100 (HID Part Number: 2080HPMSMV)",
+    "priceUSD": 5.63,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 136,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ICLASS-SR-2080_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "iCLASS SR (note: SR instead of SE is correct for this card) Clamshell Contactless Smart Card",
+      "Feature_2": "2k bit with 2 application areas",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 2080HPMSMV)",
+      "Feature_4": "HID 2080HPMSMV"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-isoproxii-grph",
+    "sku": "AC-HID-CARD-ISOPROXII-GRPH",
+    "name": "HID 1386LGGMN",
+    "description": "ISOProx II Graphics Quality PVC; Proximity Access Card; Minimum Order 100 (HID Part Number: 1386LGGMN)",
+    "priceUSD": 9.83,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 167,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-ISOPROXII-GRPH_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ISOProx II Graphics Quality PVC",
+      "Feature_2": "Proximity Access Card",
+      "Feature_3": "Minimum Order 100 (HID Part Number: 1386LGGMN)",
+      "Feature_4": "HID 1386LGGMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Hardware & Credentials",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Security Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:36:20.101Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-proxcardii-cl",
+    "sku": "AC-HID-CARD-PROXCARDII-CL",
+    "name": "HID 1326LMSMV",
+    "description": "ProxCard II Proximity Access Card (Clam Shell); Minimum Order 100 (HID Part Number: 1326LMSMV)",
+    "priceUSD": 5.35,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 135,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-PROXCARDII-CL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ProxCard II Proximity Access Card (Clam Shell)",
+      "Feature_2": "Minimum Order 100 (HID Part Number: 1326LMSMV)",
+      "Feature_3": "HID 1326LMSMV"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.643Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-card-seos-5006pgcmn-avg",
+    "sku": "AC-HID-CARD-SEOS-5006PGCMN-AVG",
+    "name": "HID-CARD-SEOS-5006PGCMN Avigilon Logo",
+    "description": "COMPOSITE ICLASS SEOS CONTACTLESS SMART CARD 8K; PROG; F-GLOSS; B-AVIGILON; MATCHING #; NO SLOT; CUSTOM AVIGILON PACKAGING-SHRINK WRAP IN LOTS OF 50; PACK 100/BOX; LAM; AVIGILON LOGO; (AVIGILON FORMAT- NO PROGRAMMING INFORMATION REQUIRED)(MOQ 100)(HID - 5006PGCMN)",
+    "priceUSD": 8.09,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 163,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-CARD-SEOS-5006PGCMN-AVG-12102020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "COMPOSITE ICLASS SEOS CONTACTLESS SMART CARD 8K",
+      "Feature_2": "PROG",
+      "Feature_3": "F-GLOSS",
+      "Feature_4": "B-AVIGILON",
+      "Feature_5": "MATCHING #",
+      "Feature_6": "NO SLOT",
+      "Feature_7": "CUSTOM AVIGILON PACKAGING-SHRINK WRAP IN LOTS OF 50",
+      "Feature_8": "PACK 100/BOX",
+      "Feature_9": "LAM",
+      "Feature_10": "AVIGILON LOGO",
+      "Feature_11": "(AVIGILON FORMAT- NO PROGRAMMING INFORMATION REQUIRED)(MOQ 100)(HID - 5006PGCMN)",
+      "Feature_12": "HID-CARD-SEOS-5006PGCMN Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.643Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-elite-fee-mc-0036",
+    "sku": "AC-HID-ELITE-FEE-MC-0036",
+    "name": "HID MC-0036",
+    "description": "Service fee; per card; Elite Card Maintenance Fee (HID Part Number: MC-0036)",
+    "priceUSD": 0.56,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 290,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Service fee",
+      "Feature_2": "per card",
+      "Feature_3": "Elite Card Maintenance Fee (HID Part Number: MC-0036)",
+      "Feature_4": "HID MC-0036"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.643Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-fob-iclass-3250pnnmn-avg",
+    "sku": "AC-HID-FOB-ICLASS-3250PNNMN-AVG",
+    "name": "HID 3250PNNMN AVIGILON FORMAT",
+    "description": "ICLASS SE KEYFOB 2K/2; PROG ICLASS; BLACK W/BLUE HID; MATCH ICLASS #; Available with Avigilon format; Stock Item; Order quantity must be in boxes of 100; no partial boxes allowed; Packed in box of 100",
+    "priceUSD": 11.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 243,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "ICLASS SE KEYFOB 2K/2",
+      "Feature_2": "PROG ICLASS",
+      "Feature_3": "BLACK W/BLUE HID",
+      "Feature_4": "MATCH ICLASS #",
+      "Feature_5": "Available with Avigilon format",
+      "Feature_6": "Stock Item",
+      "Feature_7": "Order quantity must be in boxes of 100",
+      "Feature_8": "no partial boxes allowed",
+      "Feature_9": "Packed in box of 100",
+      "Feature_10": "HID 3250PNNMN AVIGILON FORMAT"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.643Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-fob-proxkeyiii-cl",
+    "sku": "AC-HID-FOB-PROXKEYIII-CL",
+    "name": "HID 1346LNSMN",
+    "description": "ProxKey III Proximity Access Keyfob; Minimum Order 100 (HID Part Number: 1346LNSMN)",
+    "priceUSD": 10.64,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 237,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-FOB-PROXKEYIII-CL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ProxKey III Proximity Access Keyfob",
+      "Feature_2": "Minimum Order 100 (HID Part Number: 1346LNSMN)",
+      "Feature_3": "HID 1346LNSMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-fob-seos-5266pnna-avg",
+    "sku": "AC-HID-FOB-SEOS-5266PNNA-AVG",
+    "name": "HID-FOB-SEOS-5266PNNA Avigilon Logo",
+    "description": "SEOS KEY FOB 8K; PROG SEOS; F-BLACK W/HID ARTWORK; B-BLACK; LASER MATCH SEOS #; (AVIGILON FORMAT - NO PROGRAMMING INFORMATION REQUIRED)(MOQ 100)(HID - 5266PNNA)",
+    "priceUSD": 10.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 167,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/HID-Seos-Key-Fob-12102020.jpg.png"
+    ],
+    "specs": {
+      "Feature_1": "SEOS KEY FOB 8K",
+      "Feature_2": "PROG SEOS",
+      "Feature_3": "F-BLACK W/HID ARTWORK",
+      "Feature_4": "B-BLACK",
+      "Feature_5": "LASER MATCH SEOS #",
+      "Feature_6": "(AVIGILON FORMAT - NO PROGRAMMING INFORMATION REQUIRED)(MOQ 100)(HID - 5266PNNA)",
+      "Feature_7": "HID-FOB-SEOS-5266PNNA Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-mob-mid-sub-crd",
+    "sku": "AC-HID-MOB-MID-SUB-CRD",
+    "name": "HID MID-SUB-CRD",
+    "description": "HID Origo Mobile Identities - User licenses - Additional credential format - one time fee. Minimum Order Quantity: 1",
+    "priceUSD": 132.56,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 291,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-MOB-MID-SUB-T100_071820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "HID Origo Mobile Identities - User licenses - Additional credential format - one time fee",
+      "Feature_2": "Minimum Order Quantity: 1",
+      "Feature_3": "HID MID-SUB-CRD"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-mob-mid-sub-t100",
+    "sku": "AC-HID-MOB-MID-SUB-T100",
+    "name": "HID MID-SUB-T100",
+    "description": "HID Origo Mobile Identities - User licenses - initial and renewal. Number of user licenses (maximum number of concurrent users) valid for one year in an HID Origo account (linked to the Organization ID). Please provide the organization and credential access control data format information (Organization ID; Organization Name; MOB or ICE and format: facility/site code; card number range; etc.). Require automated onboarding form to be completed. (LINK to Automated Onboarding: https://managedservices.hidglobal.com/faces/maUserOnBoardingStart). Minimum Order Quantity: 20. (HID Part Number: MID-SUB-T100)",
+    "priceUSD": 7.82,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 249,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-MOB-MID-SUB-T100_071820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "HID Origo Mobile Identities - User licenses - initial and renewal",
+      "Feature_2": "Number of user licenses (maximum number of concurrent users) valid for one year in an HID Origo account (linked to the Organization ID)",
+      "Feature_3": "Please provide the organization and credential access control data format information (Organization ID",
+      "Feature_4": "Organization Name",
+      "Feature_5": "MOB or ICE and format: facility/site code",
+      "Feature_6": "card number range",
+      "Feature_7": "etc",
+      "Feature_8": ")",
+      "Feature_9": "Require automated onboarding form to be completed",
+      "Feature_10": "(LINK to Automated Onboarding: https://managedservices",
+      "Feature_11": "hidglobal",
+      "Feature_12": "com/faces/maUserOnBoardingStart)",
+      "Feature_13": "Minimum Order Quantity: 20",
+      "Feature_14": "(HID Part Number: MID-SUB-T100)",
+      "Feature_15": "HID MID-SUB-T100"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-mob-mid-sub-t100-add",
+    "sku": "AC-HID-MOB-MID-SUB-T100-ADD",
+    "name": "HID MID-SUB-T100-ADD",
+    "description": "HID Origo Mobile Identities - User licenses - add-on order cost is per month. Number of user licenses (maximum number of concurrent users) valid till the end of the contract of an existing HID Origo account (linked to the Organization ID). Price is pro-rate: full-month till the end of the contract. Minimum Order Quantity: 20 (HID Part Number: MID-SUB-T100-ADD)",
+    "priceUSD": 7.82,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 209,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-MOB-MID-SUB-T100_071820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "HID Origo Mobile Identities - User licenses - add-on order cost is per month",
+      "Feature_2": "Number of user licenses (maximum number of concurrent users) valid till the end of the contract of an existing HID Origo account (linked to the Organization ID)",
+      "Feature_3": "Price is pro-rate: full-month till the end of the contract",
+      "Feature_4": "Minimum Order Quantity: 20 (HID Part Number: MID-SUB-T100-ADD)",
+      "Feature_5": "HID MID-SUB-T100-ADD"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-tag-microprox-adh",
+    "sku": "AC-HID-TAG-MICROPROX-ADH",
+    "name": "HID 1391LGSMN",
+    "description": "MICROPROX TAG; PROG; GRAY; MATCH #; Minimum Order 100 (HID Part Number: 1391LGSMN)",
+    "priceUSD": 7.15,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 249,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-TAG-MICROPROX-ADH_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MICROPROX TAG",
+      "Feature_2": "PROG",
+      "Feature_3": "GRAY",
+      "Feature_4": "MATCH #",
+      "Feature_5": "Minimum Order 100 (HID Part Number: 1391LGSMN)",
+      "Feature_6": "HID 1391LGSMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-tag-proxpassii-veh",
+    "sku": "AC-HID-TAG-PROXPASSII-VEH",
+    "name": "HID 1351LBSMN",
+    "description": "ProxPass II Long Range Active Proximity Access Tag for Vehicle Access; Minimum Order 10 (HID Part Number: 1351LBSMN)",
+    "priceUSD": 60.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 202,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-TAG-PROXPASSII-VEH_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ProxPass II Long Range Active Proximity Access Tag for Vehicle Access",
+      "Feature_2": "Minimum Order 10 (HID Part Number: 1351LBSMN)",
+      "Feature_3": "HID 1351LBSMN"
+    },
+    "features": [
+      "Official HID High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-card-nonprogramed-cctw870",
+    "sku": "AC-STID-CARD-NONPROGRAMED-CCTW870",
+    "name": "AC-STID-CARD-NONPROGRAMED-CCTW870",
+    "description": "ISO Card with DESFire EV3 2K chip",
+    "priceUSD": 6.49,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 192,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "ISO Card with DESFire EV3 2K chip",
+      "Feature_2": "AC-STID-CARD-NONPROGRAMED-CCTW870"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-card-nonprogramed-cctwr70-ap",
+    "sku": "AC-STID-CARD-NONPROGRAMED-CCTWR70_AP",
+    "name": "STID CCTWR70",
+    "description": "UHF GEN2 programmable + 13.56 MHz NXP MIFARE® Classic 1K 4 Bytes chips. Minimum quantity: 200. (STID part number: CCTWR70)",
+    "priceUSD": 11.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 156,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "UHF GEN2 programmable + 13",
+      "Feature_2": "56 MHz NXP MIFARE® Classic 1K 4 Bytes chips",
+      "Feature_3": "Minimum quantity: 200",
+      "Feature_4": "(STID part number: CCTWR70)",
+      "Feature_5": "STID CCTWR70"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-card-preprogramed-cctw870msi",
+    "sku": "AC-STID-CARD-PREPROGRAMED-CCTW870MSI",
+    "name": "AC-STID-CARD-PREPROGRAMED-CCTW870MSI",
+    "description": "ISO Card with DESFire EV3 2K chip",
+    "priceUSD": 8.81,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 135,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "ISO Card with DESFire EV3 2K chip",
+      "Feature_2": "AC-STID-CARD-PREPROGRAMED-CCTW870MSI"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-credential-custom",
+    "sku": "AC-STID-CREDENTIAL-CUSTOM",
+    "name": "STID Credential Custom",
+    "description": "STID Credential Custom",
+    "priceUSD": 0,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 230,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "STID Credential Custom"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-keyfob-nonprogramed-pcgw871",
+    "sku": "AC-STID-KEYFOB-NONPROGRAMED-PCGW871",
+    "name": "AC-STID-KEYFOB-NONPROGRAMED-PCGW871",
+    "description": "Keyfob with DESFire EV3 2K chip",
+    "priceUSD": 10.81,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 226,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Keyfob with DESFire EV3 2K chip",
+      "Feature_2": "AC-STID-KEYFOB-NONPROGRAMED-PCGW871"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-keyfob-preprogramed-pcgw871msi-av",
+    "sku": "AC-STID-KEYFOB-PREPROGRAMED-PCGW871MSI_AV",
+    "name": "AC-STID-KEYFOB-PREPROGRAMED-PCGW871MSI_AV",
+    "description": "Keyfob with DESFire EV3 2K chip",
+    "priceUSD": 15.23,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 123,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Keyfob with DESFire EV3 2K chip",
+      "Feature_2": "AC-STID-KEYFOB-PREPROGRAMED-PCGW871MSI_AV"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-mobile-credential-credit-ble-offline",
+    "sku": "AC-STID-MOBILE-CREDENTIAL-CREDIT-BLE-OFFLINE",
+    "name": "STID MOBILE CREDENTIAL CREDIT-BLUE-OFFLINE",
+    "description": "STid Mobile ID OFFLINE virtual card credit - SECARD",
+    "priceUSD": 3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 293,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "STid Mobile ID OFFLINE virtual card credit - SECARD",
+      "Feature_2": "STID MOBILE CREDENTIAL CREDIT-BLUE-OFFLINE"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-mobile-credential-credit-blue-onl",
+    "sku": "AC-STID-MOBILE-CREDENTIAL-CREDIT-BLUE-ONL",
+    "name": "STID MOBILE CREDENTIAL CREDIT-BLUE-ONL",
+    "description": "Credit for STid Mobile ID® Bluetooth® Virtual card - Online STid Mobile ID® Portal. (Minimum Order of 10 Credits)",
+    "priceUSD": 3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 112,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Credit for STid Mobile ID® Bluetooth® Virtual card - Online STid Mobile ID® Portal",
+      "Feature_2": "(Minimum Order of 10 Credits)",
+      "Feature_3": "STID MOBILE CREDENTIAL CREDIT-BLUE-ONL"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-mobile-credential-pres-add-credit",
+    "sku": "AC-STID-MOBILE-CREDENTIAL-PRES-ADD-CREDIT",
+    "name": "STID MOBILE CREDENTIAL OFFLINE FEE",
+    "description": "Preloading of STid Mobile ID Credits in an encoder",
+    "priceUSD": 200.39,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 128,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SCHLAGE-MIFARE-DESFire-EV3-CREDENTIALS-071522.png"
+    ],
+    "specs": {
+      "Feature_1": "Preloading of STid Mobile ID Credits in an encoder",
+      "Feature_2": "STID MOBILE CREDENTIAL OFFLINE FEE"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-tag-uhf-windshield-eta-w90b-574be10",
+    "sku": "AC-STID-TAG-UHF-WINDSHIELD-ETA-W90B-574BE10",
+    "name": "STid ETA-W90B-574BE10",
+    "description": "UHF GEN2 Self-destroying programmable customized adhesive label Secure & encrypted EPC mode - 100 x 30 mm",
+    "priceUSD": 8.02,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 139,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-ETAv2-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "UHF GEN2 Self-destroying programmable customized adhesive label Secure & encrypted EPC mode - 100 x 30 mm",
+      "Feature_2": "STid ETA-W90B-574BE10"
+    },
+    "features": [
+      "Official STid High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-card-cctw490",
+    "sku": "AC-STID-CARD-CCTW490",
+    "name": "STid Card CCTW490",
+    "description": "UHF GEN2 programmable - Impinj Monza 4QT chip (ETSI & FCC); Frequency: 13.56 MHz; Color: White - Customizable",
+    "priceUSD": 8.02,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Credentials",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 260,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-ISO-CARD-PROX-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "UHF GEN2 programmable - Impinj Monza 4QT chip (ETSI & FCC)",
+      "Feature_2": "Frequency: 13",
+      "Feature_3": "56 MHz",
+      "Feature_4": "Color: White - Customizable",
+      "Feature_5": "STid Card CCTW490"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-read-aptiq-osdp-keypd-mtk15-485",
+    "sku": "AC-ALL-READ-APTIQ-OSDP-KEYPD-MTK15-485",
+    "name": "Allegion MTK15-485",
+    "description": "Schlage (formerly aptiQ™) Multi-Technology Keypad - Single Gang Reader - OSDP (Allegion Part Number: MTK15-485)",
+    "priceUSD": 821.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 140,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTK15_HO_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Schlage (formerly aptiQ™) Multi-Technology Keypad - Single Gang Reader - OSDP (Allegion Part Number: MTK15-485)",
+      "Feature_2": "Allegion MTK15-485"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-read-aptiq-osdp-mull-mt11-485",
+    "sku": "AC-ALL-READ-APTIQ-OSDP-MULL-MT11-485",
+    "name": "Allegion MT11-485",
+    "description": "Schlage (formerly aptiQ™) Multi-Technology – Mullion Reader - OSDP (Allegion Part Number: MT11-485)",
+    "priceUSD": 512.38,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 274,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MT11_BN_HO_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Schlage (formerly aptiQ™) Multi-Technology – Mullion Reader - OSDP (Allegion Part Number: MT11-485)",
+      "Feature_2": "Allegion MT11-485"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-read-aptiq-osdp-sng-mt15-485",
+    "sku": "AC-ALL-READ-APTIQ-OSDP-SNG-MT15-485",
+    "name": "Allegion MT15-485",
+    "description": "Schlage (formerly aptiQ™) Multi-Technology - Single Gang Reader - OSDP (Allegion Part Number: MT15-485)",
+    "priceUSD": 519.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 208,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MT15_BN_HO_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Schlage (formerly aptiQ™) Multi-Technology - Single Gang Reader - OSDP (Allegion Part Number: MT15-485)",
+      "Feature_2": "Allegion MT15-485"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-read-aptiq-wiegand-mtmsk15",
+    "sku": "AC-ALL-READ-APTIQ-WIEGAND-MTMSK15",
+    "name": "Allegion MTMSK15",
+    "description": "Schlage (formerly aptiQ™) Multi-Technology with Magnetic Stripe and Keypad - Single Gang Reader - Wiegand (Allegion Part Number: MTMSK15)",
+    "priceUSD": 1491.97,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 252,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTMSK15_HO_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Schlage (formerly aptiQ™) Multi-Technology with Magnetic Stripe and Keypad - Single Gang Reader - Wiegand (Allegion Part Number: MTMSK15)",
+      "Feature_2": "Allegion MTMSK15"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-wpr400-mt",
+    "sku": "AC-ALL-SCH-WPR400-MT",
+    "name": "Allegion WPR400-MT",
+    "description": "Wireless Portable Reader (with Multi-Technology Reader Module)Handheld; battery-operated unit with Multi-Technology(Allegion Part Number: WPR400-MT)",
+    "priceUSD": 3420,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 116,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Wireless Portable Reader (with Multi-Technology Reader Module)Handheld",
+      "Feature_2": "battery-operated unit with Multi-Technology(Allegion Part Number: WPR400-MT)",
+      "Feature_3": "Allegion WPR400-MT"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-wpr400-si",
+    "sku": "AC-ALL-SCH-WPR400-SI",
+    "name": "AC-ALL-SCH-WPR400-SI",
+    "description": "Schlage WPR400-SI Portable Reader",
+    "priceUSD": 3585,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 198,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Schlage WPR400-SI Portable Reader",
+      "Feature_2": "AC-ALL-SCH-WPR400-SI"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-wri400",
+    "sku": "AC-ALL-SCH-WRI400",
+    "name": "Allegion WRI400",
+    "description": "Outdoor Wireless Reader Interface Compatible with Wiegand or Magnetic Stripe Interface. Includes Weatherproof Enclosure; inputs for two parallel readers. Requires 12 or 24 VDC power supply (Non-stock item)(Allegion Part Number: WRI400)",
+    "priceUSD": 1457,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 197,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor Wireless Reader Interface Compatible with Wiegand or Magnetic Stripe Interface",
+      "Feature_2": "Includes Weatherproof Enclosure",
+      "Feature_3": "inputs for two parallel readers",
+      "Feature_4": "Requires 12 or 24 VDC power supply (Non-stock item)(Allegion Part Number: WRI400)",
+      "Feature_5": "Allegion WRI400"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-read-aptiq-mini-sm10",
+    "sku": "AC-ING-READ-APTIQ-MINI-SM10",
+    "name": "Allegion SM10",
+    "description": "Schlage (formerly aptiQ™) 13.56 MHz Smart - Mini Mullion Reader (Allegion Part Number: SM10)",
+    "priceUSD": 268.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 252,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/PR10_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Schlage (formerly aptiQ™) 13",
+      "Feature_2": "56 MHz Smart - Mini Mullion Reader (Allegion Part Number: SM10)",
+      "Feature_3": "Allegion SM10"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-ing-read-aptiq-mull-mt11",
+    "sku": "AC-ING-READ-APTIQ-MULL-MT11",
+    "name": "Allegion MT11",
+    "description": "Schlage (formerly aptiQ™) Multi-Technology – Mullion Reader (Allegion Part Number: MT11)",
+    "priceUSD": 512.38,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 219,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/MT11_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Schlage (formerly aptiQ™) Multi-Technology – Mullion Reader (Allegion Part Number: MT11)",
+      "Feature_2": "Allegion MT11"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-reader-mtb11",
+    "sku": "AC-SCH-READER-MTB11",
+    "name": "Allegion MTB11",
+    "description": "Mobile Enabled Multi-Technology Reader – Mullion Mount - Dimensions: 5.91\" x 1.72\" x 0.81\". Power required: 5-24 VDC - RS-485 capability included in standard product offering",
+    "priceUSD": 519.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 235,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTB11_HO_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Mobile Enabled Multi-Technology Reader – Mullion Mount - Dimensions: 5",
+      "Feature_2": "91\" x 1",
+      "Feature_3": "72\" x 0",
+      "Feature_4": "81",
+      "Feature_5": "Power required: 5-24 VDC - RS-485 capability included in standard product offering",
+      "Feature_6": "Allegion MTB11"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-reader-mtb15",
+    "sku": "AC-SCH-READER-MTB15",
+    "name": "Allegion MTB15",
+    "description": "Mobile Enabled Multi-Technology Reader – Wall Mount - Dimensions: 5.1\" x 3.25\" x 0.76\". Power required: 5-24 VDC - RS-485 capability included in standard product offering",
+    "priceUSD": 519.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 164,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTB15_HO_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Mobile Enabled Multi-Technology Reader – Wall Mount - Dimensions: 5",
+      "Feature_2": "1\" x 3",
+      "Feature_3": "25\" x 0",
+      "Feature_4": "76",
+      "Feature_5": "Power required: 5-24 VDC - RS-485 capability included in standard product offering",
+      "Feature_6": "Allegion MTB15"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-reader-mtkb15",
+    "sku": "AC-SCH-READER-MTKB15",
+    "name": "Allegion MTKB15",
+    "description": "Mobile Enabled Multi-Technology Reader – Wall Mount with Keypad - Dimensions: 5.1\" x 3.25\" x 0.76\". Power required: 5-24 VDC - RS-485 capability included in standard product offering",
+    "priceUSD": 837.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 241,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTKB15_HO_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Mobile Enabled Multi-Technology Reader – Wall Mount with Keypad - Dimensions: 5",
+      "Feature_2": "1\" x 3",
+      "Feature_3": "25\" x 0",
+      "Feature_4": "76",
+      "Feature_5": "Power required: 5-24 VDC - RS-485 capability included in standard product offering",
+      "Feature_6": "Allegion MTKB15"
+    },
+    "features": [
+      "Official Allegion High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-csr-35l-osdp",
+    "sku": "AC-FP-READ-CSR-35L-OSDP",
+    "name": "Farpointe Data CSR-35L-OSDP",
+    "description": "CONEKT OSDP; Long Range; Mullien and Single-gang Mount; Mobile-Ready Contactless Smartcard Readers (2.4-GHz/13.56-MHz) — MIFARE® DESFire® EV1 and EV2 Support",
+    "priceUSD": 550.98,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 102,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csr35_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "CONEKT OSDP",
+      "Feature_2": "Long Range",
+      "Feature_3": "Mullien and Single-gang Mount",
+      "Feature_4": "Mobile-Ready Contactless Smartcard Readers (2",
+      "Feature_5": "4-GHz/13",
+      "Feature_6": "56-MHz) — MIFARE® DESFire® EV1 and EV2 Support",
+      "Feature_7": "Farpointe Data CSR-35L-OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-csr-35l-wg",
+    "sku": "AC-FP-READ-CSR-35L-WG",
+    "name": "Farpointe Data CSR-35L-WG",
+    "description": "CONEKT Wiegand; Long Range; Mullien and Single-gang Mount; Mobile-Ready Contactless Smartcard Readers (2.4-GHz/13.56-MHz) — MIFARE® DESFire® EV1 and EV2 Support",
+    "priceUSD": 406.67,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 274,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csr35_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "CONEKT Wiegand",
+      "Feature_2": "Long Range",
+      "Feature_3": "Mullien and Single-gang Mount",
+      "Feature_4": "Mobile-Ready Contactless Smartcard Readers (2",
+      "Feature_5": "4-GHz/13",
+      "Feature_6": "56-MHz) — MIFARE® DESFire® EV1 and EV2 Support",
+      "Feature_7": "Farpointe Data CSR-35L-WG"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-delta-62-osdp-f05552-600scn",
+    "sku": "AC-FP-READ-DELTA-62-OSDP-F05552-600SCN",
+    "name": "Farpointe Data DELTA6.2 OSDP MULLION-MOUNT CONTACTLESS SMARTCARD READER w/KEYPAD",
+    "description": "Delta6.2 OSDP Contactless Smartcard Reader and Keypad - The model Delta6.2 is designed to be mounted directly to location requiring mullion mount; and integrates both a contactless smartcard reader (13.56-MHz) and a keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Non Stock Item) (Farpointe Data Part Number: F05552-600SCN)",
+    "priceUSD": 796.02,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 284,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-FP-READ-DELTA-62-OSDP-F05552-600SCN-01062021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Delta6",
+      "Feature_2": "2 OSDP Contactless Smartcard Reader and Keypad - The model Delta6",
+      "Feature_3": "2 is designed to be mounted directly to location requiring mullion mount",
+      "Feature_4": "and integrates both a contactless smartcard reader (13",
+      "Feature_5": "56-MHz) and a keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Non Stock Item) (Farpointe Data Part Number: F05552-600SCN)",
+      "Feature_6": "Farpointe Data DELTA6.2 OSDP MULLION-MOUNT CONTACTLESS SMARTCARD READER w/KEYPAD"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-delta-62-osdp-f05662-600",
+    "sku": "AC-FP-READ-DELTA-62-OSDP-F05662-600",
+    "name": "Farpointe Data DELTA 6.2",
+    "description": "Delta 6.2 OSDP Contactless Smartcard Reader and Keypad - The model Delta 6.2 is designed to be mounted directly to location requiring mullion mount; and integrates both a contactless smartcard reader (13.56-MHz) and a keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Non Stock Item) (Farpointe Data Part Number: F05552-600SCN)",
+    "priceUSD": 796.97,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 129,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-FP-READ-DELTA-62-OSDP-F05552-600SCN-01062021.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Delta 6",
+      "Feature_2": "2 OSDP Contactless Smartcard Reader and Keypad - The model Delta 6",
+      "Feature_3": "2 is designed to be mounted directly to location requiring mullion mount",
+      "Feature_4": "and integrates both a contactless smartcard reader (13",
+      "Feature_5": "56-MHz) and a keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Non Stock Item) (Farpointe Data Part Number: F05552-600SCN)",
+      "Feature_6": "Farpointe Data DELTA 6.2"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-delta3-sector",
+    "sku": "AC-FP-READ-DELTA3-SECTOR",
+    "name": "Farpointe Data DELTA3-SECTOR",
+    "description": "Delta3 Contactless Smartcard Reader - With a compact design the model Delta3 may be mounted to metal door or window frames; and other flat surfaces (Stock Item) (Farpointe Data Part Number: Delta3 Sector)",
+    "priceUSD": 358.13,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 274,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta3_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Delta3 Contactless Smartcard Reader - With a compact design the model Delta3 may be mounted to metal door or window frames",
+      "Feature_2": "and other flat surfaces (Stock Item) (Farpointe Data Part Number: Delta3 Sector)",
+      "Feature_3": "Farpointe Data DELTA3-SECTOR"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-delta5-osdp",
+    "sku": "AC-FP-READ-DELTA5-OSDP",
+    "name": "Farpointe Data DELTA5-OSDP",
+    "description": "Delta5 OSDP Contactless Smartcard Reader - With a thin profile the model Delta5 may be mounted to a standard North American single-gang wall switch box; and other flat surfaces; OSDP Only.",
+    "priceUSD": 540.07,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 237,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta5_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Delta5 OSDP Contactless Smartcard Reader - With a thin profile the model Delta5 may be mounted to a standard North American single-gang wall switch box",
+      "Feature_2": "and other flat surfaces",
+      "Feature_3": "OSDP Only",
+      "Feature_4": "Farpointe Data DELTA5-OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-delta5-sector",
+    "sku": "AC-FP-READ-DELTA5-SECTOR",
+    "name": "Farpointe Data DELTA5-SECTOR",
+    "description": "Delta5 Contactless Smartcard Reader - With a thin profile the model Delta5 may be mounted to a standard North American single-gang wall switch box; and other flat surfaces (Stock Item) (Farpointe Data Part Number: Delta5 Sector)",
+    "priceUSD": 388.32,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 292,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta5_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Delta5 Contactless Smartcard Reader - With a thin profile the model Delta5 may be mounted to a standard North American single-gang wall switch box",
+      "Feature_2": "and other flat surfaces (Stock Item) (Farpointe Data Part Number: Delta5 Sector)",
+      "Feature_3": "Farpointe Data DELTA5-SECTOR"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-delta5-3-sector",
+    "sku": "AC-FP-READ-DELTA5.3-SECTOR",
+    "name": "Farpointe Data DELTA5.3-SECTOR",
+    "description": "Delta5.3 Contactless Smartcard Reader - With distinctive contemporary styling the model Delta5.3 lends itself to mounting to a standard European-sized (60 mm) wall switch box; and other flat surfaces (Non Stock Item) (Farpointe Data Part Number: Delta5.3 Sector)",
+    "priceUSD": 388.32,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 168,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta53_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Delta5",
+      "Feature_2": "3 Contactless Smartcard Reader - With distinctive contemporary styling the model Delta5",
+      "Feature_3": "3 lends itself to mounting to a standard European-sized (60 mm) wall switch box",
+      "Feature_4": "and other flat surfaces (Non Stock Item) (Farpointe Data Part Number: Delta5",
+      "Feature_5": "3 Sector)",
+      "Feature_6": "Farpointe Data DELTA5.3-SECTOR"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-delta6-4-sector",
+    "sku": "AC-FP-READ-DELTA6.4-SECTOR",
+    "name": "Farpointe Data DELTA6.4-SECTOR",
+    "description": "Delta6.4 Contactless Smartcard Reader and Keypad - The model Delta6.4 is designed to be mounted directly to a standard North American sized single-gang wall box; and integrates both a contactless smartcard reader (13.56-MHz) and a keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Stock Item) (Farpointe Data Part Number: Delta6.4 Sector)",
+    "priceUSD": 647.29,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 296,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta64_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Delta6",
+      "Feature_2": "4 Contactless Smartcard Reader and Keypad - The model Delta6",
+      "Feature_3": "4 is designed to be mounted directly to a standard North American sized single-gang wall box",
+      "Feature_4": "and integrates both a contactless smartcard reader (13",
+      "Feature_5": "56-MHz) and a keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Stock Item) (Farpointe Data Part Number: Delta6",
+      "Feature_6": "4 Sector)",
+      "Feature_7": "Farpointe Data DELTA6.4-SECTOR"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-gibralter-br-p-453-ha",
+    "sku": "AC-FP-READ-GIBRALTER-BR-P-453-HA",
+    "name": "Farpointe Data P-453-HA",
+    "description": "Gibralter Proximity Reader; Bullet-resistant reader designed to be mounted to mullion; door or window frames.(Farpointe Data Part Number: P-453-HA)",
+    "priceUSD": 851.23,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 264,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/p453_1200x1200_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Gibralter Proximity Reader",
+      "Feature_2": "Bullet-resistant reader designed to be mounted to mullion",
+      "Feature_3": "door or window frames",
+      "Feature_4": "(Farpointe Data Part Number: P-453-HA)",
+      "Feature_5": "Farpointe Data P-453-HA"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-gibralter-br-p-455-ha",
+    "sku": "AC-FP-READ-GIBRALTER-BR-P-455-HA",
+    "name": "Farpointe Data P-455-HA",
+    "description": "Gibralter Proximity Reader; Bullet-resistant reader designed to mount to standard North American single-gang wall switch boxes.(Farpointe Data Part Number: P-455-HA)",
+    "priceUSD": 937.94,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 187,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/p455_1200x1200_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Gibralter Proximity Reader",
+      "Feature_2": "Bullet-resistant reader designed to mount to standard North American single-gang wall switch boxes",
+      "Feature_3": "(Farpointe Data Part Number: P-455-HA)",
+      "Feature_4": "Farpointe Data P-455-HA"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-guardian-vr-p-403-ha",
+    "sku": "AC-FP-READ-GUARDIAN-VR-P-403-HA",
+    "name": "Farpointe Data P-403-HA",
+    "description": "Guardian Proximity Reader; Vandal-resistant reader designed to mount to a metal door and window frame.(Farpointe Data Part Number: P-403-HA)",
+    "priceUSD": 579.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 128,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p403_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Guardian Proximity Reader",
+      "Feature_2": "Vandal-resistant reader designed to mount to a metal door and window frame",
+      "Feature_3": "(Farpointe Data Part Number: P-403-HA)",
+      "Feature_4": "Farpointe Data P-403-HA"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-guardian-vr-p-405-ha",
+    "sku": "AC-FP-READ-GUARDIAN-VR-P-405-HA",
+    "name": "Farpointe Data P-405-HA",
+    "description": "Guardian Proximity Reader; Vandal-resistant reader designed to mount to a standard North American single-gang wall switch box.(Farpointe Data Part Number: P-405-HA)",
+    "priceUSD": 687.7,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 175,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p403_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Guardian Proximity Reader",
+      "Feature_2": "Vandal-resistant reader designed to mount to a standard North American single-gang wall switch box",
+      "Feature_3": "(Farpointe Data Part Number: P-405-HA)",
+      "Feature_4": "Farpointe Data P-405-HA"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-guardian-vr-p-410-ha",
+    "sku": "AC-FP-READ-GUARDIAN-VR-P-410-HA",
+    "name": "Farpointe Data P-410-HA",
+    "description": "Guardian Proximity Reader; Vandal-resistant reader designed to mount to a standard North American double-gang wall switch box.(Farpointe Data Part Number: P-410-HA)",
+    "priceUSD": 862.49,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 211,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/p410_1200x1200_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Guardian Proximity Reader",
+      "Feature_2": "Vandal-resistant reader designed to mount to a standard North American double-gang wall switch box",
+      "Feature_3": "(Farpointe Data Part Number: P-410-HA)",
+      "Feature_4": "Farpointe Data P-410-HA"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-300-h",
+    "sku": "AC-FP-READ-P-300-H",
+    "name": "Farpointe Data P-300-H",
+    "description": "P-300 Cascade Proximity Reader - Designed to be mounted to metal door and window frames (Stock Item) (Farpointe Data Part Number: P-300-H)",
+    "priceUSD": 113.83,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 140,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p300_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-300 Cascade Proximity Reader - Designed to be mounted to metal door and window frames (Stock Item) (Farpointe Data Part Number: P-300-H)",
+      "Feature_2": "Farpointe Data P-300-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-300-h-a",
+    "sku": "AC-FP-READ-P-300-H-A",
+    "name": "Farpointe Data P-300-H-A",
+    "description": "Mullion mount reader; supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-300-H-A)",
+    "priceUSD": 116.28,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 216,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p300_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Mullion mount reader",
+      "Feature_2": "supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-300-H-A)",
+      "Feature_3": "Farpointe Data P-300-H-A"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-500-h",
+    "sku": "AC-FP-READ-P-500-H",
+    "name": "Farpointe Data P-500-H",
+    "description": "P-500 Alps Proximity Reader - Designed to be mounted to a standard North American single-gang wall switch box (Stock Item) (Farpointe Data Part Number: P-500-H)",
+    "priceUSD": 154.25,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 100,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p500_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-500 Alps Proximity Reader - Designed to be mounted to a standard North American single-gang wall switch box (Stock Item) (Farpointe Data Part Number: P-500-H)",
+      "Feature_2": "Farpointe Data P-500-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-500-h-a",
+    "sku": "AC-FP-READ-P-500-H-A",
+    "name": "Farpointe Data P-500-H-A",
+    "description": "Single-gang mount reader; supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-500-H-A)",
+    "priceUSD": 151.37,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 284,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p500_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Single-gang mount reader",
+      "Feature_2": "supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-500-H-A)",
+      "Feature_3": "Farpointe Data P-500-H-A"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-640-h",
+    "sku": "AC-FP-READ-P-640-H",
+    "name": "Farpointe Data P-640-H",
+    "description": "P-640 Patagonia Proximity Reader and Keypad - Designed to be mounted directly to standard North American sized single-gang wall box; and integrates both a proximity reader and keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Stock Item) (Farpointe Data Part Number: P-640-H)",
+    "priceUSD": 363.85,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 284,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p640_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-640 Patagonia Proximity Reader and Keypad - Designed to be mounted directly to standard North American sized single-gang wall box",
+      "Feature_2": "and integrates both a proximity reader and keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number (PIN) (Stock Item) (Farpointe Data Part Number: P-640-H)",
+      "Feature_3": "Farpointe Data P-640-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-640-h-a",
+    "sku": "AC-FP-READ-P-640-H-A",
+    "name": "Farpointe Data P-640-H-A",
+    "description": "Keypad + reader; single-gang mount; supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-640-H-A)",
+    "priceUSD": 366.43,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 167,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p640_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Keypad + reader",
+      "Feature_2": "single-gang mount",
+      "Feature_3": "supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-640-H-A)",
+      "Feature_4": "Farpointe Data P-640-H-A"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-640-h-osdp",
+    "sku": "AC-FP-READ-P-640-H-OSDP",
+    "name": "Farpointe Data P-640-H-OSDP",
+    "description": "P-640 Patagonia Proximity Reader and Keypad - Designed to be mounted directly to standard North American sized single-gang wall box; and integrates both a proximity reader and keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number; OSDP Only",
+    "priceUSD": 510.88,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 228,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p640_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-640 Patagonia Proximity Reader and Keypad - Designed to be mounted directly to standard North American sized single-gang wall box",
+      "Feature_2": "and integrates both a proximity reader and keypad into a single-unit making it ideal for applications requiring an access credential and/or personal identification number",
+      "Feature_3": "OSDP Only",
+      "Feature_4": "Farpointe Data P-640-H-OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-710-h",
+    "sku": "AC-FP-READ-P-710-H",
+    "name": "Farpointe Data P-710-H",
+    "description": "P-710 Andes Proximity Reader - Intended for applications calling for heightened levels of convenience; such as parking lots and high-volume employee entrances (Non Stock Item)(Farpointe Data Part Number: P-710-H)",
+    "priceUSD": 471.48,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 295,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p710_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-710 Andes Proximity Reader - Intended for applications calling for heightened levels of convenience",
+      "Feature_2": "such as parking lots and high-volume employee entrances (Non Stock Item)(Farpointe Data Part Number: P-710-H)",
+      "Feature_3": "Farpointe Data P-710-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-710-h-a",
+    "sku": "AC-FP-READ-P-710-H-A",
+    "name": "Farpointe Data P-710-H-A",
+    "description": "Parking; single-gang mount reader; supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-710-H-A)",
+    "priceUSD": 470.02,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 145,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p710_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Parking",
+      "Feature_2": "single-gang mount reader",
+      "Feature_3": "supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-710-H-A)",
+      "Feature_4": "Farpointe Data P-710-H-A"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-900-h",
+    "sku": "AC-FP-READ-P-900-H",
+    "name": "Farpointe Data P-900-H",
+    "description": "P-900 Proximity Reader - A high performance design; it is classified as a long range reader; and is capable of delivering read ranges of up to 20-inches (508 mm). The longer read range of the P-900 adds convenience to a wide range of access applications; including turnstiles and parking control (Stock Item) (Farpointe Data Part Number: P-900-H)",
+    "priceUSD": 932.99,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 229,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p900_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-900 Proximity Reader - A high performance design",
+      "Feature_2": "it is classified as a long range reader",
+      "Feature_3": "and is capable of delivering read ranges of up to 20-inches (508 mm)",
+      "Feature_4": "The longer read range of the P-900 adds convenience to a wide range of access applications",
+      "Feature_5": "including turnstiles and parking control (Stock Item) (Farpointe Data Part Number: P-900-H)",
+      "Feature_6": "Farpointe Data P-900-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-p-900-h-a",
+    "sku": "AC-FP-READ-P-900-H-A",
+    "name": "Farpointe Data P-900-H-A",
+    "description": "Single-gang/double-gang; standard parking bollard mount reader; supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-900-H-A)",
+    "priceUSD": 931.52,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 127,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p900_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Single-gang/double-gang",
+      "Feature_2": "standard parking bollard mount reader",
+      "Feature_3": "supports Farpointe + certain HID® and AWID® 125-kHz Proximity protocols (Farpointe Data Part Number: P-900-H-A)",
+      "Feature_4": "Farpointe Data P-900-H-A"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-prox-euro-p-530-ha",
+    "sku": "AC-FP-READ-PROX-EURO-P-530-HA",
+    "name": "Farpointe Data P-530-HA",
+    "description": "EuroMount Proximity Reader; designed to be mounted to a standard European-sized (60 mm) wall switch box. (Non-stock item)(Farpointe Data Part Number: P-530-HA)",
+    "priceUSD": 154.25,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 260,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p530_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "EuroMount Proximity Reader",
+      "Feature_2": "designed to be mounted to a standard European-sized (60 mm) wall switch box",
+      "Feature_3": "(Non-stock item)(Farpointe Data Part Number: P-530-HA)",
+      "Feature_4": "Farpointe Data P-530-HA"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.644Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-prox-keypad-p-620-ha",
+    "sku": "AC-FP-READ-PROX-KEYPAD-P-620-HA",
+    "name": "Farpointe Data P-620-HA",
+    "description": "Mullion Mount Keypad reader + proximity; designed to be mounted to window or door frames(Farpointe Data Part Number: P-620-HA)",
+    "priceUSD": 363.85,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 176,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p620_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Mullion Mount Keypad reader + proximity",
+      "Feature_2": "designed to be mounted to window or door frames(Farpointe Data Part Number: P-620-HA)",
+      "Feature_3": "Farpointe Data P-620-HA"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.645Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-read-wg-mcr-50-h",
+    "sku": "AC-FP-READ-WG-MCR-50-H",
+    "name": "Farpointe Data MCR-50-H",
+    "description": "MCR-50 Proximity Reader - Supports Farpointe + certain Indala® ASP Advantage Series Proximity formats + certain HID® 125-kHz Proximity protocols; single-gang mount. (Non-stock item) (Farpointe Data Part Number: MCR-50-H)",
+    "priceUSD": 261.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 263,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/mcr50_1200x1200_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MCR-50 Proximity Reader - Supports Farpointe + certain Indala® ASP Advantage Series Proximity formats + certain HID® 125-kHz Proximity protocols",
+      "Feature_2": "single-gang mount",
+      "Feature_3": "(Non-stock item) (Farpointe Data Part Number: MCR-50-H)",
+      "Feature_4": "Farpointe Data MCR-50-H"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.645Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-osdp-em-64-h",
+    "sku": "AC-FP-READER-OSDP-EM-64-H",
+    "name": "Farpointe Data EM-64-H OSDP",
+    "description": "EM-64-H OSDP Enabled; Secure Communication Protocol; (125kHz HID & Pyramid Proximity Technologies Supported); Ship Kit",
+    "priceUSD": 615.97,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 229,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p640_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "EM-64-H OSDP Enabled",
+      "Feature_2": "Secure Communication Protocol",
+      "Feature_3": "(125kHz HID & Pyramid Proximity Technologies Supported)",
+      "Feature_4": "Ship Kit",
+      "Feature_5": "Farpointe Data EM-64-H OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.645Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-p-300-h-osdp",
+    "sku": "AC-FP-READER-P-300-H-OSDP",
+    "name": "Farpointe Data P-300-H OSDP",
+    "description": "P-300-H Cascade Proximity Reader; OSDP Enabled; Secure Communication Protocol (125kHz HID Proximity Technology Supported); SHIP KIT",
+    "priceUSD": 259.81,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 255,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta5_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-300-H Cascade Proximity Reader",
+      "Feature_2": "OSDP Enabled",
+      "Feature_3": "Secure Communication Protocol (125kHz HID Proximity Technology Supported)",
+      "Feature_4": "SHIP KIT",
+      "Feature_5": "Farpointe Data P-300-H OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.645Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-p-500-h-osdp",
+    "sku": "AC-FP-READER-P-500-H-OSDP",
+    "name": "Farpointe Data P-500-H-OSDP",
+    "description": "P-500-H Alps Proximity Reader; OSDP Enabled; Secure Communication Protocol (125kHz HID Proximity Technology Supported); SHIP KIT",
+    "priceUSD": 300.68,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 150,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta5_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "P-500-H Alps Proximity Reader",
+      "Feature_2": "OSDP Enabled",
+      "Feature_3": "Secure Communication Protocol (125kHz HID Proximity Technology Supported)",
+      "Feature_4": "SHIP KIT",
+      "Feature_5": "Farpointe Data P-500-H-OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Commercial Access Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for Secure Physical Access Control and High-Traffic Portals"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:39:24.645Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-pcr-620l-osdp",
+    "sku": "AC-FP-READER-PCR-620L-OSDP",
+    "name": "Farpointe Data PCR-620L-OSDP",
+    "description": "Long-range mullion mount mobile and proximity credential reader and keypad",
+    "priceUSD": 811.56,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 139,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p620_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Long-range mullion mount mobile and proximity credential reader and keypad",
+      "Feature_2": "Farpointe Data PCR-620L-OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.921Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-pcr-620l-wiegand",
+    "sku": "AC-FP-READER-PCR-620L-WIEGAND",
+    "name": "Farpointe Data PCR-620L-WG",
+    "description": "Long-range mullion mount mobile and proximity credential reader and keypad",
+    "priceUSD": 665.59,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 195,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p620_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Long-range mullion mount mobile and proximity credential reader and keypad",
+      "Feature_2": "Farpointe Data PCR-620L-WG"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-pcr-640l-osdp",
+    "sku": "AC-FP-READER-PCR-640L-OSDP",
+    "name": "Farpointe Data PCR-640L-OSDP",
+    "description": "Long-range single-gang wall switch box mount mobile and proximity credential reader and keypad",
+    "priceUSD": 811.56,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 295,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta64_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Long-range single-gang wall switch box mount mobile and proximity credential reader and keypad",
+      "Feature_2": "Farpointe Data PCR-640L-OSDP"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-pcr-640l-wiegand",
+    "sku": "AC-FP-READER-PCR-640L-WIEGAND",
+    "name": "Farpointe Data PCR-640L-WG",
+    "description": "Long-range single-gang wall switch box mount mobile and proximity credential reader and keypad",
+    "priceUSD": 665.59,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 141,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/delta64_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Long-range single-gang wall switch box mount mobile and proximity credential reader and keypad",
+      "Feature_2": "Farpointe Data PCR-640L-WG"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-reader-wiegand-em-64-h",
+    "sku": "AC-FP-READER-WIEGAND-EM-64-H",
+    "name": "Farpointe Data EM-64-H WIEGAND",
+    "description": "EM-64-H Diamondback Proximity Reader and Keypad ; Ship Kit",
+    "priceUSD": 470,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 238,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/p640_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "EM-64-H Diamondback Proximity Reader and Keypad",
+      "Feature_2": "Ship Kit",
+      "Feature_3": "Farpointe Data EM-64-H WIEGAND"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-rec-long-range-wrr-22",
+    "sku": "AC-FP-REC-LONG-RANGE-WRR-22",
+    "name": "Farpointe Data WRR-22",
+    "description": "Long-Range Receiver; designed to output Transmitter data from buttons 1 and 2 over two separate Wiegand outputs and install similar to a Pyramid Series Proximity® reader; making for easy integration with most access control systems.  (Non-stock item)(Farpointe Data Part Number: WRR-22)",
+    "priceUSD": 288.86,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 299,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/wrr22_1200x1200_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Long-Range Receiver",
+      "Feature_2": "designed to output Transmitter data from buttons 1 and 2 over two separate Wiegand outputs and install similar to a Pyramid Series Proximity® reader",
+      "Feature_3": "making for easy integration with most access control systems",
+      "Feature_4": "(Non-stock item)(Farpointe Data Part Number: WRR-22)",
+      "Feature_5": "Farpointe Data WRR-22"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-farpointe-data-ac-fp-rec-wrr-44",
+    "sku": "AC-FP-REC-WRR-44",
+    "name": "Farpointe Data WRR-44",
+    "description": "WRR-44 Ranger Receiver - Long range radio-type receiver; features a Transmitter receive range of up to 200-feet (61-m); and is ideal for applications involving vehicle or disabled access(Stock Item) (Farpointe Data Part Number: WRR-44)",
+    "priceUSD": 475.9,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Farpointe Data",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 235,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/wrr44_1200x1200_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "WRR-44 Ranger Receiver - Long range radio-type receiver",
+      "Feature_2": "features a Transmitter receive range of up to 200-feet (61-m)",
+      "Feature_3": "and is ideal for applications involving vehicle or disabled access(Stock Item) (Farpointe Data Part Number: WRR-44)",
+      "Feature_4": "Farpointe Data WRR-44"
+    },
+    "features": [
+      "Official Farpointe Data High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-pivclass-40hnks-03-0005le",
+    "sku": "AC-HID-PIVCLASS-40HNKS-03-0005LE",
+    "name": "HID 40HNKS-03-0005LE",
+    "description": "SIGNO 40 PIV;BLK/SLVR;PIG;CRD PFL CSTM;FIPS75BIT;BLE:OFF;OSDP;V1;CSN SUPR;EM:32-B;LED:OFF;FLSH:OFF;NOBZR;SRF:ON;VEL:OF",
+    "priceUSD": 523.63,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 100,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "SIGNO 40 PIV",
+      "Feature_2": "BLK/SLVR",
+      "Feature_3": "PIG",
+      "Feature_4": "CRD PFL CSTM",
+      "Feature_5": "FIPS75BIT",
+      "Feature_6": "BLE:OFF",
+      "Feature_7": "OSDP",
+      "Feature_8": "V1",
+      "Feature_9": "CSN SUPR",
+      "Feature_10": "EM:32-B",
+      "Feature_11": "LED:OFF",
+      "Feature_12": "FLSH:OFF",
+      "Feature_13": "NOBZR",
+      "Feature_14": "SRF:ON",
+      "Feature_15": "VEL:OF",
+      "Feature_16": "HID 40HNKS-03-0005LE"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-iclass-se-rk40",
+    "sku": "AC-HID-READ-ICLASS-SE-RK40",
+    "name": "HID 921NTNNEK00000",
+    "description": "RK40 Standard wall switch reader with keypad input; Wiegand; No Prox; iCLASS Seos; SE; SR; Standard; MIFARE Classic (SIO); MIFARE DESFire EV1 (SIO); Mobile IDs via NFC; ISO 14443 UID; Pigtail (HID Part #: 921NTNNEK00000)",
+    "priceUSD": 734.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 253,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-ICLASS-SE-R40_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "RK40 Standard wall switch reader with keypad input",
+      "Feature_2": "Wiegand",
+      "Feature_3": "No Prox",
+      "Feature_4": "iCLASS Seos",
+      "Feature_5": "SE",
+      "Feature_6": "SR",
+      "Feature_7": "Standard",
+      "Feature_8": "MIFARE Classic (SIO)",
+      "Feature_9": "MIFARE DESFire EV1 (SIO)",
+      "Feature_10": "Mobile IDs via NFC",
+      "Feature_11": "ISO 14443 UID",
+      "Feature_12": "Pigtail (HID Part #: 921NTNNEK00000)",
+      "Feature_13": "HID 921NTNNEK00000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-iclass-se-rpk40",
+    "sku": "AC-HID-READ-ICLASS-SE-RPK40",
+    "name": "HID Part 921PTNNEK00000",
+    "description": "RPK40 Standard wall switch reader with keypad input; Wiegand; HID Prox; AWID and EM4102 (32 bits); iCLASS Seos; SE; SR; Standard; MIFARE Classic (SIO); MIFARE DESFire EV1 (SIO); Mobile IDs via NFC; ISO 14443 UID; Pigtail (HID Part #: 921PTNNEK00000)",
+    "priceUSD": 791.23,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 182,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-ICLASS-SE-RPK40_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "RPK40 Standard wall switch reader with keypad input",
+      "Feature_2": "Wiegand",
+      "Feature_3": "HID Prox",
+      "Feature_4": "AWID and EM4102 (32 bits)",
+      "Feature_5": "iCLASS Seos",
+      "Feature_6": "SE",
+      "Feature_7": "SR",
+      "Feature_8": "Standard",
+      "Feature_9": "MIFARE Classic (SIO)",
+      "Feature_10": "MIFARE DESFire EV1 (SIO)",
+      "Feature_11": "Mobile IDs via NFC",
+      "Feature_12": "ISO 14443 UID",
+      "Feature_13": "Pigtail (HID Part #: 921PTNNEK00000)",
+      "Feature_14": "HID Part 921PTNNEK00000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-maxiprox",
+    "sku": "AC-HID-READ-MAXIPROX",
+    "name": "HID MaxiProx Long Range Proximity Reader (HID # 5375AGN00)",
+    "description": "MaxiProx Long Range Proximity Reader (HID # 5375AGN00)",
+    "priceUSD": 1521.85,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 225,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-MAXIPROX_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MaxiProx Long Range Proximity Reader (HID # 5375AGN00)",
+      "Feature_2": "HID MaxiProx Long Range Proximity Reader (HID # 5375AGN00)"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-miniprox",
+    "sku": "AC-HID-READ-MINIPROX",
+    "name": "HID MiniProx Proximity Reader (HID # 5365EKP00)",
+    "description": "MiniProx Proximity Reader (HID # 5365EKP00)",
+    "priceUSD": 511.1,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 104,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-MINIPROX_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MiniProx Proximity Reader (HID # 5365EKP00)",
+      "Feature_2": "HID MiniProx Proximity Reader (HID # 5365EKP00)"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-omnikey-r54270101",
+    "sku": "AC-HID-READ-OMNIKEY-R54270101",
+    "name": "HID R54270001",
+    "description": "5427 CK standard omnikey USB Enrollment reader;  iCLASS Seos®; HID Prox®; iCLASS SE®; MIFARE Classic® and MIFARE® DESFire® EV1; supports NFC (HID Part Number: R54270001)",
+    "priceUSD": 481.86,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 128,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-OMNIKEY-R54270101_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "5427 CK standard omnikey USB Enrollment reader",
+      "Feature_2": "iCLASS Seos®",
+      "Feature_3": "HID Prox®",
+      "Feature_4": "iCLASS SE®",
+      "Feature_5": "MIFARE Classic® and MIFARE® DESFire® EV1",
+      "Feature_6": "supports NFC (HID Part Number: R54270001)",
+      "Feature_7": "HID R54270001"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-proxpro",
+    "sku": "AC-HID-READ-PROXPRO",
+    "name": "HID ProxPro Proximity Reader (HID # 5355AGN00)",
+    "description": "ProxPro Proximity Reader (HID # 5355AGN00)",
+    "priceUSD": 587.38,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 192,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-PROXPRO_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ProxPro Proximity Reader (HID # 5355AGN00)",
+      "Feature_2": "HID ProxPro Proximity Reader (HID # 5355AGN00)"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-proxpro-keypd",
+    "sku": "AC-HID-READ-PROXPRO-KEYPD",
+    "name": "HID ProxPro Proximity Reader with Keypad (HID # 5355AGK00)",
+    "description": "ProxPro Proximity Reader with Keypad (HID # 5355AGK00)",
+    "priceUSD": 930.65,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 178,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-PROXPRO-KEYPD_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ProxPro Proximity Reader with Keypad (HID # 5355AGK00)",
+      "Feature_2": "HID ProxPro Proximity Reader with Keypad (HID # 5355AGK00)"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-proxproii",
+    "sku": "AC-HID-READ-PROXPROII",
+    "name": "HID ProxPro II Proximity Reader (HID # 5455BKN00)",
+    "description": "ProxPro II Proximity Reader (HID # 5455BKN00)",
+    "priceUSD": 530.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 161,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-PROXPROII_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ProxPro II Proximity Reader (HID # 5455BKN00)",
+      "Feature_2": "HID ProxPro II Proximity Reader (HID # 5455BKN00)"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-read-thinline",
+    "sku": "AC-HID-READ-THINLINE",
+    "name": "HID ThinLine II Switch Plate Proximity Reader (HID # 5395CK100)",
+    "description": "ThinLine II Switch Plate Proximity Reader (HID # 5395CK100)",
+    "priceUSD": 520.62,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 114,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READ-THINLINE_071520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ThinLine II Switch Plate Proximity Reader (HID # 5395CK100)",
+      "Feature_2": "HID ThinLine II Switch Plate Proximity Reader (HID # 5395CK100)"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-00-000000",
+    "name": "HID 20KNKS-00-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz &125kHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 161,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20KNKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-00-000000-AVG",
+    "name": "HID 20KNKS-00-000000 Avigilon Logo",
+    "description": "Signo20K; Mullion w/Keypad; Standard Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 245,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20KNKS-00-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-01-000000",
+    "name": "HID 20KNKS-01-000000",
+    "description": "Signo20K; Mullion w/Keypad; Seos Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 704.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 120,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KNKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 20KNKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-02-000000",
+    "name": "HID 20KNKS-02-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 121,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KNKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20KNKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-02-000000-AVG",
+    "name": "HID 20KNKS-02-000000 Avigilon Logo",
+    "description": "Signo20K; Mullion w/Keypad; Smart Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 852.2,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 287,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20KNKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-T0-000000",
+    "name": "HID 20KNKS-T0-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20K PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 875.45,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 224,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20K PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 20KNKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-T1-000000",
+    "name": "HID 20KNKS-T1-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20K PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 750.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 117,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20K PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 20KNKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20knks-t2-000000",
+    "sku": "AC-HID-READER-SIGNO-20KNKS-T2-000000",
+    "name": "HID 20KNKS-T2-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 20K PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO)",
+    "priceUSD": 812.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 294,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 20K PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "HID 20KNKS-T2-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-00-000000",
+    "name": "HID 20KTKS-00-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz &125kHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 236,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20KTKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-00-000000-AVG",
+    "name": "HID 20KTKS-00-000000 Avigilon Logo",
+    "description": "Signo20K; Mullion w/Keypad; Standard Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 296,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20KTKS-00-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-01-000000",
+    "name": "HID 20KTKS-01-000000",
+    "description": "Signo20K; Mullion w/Keypad; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 704.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 132,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 20KTKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-01-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-01-000000-AVG",
+    "name": "HID 20KTKS-01-000000 Avigilon Logo",
+    "description": "Signo20K; Mullion w/Keypad; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 704.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 132,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20KTKS-01-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-02-000000",
+    "name": "HID 20KTKS-02-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 212,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20KTKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-02-000000-AVG",
+    "name": "HID 20KTKS-02-000000 Avigilon Logo",
+    "description": "Signo20K; Mullion w/Keypad; Smart Profile; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 221,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20KTKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-02-0002bl",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-02-0002BL",
+    "name": "HID 20KTKS-02-0002BL",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 240,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20KTKS-02-0002BL"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-T0-000000",
+    "name": "HID 20KTKS-T0-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20K TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 875.45,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 142,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20K TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 20KTKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20ktks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-20KTKS-T1-000000",
+    "name": "HID 20KTKS-T1-000000",
+    "description": "Signo20K; Mullion w/Keypad; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20K TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 750.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 167,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20KTKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20K",
+      "Feature_2": "Mullion w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20K TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 20KTKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-20NKS-00-000000",
+    "name": "HID 20NKS-00-000000",
+    "description": "Signo20; Mullion; 13.56mHz &125kHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 484.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 235,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20NKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20NKS-00-000000-AVG",
+    "name": "HID 20NKS-00-000000Avigilon Logo",
+    "description": "Signo20; Mullion; Standard Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 484.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 255,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-20-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20NKS-00-000000Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-20NKS-01-000000",
+    "name": "HID 20NKS-01-000000",
+    "description": "Signo20; Mullion; Seos Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 367.04,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 208,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 20NKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-20NKS-02-000000",
+    "name": "HID 20NKS-02-000000",
+    "description": "Signo20; Mullion; 13.56mHz Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 425.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 154,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20NKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20NKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20NKS-02-000000-AVG",
+    "name": "HID 20NKS-02-000000 Avigilon Logo",
+    "description": "Signo20; Mullion; Smart Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 425.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 238,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-20-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20NKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-02-0002bl",
+    "sku": "AC-HID-READER-SIGNO-20NKS-02-0002BL",
+    "name": "HID 20NKS-02-0002BL",
+    "description": "Signo20; Mullion; 13.56mHz Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 425.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 293,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20NKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20NKS-02-0002BL"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-20NKS-T0-000000",
+    "name": "HID 20NKS-T0-000000",
+    "description": "Signo20; Mullion; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20 PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 515.88,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 286,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20 PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 20NKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-20NKS-T1-000000",
+    "name": "HID 20NKS-T1-000000",
+    "description": "Signo20; Mullion; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20 PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 390.83,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 276,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20 PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 20NKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20nks-t2-000000",
+    "sku": "AC-HID-READER-SIGNO-20NKS-T2-000000",
+    "name": "HID 20NKS-T2-000000",
+    "description": "Signo20; Mullion; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 20 PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO)",
+    "priceUSD": 453.37,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 151,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 20 PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "HID 20NKS-T2-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-20TKS-00-000000",
+    "name": "HID 20TKS-00-000000",
+    "description": "Signo20; Mullion; 13.56mHz &125kHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 484.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 282,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20TKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20TKS-00-000000-AVG",
+    "name": "HID 20TKS-00-000000 Avigilon Logo",
+    "description": "Signo20; Mullion; Standard Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 484.5,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 179,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-20-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20TKS-00-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-20TKS-01-000000",
+    "name": "HID 20TKS-01-000000",
+    "description": "Signo20; Mullion; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 367.04,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 202,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 20TKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-01-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20TKS-01-000000-AVG",
+    "name": "HID 20TKS-01-000000 Avigilon Logo",
+    "description": "Signo20; Mullion; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 367.04,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 271,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-20-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20TKS-01-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-01-00001h",
+    "sku": "AC-HID-READER-SIGNO-20TKS-01-00001H",
+    "name": "HID 20TKS-01-00001H",
+    "description": "Signo20; Mullion; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 367.04,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 266,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 20TKS-01-00001H"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-01-00001h-avg",
+    "sku": "AC-HID-READER-SIGNO-20TKS-01-00001H-AVG",
+    "name": "HID 20TKS-01-00001H AVIGILON LOGO",
+    "description": "Signo20; Mullion; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 367.04,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 195,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-20-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20TKS-01-00001H AVIGILON LOGO"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-20TKS-02-000000",
+    "name": "HID 20TKS-02-000000",
+    "description": "Signo20; Mullion; 13.56mHz Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 425.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 212,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20TKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-20TKS-02-000000-AVG",
+    "name": "HID 20TKS-02-000000 Avigilon Logo",
+    "description": "Signo20; Mullion; Smart Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 425.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 232,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-20-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 20TKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-02-0002bl",
+    "sku": "AC-HID-READER-SIGNO-20TKS-02-0002BL",
+    "name": "HID 20TKS-02-0002BL",
+    "description": "Signo20; Mullion; 13.56mHz Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 425.76,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 215,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 20TKS-02-0002BL"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-20TKS-T0-000000",
+    "name": "HID 20TKS-T0-000000",
+    "description": "Signo20; Mullion; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20 TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 515.88,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 130,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 20 TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 20TKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-20TKS-T1-000000",
+    "name": "HID 20TKS-T1-000000",
+    "description": "Signo20; Mullion; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20 TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 390.83,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 163,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 20 TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 20TKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-20tks-t2-000000",
+    "sku": "AC-HID-READER-SIGNO-20TKS-T2-000000",
+    "name": "HID 20TKS-T2-000000",
+    "description": "Signo20; Mullion; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 20 TERMINAL STRIP MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO)",
+    "priceUSD": 453.37,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 157,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-20TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo20",
+      "Feature_2": "Mullion",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 20 TERMINAL STRIP MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "HID 20TKS-T2-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-00-000000",
+    "name": "HID 40KNKS-00-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz &125kHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 116,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40KNKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-00-000000-AVG",
+    "name": "HID 40KNKS-00-000000 Avigilon Logo",
+    "description": "Signo40K; Wall mount w/Keypad; Standard Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 186,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40KNKS-00-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-01-000000",
+    "name": "HID 40KNKS-01-000000",
+    "description": "Signo40K; Wall mount w/Keypad; Seos Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 704.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 105,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KNKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 40KNKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-02-000000",
+    "name": "HID 40KNKS-02-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 250,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KNKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40KNKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-02-000000-AVG",
+    "name": "HID 40KNKS-02-000000 Avigilon Logo",
+    "description": "Signo40K; Wall mount w/Keypad; Smart Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 241,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40KNKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-02-0002bl",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-02-0002BL",
+    "name": "HID 40KNKS-02-0002BL",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 158,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KNKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40KNKS-02-0002BL"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.922Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-T0-000000",
+    "name": "HID 40KNKS-T0-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40K PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 875.45,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 250,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40K PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 40KNKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.923Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-T1-000000",
+    "name": "HID 40KNKS-T1-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40K PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 750.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 156,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40K PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 40KNKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.923Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40knks-t2-000000",
+    "sku": "AC-HID-READER-SIGNO-40KNKS-T2-000000",
+    "name": "HID 40KNKS-T2-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40K PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO)",
+    "priceUSD": 812.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 101,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KNKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40K PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "HID 40KNKS-T2-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.923Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-00-000000",
+    "name": "HID 40KTKS-00-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz &125kHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 118,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40KTKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:42:22.923Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-00-000000-AVG",
+    "name": "HID 40KTKS-00-000000 Avigilon Logo",
+    "description": "Signo40K; Wall mount w/Keypad; Standard Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 822.14,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 281,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40KTKS-00-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.461Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-01-000000",
+    "name": "HID 40KTKS-01-000000",
+    "description": "Signo40K; Wall mount w/Keypad; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 704.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 261,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 40KTKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-01-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-01-000000-AVG",
+    "name": "HID 40KTKS-01-000000 Avigilon Logo",
+    "description": "Signo40K; Wall mount w/Keypad; Seos Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 704.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40KTKS-01-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-02-000000",
+    "name": "HID 40KTKS-02-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 158,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40KTKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-02-000000-AVG",
+    "name": "HID 40KTKS-02-000000 Avigilon Logo",
+    "description": "Signo40K; Wall mount w/Keypad; Smart Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 763.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 117,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-01-000000-AVG-11162020.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40KTKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-T0-000000",
+    "name": "HID 40KTKS-T0-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40K TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 875.45,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 108,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40K TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 40KTKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-T1-000000",
+    "name": "HID 40KTKS-T1-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40K TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 750.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 184,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40K TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 40KTKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40ktks-t2-000000",
+    "sku": "AC-HID-READER-SIGNO-40KTKS-T2-000000",
+    "name": "HID 40KTKS-T2-000000",
+    "description": "Signo40K; Wall mount w/Keypad; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40K TERMINAL STRIP MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO)",
+    "priceUSD": 812.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 118,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40KTKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40K",
+      "Feature_2": "Wall mount w/Keypad",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40K TERMINAL STRIP MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "HID 40KTKS-T2-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-40NKS-00-000000",
+    "name": "HID 40NKS-00-000000",
+    "description": "Signo40; Wall mount; 13.56mHz &125kHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 499.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 231,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40NKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40NKS-00-000000-AVG",
+    "name": "HID 40NKS-00-000000 Avigilon Logo",
+    "description": "Signo40; Wall mount; Standard Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 499.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 160,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-40-reader-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40NKS-00-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-40NKS-01-000000",
+    "name": "HID 40NKS-01-000000",
+    "description": "Signo40; Wall mount; Seos Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 381.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 171,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 40NKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-01-00001h",
+    "sku": "AC-HID-READER-SIGNO-40NKS-01-00001H",
+    "name": "HID 40NKS-01-00001H",
+    "description": "Signo40; Wall mount; Seos Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 381.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 271,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 40NKS-01-00001H"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-40NKS-02-000000",
+    "name": "HID 40NKS-02-000000",
+    "description": "Signo40; Wall mount; 13.56mHz Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 440.42,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 224,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40NKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40NKS-02-000000-AVG",
+    "name": "HID 40NKS-02-000000 Avigilon Logo",
+    "description": "Signo40; Wall mount; Smart Profile; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 440.42,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 154,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-40-reader-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Pigtail",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40NKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-02-0002bl",
+    "sku": "AC-HID-READER-SIGNO-40NKS-02-0002BL",
+    "name": "HID 40NKS-02-0002BL",
+    "description": "Signo40; Wall mount; 13.56mHz Profile ; OSDP/Wiegand; Pigtail; Mobile Ready; BLE",
+    "priceUSD": 440.42,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 238,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40NKS-02-0002BL"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-40NKS-T0-000000",
+    "name": "HID 40NKS-T0-000000",
+    "description": "Signo40; Wall mount; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40 PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 531.52,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 133,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40 PIGTAIL MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 40NKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-40NKS-T1-000000",
+    "name": "HID 40NKS-T1-000000",
+    "description": "Signo40; Wall mount; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40 PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 406.48,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 285,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40 PIGTAIL MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 40NKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-t2-000000",
+    "sku": "AC-HID-READER-SIGNO-40NKS-T2-000000",
+    "name": "HID 40NKS-T2-000000",
+    "description": "Signo40; Wall mount; 13.56mHz; OSDP/Wiegand; Pigtail; Mobile Ready; BLE; PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40 PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO)",
+    "priceUSD": 468.98,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 246,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Pigtail",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40 PIGTAIL MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "HID 40NKS-T2-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40nks-t3-00fd21",
+    "sku": "AC-HID-READER-SIGNO-40NKS-T3-00FD21",
+    "name": "HID 40NKS-T3-00FD21",
+    "description": "SIGNO 40;BLK/SLVR;PIG;CRD PFL T3-CSTM;MA ENB;MOBA9Y7;BLE:ON;WIEG;CSN SUPR;EM:32-B;MAP1:DF;ICE1758;LED:RED;FLSH:GRN;BZR;SRF:ON;VEL:OFF;TAP",
+    "priceUSD": 594.06,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 247,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "SIGNO 40",
+      "Feature_2": "BLK/SLVR",
+      "Feature_3": "PIG",
+      "Feature_4": "CRD PFL T3-CSTM",
+      "Feature_5": "MA ENB",
+      "Feature_6": "MOBA9Y7",
+      "Feature_7": "BLE:ON",
+      "Feature_8": "WIEG",
+      "Feature_9": "CSN SUPR",
+      "Feature_10": "EM:32-B",
+      "Feature_11": "MAP1:DF",
+      "Feature_12": "ICE1758",
+      "Feature_13": "LED:RED",
+      "Feature_14": "FLSH:GRN",
+      "Feature_15": "BZR",
+      "Feature_16": "SRF:ON",
+      "Feature_17": "VEL:OFF",
+      "Feature_18": "TAP",
+      "Feature_19": "HID 40NKS-T3-00FD21"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-00-000000",
+    "sku": "AC-HID-READER-SIGNO-40TKS-00-000000",
+    "name": "HID 40TKS-00-000000",
+    "description": "Signo40; Wall mount; 13.56mHz &125kHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 499.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 221,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz &125kHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40TKS-00-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-00-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40TKS-00-000000-AVG",
+    "name": "HID 40TKS-00-000000 Avigilon Logo",
+    "description": "Signo40; Wall mount; Standard Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 499.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 162,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-40-reader-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Standard Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40TKS-00-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-01-000000",
+    "sku": "AC-HID-READER-SIGNO-40TKS-01-000000",
+    "name": "HID 40TKS-01-000000",
+    "description": "Signo40; Wall mount; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 381.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 300,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 40TKS-01-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-01-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40TKS-01-000000-AVG",
+    "name": "HID 40TKS-01-000000 Avigilon Logo",
+    "description": "Signo40; Wall mount; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 381.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 221,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-40-reader-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40TKS-01-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-01-00001h",
+    "sku": "AC-HID-READER-SIGNO-40TKS-01-00001H",
+    "name": "HID 40TKS-01-00001H",
+    "description": "Signo40; Wall mount; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 381.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 204,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 40TKS-01-00001H"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-01-00001h-avg",
+    "sku": "AC-HID-READER-SIGNO-40TKS-01-00001H-AVG",
+    "name": "HID 40TKS-01-00001H AVIGILON LOGO",
+    "description": "Signo40; Wall mount; Seos Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 381.72,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 148,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-40-reader-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Seos Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "HID 40TKS-01-00001H AVIGILON LOGO"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-02-000000",
+    "sku": "AC-HID-READER-SIGNO-40TKS-02-000000",
+    "name": "HID 40TKS-02-000000",
+    "description": "Signo40; Wall mount; 13.56mHz Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE",
+    "priceUSD": 440.42,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 124,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-02-0002BL_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz Profile",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "HID 40TKS-02-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-02-000000-avg",
+    "sku": "AC-HID-READER-SIGNO-40TKS-02-000000-AVG",
+    "name": "HID 40TKS-02-000000 Avigilon Logo",
+    "description": "Signo40; Wall mount; Smart Profile ; OSDP/Wiegand; Terminal; Mobile Ready; BLE; Avigilon Logo",
+    "priceUSD": 440.42,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 124,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/pacs-signo-40-reader-front_072920.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "Smart Profile",
+      "Feature_4": "OSDP/Wiegand",
+      "Feature_5": "Terminal",
+      "Feature_6": "Mobile Ready",
+      "Feature_7": "BLE",
+      "Feature_8": "Avigilon Logo",
+      "Feature_9": "HID 40TKS-02-000000 Avigilon Logo"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-t0-000000",
+    "sku": "AC-HID-READER-SIGNO-40TKS-T0-000000",
+    "name": "HID 40TKS-T0-000000",
+    "description": "Signo40; Wall mount; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40 TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO); MIFARE DESFire EV1/EV2 (CSN); MIFARE Classic (CSN)",
+    "priceUSD": 531.52,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 268,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY STANDARD CREDENTIAL PROFILE OPTION (T0) FOR THE SIGNO READER 40 TERMINAL STRIP MODEL - Profile T0 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "MIFARE DESFire EV1/EV2 (CSN)",
+      "Feature_17": "MIFARE Classic (CSN)",
+      "Feature_18": "HID 40TKS-T0-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-t1-000000",
+    "sku": "AC-HID-READER-SIGNO-40TKS-T1-000000",
+    "name": "HID 40TKS-T1-000000",
+    "description": "Signo40; Wall mount; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40 TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos",
+    "priceUSD": 406.48,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 210,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SEOS CREDENTIAL PROFILE OPTION (T1) FOR THE SIGNO READER 40 TERMINAL STRIP MODEL - Profile T1 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "HID 40TKS-T1-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-t2-000000",
+    "sku": "AC-HID-READER-SIGNO-40TKS-T2-000000",
+    "name": "HID 40TKS-T2-000000",
+    "description": "Signo40; Wall mount; 13.56mHz; OSDP/Wiegand; Terminal; Mobile Ready; BLE; PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40 TERMINAL STRIP MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE); Seos; iCLASS SE®; iCLASS SR®; iCLASS®; MIFARE DESFire EV1/EV2 (SIO)/EV3; MIFARE Classic (SIO)",
+    "priceUSD": 468.98,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 190,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-00-000000_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Signo40",
+      "Feature_2": "Wall mount",
+      "Feature_3": "13",
+      "Feature_4": "56mHz",
+      "Feature_5": "OSDP/Wiegand",
+      "Feature_6": "Terminal",
+      "Feature_7": "Mobile Ready",
+      "Feature_8": "BLE",
+      "Feature_9": "PRIORITY SMART CREDENTIAL PROFILE OPTION (T2) FOR THE SIGNO READER 40 TERMINAL STRIP MODEL - Profile T2 includes the following NFC/BLE/High Frequency only - Seos® (Mobile ID's via NFC/BLE)",
+      "Feature_10": "Seos",
+      "Feature_11": "iCLASS SE®",
+      "Feature_12": "iCLASS SR®",
+      "Feature_13": "iCLASS®",
+      "Feature_14": "MIFARE DESFire EV1/EV2 (SIO)/EV3",
+      "Feature_15": "MIFARE Classic (SIO)",
+      "Feature_16": "HID 40TKS-T2-000000"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-reader-signo-40tks-t3-00fd21",
+    "sku": "AC-HID-READER-SIGNO-40TKS-T3-00FD21",
+    "name": "HID 40TKS-T3-00FD21",
+    "description": "SIGNO 40;BLK/SLVR;TERM;CRD PFL T3-CSTM;MA ENB;MOBA9Y7;BLE:ON;WIEG;CSN SUPR;EM:32-B;MAP1:DF;ICE1758;LED:RED;FLSH:GRN;BZR;SRF:ON;VEL:OFF;TAP",
+    "priceUSD": 594.06,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 208,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40TKS-01-00001H_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "SIGNO 40",
+      "Feature_2": "BLK/SLVR",
+      "Feature_3": "TERM",
+      "Feature_4": "CRD PFL T3-CSTM",
+      "Feature_5": "MA ENB",
+      "Feature_6": "MOBA9Y7",
+      "Feature_7": "BLE:ON",
+      "Feature_8": "WIEG",
+      "Feature_9": "CSN SUPR",
+      "Feature_10": "EM:32-B",
+      "Feature_11": "MAP1:DF",
+      "Feature_12": "ICE1758",
+      "Feature_13": "LED:RED",
+      "Feature_14": "FLSH:GRN",
+      "Feature_15": "BZR",
+      "Feature_16": "SRF:ON",
+      "Feature_17": "VEL:OFF",
+      "Feature_18": "TAP",
+      "Feature_19": "HID 40TKS-T3-00FD21"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-hid-ac-hid-upgkit-bleosdp-upg-a-920",
+    "sku": "AC-HID-UPGKIT-BLEOSDP-UPG-A-920",
+    "name": "HID BLEOSDP-UPG-A-920",
+    "description": "R40/RP40 ICLASS/MULTICLASS; SE RDR BLE OSDP UPGRADE KIT; 1 BLE OSDP MODULE; 1 METALIC BACKPLATE STICKER",
+    "priceUSD": 192,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "HID",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 205,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-UPGKIT-BLEOSDP-UPG-A-920_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "R40/RP40 ICLASS/MULTICLASS",
+      "Feature_2": "SE RDR BLE OSDP UPGRADE KIT",
+      "Feature_3": "1 BLE OSDP MODULE",
+      "Feature_4": "1 METALIC BACKPLATE STICKER",
+      "Feature_5": "HID BLEOSDP-UPG-A-920"
+    },
+    "features": [
+      "Official HID High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-acss-rain-cover",
+    "sku": "AC-STID-ACSS-RAIN-COVER",
+    "name": "AC-STID-ACSS-RAIN-COVER",
+    "description": "Rain cover for Architect keypad readers",
+    "priceUSD": 49.13,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 219,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Rain cover for Architect keypad readers",
+      "Feature_2": "AC-STID-ACSS-RAIN-COVER"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-alm-24v",
+    "sku": "AC-STID-ALM-24V",
+    "name": "AC-STID-ALM-24V",
+    "description": "Power supply for UHF readers -  24VDC - Europe / USA Plug",
+    "priceUSD": 252.49,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 286,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Power supply for UHF readers -  24VDC - Europe / USA Plug",
+      "Feature_2": "AC-STID-ALM-24V"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-architect-programming-kit-secard-bt",
+    "sku": "AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT",
+    "name": "STid KIT-SECARD-BT",
+    "description": "Programming Kit for Bluetooth®/Ultralight® C/MIFARE® Classic & Classic EV1/MIFARE Plus®/DESFire® EV2 & EV3/NFC HCE + SECard Software",
+    "priceUSD": 2188.21,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 113,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-SECARD-STARUP-PAGE-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "Programming Kit for Bluetooth®/Ultralight® C/MIFARE® Classic & Classic EV1/MIFARE Plus®/DESFire® EV2 & EV3/NFC HCE + SECard Software",
+      "Feature_2": "STid KIT-SECARD-BT"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-card-cctw170",
+    "sku": "AC-STID-CARD-CCTW170",
+    "name": "STid Card CCTW170",
+    "description": "STid ISO Card with MIFARE® Classic EV1 4K chip -  Manufacturer PN: CCTW170",
+    "priceUSD": 5.41,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 272,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "STid ISO Card with MIFARE® Classic EV1 4K chip -  Manufacturer PN: CCTW170",
+      "Feature_2": "STid Card CCTW170"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-card-cctw880",
+    "sku": "AC-STID-CARD-CCTW880",
+    "name": "STid Card CCTW880",
+    "description": "STid ISO Card with DESFire EV3 4K chip - Manufacturer PN: CCTW880",
+    "priceUSD": 7.21,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 267,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "STid ISO Card with DESFire EV3 4K chip - Manufacturer PN: CCTW880",
+      "Feature_2": "STid Card CCTW880"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-em-hid-lf-module-se810",
+    "sku": "AC-STID-EM+HID-LF-MODULE-SE810",
+    "name": "STid SE810",
+    "description": "SE8 - 125 kHz EM + HID module for Architect Blue reader - Standard reader black - 125 kHz EM + HID module. 125KHz Single Format Module; In addition to EM Format; it can be configured to read either HID Prox 26bit or 37bit; Only one format can be selected",
+    "priceUSD": 188.36,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 265,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SE8M-125KHZ-MODULE-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "SE8 - 125 kHz EM + HID module for Architect Blue reader - Standard reader black - 125 kHz EM + HID module",
+      "Feature_2": "125KHz Single Format Module",
+      "Feature_3": "In addition to EM Format",
+      "Feature_4": "it can be configured to read either HID Prox 26bit or 37bit",
+      "Feature_5": "Only one format can be selected",
+      "Feature_6": "STid SE810"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-enroll-reader-uhf-swedge-w45",
+    "sku": "AC-STID-ENROLL-READER-UHF-SWEDGE-W45",
+    "name": "STid SWEDGE-W45",
+    "description": "UHF EPC1 Gen2 Enrollment Kit SWEDGE: ARC UHF desktop reader - ETSI - USB (cable included) + SWEDGE Software (Europe)",
+    "priceUSD": 1514.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 125,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-ARC-UHF-SWEDGE-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "UHF EPC1 Gen2 Enrollment Kit SWEDGE: ARC UHF desktop reader - ETSI - USB (cable included) + SWEDGE Software (Europe)",
+      "Feature_2": "STid SWEDGE-W45"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-enroll-reader-uhf-swedge-w55",
+    "sku": "AC-STID-ENROLL-READER-UHF-SWEDGE-W55",
+    "name": "STid SWEDGE-W55",
+    "description": "UHF EPC1 Gen2 Enrollment Kit SWEDGE: ARC UHF desktop reader - FCC - USB (cable included) + SWEDGE Software (Americas)",
+    "priceUSD": 1514.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-ARC-UHF-SWEDGE-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "UHF EPC1 Gen2 Enrollment Kit SWEDGE: ARC UHF desktop reader - FCC - USB (cable included) + SWEDGE Software (Americas)",
+      "Feature_2": "STid SWEDGE-W55"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-enroll-reader-usb-arcs-r35-h-slash-bt1-5ab-slash-1a",
+    "sku": "AC-STID-ENROLL-READER-USB-ARCS-R35-H/BT1-5AB/1A",
+    "name": "STid ARCS-R35-H/BT1-5AB/1A",
+    "description": "ARCS-H/BT - Architect® Blue Desktop reader/enroller - Secure storage EAL5+ - Secure Read only - USB + WEDGE with keypad emulation interface (cable included) - AZERTY default configuration",
+    "priceUSD": 673.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 203,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-ARC-UHF-droite-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "ARCS-H/BT - Architect® Blue Desktop reader/enroller - Secure storage EAL5+ - Secure Read only - USB + WEDGE with keypad emulation interface (cable included) - AZERTY default configuration",
+      "Feature_2": "STid ARCS-R35-H/BT1-5AB/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-enroll-reader-usb-arcs-r35-h-slash-bt1-5aq-slash-1a",
+    "sku": "AC-STID-ENROLL-READER-USB-ARCS-R35-H/BT1-5AQ/1A",
+    "name": "STid ARCS-R35-H/BT1-5AQ/1A",
+    "description": "ARCS-H/BT - Architect® Blue Desktop reader/enroller - Secure storage EAL5+ - Secure Read only - USB + WEDGE with keypad emulation interface (cable included) - QWERTY default configuration",
+    "priceUSD": 673.3,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 286,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-ARC-UHF-droite-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "ARCS-H/BT - Architect® Blue Desktop reader/enroller - Secure storage EAL5+ - Secure Read only - USB + WEDGE with keypad emulation interface (cable included) - QWERTY default configuration",
+      "Feature_2": "STid ARCS-R35-H/BT1-5AQ/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-kit-secard-bt-bio",
+    "sku": "AC-STID-KIT-SECARD-BT-BIO",
+    "name": "AC-STID-KIT-SECARD-BT-BIO",
+    "description": "Architect Series Programming Kit + Fingerprint module",
+    "priceUSD": 3114,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 186,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-SECARD-STARUP-PAGE-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "Architect Series Programming Kit + Fingerprint module",
+      "Feature_2": "AC-STID-KIT-SECARD-BT-BIO"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-kit-ultrysv3-etsi",
+    "sku": "AC-STID-KIT-ULTRYSV3-ETSI",
+    "name": "AC-STID-KIT-ULTRYSV3-ETSI",
+    "description": "UHF Programming Kit for SPECTRE Series - ETSI (Europe)",
+    "priceUSD": 1683.24,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 127,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "UHF Programming Kit for SPECTRE Series - ETSI (Europe)",
+      "Feature_2": "AC-STID-KIT-ULTRYSV3-ETSI"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-lf-mt-module-se8m10",
+    "sku": "AC-STID-LF-MT-MODULE-SE8M10",
+    "name": "STid SE8M10",
+    "description": "SE8M - 125 kHz Multi-technology module for Architect Blue reader - Standard reader black - 125 kHz Multi-technology module. All the following can be selected; and the reader send information as raw data. HID Prox – 26; 35; 37; AWID – 26; 35; 37; Kantec; ioProx - XSF 39 bits; 26 bits; 24 bits; Indala – 27bits",
+    "priceUSD": 380.74,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 163,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/SE8M-125KHZ-MODULE-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "SE8M - 125 kHz Multi-technology module for Architect Blue reader - Standard reader black - 125 kHz Multi-technology module",
+      "Feature_2": "All the following can be selected",
+      "Feature_3": "and the reader send information as raw data",
+      "Feature_4": "HID Prox – 26",
+      "Feature_5": "35",
+      "Feature_6": "37",
+      "Feature_7": "AWID – 26",
+      "Feature_8": "Kantec",
+      "Feature_9": "ioProx - XSF 39 bits",
+      "Feature_10": "26 bits",
+      "Feature_11": "24 bits",
+      "Feature_12": "Indala – 27bits",
+      "Feature_13": "STid SE8M10"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-qr-barcode-module-se910",
+    "sku": "AC-STID-QR-BARCODE-MODULE-SE910",
+    "name": "STid SE910",
+    "description": "SE9 Architect® Blue QR Code / Barcode module - QR and Barcode module for Standard reader black",
+    "priceUSD": 1346.59,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 149,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-SE9-QR-MODULE-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "SE9 Architect® Blue QR Code / Barcode module - QR and Barcode module for Standard reader black",
+      "Feature_2": "STid SE910"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arc-w33-b-slash-ph5-7os-slash-1a",
+    "sku": "AC-STID-READER-ARC-W33-B/PH5-7OS/1A",
+    "name": "AC-STID READER-ARC-W33-B/PH5-7OS/1A",
+    "description": "Keypad Reader Black OSDP v1 & v2 - No Logo",
+    "priceUSD": 653.26,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 148,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Keypad Reader Black OSDP v1 & v2 - No Logo",
+      "Feature_2": "AC-STID READER-ARC-W33-B/PH5-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arc-w33-d-slash-ph5-7os-slash-1",
+    "sku": "AC-STID-READER-ARC-W33-D/PH5-7OS/1",
+    "name": "AC-STID-READER-ARC-W33-D/PH5-7OS/1",
+    "description": "Standard Reader black with Finguerprint Biometric module - OSDP - No logo",
+    "priceUSD": 1514.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 237,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Standard Reader black with Finguerprint Biometric module - OSDP - No logo",
+      "Feature_2": "AC-STID-READER-ARC-W33-D/PH5-7OS/1"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arc1-w33-b-slash-ph5-7os-slash-1a",
+    "sku": "AC-STID-READER-ARC1-W33-B/PH5-7OS/1A",
+    "name": "AC-STID-READER-ARC1-W33-B/PH5-7OS/1A",
+    "description": "Mullion Reader Black OSDP v1 & v2 - No Logo",
+    "priceUSD": 308.59,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 214,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Mullion Reader Black OSDP v1 & v2 - No Logo",
+      "Feature_2": "AC-STID-READER-ARC1-W33-B/PH5-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arc1s-r31-b-slash-bt1-3i-slash-1a",
+    "sku": "AC-STID-READER-ARC1S-R31-B/BT1-3I/1A",
+    "name": "STid ARC1S-R31-B/BT1-3i/1A",
+    "description": "NON PROGRAMED ARC1S/BT - Architect® One Blue Mullion reader - Secure storage EAL5+ - Secure Read only - TTL interface - 3m cable with connector - NO LOGO- Mullion Reader Black Wiegand 26bit - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 400.78,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 135,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-1-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARC1S/BT - Architect® One Blue Mullion reader - Secure storage EAL5+ - Secure Read only - TTL interface - 3m cable with connector - NO LOGO- Mullion Reader Black Wiegand 26bit - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_2": "STid ARC1S-R31-B/BT1-3i/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arc1s-w33-b-slash-bt1-7os-slash-1a",
+    "sku": "AC-STID-READER-ARC1S-W33-B/BT1-7OS/1A",
+    "name": "STid ARC1S-W33-B/BT1-7OS/1A",
+    "description": "NON PROGRAMED ARC1S/BT - Architect® One Blue Mullion reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - 3m cable with connector - NO LOGO - Mullion Reader Black OSDP v1 & v2 - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 400.78,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 208,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-1-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARC1S/BT - Architect® One Blue Mullion reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - 3m cable with connector - NO LOGO - Mullion Reader Black OSDP v1 & v2 - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_2": "STid ARC1S-W33-B/BT1-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-r31-a-slash-bt1-3i-slash-1a",
+    "sku": "AC-STID-READER-ARCS-R31-A/BT1-3I/1A",
+    "name": "STid ARCS-R31-A/BT1-3I/1A",
+    "description": "NON PROGRAMED ARCS-A/BT - Architect® Blue Upgradable Standard reader black - Wiegand Interface- Secure storage EAL5+ - Secure Read only - TTL interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 480.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 146,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-A-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-A/BT - Architect® Blue Upgradable Standard reader black - Wiegand Interface- Secure storage EAL5+ - Secure Read only - TTL interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_2": "STid ARCS-R31-A/BT1-3I/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.462Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-r31-b-slash-bt1-3i-slash-1a",
+    "sku": "AC-STID-READER-ARCS-R31-B/BT1-3I/1A",
+    "name": "STid ARCS-R31-B/BT1-3I/1A",
+    "description": "NON PROGRAMED ARCS-B/BT - Architect® Blue Upgradable Keypad reader black - Wiegand Interface - Secure storage EAL5+ - Secure Read only - TTL interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 801.54,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 171,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-B-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-B/BT - Architect® Blue Upgradable Keypad reader black - Wiegand Interface - Secure storage EAL5+ - Secure Read only - TTL interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_2": "STid ARCS-R31-B/BT1-3I/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-r31-c-slash-bt1-3i-slash-1",
+    "sku": "AC-STID-READER-ARCS-R31-C/BT1-3I/1",
+    "name": "AC-STID-READER-ARCS-R31-C/BT1-3I/1",
+    "description": "Bluetooth Standard Reader black with touchscreen - Wiegand 26 bits (No logo on cover by default)",
+    "priceUSD": 945.82,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 218,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Bluetooth Standard Reader black with touchscreen - Wiegand 26 bits (No logo on cover by default)",
+      "Feature_2": "AC-STID-READER-ARCS-R31-C/BT1-3I/1"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-rx1-im-slash-bt2-3i-slash-1a",
+    "sku": "AC-STID-READER-ARCS-RX1-IM/BT2-3I/1A",
+    "name": "STid ARCS-RX1-IM/BT2-3I/1A",
+    "description": "NON PROGRAMED ARCS-iM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13.56 MHz + Bluetooth® Upgradable reader - Secure storage EAL5+ - Secure Read only - Standard Multi-technology Reader black Wiegand interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 821.58,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 163,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/STid-ARC-IM-FRONT-081222.png"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-iM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13",
+      "Feature_2": "56 MHz + Bluetooth® Upgradable reader - Secure storage EAL5+ - Secure Read only - Standard Multi-technology Reader black Wiegand interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_3": "STid ARCS-RX1-IM/BT2-3I/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-rx1-jm-slash-bt2-3i-slash-1a",
+    "sku": "AC-STID-READER-ARCS-RX1-JM/BT2-3I/1A",
+    "name": "STid ARCS-RX1-JM/BT2-3I/1A",
+    "description": "NON PROGRAMED ARCS-JM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13.56 MHz + Bluetooth® Upgradable Keypad reader - Secure storage EAL5+ - Secure Read only - Standard Multi-technology Keypad Reader black Wiegand interface - NO LOGO -Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 1062.05,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 119,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/STid-ARC-JM-FRONT-081222.png"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-JM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13",
+      "Feature_2": "56 MHz + Bluetooth® Upgradable Keypad reader - Secure storage EAL5+ - Secure Read only - Standard Multi-technology Keypad Reader black Wiegand interface - NO LOGO -Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_3": "STid ARCS-RX1-JM/BT2-3I/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-s31-e-slash-bt1-3i-slash-1a",
+    "sku": "AC-STID-READER-ARCS-S31-E/BT1-3I/1A",
+    "name": "AC-STID-READER-ARCS-S31-E/BT1-3I/1A",
+    "description": "ARCS-D/BT - 13.56 MHz + Bluetooth® biometric reader",
+    "priceUSD": 1851.56,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 213,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-A-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ARCS-D/BT - 13",
+      "Feature_2": "56 MHz + Bluetooth® biometric reader",
+      "Feature_3": "AC-STID-READER-ARCS-S31-E/BT1-3I/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-w33-a-slash-bt1-7os-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-A/BT1-7OS/1A",
+    "name": "STid ARCS-W33-A/BT1-7OS/1A",
+    "description": "NON PROGRAMED ARCS-A/BT - Architect® Blue Upgradable Standard reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration",
+    "priceUSD": 480.92,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 240,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-A-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-A/BT - Architect® Blue Upgradable Standard reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration",
+      "Feature_2": "STid ARCS-W33-A/BT1-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-w33-aq-slash-bt1-7os-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-AQ/BT1-7OS/1A",
+    "name": "STid ARCS-W33-AQ/BT1-7OS/1A",
+    "description": "NON PROGRAMED ARCS-AQ/BT - Architect® Blue Upgradable QR Code; Bluetooth® & RFID reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard Reader black with QR module OSDP - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 1643.16,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 125,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-AQ-FRONT-070722.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-AQ/BT - Architect® Blue Upgradable QR Code",
+      "Feature_2": "Bluetooth® & RFID reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard Reader black with QR module OSDP - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_3": "STid ARCS-W33-AQ/BT1-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-w33-b-slash-bt1-7os-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-B/BT1-7OS/1A",
+    "name": "STid ARCS-W33-B/BT1-7OS/1A",
+    "description": "NON PROGRAMED ARCS-B/BT - Architect® Blue Upgradable Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration",
+    "priceUSD": 801.54,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 112,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-B-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-B/BT - Architect® Blue Upgradable Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration",
+      "Feature_2": "STid ARCS-W33-B/BT1-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-w33-bq-slash-bt1-7os-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-BQ/BT1-7OS/1A",
+    "name": "STid ARCS-W33-BQ/BT1-7OS/1A",
+    "description": "NON PROGRAMED  ARCS-BQ/BT Architect® Blue Upgradable QR Code; Bluetooth® & RFID Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with Keypad and QR module OSDP - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 1831.52,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 266,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-BQ-FRONT-070722.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED  ARCS-BQ/BT Architect® Blue Upgradable QR Code",
+      "Feature_2": "Bluetooth® & RFID Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with Keypad and QR module OSDP - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_3": "STid ARCS-W33-BQ/BT1-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-w33-c-slash-bt1-7os-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-C/BT1-7OS/1A",
+    "name": "STid ARCS-W33-C/BT1-7OS/1A",
+    "description": "NON PROGRAMED ARCS-C/BT - Architect® Blue Upgradable Touchscreen reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with touchscreen OSDP - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+    "priceUSD": 945.82,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 238,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "NON PROGRAMED ARCS-C/BT - Architect® Blue Upgradable Touchscreen reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with touchscreen OSDP - Requires AC-STID-ARCHITECT-PROGRAMMING-KIT-SECARD-BT for configuration programming",
+      "Feature_2": "STid ARCS-W33-C/BT1-7OS/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-w33-f-slash-bt1-7os-slash-1",
+    "sku": "AC-STID-READER-ARCS-W33-F/BT1-7OS/1",
+    "name": "AC-STID-READER-ARCS-W33-F/BT1-7OS/1",
+    "description": "Bluetooth Standard reader; black; touchscreen and Fingerprint Biometric module",
+    "priceUSD": 1926.31,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 103,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Bluetooth Standard reader",
+      "Feature_2": "black",
+      "Feature_3": "touchscreen and Fingerprint Biometric module",
+      "Feature_4": "AC-STID-READER-ARCS-W33-F/BT1-7OS/1"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-wx3-im-bt2-msi-1a",
+    "sku": "AC-STID-READER-ARCS-WX3-IM-BT2-MSI-1A",
+    "name": "STid ARCS-WX3-IM/BT2-MSI/1A",
+    "description": "MSI PROGRAMMED ARCS-iM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13.56 MHz + Bluetooth® Upgradable reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO",
+    "priceUSD": 841.62,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 123,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/STid-ARC-IM-FRONT-081222.png"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-iM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13",
+      "Feature_2": "56 MHz + Bluetooth® Upgradable reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO",
+      "Feature_3": "STid ARCS-WX3-IM-BT2-MSI-1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-wx3-jm-slash-bt2-msi-slash-1a",
+    "sku": "AC-STID-READER-ARCS-WX3-JM/BT2-MSI/1A",
+    "name": "STid ARCS-WX3-JM/BT2-MSI/1A",
+    "description": "MSI PROGRAMMED ARCS-JM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13.56 MHz + Bluetooth® Upgradable Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO",
+    "priceUSD": 1082.09,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 292,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/STid-ARC-JM-FRONT-081222.png"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-JM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13",
+      "Feature_2": "56 MHz + Bluetooth® Upgradable Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO",
+      "Feature_3": "STid ARCS-WX3-JM/BT2-MSI/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:45:32.463Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-arcs-wx3-km-slash-bt2-msi-slash-1a",
+    "sku": "AC-STID-READER-ARCS-WX3-KM/BT2-MSI/1A",
+    "name": "STid ARCS-WX3-KM/BT2-MSI/1A",
+    "description": "MSI PROGRAMMED ARCS-KM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13.56 MHz + Bluetooth® Upgradable Touchscreen reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface  - NO LOGO",
+    "priceUSD": 1228.07,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 40,
+    "stock": 160,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/ACM/ARC%20KM%20Front-08122022.png"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-KM/BT - Architect® Blue Hybrid 125 kHz Multi-technology + 13",
+      "Feature_2": "56 MHz + Bluetooth® Upgradable Touchscreen reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface  - NO LOGO",
+      "Feature_3": "STid ARCS-WX3-KM/BT2-MSI/1A"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.067Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-se7-arc-de-02",
+    "sku": "AC-STID-READER-SE7-ARC-DE-02",
+    "name": "AC-STID-READER-SE7-ARC-DE-02",
+    "description": "Metal mounting plate for Architect® bio readers-RFID&Keypad versions",
+    "priceUSD": 40.08,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 45,
+    "stock": 142,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Metal mounting plate for Architect® bio readers-RFID&Keypad versions",
+      "Feature_2": "AC-STID-READER-SE7-ARC-DE-02"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.067Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-reader-sna-w53-a-slash-bt4-7os-slash-1",
+    "sku": "AC-STID-READER-SNA-W53-A/BT4-7OS/1",
+    "name": "STid SNA-W53-A/BT4-7OS/1",
+    "description": "SNA - SPECTRE nano UHF - USA Upper Band 902-928 MHz- USB cable & ULTRYS software included",
+    "priceUSD": 2861.51,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 204,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-SPECTRENANO-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "SNA - SPECTRE nano UHF - USA Upper Band 902-928 MHz- USB cable & ULTRYS software included",
+      "Feature_2": "STid SNA-W53-A/BT4-7OS/1"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.067Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-se610",
+    "sku": "AC-STID-SE610",
+    "name": "AC-STID-SE610",
+    "description": "Biometric module - Black",
+    "priceUSD": 1366.63,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 41,
+    "stock": 224,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Biometric module - Black",
+      "Feature_2": "AC-STID-SE610"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.067Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-spacer-pla-adap-v2-arc-no",
+    "sku": "AC-STID-SPACER-PLA-ADAP-V2-ARC-NO",
+    "name": "STid PLA-ADAP-V2-ARC-NO",
+    "description": "Stackable spacer with cable passage for Architect® Blue reader - Black",
+    "priceUSD": 40.08,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 223,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-BLACK-STACKABLE-SPACER-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "Stackable spacer with cable passage for Architect® Blue reader - Black",
+      "Feature_2": "STid PLA-ADAP-V2-ARC-NO"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.067Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-spacer-plaq-arc1-no-v2",
+    "sku": "AC-STID-SPACER-PLAQ-ARC1-NO-V2",
+    "name": "STid PLAQ-ARC1-NO-V2",
+    "description": "Stackable spacer with cable passage for Architect® One Blue mullion reader - Black",
+    "priceUSD": 40.08,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 45,
+    "stock": 154,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-BLACK-STACKABLE-SPACER-070722.png"
+    ],
+    "specs": {
+      "Feature_1": "Stackable spacer with cable passage for Architect® One Blue mullion reader - Black",
+      "Feature_2": "STid PLAQ-ARC1-NO-V2"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.067Z"
+  },
+  {
+    "id": "prod-stid-ac-stid-spectre-cable-3m",
+    "sku": "AC-STID-SPECTRE-CABLE-3M",
+    "name": "AC-STID-SPECTRE-CABLE-3M",
+    "description": "3 m / 4.9 ft UHF SPECTRE antenna cable - TNC Reverse",
+    "priceUSD": 176.34,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "STid",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 202,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "3 m / 4",
+      "Feature_2": "9 ft UHF SPECTRE antenna cable - TNC Reverse",
+      "Feature_3": "AC-STID-SPECTRE-CABLE-3M"
+    },
+    "features": [
+      "Official STid High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.067Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-rfid-ac2000ic",
+    "sku": "AC-VT-READ-BIO-RFID-AC2000IC",
+    "name": "ViRDI AC2000HID iClass",
+    "description": "VIRDI fingerprint smart card reader with live fingerprint detection embedded. Supports fingerprint; HID iClass Card; User Capacity: 10;000; Finger Capacity: 1;500; TCP/IP Server Communication; No LCD; No Function Key; bluetooth support. Power Supply not included. (VIRDI Part Number: AC2000iClass)",
+    "priceUSD": 1101.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-RFID-AC2000IC_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "VIRDI fingerprint smart card reader with live fingerprint detection embedded",
+      "Feature_2": "Supports fingerprint",
+      "Feature_3": "HID iClass Card",
+      "User Capacity": "10",
+      "Feature_5": "000",
+      "Finger Capacity": "1",
+      "Feature_7": "500",
+      "Feature_8": "TCP/IP Server Communication",
+      "Feature_9": "No LCD",
+      "Feature_10": "No Function Key",
+      "Feature_11": "bluetooth support",
+      "Feature_12": "Power Supply not included",
+      "(VIRDI Part Number": "AC2000iClass)",
+      "Feature_14": "ViRDI AC2000HID iClass"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-rfid-ac2000ic-na",
+    "sku": "AC-VT-READ-BIO-RFID-AC2000IC-NA",
+    "name": "ViRDI AC2000HID iClass",
+    "description": "Reader bundle including AC-VT-READ-BIO-RFID-AC2000IC and power supply with type B plug for North America",
+    "priceUSD": 1101.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 142,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-RFID-AC2000IC-NA_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Reader bundle including AC-VT-READ-BIO-RFID-AC2000IC and power supply with type B plug for North America",
+      "Feature_2": "ViRDI AC2000HID iClass"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-rfid-ac2000prox",
+    "sku": "AC-VT-READ-BIO-RFID-AC2000PROX",
+    "name": "ViRDI AC2000Prox",
+    "description": "VIRDI fingerprint smart card reader with live fingerprint detection embedded. Supports fingerprint; HID prox Card; User Capacity : 10;000; Finger Capacity: 1;500; TCP/IP Server Communitcation; No LCD; No Function Key; bluetooth support. Power Supply not included. (VIRDI Part Number: AC2000Prox)",
+    "priceUSD": 1101.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 197,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-RFID-AC2000Prox_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "VIRDI fingerprint smart card reader with live fingerprint detection embedded",
+      "Feature_2": "Supports fingerprint",
+      "Feature_3": "HID prox Card",
+      "User Capacity": "10",
+      "Feature_5": "000",
+      "Finger Capacity": "1",
+      "Feature_7": "500",
+      "Feature_8": "TCP/IP Server Communitcation",
+      "Feature_9": "No LCD",
+      "Feature_10": "No Function Key",
+      "Feature_11": "bluetooth support",
+      "Feature_12": "Power Supply not included",
+      "(VIRDI Part Number": "AC2000Prox)",
+      "Feature_14": "ViRDI AC2000Prox"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-rfid-ac2000prox-na",
+    "sku": "AC-VT-READ-BIO-RFID-AC2000PROX-NA",
+    "name": "ViRDI AC2000Prox",
+    "description": "Reader bundle including AC-VT-READ-BIO-RFID-AC2000Prox and power supply with type B plug for North America",
+    "priceUSD": 1101.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 100,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-RFID-AC2000Prox-NA_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Reader bundle including AC-VT-READ-BIO-RFID-AC2000Prox and power supply with type B plug for North America",
+      "Feature_2": "ViRDI AC2000Prox"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-rfid-ac2000sc",
+    "sku": "AC-VT-READ-BIO-RFID-AC2000SC",
+    "name": "ViRDI AC2000SC",
+    "description": "ViRDI fingerprint smart card reader with live fingerprint detection embedded. Supports fingerprint; Mifare 13.56Mhz Card & PIN Authentication; User Capacity: 1;500; Finger Capacity: 1500; TCP/IP Server Communication; No LCD; No Function Key; Bluetooth support. (ViRDI Part Number: AC2000SC)",
+    "priceUSD": 856.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 199,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-RFID-AC2000SC_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ViRDI fingerprint smart card reader with live fingerprint detection embedded",
+      "Feature_2": "Supports fingerprint",
+      "Feature_3": "Mifare 13",
+      "Feature_4": "56Mhz Card & PIN Authentication",
+      "User Capacity": "1",
+      "Feature_6": "500",
+      "Finger Capacity": "1500",
+      "Feature_8": "TCP/IP Server Communication",
+      "Feature_9": "No LCD",
+      "Feature_10": "No Function Key",
+      "Feature_11": "Bluetooth support",
+      "(ViRDI Part Number": "AC2000SC)",
+      "Feature_13": "ViRDI AC2000SC"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-rfid-ac2000sc-na",
+    "sku": "AC-VT-READ-BIO-RFID-AC2000SC-NA",
+    "name": "ViRDI AC2000SC",
+    "description": "Reader bundle including AC-VT-READ-BIO-RFID-AC2000SC and power supply with type B plug for North America",
+    "priceUSD": 856.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 167,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-RFID-AC2000SC-NA_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Reader bundle including AC-VT-READ-BIO-RFID-AC2000SC and power supply with type B plug for North America",
+      "Feature_2": "ViRDI AC2000SC"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-usb-foh02",
+    "sku": "AC-VT-READ-BIO-USB-FOH02",
+    "name": "ViRDI FOH02",
+    "description": "VIRDI Fingerprint and card enrollment USB reader; live fingeprint detection embedded; Fingerprint Platen Area: 16 x 19.6mm / Image Size: 15 x 17mm; (VIRDI Part Number: FOH02)",
+    "priceUSD": 171.36,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 51,
+    "stock": 300,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-USB-FOH02_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "VIRDI Fingerprint and card enrollment USB reader",
+      "Feature_2": "live fingeprint detection embedded",
+      "Fingerprint Platen Area": "16 x 19",
+      "6mm / Image Size": "15 x 17mm",
+      "(VIRDI Part Number": "FOH02)",
+      "Feature_6": "ViRDI FOH02"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-virdi-ac-vt-read-bio-usb-foh02-sc",
+    "sku": "AC-VT-READ-BIO-USB-FOH02-SC",
+    "name": "ViRDI FOH02-SC",
+    "description": "ViRDI Fingerprint and card enrollment reader; live fingerprint detection embedded; supports Mifare 13.56Mhz Card (Read & Write); Fingerprint Platen Area: 16 x 19.6mm / Image Size: 15 x 17mm; Read /Write - supports TOC (Template on Card) (ViRDI Part Number: FOH02SC) Note - This product is not available for sale in Spain and South Africa.",
+    "priceUSD": 226.44,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "ViRDI",
+    "rating": 4.8,
+    "reviewCount": 48,
+    "stock": 300,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-VT-READ-BIO-USB-FOH02-SC_071720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "ViRDI Fingerprint and card enrollment reader",
+      "Feature_2": "live fingerprint detection embedded",
+      "Feature_3": "supports Mifare 13",
+      "Feature_4": "56Mhz Card (Read & Write)",
+      "Fingerprint Platen Area": "16 x 19",
+      "6mm / Image Size": "15 x 17mm",
+      "Read /Write - supports TOC (Template on Card) (ViRDI Part Number": "FOH02SC) Note - This product is not available for sale in Spain and South Africa",
+      "Feature_8": "ViRDI FOH02-SC"
+    },
+    "features": [
+      "Official ViRDI High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-ant-spectre-b",
+    "sku": "AC-STID-READER-ANT-SPECTRE-B",
+    "name": "STid Reader ANT-SPECTRE-B",
+    "description": "UHF antenna for SPECTRE scalable readers (no cable included) - Circular Polarization - Upper Band 902-928 MHz - EPC1 GEN2",
+    "priceUSD": 989.9,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 216,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-SPECTRENANO-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "UHF antenna for SPECTRE scalable readers (no cable included) - Circular Polarization - Upper Band 902-928 MHz - EPC1 GEN2",
+      "Feature_2": "STid Reader ANT-SPECTRE-B"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-arc1s-r31-b-slash-bt1-msi-slash-1a",
+    "sku": "AC-STID-READER-ARC1S-R31-B/BT1-MSI/1A",
+    "name": "STid ARC1S-R31-B/BT1- MSI /1A",
+    "description": "MSI PROGRAMMED ARC1S/BT - Architect® One Blue Mullion reader - Secure storage EAL5+ - Secure Read only - TTL interface - 3m cable with connector - NO LOGO - Mullion Reader Black Wiegand 26bit",
+    "priceUSD": 420.82,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 50,
+    "stock": 173,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-1-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARC1S/BT - Architect® One Blue Mullion reader - Secure storage EAL5+ - Secure Read only - TTL interface - 3m cable with connector - NO LOGO - Mullion Reader Black Wiegand 26bit",
+      "Feature_2": "STid ARC1S-R31-B/BT1- MSI /1A"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-arcs-w33-a-slash-bt1-msi-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-A/BT1-MSI/1A",
+    "name": "STid ARCS-W33-A/BT1- MSI /1A",
+    "description": "MSI PROGRAMMED ARCS-A/BT - Architect® Blue Upgradable Standard reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard Reader black OSDP programmed",
+    "priceUSD": 500.96,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 208,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-A-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-A/BT - Architect® Blue Upgradable Standard reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard Reader black OSDP programmed",
+      "Feature_2": "STid ARCS-W33-A/BT1- MSI /1A"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-arcs-w33-aq-slash-bt1-msi-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-AQ/BT1-MSI/1A",
+    "name": "STid ARCS-W33-AQ/BT1- MSI /1A",
+    "description": "MSI PROGRAMMED ARCS-AQ/BT - Architect® Blue Upgradable QR Code; Bluetooth® & RFID reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard Reader black with QR module OSDP programmed",
+    "priceUSD": 1663.2,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 278,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-AQ-FRONT-070722.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-AQ/BT - Architect® Blue Upgradable QR Code",
+      "Feature_2": "Bluetooth® & RFID reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard Reader black with QR module OSDP programmed",
+      "Feature_3": "STid ARCS-W33-AQ/BT1- MSI /1A"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-arcs-w33-b-slash-bt1-msi-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-B/BT1-MSI/1A",
+    "name": "STid ARCS-W33-B/BT1- MSI /1A",
+    "description": "MSI PROGRAMMED ARCS-B/BT - Architect® Blue Upgradable Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with Keypad OSDP programmed",
+    "priceUSD": 821.58,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 46,
+    "stock": 287,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-B-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-B/BT - Architect® Blue Upgradable Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with Keypad OSDP programmed",
+      "Feature_2": "STid ARCS-W33-B/BT1- MSI /1A"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-arcs-w33-bq-slash-bt1-msi-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-BQ/BT1-MSI/1A",
+    "name": "STid ARCS-W33-BQ/BT1- MSI /1A",
+    "description": "MSI PROGRAMMED ARCS-BQ/BT - Architect® Blue Upgradable QR Code; Bluetooth® & RFID Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with Keypad and QR module OSDP programmed",
+    "priceUSD": 1851.56,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 44,
+    "stock": 300,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-BQ-FRONT-070722.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-BQ/BT - Architect® Blue Upgradable QR Code",
+      "Feature_2": "Bluetooth® & RFID Keypad reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with Keypad and QR module OSDP programmed",
+      "Feature_3": "STid ARCS-W33-BQ/BT1- MSI /1A"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-arcs-w33-c-slash-bt1-msi-slash-1a",
+    "sku": "AC-STID-READER-ARCS-W33-C/BT1-MSI/1A",
+    "name": "STid ARCS-W33-C/BT1- MSI /1A",
+    "description": "MSI PROGRAMMED ARCS-C/BT - Architect® Blue Upgradable Touchscreen reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with touchscreen OSDP programmed",
+    "priceUSD": 965.86,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 242,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "MSI PROGRAMMED ARCS-C/BT - Architect® Blue Upgradable Touchscreen reader - OSDP™ v1 & v2 secure protocol - Secure storage EAL5+ - RS485 interface - NO LOGO - Standard reader black with touchscreen OSDP programmed",
+      "Feature_2": "STid ARCS-W33-C/BT1- MSI /1A"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-sla-r51-a-slash-u04-3i-slash-1",
+    "sku": "AC-STID-READER-SLA-R51-A/U04-3I/1",
+    "name": "STid Reader SLA-R51-A/U04-3I/1",
+    "description": "SLA - SPECTRE UHF Long Range & Scalable reader with 1 integrated antenna - Upper Band 902-928 MHz - EPC1 GEN2 - Read only - TTL interface - USB cable & ULTRYS software included",
+    "priceUSD": 5009.65,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 50,
+    "stock": 269,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-C-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "SLA - SPECTRE UHF Long Range & Scalable reader with 1 integrated antenna - Upper Band 902-928 MHz - EPC1 GEN2 - Read only - TTL interface - USB cable & ULTRYS software included",
+      "Feature_2": "STid Reader SLA-R51-A/U04-3I/1"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-reader-sla-w53-a-slash-u04-7os-slash-1",
+    "sku": "AC-STID-READER-SLA-W53-A/U04-7OS/1",
+    "name": "STid READER SLA-W53-A/U04-7OS/1",
+    "description": "SLA - SPECTRE Access UHF scalable reader - USA Upper Band 902 to 928MHz - RS485 - OSDP - USB Cable & ULTRYS Software included",
+    "priceUSD": 5009.65,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 283,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-SPECTRENANO-063022.jpg"
+    ],
+    "specs": {
+      "Feature_1": "SLA - SPECTRE Access UHF scalable reader - USA Upper Band 902 to 928MHz - RS485 - OSDP - USB Cable & ULTRYS Software included",
+      "Feature_2": "STid READER SLA-W53-A/U04-7OS/1"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-spectre-reader-mount-kit-kfx-uhf-08",
+    "sku": "AC-STID-SPECTRE-READER-MOUNT-KIT-KFX-UHF-08",
+    "name": "STid READER KFX-UHF-08",
+    "description": "UHF SPECTRE & SPECTRE nano reader orientable wall mounting kit (Stid hardware sold separately)",
+    "priceUSD": 368.71,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "stock": 224,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-KFX-SPECTRE-112122.jpg"
+    ],
+    "specs": {
+      "Feature_1": "UHF SPECTRE & SPECTRE nano reader orientable wall mounting kit (Stid hardware sold separately)",
+      "Feature_2": "STid READER KFX-UHF-08"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-spectre-reader-mount-kit-kfx-uhf-09",
+    "sku": "AC-STID-SPECTRE-READER-MOUNT-KIT-KFX-UHF-09",
+    "name": "STid READER KFX-UHF-09",
+    "description": "UHF SPECTRE & SPECTRE nano reader orientable pole mounting kit (Stid hardware sold separately)",
+    "priceUSD": 368.71,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 47,
+    "stock": 139,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-KFX-SPECTRE-112122.jpg"
+    ],
+    "specs": {
+      "Feature_1": "UHF SPECTRE & SPECTRE nano reader orientable pole mounting kit (Stid hardware sold separately)",
+      "Feature_2": "STid READER KFX-UHF-09"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-stid-spectre-reader-mount-kit-kfx-uhf-10",
+    "sku": "AC-STID-SPECTRE-READER-MOUNT-KIT-KFX-UHF-10",
+    "name": "STid READER KFX-UHF-10",
+    "description": "UHF SPECTRE & SPECTRE nano reader orientable wall + pole mounting kit (Stid hardware sold separately)",
+    "priceUSD": 464.89,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 148,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-KFX-SPECTRE-112122.jpg"
+    ],
+    "specs": {
+      "Feature_1": "UHF SPECTRE & SPECTRE nano reader orientable wall + pole mounting kit (Stid hardware sold separately)",
+      "Feature_2": "STid READER KFX-UHF-10"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-47282796-sus-a-kit",
+    "sku": "AC-SCH-47282796-SUS-A-KIT",
+    "name": "Schlage USB and 2-pin Android cable for SUS",
+    "description": "Schlage USB and 2-pin Android cable for Schlage Utility Software (SUS) mobile app for Android devices",
+    "priceUSD": 322,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 175,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Schlage USB and 2-pin Android cable for Schlage Utility Software (SUS) mobile app for Android devices",
+      "Feature_2": "Schlage USB and 2-pin Android cable for SUS"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-retrofit-kit-47278749",
+    "sku": "AC-SCH-RETROFIT-KIT-47278749",
+    "name": "Schlage 47278749",
+    "description": "Upgrades NDE80 Product to NDEB; NDEB Inside Escutcheon Assembly (with Main PCBA)",
+    "priceUSD": 784,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 155,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Upgrades NDE80 Product to NDEB",
+      "Feature_2": "NDEB Inside Escutcheon Assembly (with Main PCBA)",
+      "Feature_3": "Schlage 47278749"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-ad400-ant400-rem-ceiling",
+    "sku": "AC-ALL-SCH-AD400-ANT400-REM-CEILING",
+    "name": "Allegion ANT400-REM-CEILING",
+    "description": "Omni-Directional Remote Indoor/Outdoor Antenna Module. Includes Antenna; 15' Coax; Coax Whip. For indoor use with PIM400 and/or WRI400.(Allegion Part Number: ANT400-REM-CEILING)",
+    "priceUSD": 702,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 114,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Omni-Directional Remote Indoor/Outdoor Antenna Module",
+      "Feature_2": "Includes Antenna",
+      "Feature_3": "15' Coax",
+      "Feature_4": "Coax Whip",
+      "Feature_5": "For indoor use with PIM400 and/or WRI400",
+      "(Allegion Part Number": "ANT400-REM-CEILING)",
+      "Feature_7": "Allegion ANT400-REM-CEILING"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-ad400-ant400-rem-hall",
+    "sku": "AC-ALL-SCH-AD400-ANT400-REM-HALL",
+    "name": "Allegion ANT400-REM-HALL",
+    "description": "Bi-Directional Remote Indoor Antenna Module. Includes Antenna; 15' Coax; Coax Whip. For indoor use with PIM400 and/or WRI400.(Allegion Part Number: ANT400-REM-HALL)",
+    "priceUSD": 1001,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 248,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Bi-Directional Remote Indoor Antenna Module",
+      "Feature_2": "Includes Antenna",
+      "Feature_3": "15' Coax",
+      "Feature_4": "Coax Whip",
+      "Feature_5": "For indoor use with PIM400 and/or WRI400",
+      "(Allegion Part Number": "ANT400-REM-HALL)",
+      "Feature_7": "Allegion ANT400-REM-HALL"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-ad400-ant400-rem-i-slash-o-6db",
+    "sku": "AC-ALL-SCH-AD400-ANT400-REM-I/O+6DB",
+    "name": "Allegion ANT400-REM-I/O+6DB",
+    "description": "Directional remote indoor/outdoor antenna module with 6dB Gain 1. Includes Antenna; 15' Coax; Coax Whip; Articulated Wall/Post Mounting Hardware. For indoor use with PIM400 and/or WRI400. Requires MGB+MCA5 Antenna Grounding Kit for outdoor applications.(Allegion Part Number: ANT400-REM-I/O+6db)",
+    "priceUSD": 920,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 41,
+    "stock": 288,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Directional remote indoor/outdoor antenna module with 6dB Gain 1",
+      "Feature_2": "Includes Antenna",
+      "Feature_3": "15' Coax",
+      "Feature_4": "Coax Whip",
+      "Feature_5": "Articulated Wall/Post Mounting Hardware",
+      "Feature_6": "For indoor use with PIM400 and/or WRI400",
+      "Feature_7": "Requires MGB+MCA5 Antenna Grounding Kit for outdoor applications",
+      "(Allegion Part Number": "ANT400-REM-I/O+6db)",
+      "Feature_9": "Allegion ANT400-REM-I/O+6DB"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-ad400-mgb-mca5",
+    "sku": "AC-ALL-SCH-AD400-MGB+MCA5",
+    "name": "Allegion MGB+MCA5",
+    "description": "Antenna Grounding Kit (for outdoor mounting). Could be used with ANT400-REM-I/O; ANT400-REM-I/O+6DB; ANT400-REM-CEILING; ANT400-REM-HALL.(Allegion Part Number: MGB+MCA5)",
+    "priceUSD": 330,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 238,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Antenna Grounding Kit (for outdoor mounting)",
+      "Feature_2": "Could be used with ANT400-REM-I/O",
+      "Feature_3": "ANT400-REM-I/O+6DB",
+      "Feature_4": "ANT400-REM-CEILING",
+      "Feature_5": "ANT400-REM-HALL",
+      "(Allegion Part Number": "MGB+MCA5)",
+      "Feature_7": "Allegion MGB+MCA5"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-com400l",
+    "sku": "AC-ALL-SCH-COM400L",
+    "name": "Allegion COM400L",
+    "description": "Electronic Lock Communication Module Kit",
+    "priceUSD": 558,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Electronic Lock Communication Module Kit",
+      "Feature_2": "Allegion COM400L"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-engage-gwe",
+    "sku": "AC-ALL-SCH-ENGAGE-GWE",
+    "name": "Allegion GWE-ENGAGE",
+    "description": "GWE — ENGAGE  Gateway with RS-485 & IP (PoE) connectivity. Supports up to 10 ENGAGE enabled devices with Mercury Security' 1DR and 64DR (AC-MER-CONT-1DR and AC-MER-CONT-64DR SoldSeparately) access control panels(Allegion Part Number: GWE – ENGAGE)",
+    "priceUSD": 838.52,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 50,
+    "stock": 291,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "GWE — ENGAGE  Gateway with RS-485 & IP (PoE) connectivity",
+      "Supports up to 10 ENGAGE enabled devices with Mercury Security' 1DR and 64DR (AC-MER-CONT-1DR and AC-MER-CONT-64DR SoldSeparately) access control panels(Allegion Part Number": "GWE – ENGAGE)",
+      "Feature_3": "Allegion GWE-ENGAGE"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-pib300-2d",
+    "sku": "AC-ALL-SCH-PIB300-2D",
+    "name": "Allegion PIB300-2D",
+    "description": "Panel Interface Board (supports 2 doors)(Allegion Part Number: PIB300-2D)",
+    "priceUSD": 816,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 180,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Panel Interface Board (supports 2 doors)(Allegion Part Number": "PIB300-2D)",
+      "Feature_2": "Allegion PIB300-2D"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-pim400-1501-lc",
+    "sku": "AC-ALL-SCH-PIM400-1501-LC",
+    "name": "Allegion PIM400-1501-LC",
+    "description": "900 MHz Panel Interface Module for 16 door intelligent controller (AC-MER-CONT-LP1501 Sold Separately) for AD Series wireless devices; powered by Mercury Security. Encrypted with AES-128 bit keys; Certifications: FCC Part 15; Industry Canada(IC); RoHS; UL294 Listed when connected to UL294 power supply; Dimensions: 10.43\" X 7.28\" X 3.79\" (26.49cm X 18.49 cm X 9.63 cm); Weight 2.8 lbs (1.27 kg)(Allegion Part Number: PIM400-1501-LC)",
+    "priceUSD": 2917.66,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 114,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "900 MHz Panel Interface Module for 16 door intelligent controller (AC-MER-CONT-LP1501 Sold Separately) for AD Series wireless devices",
+      "Feature_2": "powered by Mercury Security",
+      "Feature_3": "Encrypted with AES-128 bit keys",
+      "Certifications": "FCC Part 15",
+      "Feature_5": "Industry Canada(IC)",
+      "Feature_6": "RoHS",
+      "Feature_7": "UL294 Listed when connected to UL294 power supply",
+      "Dimensions": "10",
+      "Feature_9": "43\" X 7",
+      "Feature_10": "28\" X 3",
+      "Feature_11": "79\" (26",
+      "Feature_12": "49cm X 18",
+      "Feature_13": "49 cm X 9",
+      "Feature_14": "63 cm)",
+      "Feature_15": "Weight 2",
+      "Feature_16": "8 lbs (1",
+      "27 kg)(Allegion Part Number": "PIM400-1501-LC)",
+      "Feature_18": "Allegion PIM400-1501-LC"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-pim400-485-rsi",
+    "sku": "AC-ALL-SCH-PIM400-485-RSI",
+    "name": "Allegion PIM400-485-RSI",
+    "description": "900 MHz Panel Interface Module for 16 or 64 door intelligent controller (AC-MER-CONT-LP1501; AC-MER-CONT-LP1502; AC-MER-CONT-LP2500 and AC-MER-CONT-LP4502 Sold Separately) (Up to 16 wireless access devices such as AD-400 locks per PIM) for AD Series wireless devices; powered by Mercury Security. Certifications: NEMA 1; 4; 4X; 6; UL 294; FCC Part 15; Industry Canada (IC); RoHS; Dimensions (H x W x D): 6.3\" x 3.2\" x 2.2\" (16.0 cm x 8.13 cm x 5.59 cm); Weight 1.25 lbs (.56 kg)(Allegion Part Number: PIM400-485-RSI)",
+    "priceUSD": 2429.17,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 44,
+    "stock": 112,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-485_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "900 MHz Panel Interface Module for 16 or 64 door intelligent controller (AC-MER-CONT-LP1501",
+      "Feature_2": "AC-MER-CONT-LP1502",
+      "Feature_3": "AC-MER-CONT-LP2500 and AC-MER-CONT-LP4502 Sold Separately) (Up to 16 wireless access devices such as AD-400 locks per PIM) for AD Series wireless devices",
+      "Feature_4": "powered by Mercury Security",
+      "Certifications": "NEMA 1",
+      "Feature_6": "4",
+      "Feature_7": "4X",
+      "Feature_8": "6",
+      "Feature_9": "UL 294",
+      "Feature_10": "FCC Part 15",
+      "Feature_11": "Industry Canada (IC)",
+      "Feature_12": "RoHS",
+      "Dimensions (H x W x D)": "6",
+      "Feature_14": "3\" x 3",
+      "Feature_15": "2\" x 2",
+      "Feature_16": "2\" (16",
+      "Feature_17": "0 cm x 8",
+      "Feature_18": "13 cm x 5",
+      "Feature_19": "59 cm)",
+      "Feature_20": "Weight 1",
+      "Feature_21": "25 lbs (",
+      "56 kg)(Allegion Part Number": "PIM400-485-RSI)",
+      "Feature_23": "Allegion PIM400-485-RSI"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-pim400-td2",
+    "sku": "AC-ALL-SCH-PIM400-TD2",
+    "name": "Allegion PIM400-TD2",
+    "description": "Panel Interface Module (supports 2 doors) Wiegand (Data1/Data2) or magnetic stripe (Clock & Data) output. Includes Weatherproof Enclosure (7.1\" x 7.1\"); Internal Antenna with ability to add Remote Antenna. Requires 12 or 24 VDC power supply. Relay Board sold separately. (Allegion Part Number: PIM400-TD2)",
+    "priceUSD": 1434,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 38,
+    "stock": 249,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Panel Interface Module (supports 2 doors) Wiegand (Data1/Data2) or magnetic stripe (Clock & Data) output",
+      "Feature_2": "Includes Weatherproof Enclosure (7",
+      "Feature_3": "1\" x 7",
+      "Feature_4": "1\")",
+      "Feature_5": "Internal Antenna with ability to add Remote Antenna",
+      "Feature_6": "Requires 12 or 24 VDC power supply",
+      "Feature_7": "Relay Board sold separately",
+      "(Allegion Part Number": "PIM400-TD2)",
+      "Feature_9": "Allegion PIM400-TD2"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-rlbd",
+    "sku": "AC-ALL-SCH-RLBD",
+    "name": "Allegion RLBD",
+    "description": "Relay Board (for PIB300-2D or PIM400-TD2)(Allegion Part Number: RLBD)",
+    "priceUSD": 410,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 222,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Relay Board (for PIB300-2D or PIM400-TD2)(Allegion Part Number": "RLBD)",
+      "Feature_2": "Allegion RLBD"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-all-sch-wpr400-mtk",
+    "sku": "AC-ALL-SCH-WPR400-MTK",
+    "name": "Allegion WPR400-MTK",
+    "description": "Wireless Portable Reader with keypad (with Multi-Technology Reader Module) Handheld; battery operated unit with Multi-Technology(Allegion Part Number: WPR400-MTK)",
+    "priceUSD": 3477,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 228,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Wireless Portable Reader with keypad (with Multi-Technology Reader Module) Handheld",
+      "battery operated unit with Multi-Technology(Allegion Part Number": "WPR400-MTK)",
+      "Feature_3": "Allegion WPR400-MTK"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-battery-8b-626",
+    "sku": "AC-SCH-BATTERY-8B-626",
+    "name": "Allegion 8B-626",
+    "description": "AD-400 Eight (8) battery conversion kit in grey (Allegion Schlage Part #: 8B-626).",
+    "priceUSD": 153.71,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 235,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "AD-400 Eight (8) battery conversion kit in grey (Allegion Schlage Part #": "8B-626)",
+      "Feature_2": "Allegion 8B-626"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-com400l-626",
+    "sku": "AC-SCH-COM400L-626",
+    "name": "Allegion COM400L-626",
+    "description": "Wireless AD-400 Communication Kit Module Cover with Indicator",
+    "priceUSD": 550,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 140,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Wireless AD-400 Communication Kit Module Cover with Indicator",
+      "Feature_2": "Allegion COM400L-626"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-read-module-si-626",
+    "sku": "AC-SCH-READ-MODULE-SI-626",
+    "name": "Allegion SI-626",
+    "description": "AD-400 Smart Technology iClass compatible reader module in grey (Allegion Part #: SI-626).",
+    "priceUSD": 1443,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 41,
+    "stock": 114,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "AD-400 Smart Technology iClass compatible reader module in grey (Allegion Part #": "SI-626)",
+      "Feature_2": "Allegion SI-626"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-read-module-sik-626",
+    "sku": "AC-SCH-READ-MODULE-SIK-626",
+    "name": "Allegion SIK-626",
+    "description": "AD-400 Smart Technology iClass compatible reader + keypad module in grey (Allegion Part #: SIK-626).",
+    "priceUSD": 1547,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 49,
+    "stock": 230,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "AD-400 Smart Technology iClass compatible reader + keypad module in grey (Allegion Part #": "SIK-626)",
+      "Feature_2": "Allegion SIK-626"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-allegion-ac-sch-tk400",
+    "sku": "AC-SCH-TK400",
+    "name": "Allegion TK400",
+    "description": "Wireless Test Kit; Pre-Installed Test Kit; Complete with WPR400-DT; PIM400-TD2; 593PI; Power Supply; Charger; Carrying Case.",
+    "priceUSD": 3005,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Allegion",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 120,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Wireless Test Kit",
+      "Feature_2": "Pre-Installed Test Kit",
+      "Feature_3": "Complete with WPR400-DT",
+      "Feature_4": "PIM400-TD2",
+      "Feature_5": "593PI",
+      "Feature_6": "Power Supply",
+      "Feature_7": "Charger",
+      "Feature_8": "Carrying Case",
+      "Feature_9": "Allegion TK400"
+    },
+    "features": [
+      "Official Allegion High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-avigilon-ac-sch-ad-23760275",
+    "sku": "AC-SCH-AD-23760275",
+    "name": "Allegion 23760275",
+    "description": "Allegion Schlage 12.0\" x 3.5\" x .075\" Decorative Plate (no Screws necessary) - (Under Lock)",
+    "priceUSD": 118.91,
+    "category": "Access Control & Door Security",
+    "subcategory": "Wireless Locks",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 147,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SCH_PIM400-TD2_SR_071620.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Allegion Schlage 12",
+      "Feature_2": "0\" x 3",
+      "Feature_3": "5\" x",
+      "Feature_4": "075\" Decorative Plate (no Screws necessary) - (Under Lock)",
+      "Feature_5": "Allegion 23760275"
+    },
+    "features": [
+      "Official Avigilon High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-01400-001",
+    "sku": "01400-001",
+    "name": "USB RFID READER 13MHz & 125kHz",
+    "description": "External RFID Reader 13.56MHz + 125kHz (USB interface)",
+    "priceUSD": 391.2,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "stock": 117,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "External RFID Reader 13",
+      "Feature_2": "56MHz + 125kHz (USB interface)",
+      "Feature_3": "USB RFID READER 13MHz & 125kHz"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-01527-001",
+    "sku": "01527-001",
+    "name": "USB SEC RFID READER 13MHz & 125kHz",
+    "description": "2N RFID secured reader 13.56MHz + 125kHz (USB interface), This USB reader reads the card serial number (CSN) and also secured PACs ID from HID smart cards",
+    "priceUSD": 501.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Readers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 252,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "2N RFID secured reader 13",
+      "Feature_2": "56MHz + 125kHz (USB interface), This USB reader reads the card serial number (CSN) and also secured PACs ID from HID smart cards",
+      "Feature_3": "USB SEC RFID READER 13MHz & 125kHz"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-03084-001",
+    "sku": "03084-001",
+    "name": "AXIS TA4711 Access Card 100 pcs",
+    "description": "Contactless MIFARE® DESFire® EV3 8K smart card that uses advanced radio frequency identification (RFID) technology to deliver secure and reliable physical access to premises.\nThe card is made of 100% recycled PET-G.\nOne bulk pack comes with 100 cards.",
+    "priceUSD": 693.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Smart Cards",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 117,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Contactless MIFARE® DESFire® EV3 8K smart card that uses advanced radio frequency identification (RFID) technology to deliver secure and reliable physical access to premises",
+      "Feature_2": "The card is made of 100% recycled PET-G",
+      "Feature_3": "One bulk pack comes with 100 cards",
+      "Feature_4": "AXIS TA4711 Access Card 100 pcs"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-03083-001",
+    "sku": "03083-001",
+    "name": "AXIS TA4712 Key Fob 50 pcs",
+    "description": "Contactless MIFARE® DESFire® EV3 8K key fob that uses advanced radio frequency identification (RFID) technology to deliver secure and reliable physical access to premises. The key fob is made of impact-resistant matt polycarbonate and ultrasonically welded in a stainless steel frame, making it stable and durable, with IP67 and IK09 rating – perfect for carrying on a keyring. \nOne bulk pack comes with 50 key fobs.",
+    "priceUSD": 693.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Key Fobs",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 48,
+    "stock": 272,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Contactless MIFARE® DESFire® EV3 8K key fob that uses advanced radio frequency identification (RFID) technology to deliver secure and reliable physical access to premises",
+      "Feature_2": "The key fob is made of impact-resistant matt polycarbonate and ultrasonically welded in a stainless steel frame, making it stable and durable, with IP67 and IK09 rating – perfect for carrying on a keyring",
+      "Feature_3": "One bulk pack comes with 50 key fobs",
+      "Feature_4": "AXIS TA4712 Key Fob 50 pcs"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-03102-001",
+    "sku": "03102-001",
+    "name": "AXIS TA1101-B Wiegand to OSDP Converter",
+    "description": "AXIS TA1101-B Wiegand to OSDP Converter is a versatile accessory designed to bridge the gap between Wiegand readers and Axis door controllers, specifically AXIS A1710 and A1810 Network Door Controllers, which have only OSDP reader port on board. This compact device ensures seamless integration by converting Wiegand signals to OSDP, allowing modern, secure, and efficient communication between the reader and the door controller.",
+    "priceUSD": 94.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Access Control Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 160,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TA1101-B Wiegand to OSDP Converter is a versatile accessory designed to bridge the gap between Wiegand readers and Axis door controllers, specifically AXIS A1710 and A1810 Network Door Controllers, which have only OSDP reader port on board",
+      "Feature_2": "This compact device ensures seamless integration by converting Wiegand signals to OSDP, allowing modern, secure, and efficient communication between the reader and the door controller",
+      "Feature_3": "AXIS TA1101-B Wiegand to OSDP Converter"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-02368-001",
+    "sku": "02368-001",
+    "name": "AXIS A1210 Network Door Controller",
+    "description": "A compact edge-based one door controller, suitable for plenum spaces, all powered by one PoE cable. It is fully integrated within Axis end-to-end solutions, this scalable product is optimized for both small and large installations and supports flexible authentication using different types of credentials. Furthermore, with built-in cybersecurity features, it prevents unauthorized access and safeguards your system.",
+    "priceUSD": 534,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 203,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "A compact edge-based one door controller, suitable for plenum spaces, all powered by one PoE cable",
+      "Feature_2": "It is fully integrated within Axis end-to-end solutions, this scalable product is optimized for both small and large installations and supports flexible authentication using different types of credentials",
+      "Feature_3": "Furthermore, with built-in cybersecurity features, it prevents unauthorized access and safeguards your system",
+      "Feature_4": "AXIS A1210 Network Door Controller"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-02369-001",
+    "sku": "02369-001",
+    "name": "AXIS A1210-B Network Door Controller",
+    "description": "The barebone version of A1210, a compact edge-based one door controller, suitable for installation anywhere. It’s possible to stack units, ideal for installation in small spaces such as existing or newly installed cabinets. Fully integrated within Axis end-to-end solutions, it’s optimized for both small and large installations and supports flexible authentication using different types of credentials.",
+    "priceUSD": 501.6,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 130,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "The barebone version of A1210, a compact edge-based one door controller, suitable for installation anywhere",
+      "Feature_2": "It’s possible to stack units, ideal for installation in small spaces such as existing or newly installed cabinets",
+      "Feature_3": "Fully integrated within Axis end-to-end solutions, it’s optimized for both small and large installations and supports flexible authentication using different types of credentials",
+      "Feature_4": "AXIS A1210-B Network Door Controller"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-02653-001",
+    "sku": "02653-001",
+    "name": "AXIS A1610 Network Door Controller",
+    "description": "This advanced and robust door controller includes everything needed to control two doors–all powered by one PoE cable, featuring four reader connections as well as two Form C relays to power the onboard lock. You can store up to 250k credentials and 250k event logs on the device itself. With built-in cybersecurity features, this smart door controller can internally handle all tasks related to door access—even if the network is down.",
+    "priceUSD": 886.8,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 245,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "This advanced and robust door controller includes everything needed to control two doors–all powered by one PoE cable, featuring four reader connections as well as two Form C relays to power the onboard lock",
+      "Feature_2": "You can store up to 250k credentials and 250k event logs on the device itself",
+      "Feature_3": "With built-in cybersecurity features, this smart door controller can internally handle all tasks related to door access—even if the network is down",
+      "Feature_4": "AXIS A1610 Network Door Controller"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-02654-001",
+    "sku": "02654-001",
+    "name": "AXIS A1610-B Network Door Controller",
+    "description": "Barebone version of A1610 Network Door Controller. Sold without a top cover, it offers easy installation with Axis or 3rd party cabinet. \nThis advanced door controller includes everything needed to control two doors–all powered by one PoE cable, featuring four reader connections as well as two Form C relays to power the onboard lock. You can store up to 250k credentials and 250k event logs on the device itself. With built-in cybersecurity features, this smart door controller can internally handle all tasks related to door access—even if the network is down.",
+    "priceUSD": 854.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 44,
+    "stock": 163,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Barebone version of A1610 Network Door Controller",
+      "Feature_2": "Sold without a top cover, it offers easy installation with Axis or 3rd party cabinet",
+      "Feature_3": "This advanced door controller includes everything needed to control two doors–all powered by one PoE cable, featuring four reader connections as well as two Form C relays to power the onboard lock",
+      "Feature_4": "You can store up to 250k credentials and 250k event logs on the device itself",
+      "Feature_5": "With built-in cybersecurity features, this smart door controller can internally handle all tasks related to door access—even if the network is down",
+      "Feature_6": "AXIS A1610-B Network Door Controller"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.068Z"
+  },
+  {
+    "id": "prod-axis-02684-001",
+    "sku": "02684-001",
+    "name": "AXIS A1214 Door Controller Kit",
+    "description": "This all-in-one, out-of-the-box-ready kit can control up to four doors. It includes four AXIS A1210-B units enclosed in AXIS TQ1808-VE, a robust, vandal-resistant IK10- and NEMA 4x-rated cabinet. Fully integrated within Axis end-to-end solutions, it offers fast and easy installation",
+    "priceUSD": 2340,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 248,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "This all-in-one, out-of-the-box-ready kit can control up to four doors",
+      "Feature_2": "It includes four AXIS A1210-B units enclosed in AXIS TQ1808-VE, a robust, vandal-resistant IK10- and NEMA 4x-rated cabinet",
+      "Feature_3": "Fully integrated within Axis end-to-end solutions, it offers fast and easy installation",
+      "Feature_4": "AXIS A1214 Door Controller Kit"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.069Z"
+  },
+  {
+    "id": "prod-axis-03078-001",
+    "sku": "03078-001",
+    "name": "AXIS A1710-B Network Door Controller",
+    "description": "This compact, cost-efficient door controller gives you full control for up to four doors including support for up to eight OSDP readers and eight locks. With onboard lock power, this all-in-one multi-door controller simplifies complex installations",
+    "priceUSD": 1496.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 41,
+    "stock": 252,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "This compact, cost-efficient door controller gives you full control for up to four doors including support for up to eight OSDP readers and eight locks",
+      "Feature_2": "With onboard lock power, this all-in-one multi-door controller simplifies complex installations",
+      "Feature_3": "AXIS A1710-B Network Door Controller"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.069Z"
+  },
+  {
+    "id": "prod-axis-03079-001",
+    "sku": "03079-001",
+    "name": "AXIS A1810-B Network Door Controller",
+    "description": "This compact, cost-efficient door controller gives you full control for up to eight doors including support for up to 16x OSDP readers and 16x locks. With onboard lock power, this all-in-one multi-door controller simplifies complex installations.",
+    "priceUSD": 2886,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 110,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "This compact, cost-efficient door controller gives you full control for up to eight doors including support for up to 16x OSDP readers and 16x locks",
+      "Feature_2": "With onboard lock power, this all-in-one multi-door controller simplifies complex installations",
+      "Feature_3": "AXIS A1810-B Network Door Controller"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.069Z"
+  },
+  {
+    "id": "prod-axis-02896-001",
+    "sku": "02896-001",
+    "name": "AXIS Door Controller Extension",
+    "description": "Single unit e-license for AXIS Door Controller Extension\n\nThis AXIS Camera Application Platform (ACAP) based application empowers Axis network door controllers to support additional features or integrations to extend the capability of the door controller. For example, wireless locks integration to support up to additional 16x wireless doors per door controller.\n\nDelivered as eLicense key. One license key per unit. Note: eLicenses are non-cancellable, non-changeable and non-returnable.",
+    "priceUSD": 212.4,
+    "category": "Access Control & Door Security",
+    "subcategory": "Door Controllers",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 258,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/ESPRIT-ANTI-COR-PTZ-020323.png"
+    ],
+    "specs": {
+      "Feature_1": "Single unit e-license for AXIS Door Controller Extension\n\nThis AXIS Camera Application Platform (ACAP) based application empowers Axis network door controllers to support additional features or integrations to extend the capability of the door controller",
+      "Feature_2": "For example, wireless locks integration to support up to additional 16x wireless doors per door controller",
+      "Feature_3": "Delivered as eLicense key",
+      "Feature_4": "One license key per unit",
+      "Note": "eLicenses are non-cancellable, non-changeable and non-returnable",
+      "Feature_6": "AXIS Door Controller Extension"
+    },
+    "features": [
+      "Official AXIS High-Reliability Access Control Hardware",
+      "Spinel Distribution Authorized Commercial Warranty",
+      "Engineered for High-Security Physical Access Control Installations"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-11T21:51:03.069Z"
+  },
+  {
+    "id": "prod-2n-02660-001",
+    "sku": "02660-001",
+    "name": "2N IP PHONE D7A",
+    "description": "7\" touchscreen IP phone, Android OS based.",
+    "priceUSD": 832.8,
+    "category": "Intercom & IP Communication",
+    "subcategory": "IP Intercoms",
+    "brand": "2N",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 263,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2023-05/2n_product_images_91378363_ip_phone_D7A_home_scree_right_1600x1600_2305Productimageswithcropping.png"
+    ],
+    "specs": {
+      "Feature_1": "7\" touchscreen IP phone",
+      "Feature_2": "Android OS based",
+      "Feature_3": "2N IP PHONE D7A"
+    },
+    "features": [
+      "Official 2N Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.027Z"
+  },
+  {
+    "id": "prod-2n-02659-001",
+    "sku": "02659-001",
+    "name": "2N USB CAMERA FOR 2N IP PHONE D7A",
+    "description": "USB camera module for the 2N IP Phone D7A (02660-001). It enables bi-directional video calls with the 2N IP Style intercom (02407-001 or 02521-001).",
+    "priceUSD": 127.2,
+    "category": "Intercom & IP Communication",
+    "subcategory": "Intercom Cameras",
+    "brand": "2N",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 128,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2023-11/web_2n_products_1120105_usb_camera_ip_phone_d7a_1600x1600_2311%20%282%29.png"
+    ],
+    "specs": {
+      "Feature_1": "USB camera module for",
+      "Feature_2": "Bi-directional video calls",
+      "Feature_3": "2N IP Style intercom (02407-001 or 02521-001)"
+    },
+    "features": [
+      "Official 2N Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-2n-01741-001",
+    "sku": "01741-001",
+    "name": "2N IP PHONE D7A BUTTONS EXTENDER",
+    "description": "Buttons extender for the 2N IP Phone D7A (02660-001).",
+    "priceUSD": 340.8,
+    "category": "Intercom & IP Communication",
+    "subcategory": "IP Intercoms",
+    "brand": "2N",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 106,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2023-11/web_2n_products_91378363_extender_module_ip_phone_d7a_1600x1600_2311%20%282%29.png"
+    ],
+    "specs": {
+      "Feature_1": "Buttons extender for 2N IP Phone D7A (02660-001)",
+      "Feature_2": "2N IP PHONE D7A BUTTONS EXTENDER"
+    },
+    "features": [
+      "Official 2N Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-cm1751",
+    "sku": "CM1751",
+    "name": "Light Duty mount ceiling/pendant/wall",
+    "description": "Light Duty mount ceiling/pendant/wall",
+    "priceUSD": 73.46,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 182,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Light Duty mount ceiling/pendant/wall"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-cm400",
+    "sku": "CM400",
+    "name": "Corner adapter for LWM41; IWM; IWM24; and DF5",
+    "description": "Corner adapter for LWM41 Legacy; IWM; or IWM24 wall mounts for Legacy and Intercept series or Spectra and DF5 pendant series. Supports up to 75 lbs.",
+    "priceUSD": 114.86,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 138,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner adapter for LWM41 Legacy",
+      "Feature_2": "IWM",
+      "Feature_3": "or IWM24 wall mounts for Legacy and Intercept series or Spectra and DF5 pendant series"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-cm400-sw",
+    "sku": "CM400-SW",
+    "name": "Corner Mount Adaptor For IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003",
+    "description": "Corner Mount Adaptor For IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003",
+    "priceUSD": 114.86,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 201,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner Mount Adaptor For IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-crnmt-1001",
+    "sku": "CRNMT-1001",
+    "name": "Corner mount for large pendant WLMT-1001",
+    "description": "CORNER MNT FOR LRGE PENDT WLMT-1001",
+    "priceUSD": 174,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 266,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "CORNER MNT FOR LRGE PENDT WLMT-1001"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-dbhwgc",
+    "sku": "DBHWGC",
+    "name": "DBHWGC",
+    "description": "Pole adapter 210 to 225mm",
+    "priceUSD": 134.63,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 112,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole adapter 210 to 225mm"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-ibp3bbap-ei",
+    "sku": "IBP3BBAP-EI",
+    "name": "In-ceiling Mount for Sarix Pro 3 and Sarix Enh 3 Environmental Bullet cameras",
+    "description": "In-ceiling Mount for Sarix Professional 3 and Sarix Ehanced 3 Environmental Bullet cameras",
+    "priceUSD": 136.24,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 118,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "In-ceiling Mount for Sarix Professional 3 and Sarix Ehanced 3 Environmental Bullet cameras"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-ibp3bbap-es",
+    "sku": "IBP3BBAP-ES",
+    "name": "Surface Mount for Sarix Pro 3 and Sarix Enh 3 Environmental Bullet cameras",
+    "description": "Surface Mount for Sarix Professional 3 and Sarix Ehanced 3 Environmental Bullet cameras",
+    "priceUSD": 141.58,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 237,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Surface Mount for Sarix Professional 3 and Sarix Ehanced 3 Environmental Bullet cameras"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-imm-cm",
+    "sku": "IMM-CM",
+    "name": "IMM-CM",
+    "description": "Corner Mount for WMVE-SR; Telegrey",
+    "priceUSD": 173.63,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 124,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner Mount for WMVE-SR",
+      "Feature_2": "Telegrey"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-iwm-gy",
+    "sku": "IWM-GY",
+    "name": "Wall mount with cable feedthrough for pendant Spectra cameras; Gray",
+    "description": "Wall mount with cable feedthrough for pendant mounted Spectra cameras. Supports up to 75 pounds. Can also be used with PP4348 for parapet rooftop applications. Gray finish.",
+    "priceUSD": 130.88,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 193,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount with cable feedthrough for pendant mounted Spectra cameras",
+      "Feature_2": "Supports up to 75 pounds",
+      "Feature_3": "Can also be used with PP4348 for parapet rooftop applications"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-iwm-sr",
+    "sku": "IWM-SR",
+    "name": "Wall Mount Lt Gray for Sarix IE P Pnd Lg",
+    "description": "Wall Mount Lt Gray for Sarix IE P Pnd Lg",
+    "priceUSD": 126.89,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 249,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall Mount Lt Gray for Sarix IE P Pnd Lg"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-iwm-sw",
+    "sku": "IWM-SW",
+    "name": "Environmental wall mount with cable feedthrough for Spectra Enhanced 7; RAL 9003",
+    "description": "Environmental wall mount with cable feedthrough for Spectra Enhanced 7 IP PTZ cameras; RAL 9003",
+    "priceUSD": 130.88,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 114,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Environmental wall mount with cable feedthrough for Spectra Enhanced 7 IP PTZ cameras",
+      "Feature_2": "RAL 9003"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-jbox-1201",
+    "sku": "JBOX-1201",
+    "name": "Junction Box for Dual Head Cameras",
+    "description": "Junction Box for Dual Head Cameras",
+    "priceUSD": 126,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 229,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Junction Box for Dual Head Cameras"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-mrca",
+    "sku": "MRCA",
+    "name": "Ceiling adapter for domes and MR3000; MR3050; MR4000 and MRU monitor mounts.",
+    "description": "Ceiling adapter for domes and MR3000; MR3050; MR4000 and MRU monitor mounts.",
+    "priceUSD": 53.42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 154,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Ceiling adapter for domes and MR3000",
+      "Feature_2": "MR3050",
+      "Feature_3": "MR4000 and MRU monitor mounts"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-msi-nptcon-1001",
+    "sku": "MSI-NPTCON-1001",
+    "name": "MSI-NPTCON-1001",
+    "description": "ADAPTOR; 1-1/2\" x 1/2\" NPT Male",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 109,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "ADAPTOR",
+      "Feature_2": "1-1/2\" x 1/2\" NPT Male"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-mvxima",
+    "sku": "MVXIMA",
+    "name": "MVXIMA",
+    "description": "ADAPTER FOR EXPLOSION PROOF ILLUMINATOR ON MVXWB",
+    "priceUSD": 165.85,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 122,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "ADAPTER FOR EXPLOSION PROOF ILLUMINATOR ON MVXWB"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:36:20.028Z"
+  },
+  {
+    "id": "prod-pelco-mvxwb",
+    "sku": "MVXWB",
+    "name": "MVXWB",
+    "description": "WALL BRACKET FOR MXH - EXSITE ENH 2 FIXED",
+    "priceUSD": 1055.22,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 211,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "WALL BRACKET FOR MXH - EXSITE ENH 2 FIXED"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.372Z"
+  },
+  {
+    "id": "prod-pelco-npta-1001",
+    "sku": "NPTA-1001",
+    "name": "1.5 inch NPT Adapter for Large Pendant Mount Camera",
+    "description": "1.5 inch NPT Adapter for Large Pendant Mount Camera",
+    "priceUSD": 78.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 207,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "5 inch NPT Adapter for Large Pendant Mount Camera"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-npta-1201",
+    "sku": "NPTA-1201",
+    "name": "1.5 inch NPT Adapter for Dual Head Cameras",
+    "description": "1.5 inch NPT Adapter for Dual Head Cameras",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 117,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "5 inch NPT Adapter for Dual Head Cameras"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pa101",
+    "sku": "PA101",
+    "name": "Pole adapter for EM1400; PM14; MM1000 mounts. Minimum pole diameter 1.5-inches",
+    "description": "Pole adapter for EM1400; PM14; MM1000 mounts. Minimum pole diameter 1.5-inches. Mounting straps included.",
+    "priceUSD": 89.48,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 161,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole adapter for EM1400",
+      "Feature_2": "PM14",
+      "Feature_3": "MM1000 mounts"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pa101-sw",
+    "sku": "PA101-SW",
+    "name": "Pole mount adapter. Minimum pole diameter 1.5-inches. White",
+    "description": "Pole mount adapter. Minimum pole diameter 1.5-inches. Mounting straps included. White",
+    "priceUSD": 89.48,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 123,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount adapter",
+      "Feature_2": "Minimum pole diameter 1",
+      "Feature_3": "5-inches"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pa402",
+    "sku": "PA402",
+    "name": "Pole adapter for LWM41; IWM; IWM24 wall mounts Spectra and DF5 pendant series",
+    "description": "Pole adapter for LWM41 Legacy®; IWM; or IWM24 wall mounts for Legacy® and Intercept series or Spectra® and DF5 pendant series. Minimum pole diameter 3 in.",
+    "priceUSD": 118.87,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 241,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole adapter for LWM41 Legacy®",
+      "Feature_2": "IWM",
+      "Feature_3": "or IWM24 wall mounts for Legacy® and Intercept series or Spectra® and DF5 pendant series"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pa402-sw",
+    "sku": "PA402-SW",
+    "name": "Pole Mount Adaptor for IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003",
+    "description": "Pole Mount Adaptor for IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003",
+    "priceUSD": 118.87,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 208,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole Mount Adaptor for IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-plmt-1001",
+    "sku": "PLMT-1001",
+    "name": "Pole mount for large pendant WLMT-1001",
+    "description": "POLE MOUNT FOR LRGE PENDT WLMT-1001",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "POLE MOUNT FOR LRGE PENDT WLMT-1001"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pm2000",
+    "sku": "PM2000",
+    "name": "Heavy-duty; for pan/tilt's or enclosures. Ceiling/pedestal mount; 24-inch height",
+    "description": "Heavy-duty; for pan/tilt's or enclosures. Ceiling/pedestal mount; 24-inch height. Can be used with AH2000 adjustable head. Supports up to 125 lbs. Use ST1 support strut for increased stability.",
+    "priceUSD": 228.38,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 244,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Heavy-duty",
+      "Feature_2": "for pan/tilt's or enclosures",
+      "Feature_3": "Ceiling/pedestal mount"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pm2010",
+    "sku": "PM2010",
+    "name": "Heavy-duty; for pan/tilt's or enclosures. Ceiling/pedestal mount; 10-inch height",
+    "description": "Heavy-duty; for pan/tilt's or enclosures. Ceiling/pedestal mount; 10-inch height. Can be used with AH2000 adjustable head. Supports up to 125 lbs. Use ST1 support strut for increased stability.",
+    "priceUSD": 153.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 131,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Heavy-duty",
+      "Feature_2": "for pan/tilt's or enclosures",
+      "Feature_3": "Ceiling/pedestal mount"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pp350-aw",
+    "sku": "PP350-AW",
+    "name": "Parapet Wall Mount for 1.5 Inch Pendant Swivels; Pantone 427C",
+    "description": "Parapet Wall Mount for 1.5 Inch Small Pendants Swivels for Easy Install 45 lb Load Pantone 427C",
+    "priceUSD": 595.68,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 157,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet Wall Mount for 1",
+      "Feature_2": "5 Inch Small Pendants Swivels for Easy Install 45 lb Load Pantone 427C"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pp350-sw",
+    "sku": "PP350-SW",
+    "name": "Parapet wall mount for Spectra and DF5 outdoor pendant domes; White",
+    "description": "Parapet wall mount for Spectra and DF5 outdoor pendant style domes. Mounts to inside or outside of parapet wall. White",
+    "priceUSD": 595.68,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 261,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet wall mount for Spectra and DF5 outdoor pendant style domes",
+      "Feature_2": "Mounts to inside or outside of parapet wall",
+      "Feature_3": "White"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.373Z"
+  },
+  {
+    "id": "prod-pelco-pp450",
+    "sku": "PP450",
+    "name": "Parapet adapter mount for Spectra and DF5 series pendant domes ; Gray",
+    "description": "Parapet adapter mount for Spectra and DF5 series pendant domes utilizing 1.5-inch NPT threaded pipe for mounting. Mounts to inside or outside of parapet wall. Removable end cap. Gray",
+    "priceUSD": 658.45,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 260,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet adapter mount for Spectra and DF5 series pendant domes utilizing 1",
+      "Feature_2": "5-inch NPT threaded pipe for mounting",
+      "Feature_3": "Mounts to inside or outside of parapet wall"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.374Z"
+  },
+  {
+    "id": "prod-pelco-pp450-sw",
+    "sku": "PP450-SW",
+    "name": "Parapet adapter mount for Spectra and DF5 series pendant domes; White",
+    "description": "Parapet adapter mount for Spectra and DF5 series pendant domes with 1.5 inch NPT mounting. Mounts to inside or outside of parapet wall. Removable end cap. White",
+    "priceUSD": 658.45,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 249,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet adapter mount for Spectra and DF5 series pendant domes with 1",
+      "Feature_2": "5 inch NPT mounting",
+      "Feature_3": "Mounts to inside or outside of parapet wall"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.374Z"
+  },
+  {
+    "id": "prod-pelco-pp451",
+    "sku": "PP451",
+    "name": "Rooftop parapet adapter mount for Spectra and DF5 series pendant domes",
+    "description": "Rooftop parapet adapter mount for Spectra and DF5 series pendant domes utilizing 1.5-inch NPT threaded pipe for mounting. Mounts to rooftop or flat horizontal surface. Removable end cap.",
+    "priceUSD": 969.61,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Rooftop parapet adapter mount for Spectra and DF5 series pendant domes utilizing 1",
+      "Feature_2": "5-inch NPT threaded pipe for mounting",
+      "Feature_3": "Mounts to rooftop or flat horizontal surface"
+    },
+    "features": [
+      "Official Pelco Commercial Hardware Component",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Designed for Professional Security & Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:38:36.374Z"
+  },
+  {
+    "id": "prod-pelco-pp451-sw",
+    "sku": "PP451-SW",
+    "name": "Rooftop parapet adapter mount for Spectra and DF5 series pendant domes; White",
+    "description": "Rooftop parapet adapter mount Intercept for Spectra and DF5 series pendant domes (any utilizing 1.5-inch NPT threaded pipe). Mounts to rooftop or flat horizontal surface. Removable end cap. White",
+    "priceUSD": 762.62,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "stock": 247,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Rooftop parapet adapter mount Intercept for Spectra and DF5 series pendant domes (any utilizing 1",
+      "Feature_2": "5-inch NPT threaded pipe)",
+      "Feature_3": "Mounts to rooftop or flat horizontal surface"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.347Z"
+  },
+  {
+    "id": "prod-pelco-slspcil-1001",
+    "sku": "SLSPCIL-1001",
+    "name": "In-ceiling mount for 6.1\" (156mm) Dome camera",
+    "description": "In-ceiling mount for 6.1\" (156mm) Dome camera",
+    "priceUSD": 39.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 249,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "In-ceiling mount for 6",
+      "Feature_2": "1\" (156mm) Dome camera"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-sm-fjb-aw-3991",
+    "sku": "SM-FJB-AW-3991",
+    "name": "SMR  Fixed J Box Pantone 427C 2-003991",
+    "description": "SMR  Fixed J Box Pantone 427C 2-003991",
+    "priceUSD": 288,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "stock": 201,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR  Fixed J Box Pantone 427C 2-003991"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-sm-sjb-aw-3398",
+    "sku": "SM-SJB-AW-3398",
+    "name": "SMR  Swivel J Box Pantone 427C 2-003398",
+    "description": "SMR  Swivel J Box Pantone 427C 2-003398",
+    "priceUSD": 446.09,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 35,
+    "stock": 112,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR  Swivel J Box Pantone 427C 2-003398"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-sp01-001-aw",
+    "sku": "SP01-001-AW",
+    "name": "SMR POLE TOP MT PENDANT; Pantone 427C",
+    "description": "SMR POLE TOP MT PENDANT; Pantone 427C",
+    "priceUSD": 110.72,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 156,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR POLE TOP MT PENDANT",
+      "Feature_2": "Pantone 427C"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-sp01-146a-aw",
+    "sku": "SP01-146A-AW",
+    "name": "SMR 1.5-IN NPT EXT;300MM WT Pantone 427C",
+    "description": "SMR 1.5-IN NPT EXT;300MM WT Pantone 427C",
+    "priceUSD": 114.86,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 111,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR 1",
+      "Feature_2": "5-IN NPT EXT",
+      "Feature_3": "300MM WT Pantone 427C"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-sp01-146b-aw",
+    "sku": "SP01-146B-AW",
+    "name": "SMR 1.5-IN NPT EXT; 1M WT Pantone 427C",
+    "description": "SMR 1.5-IN NPT EXT; 1M WT Pantone 427C",
+    "priceUSD": 233.74,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 242,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR 1",
+      "Feature_2": "5-IN NPT EXT",
+      "Feature_3": "1M WT Pantone 427C"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-sp99-321-aw",
+    "sku": "SP99-321-AW",
+    "name": "SMR 4-8 FT TELESCOPING POLE Pantone 427C",
+    "description": "SMR 4-8 FT TELESCOPING POLE Pantone 427C",
+    "priceUSD": 660,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "stock": 134,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR 4-8 FT TELESCOPING POLE Pantone 427C"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-spm5-w",
+    "sku": "SPM5-W",
+    "name": "Spectra Mini White Pendant Mount",
+    "description": "Spectra Mini White Pendant Mount",
+    "priceUSD": 45.36,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 174,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Spectra Mini White Pendant Mount"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-srxp4c-mt-npta1",
+    "sku": "SRXP4C-MT-NPTA1",
+    "name": "SRXP4C-MT-NPTA1",
+    "description": "MOUNT; Pendant Adapter; Grey; Odr; Pro4C",
+    "priceUSD": 60,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 207,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "MOUNT",
+      "Feature_2": "Pendant Adapter",
+      "Feature_3": "Grey"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-srxv-pcf",
+    "sku": "SRXV-PCF",
+    "name": "Ceiling Flange for Pendant Adapter and Pipe Extension for Sarix Value Cameras",
+    "description": "Ceiling Flange for Pendant Adapter and Pipe Extension for Sarix Value Cameras",
+    "priceUSD": 245.75,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 136,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Ceiling Flange for Pendant Adapter and Pipe Extension for Sarix Value Cameras"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-srxv-plm",
+    "sku": "SRXV-PLM",
+    "name": "Pole Mount for Wall Mounted Sarix Value IP Cameras and Bullets",
+    "description": "Pole Mount for Wall Mounted Sarix Value IP Cameras and Bullets",
+    "priceUSD": 160.27,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 238,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole Mount for Wall Mounted Sarix Value IP Cameras and Bullets"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-srxv-pp",
+    "sku": "SRXV-PP",
+    "name": "Pipe Extenstion for Pendant Adapter for Sarix Value Cameras",
+    "description": "Pipe Extenstion for Pendant Adapter for Sarix Value Cameras",
+    "priceUSD": 110.86,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 130,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pipe Extenstion for Pendant Adapter for Sarix Value Cameras"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-srxv-wmp",
+    "sku": "SRXV-WMP",
+    "name": "Wall Mount for Sarix Value IP Cameras using Pendant Adapter Plate",
+    "description": "Wall Mount for Sarix Value IP Cameras using Pendant Adapter Plate",
+    "priceUSD": 74.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 246,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall Mount for Sarix Value IP Cameras using Pendant Adapter Plate"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-srxv-wms",
+    "sku": "SRXV-WMS",
+    "name": "Wall Mount for Sarix Value IMV; IJV; ITV; IJV Series",
+    "description": "Wall Mount for Sarix Value Surface Mount Environmental IMV Series Varifocal Domes IJV Series Fixed Focal Domes ITV Series Varifocal Turrets And IJV Series Fixed Focal Domes",
+    "priceUSD": 70.79,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 178,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall Mount for Sarix Value Surface Mount Environmental IMV Series Varifocal Domes IJV Series Fixed Focal Domes ITV Series Varifocal Turrets And IJV Series Fixed Focal Domes"
+    },
+    "features": [
+      "Official Pelco Commercial Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:40:23.348Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-adpt-1001",
+    "sku": "SRXV2-ADPT-1001",
+    "name": "Sarix Value 2 Adaptor Plate for Indoor/Outdoor Domes. (Shipping from April2025)",
+    "description": "Sarix Value 2 Adaptor Plate for Indoor/Outdoor Domes. (Shipping from April2025)",
+    "priceUSD": 36,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 243,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Adaptor Plate for Indoor/Outdoor Domes",
+      "Feature_2": "(Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.217Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-crnmt-1001",
+    "sku": "SRXV2-CRNMT-1001",
+    "name": "Sarix Value 2 Corner Mount for Indoor & Outdoor Domes. (Shipping from April2025)",
+    "description": "Sarix Value 2 Corner Mount for Indoor & Outdoor Domes. (Shipping from April2025)",
+    "priceUSD": 144,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 274,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Corner Mount for Indoor & Outdoor Domes",
+      "Feature_2": "(Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.217Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-fcmnt-1002",
+    "sku": "SRXV2-FCMNT-1002",
+    "name": "Sarix Value 2 Flush Mount for Indoor Dome (Shipping from May2025)",
+    "description": "Sarix Value 2 Flush Mount for Indoor Dome (Shipping from May2025)",
+    "priceUSD": 78,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 146,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Flush Mount for Indoor Dome (Shipping from May2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-jbx-1001",
+    "sku": "SRXV2-JBX-1001",
+    "name": "Sarix Value 2 Junction Box for Indoor Dome (Shipping from May2025)",
+    "description": "Sarix Value 2 Junction Box for Indoor Dome (Shipping from May2025)",
+    "priceUSD": 126,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 126,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Junction Box for Indoor Dome (Shipping from May2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-jbx-1003",
+    "sku": "SRXV2-JBX-1003",
+    "name": "Sarix Value 2 Junction Box for Outdoor Domes (Shipping from April2025)",
+    "description": "Sarix Value 2 Junction Box for Outdoor Domes (Shipping from April2025)",
+    "priceUSD": 186,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 248,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Junction Box for Outdoor Domes (Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-lmt-1001",
+    "sku": "SRXV2-LMT-1001",
+    "name": "Sarix Value 2 L-Mount for Indoor & Outdoor Domes. (Shipping from April2025)",
+    "description": "Sarix Value 2 L-Mount for Indoor & Outdoor Domes. (Shipping from April2025)",
+    "priceUSD": 54,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 246,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 L-Mount for Indoor & Outdoor Domes",
+      "Feature_2": "(Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-pdcp-1001",
+    "sku": "SRXV2-PDCP-1001",
+    "name": "Sarix Value 2 Pendant Cap for Outdoor Dome (Shipping from April2025)",
+    "description": "Sarix Value 2 Pendant Cap for Outdoor Dome (Shipping from April2025)",
+    "priceUSD": 150,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 263,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Pendant Cap for Outdoor Dome (Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-pdcp-1002",
+    "sku": "SRXV2-PDCP-1002",
+    "name": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025)",
+    "description": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025)",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 148,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-pdmt-1001",
+    "sku": "SRXV2-PDMT-1001",
+    "name": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge. (Shipping from April2025)",
+    "description": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge. (Shipping from April2025)",
+    "priceUSD": 198,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 195,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge",
+      "Feature_2": "(Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-pdnt-1001",
+    "sku": "SRXV2-PDNT-1001",
+    "name": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025)",
+    "description": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025)",
+    "priceUSD": 108,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 124,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-pdnt-1002",
+    "sku": "SRXV2-PDNT-1002",
+    "name": "Sarix Value 2 Pendant Cap for Outdoor Dome",
+    "description": "Sarix Value 2 Pendant Cap for Outdoor Dome",
+    "priceUSD": 132,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 240,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Pendant Cap for Outdoor Dome"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-plmt-1001",
+    "sku": "SRXV2-PLMT-1001",
+    "name": "Sarix Value 2 Pole Mount for Indoor & Outdoor Domes. (Shipping from April2025)",
+    "description": "Sarix Value 2 Pole Mount for Indoor & Outdoor Domes. (Shipping from April2025)",
+    "priceUSD": 132,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 282,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Pole Mount for Indoor & Outdoor Domes",
+      "Feature_2": "(Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-sld-1001",
+    "sku": "SRXV2-SLD-1001",
+    "name": "Sarix Value 2 Sunshield for Outdoor Dome (Shipping from May2025)",
+    "description": "Sarix Value 2 Sunshield for Outdoor Dome (Shipping from May2025)",
+    "priceUSD": 56.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 116,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Sunshield for Outdoor Dome (Shipping from May2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-sld-1002",
+    "sku": "SRXV2-SLD-1002",
+    "name": "Sarix Value 2 Sunshield for Bullets. (Shipping from April2025)",
+    "description": "Sarix Value 2 Sunshield for Bullets. (Shipping from April2025)",
+    "priceUSD": 54,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 244,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Sunshield for Bullets",
+      "Feature_2": "(Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-srxv2-wmt-1001",
+    "sku": "SRXV2-WMT-1001",
+    "name": "Sarix Value 2 Wall Mount for Domes & Wedge (Shipping from April2025)",
+    "description": "Sarix Value 2 Wall Mount for Domes & Wedge (Shipping from April2025)",
+    "priceUSD": 114,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Sarix Value 2 Wall Mount for Domes & Wedge (Shipping from April2025)"
+    },
+    "features": [
+      "Official Pelco Sarix Value 2 Hardware & Mounting Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:43:06.218Z"
+  },
+  {
+    "id": "prod-pelco-swm-gy",
+    "sku": "SWM-GY",
+    "name": "Wall mount with cable feedthrough for Spectra and DF5 pendant domes; Gray",
+    "description": "Compact environmental wall mount for small size pendant domes camera. 1.5-inch NPT. Supports up to 4.5 kg (10 lb). RAL 9002 (env gray) color.",
+    "priceUSD": 76.13,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 258,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Compact environmental wall mount for small size pendant domes camera",
+      "Feature_2": "5-inch NPT",
+      "Feature_3": "Supports up to 4"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-swm-pa-gy",
+    "sku": "SWM-PA-GY",
+    "name": "Pole adapter; cable feedthrough with SWM-BK. For Spectra or DF5 pendant; Gray",
+    "description": "Gray pole adapter for the SWM-GY. Mounts Spectra or DF5 pendant domes using two stainless steel straps and an attachment plate. Provides cable feedthrough.",
+    "priceUSD": 45.41,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 152,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Gray pole adapter for the SWM-GY",
+      "Feature_2": "Mounts Spectra or DF5 pendant domes using two stainless steel straps and an attachment plate",
+      "Feature_3": "Provides cable feedthrough"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-tb1751",
+    "sku": "TB1751",
+    "name": "Mount;Light Duty;with Bar Clip",
+    "description": "Mount;Light Duty;with Bar Clip",
+    "priceUSD": 76.13,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 227,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Mount",
+      "Feature_2": "Light Duty",
+      "Feature_3": "with Bar Clip"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-ueac",
+    "sku": "UEAC",
+    "name": "UEAC",
+    "description": "Corner adaptor stainless AISI 316L",
+    "priceUSD": 186.12,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 274,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner adaptor stainless AISI 316L"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-ueap",
+    "sku": "UEAP",
+    "name": "UEAP",
+    "description": "Pole adaptor stainless steel AISI 316L",
+    "priceUSD": 143.94,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 236,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole adaptor stainless steel AISI 316L"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-ueaw",
+    "sku": "UEAW",
+    "name": "UEAW",
+    "description": "Counter-plate stainless AISI 316L",
+    "priceUSD": 203.38,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 209,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Counter-plate stainless AISI 316L"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-uebp0aa",
+    "sku": "UEBP0AA",
+    "name": "UEBP0AA",
+    "description": "Parapet bracket internal cable RAL9002",
+    "priceUSD": 102,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 298,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet bracket internal cable RAL9002"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-uebp4aa",
+    "sku": "UEBP4AA",
+    "name": "UEBP4AA",
+    "description": "Parapet bracket RJ45-PoE4PWR- IO RAL9002",
+    "priceUSD": 258,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 180,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet bracket RJ45-PoE4PWR- IO RAL9002"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-uebp7aa",
+    "sku": "UEBP7AA",
+    "name": "UEBP7AA",
+    "description": "Parapet bracket RJ45-PoE7PWR- IO RAL9002",
+    "priceUSD": 318,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 219,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet bracket RJ45-PoE7PWR- IO RAL9002"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-uebwaa",
+    "sku": "UEBWAA",
+    "name": "UEBWAA",
+    "description": "Wall bracket for ULISSE EVO (RAL9002)",
+    "priceUSD": 93.82,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 249,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall bracket for ULISSE EVO (RAL9002)"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-uewbta",
+    "sku": "UEWBTA",
+    "name": "Parapet or ceiling mounting bracket UK",
+    "description": "Parapet or ceiling mounting bracket UK",
+    "priceUSD": 352.18,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 216,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet or ceiling mounting bracket UK"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-wbma",
+    "sku": "WBMA",
+    "name": "WBMA",
+    "description": "Housing wall bracket with ball joint",
+    "priceUSD": 31.21,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 192,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Housing wall bracket with ball joint"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.166Z"
+  },
+  {
+    "id": "prod-pelco-wcm3a",
+    "sku": "WCM3A",
+    "name": "WCM3A",
+    "description": "Ceiling bracket with ball joint",
+    "priceUSD": 105.01,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 176,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Ceiling bracket with ball joint"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.167Z"
+  },
+  {
+    "id": "prod-pelco-wcm4a2",
+    "sku": "WCM4A2",
+    "name": "Ceiling bracket with internal cable channel",
+    "description": "Ceiling bracket with internal cable channel",
+    "priceUSD": 150.64,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 163,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Ceiling bracket with internal cable channel"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.167Z"
+  },
+  {
+    "id": "prod-pelco-wcmpa",
+    "sku": "WCMPA",
+    "name": "WCMPA",
+    "description": "WCMPA",
+    "priceUSD": 42.42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 146,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "WCMPA"
+    },
+    "features": [
+      "Official Pelco Professional Surveillance Mounting Hardware",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:45:50.167Z"
+  },
+  {
+    "id": "prod-pelco-wcpa",
+    "sku": "WCPA",
+    "name": "WCPA",
+    "description": "Wall bracket adaptor plate",
+    "priceUSD": 48.66,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 278,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall bracket adaptor plate"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.178Z"
+  },
+  {
+    "id": "prod-pelco-wcwa",
+    "sku": "WCWA",
+    "name": "WCWA",
+    "description": "Corner mount adaptor",
+    "priceUSD": 76.68,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 299,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner mount adaptor"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wcwgc",
+    "sku": "WCWGC",
+    "name": "WCWGC",
+    "description": "Corner adaptor",
+    "priceUSD": 127.26,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 162,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner adaptor"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wfwca",
+    "sku": "WFWCA",
+    "name": "WFWCA",
+    "description": "Column mount ball joint for housing",
+    "priceUSD": 130.94,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 120,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Column mount ball joint for housing"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wlmt-1001",
+    "sku": "WLMT-1001",
+    "name": "Wall Mount for large pendant camera",
+    "description": "Wall Mount for large pendant camera",
+    "priceUSD": 145.58,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 247,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall Mount for large pendant camera"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wlmt-1021",
+    "sku": "WLMT-1021",
+    "name": "Mount; Pendant Arm; 20cm Long; 1.5 NPT",
+    "description": "Mount; Pendant Arm; 20cm Long; 1.5 NPT",
+    "priceUSD": 126,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 176,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Mount",
+      "Feature_2": "Pendant Arm",
+      "Feature_3": "20cm Long"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wlmt-1031",
+    "sku": "WLMT-1031",
+    "name": "Universal Wall Arm Mount; 30cm; 1.5 NPT Adapter.",
+    "description": "Universal Wall Arm Mount; 30cm; 1.5 NPT Adapter.",
+    "priceUSD": 126,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 234,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Universal Wall Arm Mount",
+      "Feature_2": "30cm",
+      "Feature_3": "5 NPT Adapter"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wmve-sr",
+    "sku": "WMVE-SR",
+    "name": "Wall Mount 1.5 Inch NPT Cool Light Gray For Sarix IE; IM-V; IM-E; Others",
+    "description": "Wall Mount Vandal Resistant 1.5 Inch NPT Cool Light Gray For Sarix Series IE; IM-V; IM-E; Others",
+    "priceUSD": 74.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 226,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall Mount Vandal Resistant 1",
+      "Feature_2": "5 Inch NPT Cool Light Gray For Sarix Series IE",
+      "Feature_3": "IM-V"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wmve-sw",
+    "sku": "WMVE-SW",
+    "name": "Wall Mount 1.5 inch NPT with 0.75 inch NPT adapter RAL 9003",
+    "description": "Wall Mount Vandal 1.5 inch NPT with Indoor 0.75 inch NPT adapter For Sarix Professional and Enhanced Range pendants; RAL 9003",
+    "priceUSD": 74.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 187,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall Mount Vandal 1",
+      "Feature_2": "5 inch NPT with Indoor 0",
+      "Feature_3": "75 inch NPT adapter For Sarix Professional and Enhanced Range pendants"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-wsfpa",
+    "sku": "WSFPA",
+    "name": "WSFPA",
+    "description": "Pole mount adaptor 65mm to 140mm",
+    "priceUSD": 87.89,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 286,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount adaptor 65mm to 140mm"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-xwba",
+    "sku": "XWBA",
+    "name": "XWBA",
+    "description": "BRACKET; Wall; AISI 316L",
+    "priceUSD": 816.41,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 214,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "BRACKET",
+      "Feature_2": "Wall",
+      "Feature_3": "AISI 316L"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-pelco-xwbta",
+    "sku": "XWBTA",
+    "name": "XWBTA",
+    "description": "MOUNT; Parapet; AISI 316L",
+    "priceUSD": 352.18,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Pelco",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 173,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "MOUNT",
+      "Feature_2": "Parapet",
+      "Feature_3": "AISI 316L"
+    },
+    "features": [
+      "Official Pelco Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-avigilon-vt-100-id-cus-1000",
+    "sku": "VT-100-ID-CUS-1000",
+    "name": "Custom VT100 Front-panel ID Card (1000)",
+    "description": "1000 Custom front panel ID-card for the VT-100 camera",
+    "priceUSD": 2760,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 255,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/eCommerce-Site_Generic-Image_Body-Worn-Cameras-and-Accessories_070720.jpg"
+    ],
+    "specs": {
+      "Feature_1": "1000 Custom front panel ID-card for the VT-100 camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-avigilon-vt-100-id-cus-250",
+    "sku": "VT-100-ID-CUS-250",
+    "name": "250 ID Cards for VT100",
+    "description": "250 Custom front panel ID-card for the VT100 camera",
+    "priceUSD": 2142,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 118,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/VT-100-ID-CUS-250_071320.jpg"
+    ],
+    "specs": {
+      "Feature_1": "250 Custom front panel ID-card for the VT100 camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-avigilon-vt-100-id-cus-5000",
+    "sku": "VT-100-ID-CUS-5000",
+    "name": "Custom VT100 Front-panel ID Card (5000)",
+    "description": "5000 Custom front panel ID-card for the VT-100 camera",
+    "priceUSD": 10302,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 130,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "5000 Custom front panel ID-card for the VT-100 camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:47:45.179Z"
+  },
+  {
+    "id": "prod-avigilon-rfmnt-2001",
+    "sku": "RFMNT-2001",
+    "name": "Rooftop Wall Arm Large",
+    "description": "Rooftop Arm Mount Large for Outdoor Pendant Camera",
+    "priceUSD": 1018.08,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 187,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Rooftop Arm Mount Large for Outdoor Pendant Camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.108Z"
+  },
+  {
+    "id": "prod-avigilon-wlmt-1001-2",
+    "sku": "WLMT-1001-2",
+    "name": "Wall Mount for large pendant camera",
+    "description": "Wall Mount for large pendant camera",
+    "priceUSD": 152.87,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 277,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall Mount for large pendant camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-wlmt-1021-2",
+    "sku": "WLMT-1021-2",
+    "name": "Mount; Pendant Arm; 20cm Long; 1.5 NPT",
+    "description": "Mount; Pendant Arm; 20cm Long; 1.5 NPT",
+    "priceUSD": 132.3,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 189,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6A-X-XP%20Camera%20Line/WLMT-1021-09192023.png"
+    ],
+    "specs": {
+      "Feature_1": "Mount",
+      "Feature_2": "Pendant Arm",
+      "Feature_3": "20cm Long"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-h6m-mt-npta1",
+    "sku": "H6M-MT-NPTA1",
+    "name": "H6M-MT-NPTA1",
+    "description": "MOUNT; Pendant Adapter; Grey; Odr; H6M",
+    "priceUSD": 51.48,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 252,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "MOUNT",
+      "Feature_2": "Pendant Adapter",
+      "Feature_3": "Grey"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-apd-mt-wall1",
+    "sku": "APD-MT-WALL1",
+    "name": "APD Wall Mount",
+    "description": "Optional wall or corner Mount for Avigilon Presence Detector",
+    "priceUSD": 11.88,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 227,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Optional wall or corner Mount for Avigilon Presence Detector"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-crnmt-1001-2",
+    "sku": "CRNMT-1001-2",
+    "name": "Corner mount for large pendant WLMT-1001",
+    "description": "CORNER MNT FOR LRGE PENDT WLMT-1001",
+    "priceUSD": 182.7,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 248,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H4-Camera_Corner-Mount_Back_070520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "CORNER MNT FOR LRGE PENDT WLMT-1001"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-crnmt-2600-smr-4852",
+    "sku": "CRNMT-2600-SMR-4852",
+    "name": "SMR CORNER MOUNT ADAPTER 26INCH 2-004852",
+    "description": "SMR CORNER MOUNT ADAPTER 26INCH 2-004852",
+    "priceUSD": 819,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 216,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR CORNER MOUNT ADAPTER 26INCH 2-004852"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-es-ps-mnt-pole",
+    "sku": "ES-PS-MNT-POLE",
+    "name": "Pole mount bracket for ES-PS-S4 switch.",
+    "description": "Pole mount bracket for ES-PS-S4 switch.",
+    "priceUSD": 102.04,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 117,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount bracket for ES-PS-S4 switch"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-h4-mt-pole1",
+    "sku": "H4-MT-POLE1",
+    "name": "Avigilon Pole Mount Adapter",
+    "description": "Pole mount adapter for use with H4A-MT-Wall1; H4-BO-JBOX1; H4SL; H4F; H4 PTZ; H4 IR PTZ and H4 Multisensor cameras.",
+    "priceUSD": 144.9,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 123,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H4-Camera_Pole-Mount_Back_070120.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount adapter for use with H4A-MT-Wall1",
+      "Feature_2": "H4-BO-JBOX1",
+      "Feature_3": "H4SL"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-h6m-mt-npta2",
+    "sku": "H6M-MT-NPTA2",
+    "name": "H6M-MT-NPTA2",
+    "description": "MOUNT; Pendant Adapter; Grey; Odr; H6M",
+    "priceUSD": 63,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 169,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "MOUNT",
+      "Feature_2": "Pendant Adapter",
+      "Feature_3": "Grey"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-h6sl-bo-shld1",
+    "sku": "H6SL-BO-SHLD1",
+    "name": "H6SL-BO-SHLD1",
+    "description": "H6SL Bullet Sunshield",
+    "priceUSD": 75.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 221,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "H6SL Bullet Sunshield"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-jbox-1201-2",
+    "sku": "JBOX-1201-2",
+    "name": "Junction Box for Dual Head Cameras",
+    "description": "Junction Box for Dual Head Cameras",
+    "priceUSD": 132.3,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 278,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Junction Box for Dual Head Cameras"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-mnt-ad-pole-b",
+    "sku": "MNT-AD-POLE-B",
+    "name": "Pole Mount Adapter for MNT-PEND-Wall or H3 Bullet Cameras",
+    "description": "Pole mount adapter for use with MNT-PEND-Wall; H3-BO-JB or HD Bullet Camera",
+    "priceUSD": 133.81,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 270,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount adapter for use with MNT-PEND-Wall",
+      "Feature_2": "H3-BO-JB or HD Bullet Camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-msi-nptcon-1001-2",
+    "sku": "MSI-NPTCON-1001-2",
+    "name": "MSI-NPTCON-1001",
+    "description": "ADAPTOR; 1-1/2\" x 1/2\" NPT Male",
+    "priceUSD": 144.9,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 116,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "ADAPTOR",
+      "Feature_2": "1-1/2\" x 1/2\" NPT Male"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-npta-1201-2",
+    "sku": "NPTA-1201-2",
+    "name": "1.5 inch NPT Adapter for Dual Head Cameras",
+    "description": "1.5 inch NPT Adapter for Dual Head Cameras",
+    "priceUSD": 88.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 115,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "5 inch NPT Adapter for Dual Head Cameras"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-vt-100-id-cus-art",
+    "sku": "VT-100-ID-CUS-ART",
+    "name": "Artwork creation for VT100",
+    "description": "Artwork creation for custom VT100 front panel ID-card",
+    "priceUSD": 522,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 231,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/VT-100-ID-CUS-250_071320.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Artwork creation for custom VT100 front panel ID-card"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-vt-100-solo",
+    "sku": "VT-100-SOLO",
+    "name": "1 Port dock for VT100",
+    "description": "VT100 one-port USB dock; USB cable. Available only for EU; EFTA; US and Canada.",
+    "priceUSD": 102,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 207,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/VT-100-SOLO_070520.jpg"
+    ],
+    "specs": {
+      "Feature_1": "VT100 one-port USB dock",
+      "Feature_2": "USB cable",
+      "Feature_3": "Available only for EU"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-avg-blkbdy1",
+    "sku": "AVG-BLKBDY1",
+    "name": "Nightingale Blackbody Device",
+    "description": "Nightingale Blackbody Device",
+    "priceUSD": 2313.36,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 142,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Nightingale Blackbody Device"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-uewbta-2",
+    "sku": "UEWBTA-2",
+    "name": "Parapet or ceiling mounting bracket UK",
+    "description": "Parapet or ceiling mounting bracket UK",
+    "priceUSD": 352.18,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 293,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet or ceiling mounting bracket UK"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-avo-fe-acc-kit",
+    "sku": "AVO-FE-ACC-KIT",
+    "name": "AVO-FE-ACC-KIT",
+    "description": "Install Accy Kit for Fisheye Dome",
+    "priceUSD": 18.9,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 187,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Install Accy Kit for Fisheye Dome"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-cm-ac-avio1",
+    "sku": "CM-AC-AVIO1",
+    "name": "3.5mm audio and video I/O jack with 1.8m fly wire",
+    "description": "3.5mm audio and video I/O jack with 1.8m fly wire",
+    "priceUSD": 23.33,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 138,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "5mm audio and video I/O jack with 1",
+      "Feature_2": "8m fly wire"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-cm-ac-ferr1",
+    "sku": "CM-AC-FERR1",
+    "name": "Ferrite Clamp for H4 Multisensor (Pack of 5)",
+    "description": "Ferrite clamp; for use with H4 Multisensor aux power cable to meet EN-50121-4 compliance. Pack of 5.",
+    "priceUSD": 35.69,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 225,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Ferrite clamp",
+      "Feature_2": "for use with H4 Multisensor aux power cable to meet EN-50121-4 compliance",
+      "Feature_3": "Pack of 5"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-cm-ac-grom1",
+    "sku": "CM-AC-GROM1",
+    "name": "3/4\" Cable Sealing Grommet (Pack of 10)",
+    "description": "Cable sealing grommet for use with 3/4\" conduit entry; pack of 10",
+    "priceUSD": 22.68,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 207,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/MEC-0305B_072820.jpg"
+    ],
+    "specs": {
+      "Feature_1": "Cable sealing grommet for use with 3/4\" conduit entry",
+      "Feature_2": "pack of 10"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-h6adh-do-cler1",
+    "sku": "H6ADH-DO-CLER1",
+    "name": "Replacement Clear Cover for H6A Dual Head Camera",
+    "description": "Replacement Clear Cover for H6A Dual Head Camera",
+    "priceUSD": 100.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 110,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Replacement Clear Cover for H6A Dual Head Camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-h6sl-mt-npta1",
+    "sku": "H6SL-MT-NPTA1",
+    "name": "NPT Adapter for H6SL Dome Cameras",
+    "description": "NPT Adapter for H6SL Dome Cameras",
+    "priceUSD": 54.18,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 271,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6SL/H6SL_Pole-03092023.png"
+    ],
+    "specs": {
+      "Feature_1": "NPT Adapter for H6SL Dome Cameras"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-hd-lp-ps-a",
+    "sku": "HD-LP-PS-A",
+    "name": "Replacement Power Supply for JPEG2000 LPR Kits",
+    "description": "Replacement Power Supply for JPEG2000 LPR Kits",
+    "priceUSD": 1204.32,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 119,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Replacement Power Supply for JPEG2000 LPR Kits"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-npta-1001-2",
+    "sku": "NPTA-1001-2",
+    "name": "1.5 inch NPT Adapter for Large Pendant Mount Camera",
+    "description": "1.5 inch NPT Adapter for Large Pendant Mount Camera",
+    "priceUSD": 82.74,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 295,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "5 inch NPT Adapter for Large Pendant Mount Camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-plmt-1001-2",
+    "sku": "PLMT-1001-2",
+    "name": "Pole mount for large pendant WLMT-1001",
+    "description": "POLE MOUNT FOR LRGE PENDT WLMT-1001",
+    "priceUSD": 144.9,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 242,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H4-Camera_Pole-Mount_Back_070120.jpg"
+    ],
+    "specs": {
+      "Feature_1": "POLE MOUNT FOR LRGE PENDT WLMT-1001"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-ppmnt-2001",
+    "sku": "PPMNT-2001",
+    "name": "Parapet Wall Arm Mount Large for Outdoor Pendant Camera",
+    "description": "Parapet Wall Arm Mount Large for Outdoor Pendant Camera",
+    "priceUSD": 693,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 246,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet Wall Arm Mount Large for Outdoor Pendant Camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-avigilon-rfmnt-1001",
+    "sku": "RFMNT-1001",
+    "name": "Rooftop Wall Arm",
+    "description": "Rooftop Arm Mount for Outdoor Pendant Camera",
+    "priceUSD": 967.68,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Camera Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 180,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Rooftop Arm Mount for Outdoor Pendant Camera"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:50:06.109Z"
+  },
+  {
+    "id": "prod-axis-02966-001",
+    "sku": "02966-001",
+    "name": "AXIS TW1108 Screw-on Mount 5P",
+    "description": "AXIS TW1108 Screw-on Mount offers secure mounting of the body worn camera on any type of garment. With four screws the front of the mount is screwed together with the back through the fabric of the garment. Sold in 5-pack.",
+    "priceUSD": 105.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 277,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TW1108 Screw-on Mount offers secure mounting of the body worn camera on any type of garment",
+      "Feature_2": "With four screws the front of the mount is screwed together with the back through the fabric of the garment",
+      "Feature_3": "Sold in 5-pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.431Z"
+  },
+  {
+    "id": "prod-axis-03219-001",
+    "sku": "03219-001",
+    "name": "AXIS TW1110 MOLLE Mount 5 pcs",
+    "description": "5 pack mount for the Klick Fast adaptor on the Axis body worn cameras.\nThe MOLLE mount is especially suitable for the MOLLE system found on tactical equipment and such.",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 254,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "5 pack mount for the Klick Fast adaptor on the Axis body worn cameras",
+      "Feature_2": "The MOLLE mount is especially suitable for the MOLLE system found on tactical equipment and such"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-axis-02958-001",
+    "sku": "02958-001",
+    "name": "AXIS TW1908 Stud Mount 10 pcs",
+    "description": "AXIS TW1908 Stud Mount is a sparepart for our body worn cameras using Klick Fast solution and is sold in 10-pack.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 188,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TW1908 Stud Mount is a sparepart for our body worn cameras using Klick Fast solution and is sold in 10-pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-axis-02321-001",
+    "sku": "02321-001",
+    "name": "AXIS TW8100 RACK MOUNT",
+    "description": "The AXIS TW8100 Rack Mount is an accessory that makes it possible to conveniently place multiple AXIS W800 System Controller:s in a 19-inch rack. This mount therefore enables easy placement of the Axis body worn system's controllers in a server room with controlled physical access and operational environment. The TW8100 Rack Mount is flexible and allows both horizontal and vertical placement of devices. In horizontal placement, up to 2 pcs of W800 System Controller are supported and will occupy 2U in height. In vertical placement, up to 6 pcs of controllers are supported and will occupy only 5U in height.\nNB: Vertical mounting is only compatible with the AXIS W800 System Controller of revision 2 (R2).",
+    "priceUSD": 181.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 214,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "The AXIS TW8100 Rack Mount is an accessory that makes it possible to conveniently place multiple AXIS W800 System Controller": "s in a 19-inch rack",
+      "Feature_2": "This mount therefore enables easy placement of the Axis body worn system's controllers in a server room with controlled physical access and operational environment",
+      "Feature_3": "The TW8100 Rack Mount is flexible and allows both horizontal and vertical placement of devices"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-ppmnt-1001",
+    "sku": "PPMNT-1001",
+    "name": "Parapet Wall Arm",
+    "description": "Parapet Wall Arm Mount for Outdoor Pendant Cameras",
+    "priceUSD": 624.96,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 287,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet Wall Arm Mount for Outdoor Pendant Cameras"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-rfmnt-base",
+    "sku": "RFMNT--BASE",
+    "name": "RFMNT--BASE",
+    "description": "RFMNT--BASE",
+    "priceUSD": 897.53,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 279,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "RFMNT--BASE"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-rfmnt2-pipe",
+    "sku": "RFMNT2--PIPE",
+    "name": "RFMNT2--PIPE",
+    "description": "RFMNT2--PIPE",
+    "priceUSD": 560.95,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 179,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "RFMNT2--PIPE"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-sm-fjb-aw-3991-2",
+    "sku": "SM-FJB-AW-3991-2",
+    "name": "SMR Fixed J Box Pantone 427C 2-003991",
+    "description": "SMR Fixed J Box Pantone 427C 2-003991",
+    "priceUSD": 288,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 265,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR Fixed J Box Pantone 427C 2-003991"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-sm-sjb-aw-3398-2",
+    "sku": "SM-SJB-AW-3398-2",
+    "name": "SMR Swivel J Box Pantone 427C 2-003398",
+    "description": "SMR Swivel J Box Pantone 427C 2-003398",
+    "priceUSD": 446.09,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 247,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR Swivel J Box Pantone 427C 2-003398"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-sp01-001-aw-2",
+    "sku": "SP01-001-AW-2",
+    "name": "SMR POLE TOP MT PENDANT; Pantone 427C",
+    "description": "SMR POLE TOP MT PENDANT; Pantone 427C",
+    "priceUSD": 116.26,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 274,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR POLE TOP MT PENDANT",
+      "Feature_2": "Pantone 427C"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-sp01-146a-aw-2",
+    "sku": "SP01-146A-AW-2",
+    "name": "SMR 1.5-IN NPT EXT;300MM WT Pantone 427C",
+    "description": "SMR 1.5-IN NPT EXT;300MM WT Pantone 427C",
+    "priceUSD": 114.86,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 214,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR 1",
+      "Feature_2": "5-IN NPT EXT",
+      "Feature_3": "300MM WT Pantone 427C"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-sp01-146b-aw-2",
+    "sku": "SP01-146B-AW-2",
+    "name": "SMR 1.5-IN NPT EXT; 1M WT Pantone 427C",
+    "description": "SMR 1.5-IN NPT EXT; 1M WT Pantone 427C",
+    "priceUSD": 233.74,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 172,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR 1",
+      "Feature_2": "5-IN NPT EXT",
+      "Feature_3": "1M WT Pantone 427C"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-sp99-321-aw-2",
+    "sku": "SP99-321-AW-2",
+    "name": "SMR 4-8 FT TELESCOPING POLE Pantone 427C",
+    "description": "SMR 4-8 FT TELESCOPING POLE Pantone 427C",
+    "priceUSD": 660,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 283,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "SMR 4-8 FT TELESCOPING POLE Pantone 427C"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-avigilon-wlmt-1031-2",
+    "sku": "WLMT-1031-2",
+    "name": "Universal Wall Arm Mount; 30cm; 1.5 NPT Adapter.",
+    "description": "Universal Wall Arm Mount; 30cm; 1.5 NPT Adapter.",
+    "priceUSD": 132.3,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "Avigilon",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 198,
+    "images": [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    "specs": {
+      "Feature_1": "Universal Wall Arm Mount",
+      "Feature_2": "30cm",
+      "Feature_3": "5 NPT Adapter"
+    },
+    "features": [
+      "Official Avigilon Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-2n-02530-001",
+    "sku": "02530-001",
+    "name": "2N IP PHONE D7A WALL MOUNT BRACKET",
+    "description": "Wall mount bracket for the 2N IP Phone D7A (02660-001).",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "2N",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 271,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount bracket for the 2N IP Phone D7A (02660-001)"
+    },
+    "features": [
+      "Official 2N Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-axis-03110-001",
+    "sku": "03110-001",
+    "name": "AXIS TA1201 Wall Mount Enclosure",
+    "description": "AXIS TA1201 Wall Mount Enclosure is designed to house up to four AXIS TA1101-B Wiegand to OSDP converters, offering a secure and flexible installation solution. It supports both wall and DIN rail mounting. The enclosure is plenum-rated, and it supports conduit installation, offering extra protection for wiring. With its easy-to-install design and robust construction, AXIS TA1201 ensures a durable and hassle-free installation.",
+    "priceUSD": 94.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 188,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TA1201 Wall Mount Enclosure is designed to house up to four AXIS TA1101-B Wiegand to OSDP converters, offering a secure and flexible installation solution",
+      "Feature_2": "It supports both wall and DIN rail mounting",
+      "Feature_3": "The enclosure is plenum-rated, and it supports conduit installation, offering extra protection for wiring"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-axis-02687-001",
+    "sku": "02687-001",
+    "name": "AXIS TA1601 Mounting Plate",
+    "description": "AXIS TA1601 Mounting Plate is compatible with AXIS TQ1808-VE Surveillance Cabinet and AXIS A1210-B Network Door Controller to build 4 door controller kit - AXIS A1214 Network Door Controller Kit\n\nAXIS TA1601 Mounting Plate is included in AXIS A1214 Network Door Controller Kit.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 105,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TA1601 Mounting Plate is compatible with AXIS TQ1808-VE Surveillance Cabinet and AXIS A1210-B Network Door Controller to build 4 door controller kit - AXIS A1214 Network Door Controller Kit  AXIS TA1601 Mounting Plate is included in AXIS A1214 Network Door Controller Kit"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-axis-03091-001",
+    "sku": "03091-001",
+    "name": "AXIS TA4601 Surface Mount",
+    "description": "Designed specifically for use with concrete or reinforced concrete walls, AXIS TA4601 Surface Mount creates a cavity that allows for easy and secure cable termination, ensuring a clean and professional installation.",
+    "priceUSD": 37.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 218,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Designed specifically for use with concrete or reinforced concrete walls, AXIS TA4601 Surface Mount creates a cavity that allows for easy and secure cable termination, ensuring a clean and professional installation"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-axis-02997-001",
+    "sku": "02997-001",
+    "name": "AXIS TA9001 Wall Mount Bracket 10P",
+    "description": "AXIS TA9001 Wall Mount Bracket is a metal bracket designed for AXIS A9210 Network I/O Relay Module and AXIS A9910 I/O Relay Expansion Module wall mounting. It is included in the AXIS A9210 and A9910 packages, sold separately as a spare part, and available in packs of 10.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 190,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TA9001 Wall Mount Bracket is a metal bracket designed for AXIS A9210 Network I/O Relay Module and AXIS A9910 I/O Relay Expansion Module wall mounting",
+      "Feature_2": "It is included in the AXIS A9210 and A9910 packages, sold separately as a spare part, and available in packs of 10"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:52:27.432Z"
+  },
+  {
+    "id": "prod-axis-01762-001",
+    "sku": "01762-001",
+    "name": "AXIS TA8201 RECESSED MOUNT",
+    "description": "Recessed mount offering neat and easy installation of the AXIS A8207-VE Network Video Door Station. Multiple mounting and wiring options along with a robust construction makes it suitable for most situations and wall types.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 143,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount offering neat and easy installation of the AXIS A8207-VE Network Video Door Station",
+      "Feature_2": "Multiple mounting and wiring options along with a robust construction makes it suitable for most situations and wall types"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.261Z"
+  },
+  {
+    "id": "prod-axis-02066-001",
+    "sku": "02066-001",
+    "name": "AXIS TI8602 WALL MOUNT BACK BOX",
+    "description": "Wall mount to be used together with AXIS I8016-LVE Network Video Intercom. Highly robust with IK10 and IP69 rating.",
+    "priceUSD": 170.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 256,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount to be used together with AXIS I8016-LVE Network Video Intercom",
+      "Feature_2": "Highly robust with IK10 and IP69 rating"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.261Z"
+  },
+  {
+    "id": "prod-axis-02067-001",
+    "sku": "02067-001",
+    "name": "AXIS TI8202 RECESSED MOUNT",
+    "description": "Recessed mount offering neat installation of AXIS I8016-LVE Network Video Intercom. Multiple mounting and wiring options along with a robust construction makes it suitable for most situations and wall types.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 129,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount offering neat installation of AXIS I8016-LVE Network Video Intercom",
+      "Feature_2": "Multiple mounting and wiring options along with a robust construction makes it suitable for most situations and wall types"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-02561-001",
+    "sku": "02561-001",
+    "name": "AXIS TI8204 Recessed Mount White",
+    "description": "Nice and easy recessed mount of AXIS I8116-E Network Video Intercom suitable for most wall types.",
+    "priceUSD": 94.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 226,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Nice and easy recessed mount of AXIS I8116-E Network Video Intercom suitable for most wall types"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-02562-001",
+    "sku": "02562-001",
+    "name": "AXIS TI8204 Recessed Mount Black",
+    "description": "Nice and easy recessed mount of AXIS I8116-E Network Video Intercom suitable for most wall types.",
+    "priceUSD": 94.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 115,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Nice and easy recessed mount of AXIS I8116-E Network Video Intercom suitable for most wall types"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-03195-001",
+    "sku": "03195-001",
+    "name": "AXIS TI8606 Wedge Mount",
+    "description": "Nice and easy wedge mount which positions the AXIS I8116-E either 30 degrees left or right when installing it on a wall. This wedge mount can also be used to mount the intercom on poles.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 155,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Nice and easy wedge mount which positions the AXIS I8116-E either 30 degrees left or right when installing it on a wall",
+      "Feature_2": "This wedge mount can also be used to mount the intercom on poles"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-02928-001",
+    "sku": "02928-001",
+    "name": "AXIS TI8205 Recessed Mount",
+    "description": "Recessed Mount for AXIS I8307-VE.",
+    "priceUSD": 212.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 296,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed Mount for AXIS I8307-VE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-03174-001",
+    "sku": "03174-001",
+    "name": "AXIS TI8205 Safety Recessed Mount",
+    "description": "Recessed Mount in RAL 2004 (Orange) for AXIS I8307-VE",
+    "priceUSD": 212.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 173,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed Mount in RAL 2004 (Orange) for AXIS I8307-VE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-03240-001",
+    "sku": "03240-001",
+    "name": "AXIS TI5201 Recessed Mount",
+    "description": "The TI5201 Recessed Mount accessory for AXIS I5304 White (03238-001) or AXIS I5304 Black (03239-001).",
+    "priceUSD": 30,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 133,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "The TI5201 Recessed Mount accessory for AXIS I5304 White (03238-001) or AXIS I5304 Black (03239-001)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-03241-001",
+    "sku": "03241-001",
+    "name": "AXIS TI5601 Wall Mount",
+    "description": "The TI5601 Wall Mount accessory for AXIS I5304 White (03238-001) or AXIS I5304 Black (03239-001).",
+    "priceUSD": 30,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 289,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "The TI5601 Wall Mount accessory for AXIS I5304 White (03238-001) or AXIS I5304 Black (03239-001)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-01181-001",
+    "sku": "01181-001",
+    "name": "AXIS T99 ILLUMINATOR BRACKET KIT A",
+    "description": "Bracket kit for installing a pair of compatible illuminators to Axis positioning cameras and positioning units. Designed for use with AXIS Q8685-E and AXIS T99A10. Compatible with selected T90 white-LED and IR-LED illuminators. Includes fitting brackets, illuminator connectors, screws, washers, cable glands and cable ties. Illuminators sold separately.",
+    "priceUSD": 234,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 163,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Bracket kit for installing a pair of compatible illuminators to Axis positioning cameras and positioning units",
+      "Feature_2": "Designed for use with AXIS Q8685-E and AXIS T99A10",
+      "Feature_3": "Compatible with selected T90 white-LED and IR-LED illuminators"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-02458-001",
+    "sku": "02458-001",
+    "name": "TP6901-E ADAPTER BRACKET P56",
+    "description": "Adapter bracket that allows Axis P56-series to be connected to Q6100.  The material is PC+ABS Cycoloy C6600 GY8D352 and comes in Axis White.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 201,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Adapter bracket that allows Axis P56-series to be connected to Q6100",
+      "Feature_2": "The material is PC+ABS Cycoloy C6600 GY8D352 and comes in Axis White"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-02854-001",
+    "sku": "02854-001",
+    "name": "AXIS TP6902-E ADAPTER BRACKET",
+    "description": "Adapter bracket that allows Axis P5676-LE to be connected to Q6100. The material is PC+ABS Cycoloy C6600 GY8D352 and comes in Axis White.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 200,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Adapter bracket that allows Axis P5676-LE to be connected to Q6100",
+      "Feature_2": "The material is PC+ABS Cycoloy C6600 GY8D352 and comes in Axis White"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-03262-001",
+    "sku": "03262-001",
+    "name": "AXIS TQ1938-E Protection Bracket 5P",
+    "description": "AXIS TQ1938-E Protection Bracket provides a more rugged look and protects the glass against vandalism. It is compatible with selected outdoor AXIS Q17-series, AXIS TQ1815-E and TQ1819-E Housing.Sold in packs of five units.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 227,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TQ1938-E Protection Bracket provides a more rugged look and protects the glass against vandalism",
+      "Feature_2": "It is compatible with selected outdoor AXIS Q17-series, AXIS TQ1815-E and TQ1819-E Housing",
+      "Feature_3": "Sold in packs of five units"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-02325-001",
+    "sku": "02325-001",
+    "name": "AXIS TQ1001-E WALL MOUNT",
+    "description": "Wall mount in electro-polished 316L stainless steel for AXIS XPQ1785, designed for harsh industrial environments. Max load 150 kg / 331 lb.",
+    "priceUSD": 1174.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 120,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount in electro-polished 316L stainless steel for AXIS XPQ1785, designed for harsh industrial environments",
+      "Feature_2": "Max load 150 kg / 331 lb"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:55:12.262Z"
+  },
+  {
+    "id": "prod-axis-02343-001",
+    "sku": "02343-001",
+    "name": "AXIS TQ1301-E POLE MOUNT 50-150mm",
+    "description": "Pole mount in electro-polished 316L stainless steel for use together with AXIS TQ1001-E WALL MOUNT, designed for harsh industrial environments. Pole diameters 50-150 mm (2\" - 6\"). Max load 150 kg / 331 lb.",
+    "priceUSD": 1174.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 142,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount in electro-polished 316L stainless steel for use together with AXIS TQ1001-E WALL MOUNT, designed for harsh industrial environments",
+      "Feature_2": "Pole diameters 50-150 mm (2\" - 6\")",
+      "Feature_3": "Max load 150 kg / 331 lb"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.630Z"
+  },
+  {
+    "id": "prod-axis-02648-001",
+    "sku": "02648-001",
+    "name": "AXIS TQ1303-E CORNER MOUNT",
+    "description": "Corner bracket for AXIS XPQ1785 Explosion-protected PTZ Camera, to be used with AXIS TQ1001-E Wall Mount. Electro-polished stainless steel (316L) for harsh industrial and maritime environments. Max load 150 kg / 331 lb.",
+    "priceUSD": 1174.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 214,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner bracket for AXIS XPQ1785 Explosion-protected PTZ Camera, to be used with AXIS TQ1001-E Wall Mount",
+      "Feature_2": "Electro-polished stainless steel (316L) for harsh industrial and maritime environments",
+      "Feature_3": "Max load 150 kg / 331 lb"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-01538-001",
+    "sku": "01538-001",
+    "name": "WALL MOUNT EXCAM XPT",
+    "description": "Wall mount for EXCAM XPT Q6055 in stainless steel with protective hood for cable glands.",
+    "priceUSD": 1281.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 202,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount for EXCAM XPT Q6055 in stainless steel with protective hood for cable glands"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-01539-001",
+    "sku": "01539-001",
+    "name": "POLE MOUNT EXCAM XPT",
+    "description": "Pole mount for EXCAM XPT Q6055 in stainless steel for pole diameters 110-150mm, requires Wall Mount ExCam XPT.",
+    "priceUSD": 1281.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 240,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount for EXCAM XPT Q6055 in stainless steel for pole diameters 110-150mm, requires Wall Mount ExCam XPT"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-02423-001",
+    "sku": "02423-001",
+    "name": "CEILING MOUNT EXCAM XPT",
+    "description": "Ceiling mount bracket for ExCam XPT Q6075. Stainless steel 1.4404, load rating 50kg. Dimensions 290x220x190 mm.",
+    "priceUSD": 1496.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 171,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Ceiling mount bracket for ExCam XPT Q6075",
+      "Feature_2": "Stainless steel 1",
+      "Feature_3": "4404, load rating 50kg"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-01569-001",
+    "sku": "01569-001",
+    "name": "WALL MOUNT EXCAM XF",
+    "description": "Stainless steel (1.4404 / 316L) wall bracket for fixed explosion-protected cameras in the ExCam range, includes hinge and mounting material.",
+    "priceUSD": 1281.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 135,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Stainless steel (1",
+      "Feature_2": "4404 / 316L) wall bracket for fixed explosion-protected cameras in the ExCam range, includes hinge and mounting material"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-01570-001",
+    "sku": "01570-001",
+    "name": "POLE MOUNT EXCAM XF",
+    "description": "Stainless steel (1.4404 / 316L) pole mount, to be used with Wall Mount Excam XF. Mounting material included.",
+    "priceUSD": 1281.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 210,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Stainless steel (1",
+      "Feature_2": "4404 / 316L) pole mount, to be used with Wall Mount Excam XF",
+      "Feature_3": "Mounting material included"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-5026-411",
+    "sku": "5026-411",
+    "name": "AXIS T8640 WALL MOUNT BRACKET",
+    "description": "Wall mount bracket for AXIS T8640 Ethernet over Coax adapter base or device unit.",
+    "priceUSD": 27.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 240,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount bracket for AXIS T8640 Ethernet over Coax adapter base or device unit"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-5026-421",
+    "sku": "5026-421",
+    "name": "AXIS T8640 RACK MOUNT BRACKET",
+    "description": "Rack mount bracket for AXIS T8640 Ethernet over Coax adapter (8 units in 1U).",
+    "priceUSD": 66,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 171,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Rack mount bracket for AXIS T8640 Ethernet over Coax adapter (8 units in 1U)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-5503-991",
+    "sku": "5503-991",
+    "name": "TF9904 Swivel Mount 5P",
+    "description": "AXIS TF9904 Swivel Mount allows to mount the sensor unit in different horizontal and vertical angles. It is sold a pack of 5.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 280,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TF9904 Swivel Mount allows to mount the sensor unit in different horizontal and vertical angles",
+      "Feature_2": "It is sold a pack of 5"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-5503-194",
+    "sku": "5503-194",
+    "name": "AXIS T91A03 DIN RAIL MOUNT",
+    "description": "DIN rail clip for AXIS Q7424-R.",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 206,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "DIN rail clip for AXIS Q7424-R"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-5507-331",
+    "sku": "5507-331",
+    "name": "AXIS T91A10 MOUNTING KIT",
+    "description": "Plastic mounting kit with stand and clamp for flexible moutning of Axis products with tripod thread.",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 191,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Plastic mounting kit with stand and clamp for flexible moutning of Axis products with tripod thread"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-01464-001",
+    "sku": "01464-001",
+    "name": "AXIS T91A13 THREADED CEIL MOUNT 10P",
+    "description": "10-pack threaded ceiling mount for quick installation under ceiling tiles. Compatible with cameras with standard 1/4\"-20 UNC tripod thread. Total length 80mm (3\") with thread length 65mm (2.5\"). Threaded rod in nylon, counter nut with friction pad. 10-piece bulk pack.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 274,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "10-pack threaded ceiling mount for quick installation under ceiling tiles",
+      "Feature_2": "Compatible with cameras with standard 1/4\"-20 UNC tripod thread",
+      "Feature_3": "Total length 80mm (3\") with thread length 65mm (2"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.631Z"
+  },
+  {
+    "id": "prod-axis-01232-001",
+    "sku": "01232-001",
+    "name": "AXIS T85 RACK MOUNT KIT A",
+    "description": "Rack mount kit for AXIS T8508 PoE+ Network Switch",
+    "priceUSD": 31.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 197,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Rack mount kit for AXIS T8508 PoE+ Network Switch"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.632Z"
+  },
+  {
+    "id": "prod-axis-5503-971",
+    "sku": "5503-971",
+    "name": "AXIS T91A27 POLE MOUNT 10PCS",
+    "description": "Pole mount bracket compatible with all cameras with standard tripod threading (1/4\"-20 UNC)",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 159,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount bracket compatible with all cameras with standard tripod threading (1/4\"-20 UNC)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T15:58:07.632Z"
+  },
+  {
+    "id": "prod-axis-01470-001",
+    "sku": "01470-001",
+    "name": "AXIS T91B57 POLE MOUNT 100-410MM",
+    "description": "Aluminum Pole Mount for indoor and outdoor installations, for poles with diameter between 100-410 mm (4\"-16”). Includes 1 pair of AXIS Stainless Steel Straps 1450mm (57\") with TX30 screw interface for ease-of-installation. AXIS T91B57 is compatible with mounts such as AXIS T91G61, T91H61, and AXIS T98A Surveillance Cabinet series. Color: Axis white.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 138,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Aluminum Pole Mount for indoor and outdoor installations, for poles with diameter between 100-410 mm (4\"-16”)",
+      "Feature_2": "Includes 1 pair of AXIS Stainless Steel Straps 1450mm (57\") with TX30 screw interface for ease-of-installation",
+      "Feature_3": "AXIS T91B57 is compatible with mounts such as AXIS T91G61, T91H61, and AXIS T98A Surveillance Cabinet series"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.765Z"
+  },
+  {
+    "id": "prod-axis-01446-001",
+    "sku": "01446-001",
+    "name": "AXIS T91B57 POLE MOUNT GREY",
+    "description": "Aluminum Pole Mount in Urban Grey color. For indoor and outdoor installations. Suitable for poles diameters between 100-410 mm (4\"-16”). Includes 1 pair of AXIS Stainless Steel Straps 1450mm (57\") with TX30 screw interface for ease-of-installation. AXIS T91B57 is compatible with mounts such as AXIS T91G61, T91H61, and AXIS T98A Surveillance Cabinet series.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 121,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Aluminum Pole Mount in Urban Grey color",
+      "Feature_2": "For indoor and outdoor installations",
+      "Feature_3": "Suitable for poles diameters between 100-410 mm (4\"-16”)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-01473-001",
+    "sku": "01473-001",
+    "name": "AXIS T91B67 POLE MOUNT 65-165MM",
+    "description": "Outdoor-ready, powder-coated aluminum pole mount with 1.5\" NPS thread for fixed dome pendant kits. Includes insect-proof cable gasket and 1 pair of stainless steel straps (with TX30 screw) for pole diameter between 65-165mm (2.5\"-6.5\"). White in color.",
+    "priceUSD": 116.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 145,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor-ready, powder-coated aluminum pole mount with 1",
+      "Feature_2": "5\" NPS thread for fixed dome pendant kits",
+      "Feature_3": "Includes insect-proof cable gasket and 1 pair of stainless steel straps (with TX30 screw) for pole diameter between 65-165mm (2"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-01149-001",
+    "sku": "01149-001",
+    "name": "AXIS T91M47 POLE MOUNT",
+    "description": "Pole mount for our outdoor midspans and switch.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 138,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount for our outdoor midspans and switch"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5504-821",
+    "sku": "5504-821",
+    "name": "AXIS T91D61 WALL MOUNT",
+    "description": "Chromated and powder coated aluminum wall mount with 1.5\" NPS thread for fixed dome pendant kits. Cable routing from behind or through 3/4\" conduit hole on the side. Includes mounting plate, pipe seal and conduit hole cover. Color: White",
+    "priceUSD": 105.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 159,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Chromated and powder coated aluminum wall mount with 1",
+      "Feature_2": "5\" NPS thread for fixed dome pendant kits",
+      "Feature_3": "Cable routing from behind or through 3/4\" conduit hole on the side"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5506-481",
+    "sku": "5506-481",
+    "name": "AXIS T91E61 WALL MOUNT",
+    "description": "Wall mount with internal cable canal for dome cameras with 1.5\" NPS thread, compatible with Axis pendant kits. IK10 and NEMA 4X rated. Powder coated aluminum for indoor and outdoor installations.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 268,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount with internal cable canal for dome cameras with 1",
+      "Feature_2": "5\" NPS thread, compatible with Axis pendant kits",
+      "Feature_3": "IK10 and NEMA 4X rated"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5506-951",
+    "sku": "5506-951",
+    "name": "AXIS T91G61 WALL MOUNT",
+    "description": "Aluminum wall mount with IP66 compartment to safely accommodate power and connectivity accessories (e.g. PoE midspan). IK10 and NEMA 4X rated in Axis white color. Includes a pre-terminated IP66 rated RJ45 connector. Compatible with wide range of Axis cameras, incl. AXIS M55, P56, Q37, Q60, Q61 Series.",
+    "priceUSD": 234,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 159,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Aluminum wall mount with IP66 compartment to safely accommodate power and connectivity accessories (e",
+      "Feature_2": "PoE midspan)",
+      "Feature_3": "IK10 and NEMA 4X rated in Axis white color"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-01444-001",
+    "sku": "01444-001",
+    "name": "AXIS T91G61 WALL MOUNT GREY",
+    "description": "Aluminum wall mount with IP66 compartment to safely accommodate power and connectivity accessories (e.g. PoE midspan). IK10 and NEMA 4X rated in Urban Grey color to match AXIS Q62 series. Includes a pre-terminated IP66 rated RJ45 connector. Compatible with wide range of Axis cameras.",
+    "priceUSD": 266.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 103,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Aluminum wall mount with IP66 compartment to safely accommodate power and connectivity accessories (e",
+      "Feature_2": "PoE midspan)",
+      "Feature_3": "IK10 and NEMA 4X rated in Urban Grey color to match AXIS Q62 series"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5507-641",
+    "sku": "5507-641",
+    "name": "AXIS T91H61 WALL MOUNT",
+    "description": "AXIS T91H61 Wall Mount is designed with a built-in RJ45 cable and connectionto, and spacious compartment for connectivity accessories such as midspans and media converters. The wall mount is impact-resistant (IK10) and weather-resistant (IP66, NEMA 4X) for indoor and outdoor use. The 1.5\" NPS thread mount ensures compatibility with all pendant kits for Axis fixed dome cameras.",
+    "priceUSD": 212.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 224,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS T91H61 Wall Mount is designed with a built-in RJ45 cable and connectionto, and spacious compartment for connectivity accessories such as midspans and media converters",
+      "Feature_2": "The wall mount is impact-resistant (IK10) and weather-resistant (IP66, NEMA 4X) for indoor and outdoor use",
+      "Feature_3": "The 1"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5901-331",
+    "sku": "5901-331",
+    "name": "AXIS T94J01A WALL MOUNT",
+    "description": "Aluminum wall mount for Axis positioning cameras and positioning units. Robust and impact-resistant. Compatible with Axis ACI 3/4” conduit adapters, and offers multiple cable entries. Cables can be routed through the back or, by using a conduit connection, from each side or from the bottom. Suitable for indoor and outdoor use.",
+    "priceUSD": 234,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 250,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Aluminum wall mount for Axis positioning cameras and positioning units",
+      "Feature_2": "Robust and impact-resistant",
+      "Feature_3": "Compatible with Axis ACI 3/4” conduit adapters, and offers multiple cable entries"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-01445-001",
+    "sku": "01445-001",
+    "name": "AXIS T94J01A WALL MOUNT GREY",
+    "description": "Robust and impact-resistant aluminum wall mount for selected Axis PTZ and positioning cameras. Multiple cable entry points for 3/4” (M25) conduit pipes. Suitable for indoor and outdoor use. Color: Urban Grey.",
+    "priceUSD": 266.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 146,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Robust and impact-resistant aluminum wall mount for selected Axis PTZ and positioning cameras",
+      "Feature_2": "Multiple cable entry points for 3/4” (M25) conduit pipes",
+      "Feature_3": "Suitable for indoor and outdoor use"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5507-501",
+    "sku": "5507-501",
+    "name": "AXIS T91D62 ADAPTER MOUNTING BRACKET",
+    "description": "Retrofit adapter mount bracket for re-using holes drilled from Pelco’s PTZ dome parapet mount, or for increasing the attachment area towards the parapet.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 167,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Retrofit adapter mount bracket for re-using holes drilled from Pelco’s PTZ dome parapet mount, or for increasing the attachment area towards the parapet"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5507-461",
+    "sku": "5507-461",
+    "name": "AXIS T91B51 CEILING MOUNT",
+    "description": "The indoor/outdoor ceiling mount is ideal for low ceiling installations such as parking houses, with swivel action to prevent breaking if hit. Can be mounted in a sloped ceilings/soffits to compensate angles up to 45 degrees. Available accessory extension pipes (Not included) of 30 cm (12”) or 1 meter (39”) to enable correct camera height for the specific environment. Compatible with all Axis pendant kits featuring a 1,5” NPS thread and the AXIS T91A05 Camera holder for fixed cameras.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 172,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "The indoor/outdoor ceiling mount is ideal for low ceiling installations such as parking houses, with swivel action to prevent breaking if hit",
+      "Feature_2": "Can be mounted in a sloped ceilings/soffits to compensate angles up to 45 degrees",
+      "Feature_3": "Available accessory extension pipes (Not included) of 30 cm (12”) or 1 meter (39”) to enable correct camera height for the specific environment"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.766Z"
+  },
+  {
+    "id": "prod-axis-5504-641",
+    "sku": "5504-641",
+    "name": "AXIS T91B63 CEILING MOUNT",
+    "description": "Chromated and powder coated aluminum ceiling mount 75 cm / 29.5 inch compatible with fixed dome pendant kits and AXIS P55-series and AXIS Q60-series  PTZ dome cameras. Cable routing from behind or through 3/4\" conduit hole on the side. Includes mounting plate, pipe seal, conduit hole cover and AXIS T94A01D Pendant Kit for PTZ dome cameras. Color: White",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 101,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Chromated and powder coated aluminum ceiling mount 75 cm / 29",
+      "Feature_2": "5 inch compatible with fixed dome pendant kits and AXIS P55-series and AXIS Q60-series  PTZ dome cameras",
+      "Feature_3": "Cable routing from behind or through 3/4\" conduit hole on the side"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.767Z"
+  },
+  {
+    "id": "prod-axis-5017-641",
+    "sku": "5017-641",
+    "name": "AXIS T91A64 BRACKET CORNER",
+    "description": "Corner Bracket that is compatible with several wall mounts: AXIS T91B61 Wall Mount, AXIS T91D61 Wall Mount 1.5” NPS, AXIS T91G61 Wall Mount, AXIS T91H61 Wall Mount, AXIS T91L61 Wall-and-Pole Mount.  These wall mounts in turn are compatible with AXIS P55-series, AXIS Q60/61/63-series, AXIS M32-series, AXIS Q37-series, AXIS M55-series, AXIS P56-series and their associated pendant kits.",
+    "priceUSD": 94.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 137,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Corner Bracket that is compatible with several wall mounts": "AXIS T91B61 Wall Mount, AXIS T91D61 Wall Mount 1",
+      "Feature_2": "5” NPS, AXIS T91G61 Wall Mount, AXIS T91H61 Wall Mount, AXIS T91L61 Wall-and-Pole Mount",
+      "Feature_3": "These wall mounts in turn are compatible with AXIS P55-series, AXIS Q60/61/63-series, AXIS M32-series, AXIS Q37-series, AXIS M55-series, AXIS P56-series and their associated pendant kits"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:00:31.767Z"
+  },
+  {
+    "id": "prod-axis-5506-691",
+    "sku": "5506-691",
+    "name": "AXIS T91F67 POLE MOUNT STAINLESS STEEL",
+    "description": "Pole mount bracket for AXIS Q35-SLVE stainless steel cameras. Compatible with AXIS T91F61 Wall mount. Made of marine-grade stainless steel. Includes 1 pair marine-grade (SS316L) stainless steel straps with TX30 screw interface for ease-of-installation. Straps length 1450mm (57\"), suitable for pole diameter range 100-410mm (4\"-16\").",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 207,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount bracket for AXIS Q35-SLVE stainless steel cameras",
+      "Feature_2": "Compatible with AXIS T91F61 Wall mount",
+      "Feature_3": "Made of marine-grade stainless steel"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.253Z"
+  },
+  {
+    "id": "prod-axis-5506-181",
+    "sku": "5506-181",
+    "name": "AXIS T94A01F CEILING BRACKET",
+    "description": "Bracket for mounting an AXIS P56 Series camera in a hard ceiling. For indoor and outdoor installations. 3/4\" conduit hole, compatible with ACI adapters.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 236,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Bracket for mounting an AXIS P56 Series camera in a hard ceiling",
+      "Feature_2": "For indoor and outdoor installations",
+      "Feature_3": "3/4\" conduit hole, compatible with ACI adapters"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.253Z"
+  },
+  {
+    "id": "prod-axis-5801-601",
+    "sku": "5801-601",
+    "name": "AXIS T94A02F CEILING BRACKET",
+    "description": "Aluminum ceiling bracket for Axis PTZ cameras and AXSI Q37 Series for indoor or outdoor use. 3/4\" conduit hole on the side.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 194,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Aluminum ceiling bracket for Axis PTZ cameras and AXSI Q37 Series for indoor or outdoor use",
+      "Feature_2": "3/4\" conduit hole on the side"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5505-721",
+    "sku": "5505-721",
+    "name": "AXIS T94A01L RECESSED MOUNT",
+    "description": "Outdoor recessed mount for AXIS Q60-E cameras. Can be mounted in panels, wood or pre-made holes solid concrete. The mount is very sturdy and made of aluminum and stainless steel. It supports the IK10 impact rating of the camera and has two 3/4\" conduit holes for a plenum rated and rodent safe installation.",
+    "priceUSD": 288,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 256,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor recessed mount for AXIS Q60-E cameras",
+      "Feature_2": "Can be mounted in panels, wood or pre-made holes solid concrete",
+      "Feature_3": "The mount is very sturdy and made of aluminum and stainless steel"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5801-861",
+    "sku": "5801-861",
+    "name": "AXIS T94B03L RECESSED MOUNT",
+    "description": "Indoor recessed mount for drop ceiling installations. The aluminum casing makes it suitable for use in air handling spaces. Compatible with AXIS M2025/26 and AXIS Companion Bullet.",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 244,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installations",
+      "Feature_2": "The aluminum casing makes it suitable for use in air handling spaces",
+      "Feature_3": "Compatible with AXIS M2025/26 and AXIS Companion Bullet"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-01242-001",
+    "sku": "01242-001",
+    "name": "AXIS T94C01L RECESSED MOUNT",
+    "description": "Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces. Compatible with AXIS M42 series and AXIS Companion Dome mini LE.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 181,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installations",
+      "Feature_2": "Single-screw ceiling attachment for quick and easy installation",
+      "Feature_3": "Not suitable for air-handling (plenum) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-01244-001",
+    "sku": "01244-001",
+    "name": "AXIS T94C01U UNIVERSAL MOUNT",
+    "description": "Versatile 4-in-1 mount accessory for use as either a pendant kit with 3/4\" (M25) conduit interface, conduit back box with 1/2\" (M20) conduit side entry, pole mount, or standard camera thread. Compatible with AXIS M42 series and AXIS Companion Dome mini LE. Pole mounting straps available separately.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 132,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Versatile 4-in-1 mount accessory for use as either a pendant kit with 3/4\" (M25) conduit interface, conduit back box with 1/2\" (M20) conduit side entry, pole mount, or standard camera thread",
+      "Feature_2": "Compatible with AXIS M42 series and AXIS Companion Dome mini LE",
+      "Feature_3": "Pole mounting straps available separately"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5504-911",
+    "sku": "5504-911",
+    "name": "AXIS T94D01S MT BRACKET FL WT 10PCS",
+    "description": "White plastic adapter for mounting AXIS P3904-R and AXIS P3905-R on flat surfaces. Does not fit with AXIS P3915-R. Used when the cable must enter from the side. 10 pack.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 276,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "White plastic adapter for mounting AXIS P3904-R and AXIS P3905-R on flat surfaces",
+      "Feature_2": "Does not fit with AXIS P3915-R",
+      "Feature_3": "Used when the cable must enter from the side"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5504-921",
+    "sku": "5504-921",
+    "name": "AXIS T94D02S MT BRACKET CU WT 10PCS",
+    "description": "White plastic adapter for mounting AXIS P3904-R, AXIS P3905-R and AXIS P3915-R on curved surfaces. 10 pack.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 231,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "White plastic adapter for mounting AXIS P3904-R, AXIS P3905-R and AXIS P3915-R on curved surfaces",
+      "Feature_2": "10 pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-02853-001",
+    "sku": "02853-001",
+    "name": "AXIS TM1902 Stand Mount 4 pcs",
+    "description": "Mounting stand in plastic for wall and ceiling. Stand height 70 mm (2.7 in). Circular base with diameter 69 mm (2.7 in). White color.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 258,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting stand in plastic for wall and ceiling",
+      "Feature_2": "Stand height 70 mm (2",
+      "Feature_3": "7 in)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5901-341",
+    "sku": "5901-341",
+    "name": "AXIS T94N01G POLE MOUNT",
+    "description": "Stainless steel pole mount designed for use with heavier Axis products such as positioning cameras and positioning units. IK10. Includes 3pcs stainless steel straps included for pole diameter 60-400mm (2.4-15.7in) and sealing gaskets for multiple cable entries with protection against insect infestation.",
+    "priceUSD": 234,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 267,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Stainless steel pole mount designed for use with heavier Axis products such as positioning cameras and positioning units",
+      "Feature_2": "IK10",
+      "Feature_3": "Includes 3pcs stainless steel straps included for pole diameter 60-400mm (2"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5504-711",
+    "sku": "5504-711",
+    "name": "AXIS T94P01B CORNER BRACKET",
+    "description": "Corner mount for AXIS P5414-E/15-E, AXIS Q1765-LE, AXIS Q1931-E and AXIS P33-VE series.",
+    "priceUSD": 94.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 273,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner mount for AXIS P5414-E/15-E, AXIS Q1765-LE, AXIS Q1931-E and AXIS P33-VE series"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-01172-001",
+    "sku": "01172-001",
+    "name": "AXIS T94P01L RECESSED MOUNT",
+    "description": "Indoor and outdoor recessed mount for AXIS M55 Series. Suitable for air-handling spaces in indoor installations as the enclosure is made of metal and has a 3/4\" (M25) conduit hole for protected cable-routing. UL-approved.",
+    "priceUSD": 116.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 289,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor and outdoor recessed mount for AXIS M55 Series",
+      "Feature_2": "Suitable for air-handling spaces in indoor installations as the enclosure is made of metal and has a 3/4\" (M25) conduit hole for protected cable-routing",
+      "Feature_3": "UL-approved"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5507-601",
+    "sku": "5507-601",
+    "name": "AXIS T94R01B CORNER BRACKET",
+    "description": "The powder-coated aluminum AXIS T94R01B Corner Bracket is used for attaching the wall mount of Axis’ camera housing to the outer corners of a building. AXIS T94R01B Corner Bracket is compatible with AXIS T91E61 Wall Mount for fixed dome cameras. Small-size fixed dome and bullet-style cameras can also be mounted, thanks to the included and commonly used hole pattern of a single gang junction box.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 113,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "The powder-coated aluminum AXIS T94R01B Corner Bracket is used for attaching the wall mount of Axis’ camera housing to the outer corners of a building",
+      "Feature_2": "AXIS T94R01B Corner Bracket is compatible with AXIS T91E61 Wall Mount for fixed dome cameras",
+      "Feature_3": "Small-size fixed dome and bullet-style cameras can also be mounted, thanks to the included and commonly used hole pattern of a single gang junction box"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5801-541",
+    "sku": "5801-541",
+    "name": "AXIS T94X01A WALL MOUNT 6PCS",
+    "description": "Wall mount for AXIS T92F10 Outdoor Housing. 6-piece pack.\nOptional accessory: AXIS T94Y01G Pole Mount 6PCS (sold seperately)",
+    "priceUSD": 170.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 216,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount for AXIS T92F10 Outdoor Housing",
+      "Feature_2": "6-piece pack",
+      "Optional accessory": "AXIS T94Y01G Pole Mount 6PCS (sold seperately)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:02:14.254Z"
+  },
+  {
+    "id": "prod-axis-5801-551",
+    "sku": "5801-551",
+    "name": "AXIS T94Y01G POLE MOUNT 6PCS",
+    "description": "Pole mount for AXIS T92F10 Outdoor Housing, with 1 pair stainless steel straps included per piece. 6-piece pack. \nRequired accessory: AXIS T94X01A Wall Mount 6PCS (sold separately)",
+    "priceUSD": 192,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 299,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Pole mount for AXIS T92F10 Outdoor Housing, with 1 pair stainless steel straps included per piece",
+      "Feature_2": "6-piece pack",
+      "Required accessory": "AXIS T94X01A Wall Mount 6PCS (sold separately)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.259Z"
+  },
+  {
+    "id": "prod-axis-5000-011",
+    "sku": "5000-011",
+    "name": "WALL MOUNT AXIS PS24",
+    "description": "Metal box to mount AXIS PS24 to a wall.",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 274,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Metal box to mount AXIS PS24 to a wall"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-21764",
+    "sku": "21764",
+    "name": "AXIS PS-24 Pole bracket",
+    "description": "Outdoor pole mount bracket for PS-24 and AXIS T97A10. Requires the Wall Mount AXIS PS-24 (5000-011) and a mounting tool for straps (21776 or similar).",
+    "priceUSD": 48,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 243,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor pole mount bracket for PS-24 and AXIS T97A10",
+      "Feature_2": "Requires the Wall Mount AXIS PS-24 (5000-011) and a mounting tool for straps (21776 or similar)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-5502-401",
+    "sku": "5502-401",
+    "name": "AXIS P33 MOUNTING BRACKET",
+    "description": "Mounting bracket for AXIS P33-V/-LV indoor cameras. For mounting cameras on junction boxes (4\" square, 4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. Also compatible with selected AXIS M30 and P32 cameras.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 200,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting bracket for AXIS P33-V/-LV indoor cameras",
+      "Feature_2": "For mounting cameras on junction boxes (4\" square, 4\" octagon, single-gang, or double-gang), and other Axis mounting accessories",
+      "Feature_3": "Also compatible with selected AXIS M30 and P32 cameras"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-5800-461",
+    "sku": "5800-461",
+    "name": "TF9905 Wall Mount 5P",
+    "description": "Mounting kit for AXIS P1204/E. Kit contents: Flush mount wall bracket. 5 pack.",
+    "priceUSD": 31.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 201,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting kit for AXIS P1204/E",
+      "Kit contents": "Flush mount wall bracket",
+      "Feature_3": "5 pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-02451-001",
+    "sku": "02451-001",
+    "name": "AXIS TQ1904 MOUNTING BRACKET",
+    "description": "Mounting bracket compatible with AXIS Q1715.  It includes bracket, pad, and TX20 screw.",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 202,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting bracket compatible with AXIS Q1715",
+      "Feature_2": "It includes bracket, pad, and TX20 screw"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-5505-821",
+    "sku": "5505-821",
+    "name": "AXIS F8202 STRAIGHT MT BRACKET 5PCS",
+    "description": "Mounting bracket that allows the pinhole sensor unit of AXIS F1025 to be mounted onto a flat surface with the cone being flush with opposite surface. Comes in pack of 5 pcs.",
+    "priceUSD": 31.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 200,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting bracket that allows the pinhole sensor unit of AXIS F1025 to be mounted onto a flat surface with the cone being flush with opposite surface",
+      "Feature_2": "Comes in pack of 5 pcs"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-5505-831",
+    "sku": "5505-831",
+    "name": "AXIS F8203 FIXED MT BRACKET 5PCS",
+    "description": "Metal bracket for stable mounting of AXIS F1005-E, F1015 and F1035-E. Variety of holes for screws for flexible mounting. Comes in pack of 5 units.",
+    "priceUSD": 170.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 126,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Metal bracket for stable mounting of AXIS F1005-E, F1015 and F1035-E",
+      "Feature_2": "Variety of holes for screws for flexible mounting",
+      "Feature_3": "Comes in pack of 5 units"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-02281-001",
+    "sku": "02281-001",
+    "name": "AXIS TD4601 ACI Conduit Bracket 5pcs",
+    "description": "AXIS TD4601 is an ACI Conduit Bracket for AXIS D4100-E Network Strobe Siren. 5P",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 223,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TD4601 is an ACI Conduit Bracket for AXIS D4100-E Network Strobe Siren"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-01748-001",
+    "sku": "01748-001",
+    "name": "AXIS TM3001 TILT MOUNT",
+    "description": "Tilt Mount Plastic, 15deg tilt, 1/2\" (M20) conduit. BRACKET MOUNT ASSEMBLY M3067.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 262,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Tilt Mount Plastic, 15deg tilt, 1/2\" (M20) conduit",
+      "Feature_2": "BRACKET MOUNT ASSEMBLY M3067"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-01742-001",
+    "sku": "01742-001",
+    "name": "AXIS TM3101 PENDANT WALL MOUNT",
+    "description": "Elegant mount for indoor mounting of Axis mini dome cameras in pendant style. Concealed mounting with no visible screws. Room for microphone and connectivity devices (e.g.: AXIS T6101, AXIS T8643). Compatible with wide range of cameras, incl. AXIS M20/M30/M31/M42, etc. Made from strengthened eco-friendly plastic.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 202,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Elegant mount for indoor mounting of Axis mini dome cameras in pendant style",
+      "Feature_2": "Concealed mounting with no visible screws",
+      "Feature_3": "Room for microphone and connectivity devices (e"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-01856-001",
+    "sku": "01856-001",
+    "name": "AXIS TM3201 RECESSED MOUNT",
+    "description": "Recessed mount for selected AXIS M30 cameras. Includes covers for fixed mini dome and panoramic cameras.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 115,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount for selected AXIS M30 cameras",
+      "Feature_2": "Includes covers for fixed mini dome and panoramic cameras"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-02425-001",
+    "sku": "02425-001",
+    "name": "AXIS TM3204 RECESSED MOUNT",
+    "description": "Indoor recessed mount for ceiling/wall installations. Compatible with AXIS M4308-PLE.  Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 148,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for ceiling/wall installations",
+      "Feature_2": "Compatible with AXIS M4308-PLE",
+      "Feature_3": "Single-screw ceiling attachment for quick and easy installation"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-02381-001",
+    "sku": "02381-001",
+    "name": "AXIS TM3205 RECESSED MOUNT",
+    "description": "Designed for indoor drop ceiling installations for selected Axis cameras (M3057/8 and M3077). It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces.  Casing includes mic holes for M3077 and plugs in mic holes when used with M3057/8.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 117,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Designed for indoor drop ceiling installations for selected Axis cameras (M3057/8 and M3077)",
+      "Feature_2": "It’s robust with an IK10-rating and is easily installed",
+      "Feature_3": "The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-02449-001",
+    "sku": "02449-001",
+    "name": "AXIS TM3208 RECESSED MOUNT",
+    "description": "Indoor recessed mount for ceiling/wall installations. Compatible with AXIS M3057-PLVE, AXIS M3057-PLVE Mk II, AXIS M3058-PLVE, AXIS M3077-PLVE. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 153,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for ceiling/wall installations",
+      "Feature_2": "Compatible with AXIS M3057-PLVE, AXIS M3057-PLVE Mk II, AXIS M3058-PLVE, AXIS M3077-PLVE",
+      "Feature_3": "Single-screw ceiling attachment for quick and easy installation"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:04:03.260Z"
+  },
+  {
+    "id": "prod-axis-02454-001",
+    "sku": "02454-001",
+    "name": "AXIS TM3209 RECESSED MOUNT",
+    "description": "Indoor recessed mount for drop ceiling installation. The aluminum casing makes it suitable for use in air handling spaces. Compatible with AXIS M3064-V, AXIS M3065-V, AXIS M3066-V, AXIS M3067-P, AXIS M3068-P, AXIS M3075-V, AXIS M3085-V, AXIS M3086-V, AXIS M3088-V.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 212,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installation",
+      "Feature_2": "The aluminum casing makes it suitable for use in air handling spaces",
+      "Feature_3": "Compatible with AXIS M3064-V, AXIS M3065-V, AXIS M3066-V, AXIS M3067-P, AXIS M3068-P, AXIS M3075-V, AXIS M3085-V, AXIS M3086-V, AXIS M3088-V"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.399Z"
+  },
+  {
+    "id": "prod-axis-02817-001",
+    "sku": "02817-001",
+    "name": "AXIS TM3210 RECESSED MOUNT",
+    "description": "Indoor recessed mount for drop ceiling installation. The aluminum casing makes it suitable for use in air handling spaces. Compatible with selected AXIS M43 Series fisheye panoramic cameras.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 141,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installation",
+      "Feature_2": "The aluminum casing makes it suitable for use in air handling spaces",
+      "Feature_3": "Compatible with selected AXIS M43 Series fisheye panoramic cameras"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.399Z"
+  },
+  {
+    "id": "prod-axis-02818-001",
+    "sku": "02818-001",
+    "name": "AXIS TM3211 RECESSED MOUNT",
+    "description": "Recessed mount for selected AXIS M43 cameras. Includes cover for fisheye panoramic cameras.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 128,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount for selected AXIS M43 cameras",
+      "Feature_2": "Includes cover for fisheye panoramic cameras"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.399Z"
+  },
+  {
+    "id": "prod-axis-01783-001",
+    "sku": "01783-001",
+    "name": "AXIS TP3101 PENDANT WALL MOUNT",
+    "description": "Elegant mount for indoor mounting of Axis dome cameras in pendant style. Concealed mounting with no visible screws. Room for microphone and connectivity devices (e.g.: AXIS T6101, T8643) and AXIS I/O Indication LED. Compatible with AXIS M32-LVE and AXIS P32-V/-LV cameras. Made from strengthened eco-friendly plastic.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 187,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Elegant mount for indoor mounting of Axis dome cameras in pendant style",
+      "Feature_2": "Concealed mounting with no visible screws",
+      "Feature_3": "Room for microphone and connectivity devices (e"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.399Z"
+  },
+  {
+    "id": "prod-axis-01757-001",
+    "sku": "01757-001",
+    "name": "AXIS TP3201 RECESSED MOUNT",
+    "description": "Indoor recessed mount for drop ceiling installation. Supports the optional use of an internal microphone. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS M32-LVE, AXIS P32-V/-LV, AXIS P33/-V and AXIS Q35-V/-LV series; and AXIS Device Microphone A and B.",
+    "priceUSD": 94.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 253,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installation",
+      "Feature_2": "Supports the optional use of an internal microphone",
+      "Feature_3": "Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.399Z"
+  },
+  {
+    "id": "prod-axis-02452-001",
+    "sku": "02452-001",
+    "name": "AXIS TP3201-E RECESSED MOUNT",
+    "description": "Outdoor recessed mount for drop ceiling plenum installations. Supports the optional use of an internal microphone. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS M32-LVE, AXIS P32-VE/-LVE.  T94M02L used in the past for outdoor but size was too big not matching form factor.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 113,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor recessed mount for drop ceiling plenum installations",
+      "Feature_2": "Supports the optional use of an internal microphone",
+      "Feature_3": "Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02509-001",
+    "sku": "02509-001",
+    "name": "AXIS TP3203 RECESSED MOUNT",
+    "description": "Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces. Compatible with selected AXIS M32 and AXIS P32 cameras.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 126,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installations",
+      "Feature_2": "Single-screw ceiling attachment for quick and easy installation",
+      "Feature_3": "Not suitable for air-handling (plenum) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02020-001",
+    "sku": "02020-001",
+    "name": "AXIS TP8201 RECESSED MOUNT",
+    "description": "A plenum rated recessed mount for P8815-2 3D People Counter",
+    "priceUSD": 116.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 100,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A plenum rated recessed mount for P8815-2 3D People Counter"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02136-001",
+    "sku": "02136-001",
+    "name": "AXIS TQ3201-E RECESSED MOUNT",
+    "description": "Recessed mount for indoor and outdoor use of AXIS Q36, P38 and Q38 Series.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 245,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount for indoor and outdoor use of AXIS Q36, P38 and Q38 Series"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02110-001",
+    "sku": "02110-001",
+    "name": "AXIS TQ6501-E PARAPET MOUNT",
+    "description": "Parapet Mount is an outdoor-ready mount.  The round base of the mount makes it easy to install as well as suitable for installations on poles. Cables can be routed through the bottom, or from the side by using a conduit connection.  Chromated and powder coated aluminum parapet mount compatible with fixed dome pendant kits and AXIS P55-series and AXIS Q60-series PTZ dome cameras. Includes mounting plate, pipe seal, conduit hole cover. Color: White",
+    "priceUSD": 234,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 138,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Parapet Mount is an outdoor-ready mount",
+      "Feature_2": "The round base of the mount makes it easy to install as well as suitable for installations on poles",
+      "Feature_3": "Cables can be routed through the bottom, or from the side by using a conduit connection"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02111-001",
+    "sku": "02111-001",
+    "name": "AXIS TQ6901-E ADAPTER BRACKET 4P",
+    "description": "AXIS TQ6901-E is a useful adapter for retrofitting AXIS Q6215-LE in camera installations that have 3rd party competitor mounts. AXIS TQ6901-E is made of powder coated aluminum and is sold in packs of four.",
+    "priceUSD": 234,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 237,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TQ6901-E is a useful adapter for retrofitting AXIS Q6215-LE in camera installations that have 3rd party competitor mounts",
+      "Feature_2": "AXIS TQ6901-E is made of powder coated aluminum and is sold in packs of four"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02081-001",
+    "sku": "02081-001",
+    "name": "AXIS TS3001 Recorder Mount",
+    "description": "AXIS TS3001 Recorder Mount ensures that the AXIS S3008 Recorder is in a fixed position either if it is mounted on walls, shelves, or under tables. Its design and shape allows the recorder to be mounted in two opposite directions.",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 125,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TS3001 Recorder Mount ensures that the AXIS S3008 Recorder is in a fixed position either if it is mounted on walls, shelves, or under tables",
+      "Feature_2": "Its design and shape allows the recorder to be mounted in two opposite directions"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02102-001",
+    "sku": "02102-001",
+    "name": "AXIS TQ6201-E RECESSED MOUNT",
+    "description": "Indoor and outdoor plenum recessed mount for AXIS Q6315-LE PTZ.  Suitable for outdoor installations in roof overhangs and soffits. Also suitable for indoor installations in plenum spaces.",
+    "priceUSD": 298.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 193,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor and outdoor plenum recessed mount for AXIS Q6315-LE PTZ",
+      "Feature_2": "Suitable for outdoor installations in roof overhangs and soffits",
+      "Feature_3": "Also suitable for indoor installations in plenum spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02384-001",
+    "sku": "02384-001",
+    "name": "AXIS TQ1501-E CRANE TRAFFIC MOUNT",
+    "description": "A crane and traffic mount for more stability and less vibrations.  Note: Pivot mount for more stability, Robust, IK10, Coating in corrosion resilient material, offers more stability to your camera installations in demanding situations, such as mounting on cranes or traffic lights. NEMA 4X-ratings and can be tilted up to 45 degrees.  Compatible with P13-E/LE, T92E, T93F, Q16-LE, T92G20, T91B47.",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 257,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A crane and traffic mount for more stability and less vibrations",
+      "Note": "Pivot mount for more stability, Robust, IK10, Coating in corrosion resilient material, offers more stability to your camera installations in demanding situations, such as mounting on cranes or traffic lights",
+      "Feature_3": "NEMA 4X-ratings and can be tilted up to 45 degrees"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02382-001",
+    "sku": "02382-001",
+    "name": "AXIS TM3206 RECESSED MOUNT",
+    "description": "Designed for indoor drop ceiling installations for M4308. It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces. Casing includes mic holes.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 14,
+    "stock": 106,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Designed for indoor drop ceiling installations for M4308",
+      "Feature_2": "It’s robust with an IK10-rating and is easily installed",
+      "Feature_3": "The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:07:15.400Z"
+  },
+  {
+    "id": "prod-axis-02383-001",
+    "sku": "02383-001",
+    "name": "AXIS TM3207 RECESSED MOUNT",
+    "description": "Designed for indoor drop ceiling installations for selected Axis cameras (M3067/8, M4216). It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 118,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Designed for indoor drop ceiling installations for selected Axis cameras (M3067/8, M4216)",
+      "Feature_2": "It’s robust with an IK10-rating and is easily installed",
+      "Feature_3": "The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02360-001",
+    "sku": "02360-001",
+    "name": "AXIS TF9902 SURFACE MOUNT",
+    "description": "Bracket to mount and secure a F series main unit onto a surface. It withstands vibrations and secures all cables to/from the main unit.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 153,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Bracket to mount and secure a F series main unit onto a surface",
+      "Feature_2": "It withstands vibrations and secures all cables to/from the main unit"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02214-001",
+    "sku": "02214-001",
+    "name": "AXIS TF1902-RE MOUNTING BRACKET 4P",
+    "description": "AXIS TF1902-RE Mounting Bracket 4P is a bulk pack of 4x Mounting brackets. The mounting bracket is an accessory for the AXIS F2105-RE and F2135-RE, F7225-RE, FA1105, FA1125 and FA1080-E sensors.\nThanks to the different hole pattens as well as the possibility to bend the bracket in numerous directions, AXIS TF1202-RE Mounting bracket gives extra flexibility and resilience of the sensor unit.",
+    "priceUSD": 9.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "stock": 257,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TF1902-RE Mounting Bracket 4P is a bulk pack of 4x Mounting brackets",
+      "Feature_2": "The mounting bracket is an accessory for the AXIS F2105-RE and F2135-RE, F7225-RE, FA1105, FA1125 and FA1080-E sensors",
+      "Feature_3": "Thanks to the different hole pattens as well as the possibility to bend the bracket in numerous directions, AXIS TF1202-RE Mounting bracket gives extra flexibility and resilience of the sensor unit"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02216-001",
+    "sku": "02216-001",
+    "name": "AXIS TF1202-RE RECESSED MOUNT 4P",
+    "description": "TF1202-RE Recessed Mount 4P is a bulk pack of 4x Recessed Mounts for AXIS F2105-RE Standard sensor.\nAXIS TF1202-RE Recessed Mount is the perfect accessory when installing AXIS F2105-RE standard sensor in a wall, a glass, plastic or metal panel from 1 to 15mm. Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel.\n\nAXIS TF1202-RE Recessed Mount is made of plastic and comes with a built-in lens protection highly recommended when AXIS F2105-RE is used in harsh environment.",
+    "priceUSD": 33.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 196,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "TF1202-RE Recessed Mount 4P is a bulk pack of 4x Recessed Mounts for AXIS F2105-RE Standard sensor",
+      "Feature_2": "AXIS TF1202-RE Recessed Mount is the perfect accessory when installing AXIS F2105-RE standard sensor in a wall, a glass, plastic or metal panel from 1 to 15mm",
+      "Feature_3": "Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02217-001",
+    "sku": "02217-001",
+    "name": "AXIS TF1203-RE RECESSED MOUNT 4P",
+    "description": "AXIS TF1203-RE Recessed Mount 4P is a bulk pack of 4x Recessed Mount for AXIS F2135-RE Fisheye sensor.\nAXIS TF1203-RE Recessed Mount is the perfect accessory when installing AXIS F2135-RE standard sensor in a wall, a glass, plastic or metal panel from 1 to 15mm. Beyond the esthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel.\n\nAXIS TF1203-RE Recessed Mount is made of plastic and comes with a built-in lens protection highly recommended when AXIS F2135-RE is used in harsh environments.",
+    "priceUSD": 33.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 138,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TF1203-RE Recessed Mount 4P is a bulk pack of 4x Recessed Mount for AXIS F2135-RE Fisheye sensor",
+      "Feature_2": "AXIS TF1203-RE Recessed Mount is the perfect accessory when installing AXIS F2135-RE standard sensor in a wall, a glass, plastic or metal panel from 1 to 15mm",
+      "Feature_3": "Beyond the esthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02212-001",
+    "sku": "02212-001",
+    "name": "AXIS TF1901-RE SWIVEL MOUNT 4P",
+    "description": "AXIS TF1901-RE Swivel Mount 4P is a bulk pack of 4x Swivel Mounts for AXIS F21 sensors. It allows the modular sensor unit to be fixed and angled to get the desired viewing direction.",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 262,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TF1901-RE Swivel Mount 4P is a bulk pack of 4x Swivel Mounts for AXIS F21 sensors",
+      "Feature_2": "It allows the modular sensor unit to be fixed and angled to get the desired viewing direction"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02433-001",
+    "sku": "02433-001",
+    "name": "AXIS TF1201-RE RECESSED MOUNT 4P",
+    "description": "AXIS TF1201-RE Recessed Mount is a bulk pack of 4x Recessed Mount for AXIS F2105-RE standard sensor unit and AXIS F2135-RE fisheye sensor unit. \nAXIS TF1201-RE Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm. Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel.\nAXIS TF1201-RE comes in silver and is made of aluminium.",
+    "priceUSD": 66,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 164,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TF1201-RE Recessed Mount is a bulk pack of 4x Recessed Mount for AXIS F2105-RE standard sensor unit and AXIS F2135-RE fisheye sensor unit",
+      "Feature_2": "AXIS TF1201-RE Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm",
+      "Feature_3": "Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02567-001",
+    "sku": "02567-001",
+    "name": "AXIS TQ1003-E Wall Mount",
+    "description": "Wall mount compatible with all Axis outdoor fixed box cameras and housings. Corrosion tested according to NEMA 4X, UL listed and IK10 rated.Highly robust, Rotatable, and Flexible cable routing.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 188,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount compatible with all Axis outdoor fixed box cameras and housings",
+      "Feature_2": "Corrosion tested according to NEMA 4X, UL listed and IK10 rated",
+      "Feature_3": "Highly robust, Rotatable, and Flexible cable routing"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02856-001",
+    "sku": "02856-001",
+    "name": "AXIS TQ3202-E RECESSED MOUNT",
+    "description": "Recessed mount for indoor and outdoor use of AXIS Q3626/8 VE.  It has a metal back box and is suitable for installation in plenum (air-handling) spaces.",
+    "priceUSD": 170.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 254,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount for indoor and outdoor use of AXIS Q3626/8 VE",
+      "Feature_2": "It has a metal back box and is suitable for installation in plenum (air-handling) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02836-001",
+    "sku": "02836-001",
+    "name": "AXIS TM4201 RECESSED MOUNT 4P",
+    "description": "A recessed mount compatible with M42 series of cameras.  Designed for soft ceilings that have thickness of 15+/-1 mm.  Includes adapter mount top and mount bottom.  Comes in 4p.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 193,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A recessed mount compatible with M42 series of cameras",
+      "Feature_2": "Designed for soft ceilings that have thickness of 15+/-1 mm",
+      "Feature_3": "Includes adapter mount top and mount bottom"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02830-001",
+    "sku": "02830-001",
+    "name": "AXIS TP5201-E RECESSED MOUNT",
+    "description": "Outdoor recessed mount for AXIS P56 cameras. Also suitable indoor for recessed camera installations in plenum as the back box is made of metal and has a hole for cable protection conduits.",
+    "priceUSD": 212.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 221,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor recessed mount for AXIS P56 cameras",
+      "Feature_2": "Also suitable indoor for recessed camera installations in plenum as the back box is made of metal and has a hole for cable protection conduits"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02923-001",
+    "sku": "02923-001",
+    "name": "AXIS TP3004-E Wall Mount Black",
+    "description": "A black version of T91D61 which is chromated and powder coated aluminum wall mount with 1.5\" NPS thread for fixed dome pendant kits. Cable routing from behind or through 3/4\" conduit hole on the side. Includes mounting plate, pipe seal and conduit hole cover. Color: Black",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 131,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A black version of T91D61 which is chromated and powder coated aluminum wall mount with 1",
+      "Feature_2": "5\" NPS thread for fixed dome pendant kits",
+      "Feature_3": "Cable routing from behind or through 3/4\" conduit hole on the side"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.868Z"
+  },
+  {
+    "id": "prod-axis-02961-001",
+    "sku": "02961-001",
+    "name": "AXIS TP3301-E Pole Mount Black",
+    "description": "A black version of T91B67 white which is Outdoor-ready, powder-coated aluminum pole mount with 1.5\" NPS thread for fixed dome pendant kits. Includes insect-proof cable gasket and 1 pair of stainless steel straps (with TX30 screw) for pole diameter between 65-165mm (2.5\"-6.5\"). White in color.",
+    "priceUSD": 170.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 129,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A black version of T91B67 white which is Outdoor-ready, powder-coated aluminum pole mount with 1",
+      "Feature_2": "5\" NPS thread for fixed dome pendant kits",
+      "Feature_3": "Includes insect-proof cable gasket and 1 pair of stainless steel straps (with TX30 screw) for pole diameter between 65-165mm (2"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.869Z"
+  },
+  {
+    "id": "prod-axis-02873-001",
+    "sku": "02873-001",
+    "name": "AXIS TP3204-E RECESSED MOUNT",
+    "description": "Outdoor recessed mount for discreet installations in drop ceilings, roof overhangs/soffits of \nAXIS P3735-PLE, AXIS P3737-PLE, AXIS P3738-PLE. Suitable for installations in plenum space, as the back box is made of metal with a ¾\" hole for cable protection conduits.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 224,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor recessed mount for discreet installations in drop ceilings, roof overhangs/soffits of  AXIS P3735-PLE, AXIS P3737-PLE, AXIS P3738-PLE",
+      "Feature_2": "Suitable for installations in plenum space, as the back box is made of metal with a ¾\" hole for cable protection conduits"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.869Z"
+  },
+  {
+    "id": "prod-axis-02411-001",
+    "sku": "02411-001",
+    "name": "AXIS TQ5001-E Wall/Pole Mount",
+    "description": "Wall-and-Pole Mount for Axis PTZ and multi-sensor cameras. Built-in Ethernet cable with an IP66 RJ45 connector for quick installation with protection against dust and water. Connect PoE via either RJ45 or IDC (insulation-displacement contact) connectors. Suitable for both indoor and outdoor environments. Separate stainless steel straps required for pole installation.",
+    "priceUSD": 170.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 219,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall-and-Pole Mount for Axis PTZ and multi-sensor cameras",
+      "Feature_2": "Built-in Ethernet cable with an IP66 RJ45 connector for quick installation with protection against dust and water",
+      "Feature_3": "Connect PoE via either RJ45 or IDC (insulation-displacement contact) connectors"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:10:07.869Z"
+  },
+  {
+    "id": "prod-axis-02851-001",
+    "sku": "02851-001",
+    "name": "AXIS TP1001-E Wall/Pole Mount",
+    "description": "Wall-and-Pole Mount for Axis PTZ and multi-sensor cameras. Built-in Ethernet cable with an IP66 RJ45 connector for quick installation with protection against dust and water. Connect PoE via either RJ45 or IDC (insulation-displacement contact) connectors. Suitable for both indoor and outdoor environments. Separate stainless steel straps required for pole installation.  The 1.5\" NPS thread mount ensures compatibility with all pendant kits for Axis fixed dome cameras.",
+    "priceUSD": 201.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 222,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall-and-Pole Mount for Axis PTZ and multi-sensor cameras",
+      "Feature_2": "Built-in Ethernet cable with an IP66 RJ45 connector for quick installation with protection against dust and water",
+      "Feature_3": "Connect PoE via either RJ45 or IDC (insulation-displacement contact) connectors"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-02978-001",
+    "sku": "02978-001",
+    "name": "AXIS TW4100 Front Windshield Mount",
+    "description": "Adhesive windshield mount compatible with selected F-series sensors for secure and easy mounting on the front windshield.",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 223,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Adhesive windshield mount compatible with selected F-series sensors for secure and easy mounting on the front windshield"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-02979-001",
+    "sku": "02979-001",
+    "name": "AXIS TW4101 Rear Windshield Mount",
+    "description": "Adhesive windshield mount compatible with selected F-series sensors for secure and easy mounting on the rear windshield.",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 11,
+    "stock": 179,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Adhesive windshield mount compatible with selected F-series sensors for secure and easy mounting on the rear windshield"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03003-001",
+    "sku": "03003-001",
+    "name": "AXIS TQ9301 Corner Bracket",
+    "description": "Corner indoor bracket compatible with: AXIS P3265-LV: AXIS P3265-V, AXIS P3267-LV, AXIS P3268-LV,\nAXIS Q9307-LV. Comes with 4 TX20 screws. Made of steel, and painted Axis white.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 121,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Corner indoor bracket compatible with": "AXIS P3265-LV: AXIS P3265-V, AXIS P3267-LV, AXIS P3268-LV, AXIS Q9307-LV",
+      "Feature_2": "Comes with 4 TX20 screws",
+      "Feature_3": "Made of steel, and painted Axis white"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03116-001",
+    "sku": "03116-001",
+    "name": "AXIS TM3213 Recessed Mount",
+    "description": "Indoor recessed mount for drop ceiling installation. The aluminum (plenum) casing makes it suitable for use in air handling spaces. Compatible with AXIS M3125-LVE, AXIS M3126-LVE, AXIS M3128-LVE.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 136,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installation",
+      "Feature_2": "The aluminum (plenum) casing makes it suitable for use in air handling spaces",
+      "Feature_3": "Compatible with AXIS M3125-LVE, AXIS M3126-LVE, AXIS M3128-LVE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03054-001",
+    "sku": "03054-001",
+    "name": "AXIS TQ9302 Pole Mount",
+    "description": "A pole mount for Telesitting in Healthcare is main use case when a IV pole type needs a mount for a pole to attach a camera.  The mount should be mountable on thin poles from 18mm to 25mm.  Cable entry from top or bottom up.  Mount compatible with Q9307-LV, several P32 cameras and I8116.",
+    "priceUSD": 105.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 126,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A pole mount for Telesitting in Healthcare is main use case when a IV pole type needs a mount for a pole to attach a camera",
+      "Feature_2": "The mount should be mountable on thin poles from 18mm to 25mm",
+      "Feature_3": "Cable entry from top or bottom up"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03208-001",
+    "sku": "03208-001",
+    "name": "AXIS TF1202 RECESSED MOUNT 4P",
+    "description": "TF1202 Recessed Mount 4P is a bulk pack of 4x Recessed Mounts for AXIS FA1105 sensor unit.\n\nBeyond the aesthetics aspect giving a finishing look of the installation, AXIS TF1202 Recessed Mount is the perfect accessory when installing AXIS FA1105 sensor unit in a wall, a glass, plastic or metal panel from 1 to 15mm. \n\nAXIS TF1202 Recessed Mount is made of plastic and comes with a built-in lens protection highly recommended to protect FA1105 lens from tempering or vandalism.",
+    "priceUSD": 33.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 291,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "TF1202 Recessed Mount 4P is a bulk pack of 4x Recessed Mounts for AXIS FA1105 sensor unit",
+      "Feature_2": "Beyond the aesthetics aspect giving a finishing look of the installation, AXIS TF1202 Recessed Mount is the perfect accessory when installing AXIS FA1105 sensor unit in a wall, a glass, plastic or metal panel from 1 to 15mm",
+      "Feature_3": "AXIS TF1202 Recessed Mount is made of plastic and comes with a built-in lens protection highly recommended to protect FA1105 lens from tempering or vandalism"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03115-001",
+    "sku": "03115-001",
+    "name": "AXIS TM3212 Recessed Mount",
+    "description": "Recessed mount for AXIS M3125-LVE, AXIS M3126-LVE, AXIS M3128-LVE.  Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 187,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount for AXIS M3125-LVE, AXIS M3126-LVE, AXIS M3128-LVE",
+      "Feature_2": "Indoor recessed mount for drop ceiling installations",
+      "Feature_3": "Single-screw ceiling attachment for quick and easy installation"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03008-001",
+    "sku": "03008-001",
+    "name": "AXIS TP3005-E Wall Mount",
+    "description": "Elegant mount for outdoor/indoor mounting of Axis dome cameras in pendant style.  Concealed mounting with no visible screws. Audio sensor input entry.  Natural weather protection as well.    Room for cable slack.\nCompatible with P32 LV/LVE variants and M3215/16-LVE variants.",
+    "priceUSD": 105.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 289,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Elegant mount for outdoor/indoor mounting of Axis dome cameras in pendant style",
+      "Feature_2": "Concealed mounting with no visible screws",
+      "Feature_3": "Audio sensor input entry"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-02987-001",
+    "sku": "02987-001",
+    "name": "AXIS TQ3003-SE Wall Mount",
+    "description": "Wall mount for AXIS P3268-SLVE, AXIS Q3538-SLVE made of marine grade stainless steel.  Resistant to see water and chemicals.",
+    "priceUSD": 640.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "stock": 167,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Wall mount for AXIS P3268-SLVE, AXIS Q3538-SLVE made of marine grade stainless steel",
+      "Feature_2": "Resistant to see water and chemicals"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03186-001",
+    "sku": "03186-001",
+    "name": "AXIS TC1605 Ceiling Mount",
+    "description": "AXIS TC1605 Ceiling Mount - For ceiling installation of the AXIS C1720 Network Display Speaker (Corridor version with two displays and speakers). This accessory is designed to fit axis range of (pipe-) ceiling mounts, such as the AXIS T91B51 Ceiling Mount.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 222,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TC1605 Ceiling Mount - For ceiling installation of the AXIS C1720 Network Display Speaker (Corridor version with two displays and speakers)",
+      "Feature_2": "This accessory is designed to fit axis range of (pipe-) ceiling mounts, such as the AXIS T91B51 Ceiling Mount"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03185-001",
+    "sku": "03185-001",
+    "name": "AXIS TC1604 Wall Mount",
+    "description": "AXIS TC1604 Wall Mount, intended for wall mounting the AXIS C1720 Network Display Speaker (Corridor version with two displays and speakers).",
+    "priceUSD": 170.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 28,
+    "stock": 277,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TC1604 Wall Mount, intended for wall mounting the AXIS C1720 Network Display Speaker (Corridor version with two displays and speakers)"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.961Z"
+  },
+  {
+    "id": "prod-axis-03385-001",
+    "sku": "03385-001",
+    "name": "AXIS TQ1501-E CRANE TRAFFIC MOUNT",
+    "description": "A crane and traffic mount for more stability and less vibrations. Note: Pivot mount for more stability, Robust, IK10, Coating in corrosion resilient material, offers more stability to your camera installations in demanding situations, such as mounting on cranes or traffic lights. NEMA 4X-ratings and can be tilted up to 45 degrees. Compatible with P13-E/LE, P15-E/LE, T92E, T93F, Q16-LE, Q21-E/TE, T92G20, T91B47, TQ1809 Housing T92G,",
+    "priceUSD": 84,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 15,
+    "stock": 141,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A crane and traffic mount for more stability and less vibrations",
+      "Note": "Pivot mount for more stability, Robust, IK10, Coating in corrosion resilient material, offers more stability to your camera installations in demanding situations, such as mounting on cranes or traffic lights",
+      "Feature_3": "NEMA 4X-ratings and can be tilted up to 45 degrees"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.962Z"
+  },
+  {
+    "id": "prod-axis-03006-001",
+    "sku": "03006-001",
+    "name": "AXIS TD4301-E Angle Mount",
+    "description": "Mount for the AXIS D4200-VE Network Strobe Speaker. For use cases where angling of the speaker is better and also allows for corner mounting",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 32,
+    "stock": 232,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mount for the AXIS D4200-VE Network Strobe Speaker",
+      "Feature_2": "For use cases where angling of the speaker is better and also allows for corner mounting"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.962Z"
+  },
+  {
+    "id": "prod-axis-03249-001",
+    "sku": "03249-001",
+    "name": "AXIS TQ3204-E Recessed Mount",
+    "description": "Outdoor recessed mount for AXIS Q3546-LVE, AXIS Q3548-LVE, AXIS Q3556-LVE, AXIS Q3558-LVE.  Suitable for outdoor installations in roof overhangs and soffits. Also suitable for indoor installations in plenum spaces.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 105,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor recessed mount for AXIS Q3546-LVE, AXIS Q3548-LVE, AXIS Q3556-LVE, AXIS Q3558-LVE",
+      "Feature_2": "Suitable for outdoor installations in roof overhangs and soffits",
+      "Feature_3": "Also suitable for indoor installations in plenum spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:13:09.962Z"
+  },
+  {
+    "id": "prod-axis-03267-001",
+    "sku": "03267-001",
+    "name": "AXIS TP3206-E Recessed Mount",
+    "description": "Outdoor/indoor recessed mount for drop ceiling plenum installations. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS P326x, P327x, P328x, LV/LVE.",
+    "priceUSD": 105.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 152,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor/indoor recessed mount for drop ceiling plenum installations",
+      "Feature_2": "Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces",
+      "Compatible with": "AXIS P326x, P327x, P328x, LV/LVE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.657Z"
+  },
+  {
+    "id": "prod-axis-03266-001",
+    "sku": "03266-001",
+    "name": "AXIS TP3205 Recessed Mount",
+    "description": "Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces. Compatible with: AXIS P3267-LVE Mic, AXIS P327x-LV/LVE, AXIS P327x-LV/LVE, AXIS P328x-LV/LVE.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 235,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for drop ceiling installations",
+      "Feature_2": "Single-screw ceiling attachment for quick and easy installation",
+      "Feature_3": "Not suitable for air-handling (plenum) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03404-001",
+    "sku": "03404-001",
+    "name": "AXIS TF1201 Recessed Mount 4P",
+    "description": "AXIS TF1201 Recessed Mount 4P is a bulk pack of 4x Recessed Mount for indoor modular sensor units. It is compatible with both AXIS F2108 dome sensor and AXIS FA1105 sensor unit.\n\nBeyond the aesthetics aspect giving a finishing look of the installation, AXIS TF1201 Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm.\n\nAXIS TF1201 comes in silver and is made of aluminium.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 192,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TF1201 Recessed Mount 4P is a bulk pack of 4x Recessed Mount for indoor modular sensor units",
+      "Feature_2": "It is compatible with both AXIS F2108 dome sensor and AXIS FA1105 sensor unit",
+      "Feature_3": "Beyond the aesthetics aspect giving a finishing look of the installation, AXIS TF1201 Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03159-001",
+    "sku": "03159-001",
+    "name": "AXIS TQ5301-E Corner Mount",
+    "description": "Outer corner mount for Axis PTZ cameras.  With a stylish design, this compact, all-in-one, outdoor-ready mount blends seamlessly into most indoor and outdoor environments. It offers flexible installation and can be mounted on either the left or right side to suit specific needs. > Room for connectivity devices\n> Robust, IK10-rated > Outdoor and indoor-ready.",
+    "priceUSD": 534,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 137,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outer corner mount for Axis PTZ cameras",
+      "Feature_2": "With a stylish design, this compact, all-in-one, outdoor-ready mount blends seamlessly into most indoor and outdoor environments",
+      "Feature_3": "It offers flexible installation and can be mounted on either the left or right side to suit specific needs"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03158-001",
+    "sku": "03158-001",
+    "name": "AXIS TP3302-E Corner Mount",
+    "description": "Corner mount for dome and panoramic cameras. With a stylish design, this compact, all-in-one, outdoor-ready mount blends seamlessly into most indoor and outdoor environments. It offers flexible installation and can be mounted on either the left or right side to suit specific needs.\n> Spacious compartment for connectivity devices, > Robust, IK10-rated, > Outdoor and indoor-ready",
+    "priceUSD": 534,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 276,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Corner mount for dome and panoramic cameras",
+      "Feature_2": "With a stylish design, this compact, all-in-one, outdoor-ready mount blends seamlessly into most indoor and outdoor environments",
+      "Feature_3": "It offers flexible installation and can be mounted on either the left or right side to suit specific needs"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03511-001",
+    "sku": "03511-001",
+    "name": "AXIS TF1204-RE Recessed Mount 4 pcs",
+    "description": "AXIS TF1204-RE Recessed Mount is a bulk pack of 4x Black Aluminum Recessed Mount for AXIS F210X-RE standard sensor units and AXIS F213X-RE fisheye sensor units.\n\nAXIS TF1204-RE Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm. Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel.\n\nAXIS TF1204-RE Recessed Mount comes in black and is made of aluminium.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 239,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TF1204-RE Recessed Mount is a bulk pack of 4x Black Aluminum Recessed Mount for AXIS F210X-RE standard sensor units and AXIS F213X-RE fisheye sensor units",
+      "Feature_2": "AXIS TF1204-RE Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm",
+      "Feature_3": "Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03420-001",
+    "sku": "03420-001",
+    "name": "AXIS TP3208-E Recessed Mount",
+    "description": "Outdoor/indoor recessed mount for drop ceiling plenum installations. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS P3747-PLVE, AXIS P3748-PLVE.  Note comes with a ring to hide the IR if a smaller more discrete footprint is desired.",
+    "priceUSD": 427.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 106,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor/indoor recessed mount for drop ceiling plenum installations",
+      "Feature_2": "Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces",
+      "Compatible with": "AXIS P3747-PLVE, AXIS P3748-PLVE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03473-001",
+    "sku": "03473-001",
+    "name": "AXIS TP5202-E Recessed Mount",
+    "description": "Recessed mount with a good footprint and a nice discrete design for drop ceilings.  Compatible with P5655-E, P5654-E Mk II.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 294,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Recessed mount with a good footprint and a nice discrete design for drop ceilings",
+      "Feature_2": "Compatible with P5655-E, P5654-E Mk II"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03419-001",
+    "sku": "03419-001",
+    "name": "AXIS TF2001-E Dual Mount Bracket",
+    "description": "A dual mount accessory bracket for F21 sensor units (video and thermal). Includes a mounting bracket and holder for two sensor units",
+    "priceUSD": 127.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 235,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "A dual mount accessory bracket for F21 sensor units (video and thermal)",
+      "Feature_2": "Includes a mounting bracket and holder for two sensor units"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03523-001",
+    "sku": "03523-001",
+    "name": "AXIS TM3214 RECESSED MOUNT",
+    "description": "Indoor recessed mount for ceiling/wall installations. Compatible with AXIS M4337-PLVE, AXIS M4338-PLVE, AXIS M4347-PLVE, AXIS M4348-PLVE. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 176,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Indoor recessed mount for ceiling/wall installations",
+      "Feature_2": "Compatible with AXIS M4337-PLVE, AXIS M4338-PLVE, AXIS M4347-PLVE, AXIS M4348-PLVE",
+      "Feature_3": "Single-screw ceiling attachment for quick and easy installation"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-03522-001",
+    "sku": "03522-001",
+    "name": "AXIS TM3215 RECESSED MOUNT",
+    "description": "Designed for indoor drop ceiling installations. It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces. Compatible with: AXIS M4337-PLVE, AXIS M4338-PLVE, AXIS M4347-PLVE, AXIS M4348-PLVE.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 264,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Designed for indoor drop ceiling installations",
+      "Feature_2": "It’s robust with an IK10-rating and is easily installed",
+      "Feature_3": "The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.658Z"
+  },
+  {
+    "id": "prod-axis-02222-001",
+    "sku": "02222-001",
+    "name": "AXIS TC1601 Universal Mount",
+    "description": "Versatile accessory to be used with AXIS C1410 Network Mini Speaker. It can be used as either a pendant kit with 3/4\" (M25) conduit interface, conduit back box with 1/2\" (M20) conduit side entry, or with standard stands or holders using the integrated female (M6) tripod thread.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 123,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Versatile accessory to be used with AXIS C1410 Network Mini Speaker",
+      "Feature_2": "It can be used as either a pendant kit with 3/4\" (M25) conduit interface, conduit back box with 1/2\" (M20) conduit side entry, or with standard stands or holders using the integrated female (M6) tripod thread"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.659Z"
+  },
+  {
+    "id": "prod-axis-0979-001",
+    "sku": "0979-001",
+    "name": "AXIS Q1941-E PT MOUNT 19MM 30 FPS",
+    "description": "Outdoor Thermal Network Camera for positioning unit, 384x288 resolution, 30 fps, and 19 mm lens with 19.4° angle of view. It supports Electronic Image Stabilization, Zipstream, ONVIF, H.264, PoE and local storage. It includes Video motion detection, shock detection and support for AXIS Camera Application Platform enabling installation of AXIS Perimeter Defender and third-party applications. IP66, NEMA 4X rated and UL listed.\nThis product is controlled for export under EU Regulation (EC) № 428/2009 and Export Control Classification Number (ECCN) 6A003.b.4.b applies. Licensing requirements may affect the lead time for delivery and/or general order status. If in doubt, please contact customs-se@axis.com for guidance on the license application procedure.",
+    "priceUSD": 3367.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 278,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor Thermal Network Camera for positioning unit, 384x288 resolution, 30 fps, and 19 mm lens with 19",
+      "Feature_2": "4° angle of view",
+      "Feature_3": "It supports Electronic Image Stabilization, Zipstream, ONVIF, H"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.659Z"
+  },
+  {
+    "id": "prod-axis-0977-001",
+    "sku": "0977-001",
+    "name": "AXIS Q1941-E PT MOUNT 60MM 30 FPS",
+    "description": "Outdoor Thermal Network Camera for positioning unit, 384x288 resolution, 30 fps, and 60 mm lens with 6.2° angle of view. It supports Electronic Image Stabilization, Zipstream, ONVIF, H.264, PoE and local storage. It includes Video motion detection, shock detection and support for AXIS Camera Application Platform enabling installation of AXIS Perimeter Defender and third-party applications. IP66, NEMA 4X rated and UL listed.\nThis product is controlled for export under EU Regulation (EC) № 428/2009 and Export Control Classification Number (ECCN) 6A003.b.4.b applies. Licensing requirements may affect the lead time for delivery and/or general order status. If in doubt, please contact customs-se@axis.com for guidance on the license application procedure.",
+    "priceUSD": 6520.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "stock": 166,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Outdoor Thermal Network Camera for positioning unit, 384x288 resolution, 30 fps, and 60 mm lens with 6",
+      "Feature_2": "2° angle of view",
+      "Feature_3": "It supports Electronic Image Stabilization, Zipstream, ONVIF, H"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.659Z"
+  },
+  {
+    "id": "prod-axis-02551-001",
+    "sku": "02551-001",
+    "name": "AXIS TP3002-E MOUNTING BRACKET 4P",
+    "description": "Spare part mounting bracket for AXIS P3267-LV, P3268-LV.  Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    "priceUSD": 63.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 20,
+    "stock": 232,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket for AXIS P3267-LV, P3268-LV",
+      "Feature_2": "Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories",
+      "Feature_3": "4-piece bulk pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:15:37.659Z"
+  },
+  {
+    "id": "prod-axis-02552-001",
+    "sku": "02552-001",
+    "name": "AXIS TP3003-E MOUNTING BRACKET 4P",
+    "description": "Spare part mounting bracket for AXIS P3265-LVE 22 mm, P3267-LVE, P3268-LVE.  Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    "priceUSD": 116.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 193,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket for AXIS P3265-LVE 22 mm, P3267-LVE, P3268-LVE",
+      "Feature_2": "Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories",
+      "Feature_3": "4-piece bulk pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-02515-001",
+    "sku": "02515-001",
+    "name": "AXIS TQ3001-E MOUNTING BRACKET 5P",
+    "description": "Spare part mounting bracket in 5p for AXIS Q3536-LVE, AXIS Q3538-LVE.",
+    "priceUSD": 148.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "stock": 142,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket in 5p for AXIS Q3536-LVE, AXIS Q3538-LVE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-5505-161",
+    "sku": "5505-161",
+    "name": "AXIS Q604X RECESSED MOUNT",
+    "description": "Spare part indoor recessed mount for mounting AXIS Q60 indoor cameras in drop ceilings.",
+    "priceUSD": 105.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 191,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part indoor recessed mount for mounting AXIS Q60 indoor cameras in drop ceilings"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-5800-121",
+    "sku": "5800-121",
+    "name": "AXIS M501X MOUNTING KIT",
+    "description": "Original ceiling mount kit for both hard- and drop ceilings for the AXIS M501X.",
+    "priceUSD": 15.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 297,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Original ceiling mount kit for both hard- and drop ceilings for the AXIS M501X"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-5800-351",
+    "sku": "5800-351",
+    "name": "AXIS T98A MOUNTING BRACKET",
+    "description": "Original stainless steel mounting bracket for AXIS T98A-VE Surveillance Cabinet series.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 157,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Original stainless steel mounting bracket for AXIS T98A-VE Surveillance Cabinet series"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-5505-171",
+    "sku": "5505-171",
+    "name": "AXIS T94F01S MOUNTING BRACKET",
+    "description": "Standard mount bracket for AXIS M3006-V, AXIS M3007-P/-PV, AXIS M3024-LVE/3025-VE/3026-VE",
+    "priceUSD": 31.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 236,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Standard mount bracket for AXIS M3006-V, AXIS M3007-P/-PV, AXIS M3024-LVE/3025-VE/3026-VE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-01566-001",
+    "sku": "01566-001",
+    "name": "AXIS T94T02S MOUNTING BRACKET",
+    "description": "Spare part mounting brackets for AXIS M3057/58-PLVE, single pack. Includes spring clips for ease-of-installation.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 238,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting brackets for AXIS M3057/58-PLVE, single pack",
+      "Feature_2": "Includes spring clips for ease-of-installation"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-5801-911",
+    "sku": "5801-911",
+    "name": "AXIS T94V01S MOUNTING BRACKET",
+    "description": "Standard mounting bracket for AXIS Q36 Series Network Cameras.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 299,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Standard mounting bracket for AXIS Q36 Series Network Cameras"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-5506-671",
+    "sku": "5506-671",
+    "name": "AXIS T94U02S MOUNTING BRACKET",
+    "description": "Standard mounting bracket for AXIS Q3505-SVE made of stainless steel. Including gasket.",
+    "priceUSD": 192,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 228,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Standard mounting bracket for AXIS Q3505-SVE made of stainless steel",
+      "Feature_2": "Including gasket"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-01806-001",
+    "sku": "01806-001",
+    "name": "AXIS TP3001 MOUNTING BRACKET 4P",
+    "description": "Spare part mounting bracket for selected AXIS M32 and P32 cameras. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 184,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket for selected AXIS M32 and P32 cameras",
+      "Feature_2": "Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories",
+      "Feature_3": "4-piece bulk pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-01801-001",
+    "sku": "01801-001",
+    "name": "AXIS TP3001-E MOUNTING BRACKET 4P",
+    "description": "Spare part mounting bracket for selected AXIS P32 outdoor cameras. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    "priceUSD": 105.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "stock": 262,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket for selected AXIS P32 outdoor cameras",
+      "Feature_2": "Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories",
+      "Feature_3": "4-piece bulk pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-02274-001",
+    "sku": "02274-001",
+    "name": "AXIS TQ3902 MOUNT BRACKET",
+    "description": "Mount bracket for Q3819-PVE.  Includes conduit lid to cover conduit entry not used.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 157,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mount bracket for Q3819-PVE",
+      "Feature_2": "Includes conduit lid to cover conduit entry not used"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.728Z"
+  },
+  {
+    "id": "prod-axis-02852-001",
+    "sku": "02852-001",
+    "name": "AXIS TM1001 Wall Mount 5 pcs",
+    "description": "5 pack spare part wall mount for: AXIS M1055-L and AXIS M1075-L.",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "stock": 256,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "5 pack spare part wall mount for": "AXIS M1055-L and AXIS M1075-L"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02829-001",
+    "sku": "02829-001",
+    "name": "AXIS TQ3002-E Mounting Bracket",
+    "description": "Spare part standard mounting bracket for AXIS Q3626/8-VE Network Cameras.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 294,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part standard mounting bracket for AXIS Q3626/8-VE Network Cameras"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-03303-001",
+    "sku": "03303-001",
+    "name": "AXIS TQ3903-E Mounting Bracket",
+    "description": "Spare part mount bracket for AXIS Q3839-PVE, AXIS Q4809-PVE.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 19,
+    "stock": 149,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mount bracket for AXIS Q3839-PVE, AXIS Q4809-PVE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-03322-001",
+    "sku": "03322-001",
+    "name": "AXIS TP3007 Mounting Bracket 4P",
+    "description": "Spare part mounting bracket. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.  Compatible with: \nAXIS P3267-LV, AXIS P3268-LV, AXIS P327x-LV, P328x-LV.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 30,
+    "stock": 161,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket",
+      "Feature_2": "Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories",
+      "Feature_3": "4-piece bulk pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-03323-001",
+    "sku": "03323-001",
+    "name": "AXIS TP3006-E Mounting Bracket 4P",
+    "description": "Spare part mounting bracket. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack. Compatible with: AXIS P3265-LVE 22 mm, AXIS P3267-LVE, AXIS P3268-LVE, P327x-LVE, AXIS P328x-LVE.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 22,
+    "stock": 202,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket",
+      "Feature_2": "Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories",
+      "Feature_3": "4-piece bulk pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-5700-851",
+    "sku": "5700-851",
+    "name": "SPR BRACKET KIT AXIS Q60XX/P55XX",
+    "description": "Bracket kit for surface mounting a camera on a hard ceiling. Compatible with Q603X and P553X. Content: Bracket, screws with washers and wave springs.",
+    "priceUSD": 31.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 289,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Bracket kit for surface mounting a camera on a hard ceiling",
+      "Feature_2": "Compatible with Q603X and P553X",
+      "Content": "Bracket, screws with washers and wave springs"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-01600-001",
+    "sku": "01600-001",
+    "name": "AXIS Q62 IMPACT PROTECTION BRACKET",
+    "description": "Protection of front window on AXIS Q62-LE camera. Provides IK10 rating on product. Includes bracket and mounting screws.",
+    "priceUSD": 31.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 10,
+    "stock": 158,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Protection of front window on AXIS Q62-LE camera",
+      "Feature_2": "Provides IK10 rating on product",
+      "Feature_3": "Includes bracket and mounting screws"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02586-001",
+    "sku": "02586-001",
+    "name": "AXIS TM2001 MOUNT BRACKET",
+    "description": "Spare part mounting bracket for AXIS M2035-LE, M2036-LE.  Includes a mounting bracket and gasket for cable.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "stock": 151,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Spare part mounting bracket for AXIS M2035-LE, M2036-LE",
+      "Feature_2": "Includes a mounting bracket and gasket for cable"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02931-021",
+    "sku": "02931-021",
+    "name": "AXIS TP3907 Clamp Bracket Mount 10P",
+    "description": "10 pack spare part clamp bracket mount.  Compatible with: AXIS P3735-PLE, AXIS P3737-PLE,  AXIS P3738-PLE.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 232,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "10 pack spare part clamp bracket mount",
+      "Compatible with": "AXIS P3735-PLE, AXIS P3737-PLE,  AXIS P3738-PLE"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-5505-041",
+    "sku": "5505-041",
+    "name": "AXIS T8353 MOUNT",
+    "description": "Mounting accessory for AXIS T8353 Microphones",
+    "priceUSD": 20.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 226,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting accessory for AXIS T8353 Microphones"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-01219-001",
+    "sku": "01219-001",
+    "name": "AXIS T90 WALL-AND-POLE MOUNT",
+    "description": "Mounting bracket for AXIS T90 illuminators.",
+    "priceUSD": 42,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "stock": 191,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting bracket for AXIS T90 illuminators"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-01220-001",
+    "sku": "01220-001",
+    "name": "AXIS T90 SINGLE BRACKET",
+    "description": "Mounting bracket for AXIS T90 illuminators.",
+    "priceUSD": 52.8,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "stock": 287,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting bracket for AXIS T90 illuminators"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-01221-001",
+    "sku": "01221-001",
+    "name": "AXIS T90 MULTI BRACKET",
+    "description": "Mounting bracket for AXIS T90 illuminators.",
+    "priceUSD": 74.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 33,
+    "stock": 107,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "Mounting bracket for AXIS T90 illuminators"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02126-001",
+    "sku": "02126-001",
+    "name": "AXIS TW1100 Clip Mount 5P",
+    "description": "AXIS TW1100 Clip Mount 5P\n5 pack mount for the Klick Fast adaptor on the Axis body worn cameras.\nThe clip mount is an easy to use, versatile mount suitable for many types of clothing.",
+    "priceUSD": 116.4,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 12,
+    "stock": 107,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TW1100 Clip Mount 5P 5 pack mount for the Klick Fast adaptor on the Axis body worn cameras",
+      "Feature_2": "The clip mount is an easy to use, versatile mount suitable for many types of clothing"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02129-001",
+    "sku": "02129-001",
+    "name": "AXIS TW1103 Chest Harness Mount 5P",
+    "description": "AXIS TW1103 Chest Harness Mount 5P \n5 pack mount for the Klick Fast adaptor on the Axis body worn cameras.\nThe chest harness mount holds the camera independent of choice of clothing.",
+    "priceUSD": 201.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 13,
+    "stock": 171,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS TW1103 Chest Harness Mount 5P  5 pack mount for the Klick Fast adaptor on the Axis body worn cameras",
+      "Feature_2": "The chest harness mount holds the camera independent of choice of clothing"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02437-001",
+    "sku": "02437-001",
+    "name": "AXIS TW1104 MAGNET MOUNT 5P",
+    "description": "5 pack mount for the Klick Fast adaptor on the Axis body worn cameras.\nThe magnet mount is a rugged, versatile mount suitable for many types of clothing. This updated version perfectly follows the shape of the camera and has an improved stability to the camera.",
+    "priceUSD": 469.2,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "stock": 220,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "5 pack mount for the Klick Fast adaptor on the Axis body worn cameras",
+      "Feature_2": "The magnet mount is a rugged, versatile mount suitable for many types of clothing",
+      "Feature_3": "This updated version perfectly follows the shape of the camera and has an improved stability to the camera"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": true,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02689-001",
+    "sku": "02689-001",
+    "name": "AXIS TW1106 Magnet Mount 5P",
+    "description": "For flexible and light wearing of the AXIS W110 Body Worn Camera on any fabric. Comes in 5-pack.",
+    "priceUSD": 138,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 166,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "For flexible and light wearing of the AXIS W110 Body Worn Camera on any fabric",
+      "Feature_2": "Comes in 5-pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
+  },
+  {
+    "id": "prod-axis-02690-001",
+    "sku": "02690-001",
+    "name": "AXIS TW1107 Magnet Mount 5 pcs",
+    "description": "AXIS W110 Body Worn Camera mount for secure wearing compatible with all Klick Fast mounts. Comes in 5-pack.",
+    "priceUSD": 159.6,
+    "category": "Video Surveillance Accessories",
+    "subcategory": "Mounting Accessories",
+    "brand": "AXIS",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "stock": 149,
+    "images": [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    "specs": {
+      "Feature_1": "AXIS W110 Body Worn Camera mount for secure wearing compatible with all Klick Fast mounts",
+      "Feature_2": "Comes in 5-pack"
+    },
+    "features": [
+      "Official AXIS Professional Hardware & Accessories",
+      "Spinel Distribution Authorized Hardware Warranty",
+      "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
+    ],
+    "isPrime": true,
+    "isChoice": true,
+    "isBestSeller": false,
+    "featured": true,
+    "createdAt": "2026-09-12T16:18:06.729Z"
   }
 ];

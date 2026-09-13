@@ -4,9 +4,10 @@ import { useCurrency } from '../context/CurrencyContext';
 
 interface AmazonFooterProps {
   onNavigate: (view: string, param?: string) => void;
+  noMarginTop?: boolean;
 }
 
-export const AmazonFooter: React.FC<AmazonFooterProps> = ({ onNavigate }) => {
+export const AmazonFooter: React.FC<AmazonFooterProps> = ({ onNavigate, noMarginTop = false }) => {
   const { exchangeRate } = useCurrency();
 
   const scrollToTop = () => {
@@ -14,7 +15,7 @@ export const AmazonFooter: React.FC<AmazonFooterProps> = ({ onNavigate }) => {
   };
 
   return (
-    <footer className="mt-12 bg-[#232f3e] text-white font-sans">
+    <footer className={`${noMarginTop ? 'mt-0' : 'mt-12'} bg-[#232f3e] text-white font-sans`}>
       {/* Back to top banner */}
       <div 
         onClick={scrollToTop}

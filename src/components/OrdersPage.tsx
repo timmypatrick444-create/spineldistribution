@@ -18,11 +18,13 @@ import { downloadInvoicePDF } from '../utils/pdfGenerator';
 interface OrdersPageProps {
   onSelectProductById: (productId: string) => void;
   onContinueShopping: () => void;
+  onViewInvoice?: (order: Order) => void;
 }
 
 export const OrdersPage: React.FC<OrdersPageProps> = ({
   onSelectProductById,
-  onContinueShopping
+  onContinueShopping,
+  onViewInvoice
 }) => {
   const { user } = useAuth();
   const { formatPrice } = useCurrency();
@@ -173,15 +175,27 @@ export const OrdersPage: React.FC<OrdersPageProps> = ({
                     <span className="text-[10px] text-gray-400 font-mono">Ref: {order.paymentReference || 'N/A'}</span>
                   </div>
 
-                  {/* PDF Download Button */}
-                  <button
-                    type="button"
-                    onClick={() => downloadInvoicePDF(order)}
-                    className="bg-white hover:bg-gray-50 text-gray-800 font-bold py-1.5 px-3 rounded border border-gray-300 shadow-sm flex items-center gap-1.5 cursor-pointer text-xs transition-colors"
-                  >
-                    <Download size={13} className="text-[#c45500]" />
-                    <span>Download Invoice (PDF)</span>
-                  </button>
+                  {/* PDF Download and View Invoice Buttons */}
+                  <div className="flex items-center gap-2">
+                    {onViewInvoice && (
+                      <button
+                        type="button"
+                        onClick={() => onViewInvoice(order)}
+                        className="bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold py-1.5 px-3 rounded border border-amber-500 shadow-2xs flex items-center gap-1.5 cursor-pointer text-xs transition-colors"
+                      >
+                        <FileText size={13} />
+                        <span>View Invoice</span>
+                      </button>
+                    )}
+                    <button
+                      type="button"
+                      onClick={() => downloadInvoicePDF(order)}
+                      className="bg-white hover:bg-gray-50 text-gray-800 font-bold py-1.5 px-3 rounded border border-gray-300 shadow-sm flex items-center gap-1.5 cursor-pointer text-xs transition-colors"
+                    >
+                      <Download size={13} className="text-[#c45500]" />
+                      <span>Download PDF</span>
+                    </button>
+                  </div>
                 </div>
               </div>
 

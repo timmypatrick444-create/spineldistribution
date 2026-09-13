@@ -7,7 +7,9 @@ import {
   Download, 
   ArrowLeft,
   Building,
-  Truck
+  Truck,
+  FileText,
+  Clock
 } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import { useCurrency } from '../context/CurrencyContext';
@@ -51,9 +53,11 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
     setAddress(prev => ({ ...prev, [field]: val }));
   };
 
-  const processOrderSubmission = async (reference: string) => {
+  const processOrderSubmission = async (reference?: string, paymentStatus?: 'paid' | 'unpaid') => {
     try {
       setProcessing(true);
+      const isPaid = paymentStatus === 'paid' || Boolean(reference);
+
       const itemsPayload = cart.map(item => ({
         productId: item.product.id,
         name: item.product.name,
@@ -75,7 +79,9 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
           items: itemsPayload,
           currency,
           paymentMethod: 'paystack',
-          paymentReference: reference
+          paymentReference: reference || '',
+          paymentStatus: isPaid ? 'paid' : 'unpaid',
+          status: isPaid ? 'completed' : 'pending'
         })
       });
 
@@ -108,6 +114,7 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
 
     if (PaystackPop && typeof PaystackPop.setup === 'function') {
       try {
+        let paymentCompleted = false;
         const handler = PaystackPop.setup({
           key: paystackKey,
           email: address.email,
@@ -130,10 +137,14 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
           },
           callback: function (response: any) {
             console.log('[Paystack Success]', response);
-            processOrderSubmission(response.reference || `pstk_ref_${Date.now()}`);
+            paymentCompleted = true;
+            processOrderSubmission(response.reference || `pstk_ref_${Date.now()}`, 'paid');
           },
           onClose: function () {
-            console.log('[Paystack] Payment window closed by user.');
+            if (!paymentCompleted) {
+              console.log('[Paystack] Payment canceled / closed by user. Directly navigating to pending invoice page.');
+              processOrderSubmission('', 'unpaid');
+            }
           }
         });
 
@@ -146,12 +157,15 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
 
     // Direct fallback payment simulation when popup is restricted by sandbox
     const confirmFallback = window.confirm(
-      `Paystack Live Gateway Authorization:\n\nAmount: ₦${totalNGN.toLocaleString()} ($${totalUSD.toFixed(2)} USD)\nRecipient: SPINEL DISTRIBUTION\n\nProceed with confirmed transaction authorization?`
+      `Paystack Live Gateway Authorization:\n\nAmount: ₦${totalNGN.toLocaleString()} ($${totalUSD.toFixed(2)} USD)\nRecipient: SPINEL DISTRIBUTION\n\n• Click OK for SUCCESSFUL payment (Invoice Status: Completed)\n• Click Cancel to CANCEL payment (Directly navigates to Pending Invoice)`
     );
 
     if (confirmFallback) {
       const generatedRef = `PSTK_LIVE_REF_${Date.now()}_${Math.random().toString(36).substring(2, 8).toUpperCase()}`;
-      processOrderSubmission(generatedRef);
+      processOrderSubmission(generatedRef, 'paid');
+    } else {
+      // Paystack operation canceled: directly navigate to invoice page and display pending message
+      processOrderSubmission('', 'unpaid');
     }
   };
 
@@ -199,8 +213,16 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
             </div>
           </div>
 
-          {/* Download PDF Invoice Action */}
+          {/* Actions */}
           <div className="pt-2 flex flex-col sm:flex-row items-center justify-center gap-3">
+            <button
+              type="button"
+              onClick={() => onOrderCompleted(createdOrder)}
+              className="w-full sm:w-auto bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold py-3 px-6 rounded-full border border-amber-500 shadow-sm flex items-center justify-center gap-2 text-xs cursor-pointer"
+            >
+              <FileText size={16} />
+              <span>View Official Invoice Page</span>
+            </button>
             <button
               type="button"
               onClick={() => downloadInvoicePDF(createdOrder)}
@@ -430,6 +452,23 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
             <span>
               {processing ? 'Processing Order...' : `Pay ₦${totalNGN.toLocaleString()} with Paystack`}
             </span>
+          </button>
+
+          {/* Alternative: Order with Pending Invoice */}
+          <button
+            type="button"
+            onClick={() => {
+              if (!address.fullName || !address.email || !address.streetAddress || !address.phone) {
+                alert('Please fill out all required shipping and contact details first.');
+                return;
+              }
+              processOrderSubmission('', 'unpaid');
+            }}
+            disabled={processing}
+            className="w-full bg-white hover:bg-gray-50 text-gray-700 font-semibold py-2.5 px-4 rounded-full border border-gray-300 hover:border-gray-400 shadow-2xs cursor-pointer transition-colors text-xs flex items-center justify-center gap-1.5"
+          >
+            <Clock size={14} className="text-amber-600" />
+            <span>Checkout with Pending Invoice (Pay on Invoice)</span>
           </button>
 
           <p className="text-[10px] text-gray-500 text-center">

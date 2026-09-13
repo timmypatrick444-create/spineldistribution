@@ -73,7 +73,7 @@ export interface Order {
   totalNGN: number;
   exchangeRateUsed: number;
   currency: 'USD' | 'NGN';
-  status: 'pending' | 'processing' | 'shipped' | 'delivered' | 'cancelled';
+  status: 'pending' | 'processing' | 'shipped' | 'delivered' | 'completed' | 'cancelled';
   paymentMethod: 'paystack' | 'bank_transfer' | 'card';
   paymentReference?: string;
   paymentStatus: 'paid' | 'unpaid' | 'refunded';
@@ -105,4 +105,29 @@ export interface BulkUploadStats {
   errors: Array<{ row: number; reason: string }>;
   categoriesCount: Record<string, number>;
   timeTakenMs: number;
+}
+
+export interface SubmittedQuote {
+  quoteId: string;
+  date: string;
+  companyName: string;
+  contactName: string;
+  email: string;
+  phone: string;
+  location?: string;
+  currency?: string;
+  quantity: number;
+  projectTimeline: string;
+  notes?: string;
+  needsInstallation?: boolean;
+  needsPartnerDiscount?: boolean;
+  product?: {
+    id: string;
+    sku: string;
+    name: string;
+    brand: string;
+    category: string;
+    image: string;
+  };
+  status: 'Under Review' | 'Quoted' | 'Approved' | 'Declined' | string;
 }

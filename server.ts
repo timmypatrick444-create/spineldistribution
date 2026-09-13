@@ -42,6 +42,56 @@ let productCatalog: Product[] = SEED_PRODUCTS.map((p, index) => ({
   id: p.id || `prod-${p.sku || index}`
 }));
 let ordersStore: Order[] = [];
+let quotesStore: any[] = [
+  {
+    quoteId: 'RFQ-2026-8921',
+    date: new Date(Date.now() - 3600000 * 2).toLocaleString(),
+    companyName: 'Apex Data Networks Ltd',
+    contactName: 'Engr. Emeka Okonjo',
+    email: 'e.okonjo@apexdatanetworks.ng',
+    phone: '+234 803 555 0192',
+    location: 'Victoria Island, Lagos, Nigeria',
+    currency: 'USD',
+    quantity: 24,
+    projectTimeline: 'Within 2 Weeks',
+    notes: 'Urgent procurement for tier-3 bank data center expansion. Requires certified installation support and warranty documentation.',
+    needsInstallation: true,
+    needsPartnerDiscount: true,
+    product: {
+      id: 'prod-cv-01',
+      sku: 'CAM-4K-AI-01',
+      name: '4K Ultra-HD AI Starlight Motorized Varifocal Bullet IP Camera',
+      brand: 'Hikvision Pro',
+      category: 'Video Surveillance & Cameras',
+      image: 'https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=400&q=75'
+    },
+    status: 'Under Review'
+  },
+  {
+    quoteId: 'RFQ-2026-7412',
+    date: new Date(Date.now() - 3600000 * 18).toLocaleString(),
+    companyName: 'GreenGrid Solar Solutions',
+    contactName: 'Fatima Bello',
+    email: 'procurement@greengridsolar.com',
+    phone: '+234 812 443 8901',
+    location: 'Abuja FCT, Nigeria',
+    currency: 'USD',
+    quantity: 10,
+    projectTimeline: 'Immediate (This Week)',
+    notes: 'Government ministry backup power upgrade. High-voltage rack battery modules and 10kW 3-phase hybrid inverters.',
+    needsInstallation: false,
+    needsPartnerDiscount: true,
+    product: {
+      id: 'prod-re-01',
+      sku: 'SOLAR-HYB-10KW',
+      name: '10kW 3-Phase Commercial Smart Hybrid Inverter with LiFePO4 BMS',
+      brand: 'Deye Global',
+      category: 'Renewable Energy',
+      image: 'https://i.ibb.co/rYdWyVy/1e9363de-2e5d-4f8f-8ad0-c74b346660f2.png'
+    },
+    status: 'Quoted'
+  }
+];
 
 let usersStore: UserProfile[] = [
   {
@@ -245,6 +295,8 @@ app.get('/api/admin/stats', requireAdmin, (req, res) => {
     totalOrders,
     totalRevenueUSD,
     pendingOrders,
+    totalQuotes: quotesStore.length,
+    pendingQuotes: quotesStore.filter(q => q.status === 'Under Review' || q.status === 'Pending').length,
     recentOrders: ordersStore.slice(0, 10),
     supabaseStatus: Boolean(SUPABASE_URL && SUPABASE_ANON_KEY) ? 'Connected' : 'Offline / Local Database Active',
     exchangeRateUsed: USD_TO_NGN_EXCHANGE_RATE
@@ -325,12 +377,25 @@ app.post('/api/products', requireAdmin, (req, res) => {
 
 // Admin Product Update Single
 app.put('/api/products/:id', requireAdmin, (req, res) => {
-  const index = productCatalog.findIndex(p => p.id === req.params.id);
+  const targetId = req.params.id;
+  const index = productCatalog.findIndex(p => p.id === targetId || p.sku === targetId);
   if (index === -1) {
     return res.status(404).json({ error: 'Product not found' });
   }
-  productCatalog[index] = { ...productCatalog[index], ...req.body };
-  res.json(productCatalog[index]);
+  
+  const current = productCatalog[index];
+  const updated: Product = {
+    ...current,
+    ...req.body,
+    id: current.id, // keep original id
+    priceUSD: req.body.priceUSD !== undefined ? (typeof req.body.priceUSD === 'number' ? req.body.priceUSD : parseFloat(String(req.body.priceUSD)) || 0) : current.priceUSD,
+    stock: req.body.stock !== undefined ? (typeof req.body.stock === 'number' ? req.body.stock : parseInt(String(req.body.stock), 10) || 0) : current.stock,
+    images: Array.isArray(req.body.images) && req.body.images.length > 0 ? req.body.images : current.images,
+    features: Array.isArray(req.body.features) ? req.body.features : current.features
+  };
+
+  productCatalog[index] = updated;
+  res.json(updated);
 });
 
 // Admin Product Delete Single
@@ -381,6 +446,11 @@ app.post('/api/orders', (req, res) => {
 
   const orderNumber = `SPN-${new Date().getFullYear()}-${Math.floor(100000 + Math.random() * 900000)}`;
 
+  const isPaid = req.body.paymentStatus === 'paid' || Boolean(paymentReference);
+  const resolvedPaymentStatus: 'paid' | 'unpaid' = isPaid ? 'paid' : 'unpaid';
+  const resolvedStatus: 'pending' | 'processing' | 'shipped' | 'delivered' | 'completed' | 'cancelled' = 
+    req.body.status || (isPaid ? 'completed' : 'pending');
+
   const newOrder: Order = {
     id: `ord-${Date.now().toString(36)}-${Math.random().toString(36).substring(2, 6)}`,
     orderNumber,
@@ -396,10 +466,10 @@ app.post('/api/orders', (req, res) => {
     totalNGN,
     exchangeRateUsed: USD_TO_NGN_EXCHANGE_RATE,
     currency: currency || 'USD',
-    status: 'pending',
+    status: resolvedStatus,
     paymentMethod: paymentMethod || 'paystack',
-    paymentReference: paymentReference || `pstk_${Date.now()}`,
-    paymentStatus: paymentReference ? 'paid' : 'unpaid',
+    paymentReference: paymentReference || (isPaid ? `pstk_${Date.now()}` : ''),
+    paymentStatus: resolvedPaymentStatus,
     createdAt: new Date().toISOString(),
     estimatedDelivery: new Date(Date.now() + 86400000 * 3).toISOString()
   };
@@ -412,6 +482,19 @@ app.post('/api/orders', (req, res) => {
   }
 
   res.status(201).json(newOrder);
+});
+
+// Mark order as paid (e.g. after completing Paystack payment on Invoice page)
+app.post('/api/orders/:id/pay', (req, res) => {
+  const { paymentReference } = req.body;
+  const order = ordersStore.find(o => o.id === req.params.id || o.orderNumber === req.params.id);
+  if (!order) {
+    return res.status(404).json({ error: 'Order not found' });
+  }
+  order.paymentStatus = 'paid';
+  order.status = 'completed';
+  order.paymentReference = paymentReference || `pstk_${Date.now()}`;
+  res.json(order);
 });
 
 // Get orders (by user email or all if admin)
@@ -479,6 +562,56 @@ app.post('/api/paystack/verify', async (req, res) => {
       gateway_response: 'Successful'
     }
   });
+});
+
+// -------------------------------------------------------------
+// RFQ / QUOTES API
+// -------------------------------------------------------------
+// Get all quotes (for Admin Dashboard)
+app.get('/api/quotes', (req, res) => {
+  res.json({ quotes: quotesStore });
+});
+
+// Submit a new quote from RequestQuotePage
+app.post('/api/quotes', (req, res) => {
+  const quoteData = req.body;
+  if (!quoteData || !quoteData.contactName || !quoteData.email) {
+    return res.status(400).json({ error: 'Contact name and email are required for RFQ submission.' });
+  }
+
+  const randomNum = Math.floor(1000 + Math.random() * 9000);
+  const newQuote = {
+    ...quoteData,
+    quoteId: quoteData.quoteId || `RFQ-2026-${randomNum}`,
+    date: quoteData.date || new Date().toLocaleString(),
+    status: quoteData.status || 'Under Review',
+    createdAt: new Date().toISOString()
+  };
+
+  quotesStore.unshift(newQuote);
+  console.log(`[RFQ] New quote received from ${newQuote.contactName} (${newQuote.companyName || 'Individual'}) - ID: ${newQuote.quoteId}`);
+  res.status(201).json({ success: true, quote: newQuote });
+});
+
+// Update RFQ status (Admin only)
+app.patch('/api/quotes/:id/status', (req, res) => {
+  const { status } = req.body;
+  const quote = quotesStore.find(q => q.quoteId === req.params.id || q.id === req.params.id);
+  if (!quote) {
+    return res.status(404).json({ error: 'Quote request not found' });
+  }
+  quote.status = status;
+  res.json({ success: true, quote });
+});
+
+// Delete RFQ (Admin only)
+app.delete('/api/quotes/:id', (req, res) => {
+  const initialLen = quotesStore.length;
+  quotesStore = quotesStore.filter(q => q.quoteId !== req.params.id && q.id !== req.params.id);
+  if (quotesStore.length === initialLen) {
+    return res.status(404).json({ error: 'Quote not found' });
+  }
+  res.json({ success: true, remaining: quotesStore.length });
 });
 
 // -------------------------------------------------------------

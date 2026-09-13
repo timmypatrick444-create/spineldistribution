@@ -23,7 +23,7 @@ export const AmazonDrawer: React.FC<AmazonDrawerProps> = ({
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex">
+    <div className="fixed inset-0 z-[100] flex">
       {/* Dimmed Overlay */}
       <div 
         className="fixed inset-0 bg-black/65 transition-opacity"

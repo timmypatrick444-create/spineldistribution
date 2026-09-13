@@ -367,18 +367,15 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
           <div className="flex items-center justify-between gap-2 w-full">
             <div 
               onClick={() => onNavigate('home')}
-              className="flex items-center gap-2 p-0.5 rounded cursor-pointer shrink-0"
+              className="flex items-center p-0.5 rounded cursor-pointer shrink-0"
               title="SPINEL DISTRIBUITION - Homepage"
             >
               <img 
                 src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788619290/Spinel_Distribution.jpg"
                 alt="SPINEL DISTRIBUITION"
-                className="h-9 w-auto min-w-[38px] object-contain rounded bg-white p-1 shadow-md"
+                className="h-9 w-auto min-w-[36px] object-contain rounded bg-white p-1 shadow-md"
                 referrerPolicy="no-referrer"
               />
-              <span className="font-extrabold tracking-tight text-white text-xs sm:text-sm md:text-base uppercase font-sans whitespace-nowrap">
-                SPINEL DISTRIBUITION
-              </span>
             </div>
 
             {/* Action buttons on mobile/tablet */}

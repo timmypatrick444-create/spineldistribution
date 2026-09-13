@@ -31,7 +31,7 @@ const HERO_SLIDES = [
     subtitle: 'Ultra low-light Starlight sensors, vehicle classification & facial recognition',
     ctaText: 'Explore Cameras & NVRs',
     category: 'Video Surveillance & Cameras',
-    image: 'https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1600&q=85',
+    image: 'https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1200&q=75',
     accentColor: 'from-blue-900/90'
   },
   {
@@ -40,7 +40,7 @@ const HERO_SLIDES = [
     subtitle: '10kW 3-Phase Pure Sine Wave Inverters with 5.12kWh 6,000-Cycle Lithium Batteries',
     ctaText: 'Shop Renewable Energy',
     category: 'Renewable Energy',
-    image: 'https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=1600&q=85',
+    image: 'https://i.ibb.co/rYdWyVy/1e9363de-2e5d-4f8f-8ad0-c74b346660f2.png',
     accentColor: 'from-amber-900/90'
   },
   {
@@ -49,7 +49,7 @@ const HERO_SLIDES = [
     subtitle: 'Touchless multi-biometric terminals & 24-Port 400W Managed PoE+ switches',
     ctaText: 'View Network Security',
     category: 'Networking & Connectivity',
-    image: 'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1600&q=85',
+    image: 'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1200&q=75',
     accentColor: 'from-emerald-900/90'
   }
 ];
@@ -65,6 +65,14 @@ export const HomePage: React.FC<HomePageProps> = ({
   const { formatPrice, currency, exchangeRate } = useCurrency();
   const { addToCart } = useCart();
   const [currentSlide, setCurrentSlide] = useState(0);
+
+  // Eagerly preload all hero slide images into browser cache immediately
+  useEffect(() => {
+    HERO_SLIDES.forEach(s => {
+      const img = new Image();
+      img.src = s.image;
+    });
+  }, []);
 
   // Auto-advance hero slides every 6 seconds
   useEffect(() => {
@@ -82,17 +90,29 @@ export const HomePage: React.FC<HomePageProps> = ({
       {/* 1. AMAZON HERO BANNER WITH GRADIENT OVERLAY */}
       <div className="relative h-[320px] sm:h-[420px] md:h-[500px] w-full overflow-hidden bg-black select-none">
         
-        {/* Background Image */}
-        <div 
-          className="absolute inset-0 bg-cover bg-center transition-all duration-700 ease-in-out transform scale-105"
-          style={{ backgroundImage: `url(${slide.image})` }}
-        >
-          {/* Gradient Tint */}
-          <div className={`absolute inset-0 bg-gradient-to-r ${slide.accentColor} via-black/50 to-transparent`} />
-        </div>
+        {/* Pre-rendered Stacked Slide Images for Instant Switching */}
+        {HERO_SLIDES.map((s, idx) => (
+          <div
+            key={s.id}
+            className={`absolute inset-0 transition-opacity duration-700 ease-in-out ${
+              idx === currentSlide ? 'opacity-100 z-10' : 'opacity-0 pointer-events-none z-0'
+            }`}
+          >
+            <img
+              src={s.image}
+              alt={s.title}
+              loading={idx === 0 ? 'eager' : 'lazy'}
+              decoding="async"
+              referrerPolicy="no-referrer"
+              className="w-full h-full object-cover object-center transform scale-105"
+            />
+            {/* Gradient Tint */}
+            <div className={`absolute inset-0 bg-gradient-to-r ${s.accentColor} via-black/50 to-transparent`} />
+          </div>
+        ))}
 
         {/* Hero Slide Content */}
-        <div className="relative w-full h-full px-4 sm:px-6 lg:px-8 flex flex-col justify-center text-white z-10">
+        <div className="relative w-full h-full px-4 sm:px-6 lg:px-8 flex flex-col justify-center text-white z-20">
           <div className="max-w-xl space-y-4">
             <span className="inline-block bg-[#febd69] text-black text-xs font-bold uppercase tracking-wider px-2.5 py-1 rounded">
               Spinel Distribution Enterprise Exclusive
@@ -118,21 +138,21 @@ export const HomePage: React.FC<HomePageProps> = ({
         {/* Hero Slider Nav Arrows */}
         <button
           onClick={() => setCurrentSlide(prev => (prev - 1 + HERO_SLIDES.length) % HERO_SLIDES.length)}
-          className="absolute left-2 top-1/2 -translate-y-1/2 z-20 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-r transition-colors"
+          className="absolute left-2 top-1/2 -translate-y-1/2 z-30 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-r transition-colors"
           aria-label="Previous Slide"
         >
           <ChevronLeft size={32} />
         </button>
         <button
           onClick={() => setCurrentSlide(prev => (prev + 1) % HERO_SLIDES.length)}
-          className="absolute right-2 top-1/2 -translate-y-1/2 z-20 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-l transition-colors"
+          className="absolute right-2 top-1/2 -translate-y-1/2 z-30 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-l transition-colors"
           aria-label="Next Slide"
         >
           <ChevronRight size={32} />
         </button>
 
         {/* Amazon Bottom Gradient Fade into Gray Background */}
-        <div className="absolute bottom-0 inset-x-0 h-32 bg-gradient-to-t from-[#eaeded] via-[#eaeded]/70 to-transparent pointer-events-none" />
+        <div className="absolute bottom-0 inset-x-0 h-32 bg-gradient-to-t from-[#eaeded] via-[#eaeded]/70 to-transparent pointer-events-none z-20" />
       </div>
 
       {/* 2. OVERLAPPING AMAZON 4-ITEM / FEATURED BENTO CARDS */}

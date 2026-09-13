@@ -128,6 +128,13 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
         const updated = [newQuote, ...recentQuotes];
         setRecentQuotes(updated);
         localStorage.setItem('spinel_submitted_quotes', JSON.stringify(updated));
+        
+        // Asynchronously post to backend server so Admin Dashboard receives full details
+        fetch('/api/quotes', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(newQuote)
+        }).catch(err => console.warn('Could not sync quote to backend server:', err));
       } catch {
         // ignore
       }

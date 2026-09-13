@@ -13,6 +13,7 @@ import { CheckoutPage } from './components/CheckoutPage';
 import { OrdersPage } from './components/OrdersPage';
 import { AuthPage } from './components/AuthPage';
 import { RequestQuotePage } from './components/RequestQuotePage';
+import { InvoicePage } from './components/InvoicePage';
 import { AdminLogin } from './pages/AdminLogin';
 import { AdminDashboard } from './pages/AdminDashboard';
 import { Product, Order } from './types';
@@ -28,6 +29,14 @@ function MainApp() {
   const [selectedSubcategory, setSelectedSubcategory] = useState<string | undefined>(undefined);
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [isDrawerOpen, setIsDrawerOpen] = useState<boolean>(false);
+  const [currentInvoiceOrder, setCurrentInvoiceOrder] = useState<Order | null>(() => {
+    try {
+      const saved = sessionStorage.getItem('spinel_current_invoice_order');
+      return saved ? JSON.parse(saved) : null;
+    } catch {
+      return null;
+    }
+  });
 
   // Global Products State
   const [products, setProducts] = useState<Product[]>([]);
@@ -71,6 +80,8 @@ function MainApp() {
         setCurrentView('cart');
       } else if (path === '/checkout') {
         setCurrentView('checkout');
+      } else if (path === '/invoice') {
+        setCurrentView('invoice');
       } else if (path === '/catalog') {
         setCurrentView('catalog');
       } else if (path === '/quote') {
@@ -98,6 +109,7 @@ function MainApp() {
     else if (view === 'admin-dashboard') targetPath = '/admin/dashboard';
     else if (view === 'cart') targetPath = '/cart';
     else if (view === 'checkout') targetPath = '/checkout';
+    else if (view === 'invoice') targetPath = '/invoice';
     else if (view === 'orders') targetPath = '/orders';
     else if (view === 'catalog') targetPath = '/catalog';
     else if (view === 'auth') targetPath = '/auth';
@@ -106,6 +118,14 @@ function MainApp() {
     if (window.location.pathname !== targetPath) {
       window.history.pushState({}, '', targetPath);
     }
+  };
+
+  const handleViewInvoice = (order: Order) => {
+    setCurrentInvoiceOrder(order);
+    try {
+      sessionStorage.setItem('spinel_current_invoice_order', JSON.stringify(order));
+    } catch {}
+    navigateTo('invoice');
   };
 
   // Category selection handler
@@ -155,37 +175,10 @@ function MainApp() {
     navigateTo('checkout');
   };
 
-  // If viewing Admin Login
-  if (currentView === 'admin-login') {
-    return (
-      <AdminLogin
-        onSuccess={() => navigateTo('admin-dashboard')}
-        onNavigateHome={() => navigateTo('home')}
-      />
-    );
-  }
-
-  // If viewing Admin Dashboard
-  if (currentView === 'admin-dashboard') {
-    // If not authenticated as admin, prompt login
-    if (!isAdmin) {
-      return (
-        <AdminLogin
-          onSuccess={() => navigateTo('admin-dashboard')}
-          onNavigateHome={() => navigateTo('home')}
-        />
-      );
-    }
-    return (
-      <AdminDashboard
-        onNavigateHome={() => navigateTo('home')}
-        onRefreshCatalog={loadProducts}
-      />
-    );
-  }
+  const isAdminView = currentView === 'admin-dashboard';
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#eaeded] text-[#0F1111] font-sans antialiased w-full max-w-full overflow-x-hidden">
+    <div className={`min-h-screen flex flex-col ${isAdminView ? 'bg-[#0f172a]' : 'bg-[#eaeded]'} text-[#0F1111] font-sans antialiased w-full max-w-full overflow-x-hidden`}>
       {/* 1. Amazon Main Header */}
       <AmazonHeader
         onOpenDrawer={() => setIsDrawerOpen(true)}
@@ -205,7 +198,7 @@ function MainApp() {
       />
 
       {/* 3. Main Body Views */}
-      <main className="flex-1">
+      <main className={`flex-1 ${isAdminView ? 'bg-[#0f172a]' : ''}`}>
         {catalogLoading && products.length === 0 ? (
           <div className="min-h-[400px] flex items-center justify-center text-sm text-gray-600 font-medium">
             Loading Spinel Distribution Enterprise Hardware Catalog...
@@ -267,15 +260,56 @@ function MainApp() {
               <CheckoutPage
                 onBackToCart={() => navigateTo('cart')}
                 onOrderCompleted={(order) => {
-                  console.log('Order registered successfully', order);
+                  handleViewInvoice(order);
                 }}
               />
+            )}
+
+            {currentView === 'invoice' && (
+              currentInvoiceOrder ? (
+                <InvoicePage
+                  order={currentInvoiceOrder}
+                  onNavigate={navigateTo}
+                  onOrderUpdated={(updated) => {
+                    setCurrentInvoiceOrder(updated);
+                    try {
+                      sessionStorage.setItem('spinel_current_invoice_order', JSON.stringify(updated));
+                    } catch {}
+                  }}
+                />
+              ) : (
+                <div className="max-w-2xl mx-auto px-4 py-16 text-center font-sans">
+                  <div className="bg-white p-8 rounded-xl border border-gray-200 shadow-sm space-y-4">
+                    <h2 className="text-xl font-bold text-gray-900">No active invoice found</h2>
+                    <p className="text-xs text-gray-500">
+                      You do not have an active invoice loaded in this session. You can view past orders or explore our catalog.
+                    </p>
+                    <div className="flex justify-center gap-3 pt-2">
+                      <button
+                        type="button"
+                        onClick={() => navigateTo('orders')}
+                        className="px-4 py-2 bg-gray-100 hover:bg-gray-200 text-gray-800 font-semibold rounded-lg text-xs cursor-pointer"
+                      >
+                        View Order History
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() => navigateTo('catalog')}
+                        className="px-4 py-2 bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold rounded-lg text-xs cursor-pointer"
+                      >
+                        Explore Catalog
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              )
             )}
 
             {currentView === 'orders' && (
               <OrdersPage
                 onSelectProductById={handleSelectProductById}
                 onContinueShopping={() => navigateTo('catalog')}
+                onViewInvoice={handleViewInvoice}
               />
             )}
 
@@ -285,12 +319,36 @@ function MainApp() {
                 onNavigateHome={() => navigateTo('home')}
               />
             )}
+
+            {currentView === 'admin-login' && (
+              <AdminLogin
+                onSuccess={() => navigateTo('admin-dashboard')}
+                onNavigateHome={() => navigateTo('home')}
+              />
+            )}
+
+            {currentView === 'admin-dashboard' && (
+              !isAdmin ? (
+                <AdminLogin
+                  onSuccess={() => navigateTo('admin-dashboard')}
+                  onNavigateHome={() => navigateTo('home')}
+                />
+              ) : (
+                <AdminDashboard
+                  onNavigateHome={() => navigateTo('home')}
+                  onRefreshCatalog={loadProducts}
+                />
+              )
+            )}
           </>
         )}
       </main>
 
       {/* 4. Amazon Footer */}
-      <AmazonFooter onNavigate={navigateTo} />
+      <AmazonFooter 
+        onNavigate={navigateTo} 
+        noMarginTop={isAdminView}
+      />
     </div>
   );
 }

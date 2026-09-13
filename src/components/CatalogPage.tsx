@@ -432,6 +432,8 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
                         <img
                           src={prod.images[0]}
                           alt={prod.name}
+                          loading="lazy"
+                          decoding="async"
                           className="max-h-full max-w-full object-contain hover:scale-105 transition-transform"
                           referrerPolicy="no-referrer"
                         />

@@ -102,6 +102,18 @@ export const AmazonDrawer: React.FC<AmazonDrawerProps> = ({
                 Shop By Category
               </div>
 
+              <button
+                type="button"
+                onClick={() => {
+                  onSelectCategory('All');
+                  onClose();
+                }}
+                className="w-full text-left px-6 py-3 text-[#b12704] font-bold hover:bg-amber-50 flex items-center justify-between transition-colors border-b border-gray-100"
+              >
+                <span>All Products</span>
+                <ChevronRight size={16} className="text-gray-400" />
+              </button>
+
               {CATEGORIES.map(cat => (
                 <button
                   key={cat.id}

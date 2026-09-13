@@ -1,19 +1,20 @@
 import React, { useState } from 'react';
 import { useAuth } from '../context/AuthContext';
-import { ShieldCheck, ArrowLeft } from 'lucide-react';
+import { Lock } from 'lucide-react';
 
 interface AuthPageProps {
   onSuccess: () => void;
-  onNavigateHome: () => void;
+  onNavigateHome?: () => void;
 }
 
-export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess, onNavigateHome }) => {
+export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess }) => {
   const { customerLogin } = useAuth();
   const [isSignUp, setIsSignUp] = useState(false);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [fullName, setFullName] = useState('');
   const [company, setCompany] = useState('');
+  const [phoneNumber, setPhoneNumber] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
 
@@ -27,7 +28,12 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess, onNavigateHome })
     }
 
     if (isSignUp && !fullName) {
-      setError('Please provide your full name.');
+      setError('Please provide your full legal or corporate contact name.');
+      return;
+    }
+
+    if (isSignUp && !phoneNumber) {
+      setError('Please provide your corporate or mobile phone number.');
       return;
     }
 
@@ -43,77 +49,100 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess, onNavigateHome })
   };
 
   return (
-    <div className="min-h-screen bg-white flex flex-col items-center pt-8 pb-16 px-4 font-sans">
-      
-      {/* Brand Logo */}
-      <div 
-        onClick={onNavigateHome}
-        className="cursor-pointer mb-6 text-center select-none"
-      >
-        <span className="font-black text-2xl tracking-tight text-[#131921]">
-          SPINEL<span className="text-[#febd69]">.DISTRIBUTION</span>
-        </span>
+    <div className="py-12 px-4 flex flex-col items-center justify-center font-sans">
+      {/* Official Spinel Distribution Logo */}
+      <div className="mb-8 flex flex-col items-center text-center select-none">
+        <img 
+          src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788619290/Spinel_Distribution.jpg"
+          alt="SPINEL DISTRIBUITION"
+          className="h-16 w-auto object-contain rounded-lg bg-white p-2 shadow-md border border-gray-200"
+          referrerPolicy="no-referrer"
+        />
+        <h2 className="mt-3 font-extrabold text-xl sm:text-2xl text-[#131921] tracking-tight uppercase">
+          SPINEL DISTRIBUITION
+        </h2>
+        <p className="text-xs sm:text-sm text-gray-500 font-medium">
+          Enterprise Security, Networking &amp; Renewable Energy Portal
+        </p>
       </div>
 
-      {/* Main Form Card */}
-      <div className="w-full max-w-[360px] border border-gray-300 rounded-lg p-7 shadow-sm bg-white">
-        <h1 className="text-2xl font-normal text-gray-900 mb-4">
-          {isSignUp ? 'Create Account' : 'Sign In'}
-        </h1>
+      {/* Main Authentication Card */}
+      <div className="w-full max-w-md border border-gray-300 rounded-xl p-8 shadow-sm bg-white">
+        <div className="flex items-center justify-between mb-6">
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900">
+            {isSignUp ? 'Create Enterprise Account' : 'Sign In'}
+          </h1>
+          <span className="p-2 rounded-full bg-amber-50 text-amber-600">
+            <Lock size={20} />
+          </span>
+        </div>
 
         {error && (
-          <div className="bg-red-50 border border-red-300 text-red-800 p-2.5 rounded text-xs mb-4">
+          <div className="bg-red-50 border border-red-300 text-red-800 p-3 rounded-lg text-sm mb-5">
             {error}
           </div>
         )}
 
-        <form onSubmit={handleSubmit} className="space-y-3 text-xs">
+        <form onSubmit={handleSubmit} className="space-y-4 text-sm">
           {isSignUp && (
             <>
               <div>
-                <label className="block font-bold text-gray-800 mb-1">Your name</label>
+                <label className="block font-bold text-gray-800 mb-1.5 text-sm">Full Name</label>
                 <input
                   type="text"
-                  placeholder="First and last name"
+                  placeholder="e.g. Engr. David Adeleke"
                   value={fullName}
                   onChange={(e) => setFullName(e.target.value)}
-                  className="w-full border border-gray-400 focus:border-[#e77600] rounded p-2 outline-none focus:ring-1 focus:ring-[#e77600]"
+                  className="w-full border border-gray-300 focus:border-[#e77600] rounded-lg p-3 text-sm outline-none focus:ring-2 focus:ring-[#e77600]/30 transition-all"
                   required
                 />
               </div>
 
               <div>
-                <label className="block font-bold text-gray-800 mb-1">Company / Organization</label>
+                <label className="block font-bold text-gray-800 mb-1.5 text-sm">Company / Organization</label>
                 <input
                   type="text"
-                  placeholder="Engineering / Security firm (optional)"
+                  placeholder="e.g. Apex Integrated Systems Ltd."
                   value={company}
                   onChange={(e) => setCompany(e.target.value)}
-                  className="w-full border border-gray-400 focus:border-[#e77600] rounded p-2 outline-none focus:ring-1 focus:ring-[#e77600]"
+                  className="w-full border border-gray-300 focus:border-[#e77600] rounded-lg p-3 text-sm outline-none focus:ring-2 focus:ring-[#e77600]/30 transition-all"
+                />
+              </div>
+
+              <div>
+                <label className="block font-bold text-gray-800 mb-1.5 text-sm">Phone Number</label>
+                <input
+                  type="tel"
+                  placeholder="e.g. +234 803 123 4567 or +1 (555) 019-2834"
+                  value={phoneNumber}
+                  onChange={(e) => setPhoneNumber(e.target.value)}
+                  className="w-full border border-gray-300 focus:border-[#e77600] rounded-lg p-3 text-sm outline-none focus:ring-2 focus:ring-[#e77600]/30 transition-all"
+                  required
                 />
               </div>
             </>
           )}
 
           <div>
-            <label className="block font-bold text-gray-800 mb-1">Email or enterprise ID</label>
+            <label className="block font-bold text-gray-800 mb-1.5 text-sm">Email Address</label>
             <input
               type="email"
+              placeholder="corporate@company.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              className="w-full border border-gray-400 focus:border-[#e77600] rounded p-2 outline-none focus:ring-1 focus:ring-[#e77600]"
+              className="w-full border border-gray-300 focus:border-[#e77600] rounded-lg p-3 text-sm outline-none focus:ring-2 focus:ring-[#e77600]/30 transition-all"
               required
             />
           </div>
 
           <div>
-            <label className="block font-bold text-gray-800 mb-1">Password</label>
+            <label className="block font-bold text-gray-800 mb-1.5 text-sm">Password</label>
             <input
               type="password"
-              placeholder={isSignUp ? 'At least 6 characters' : ''}
+              placeholder={isSignUp ? 'At least 6 secure characters' : 'Enter your password'}
               value={password}
               onChange={(e) => setPassword(e.target.value)}
-              className="w-full border border-gray-400 focus:border-[#e77600] rounded p-2 outline-none focus:ring-1 focus:ring-[#e77600]"
+              className="w-full border border-gray-300 focus:border-[#e77600] rounded-lg p-3 text-sm outline-none focus:ring-2 focus:ring-[#e77600]/30 transition-all"
               required
             />
           </div>
@@ -121,46 +150,35 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess, onNavigateHome })
           <button
             type="submit"
             disabled={loading}
-            className="w-full bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-semibold py-2 px-4 rounded border border-[#fcd200] shadow-sm cursor-pointer transition-colors text-xs mt-2"
+            className="w-full mt-3 bg-[#ffd814] hover:bg-[#f7ca00] active:bg-[#f0b800] text-gray-900 font-bold py-3 px-4 rounded-lg border border-[#fcd200] shadow-sm cursor-pointer transition-all text-sm sm:text-base"
           >
-            {loading ? 'Authenticating...' : isSignUp ? 'Create your Spinel account' : 'Sign in'}
+            {loading ? 'Authenticating...' : isSignUp ? 'Create your Spinel account' : 'Sign in to Spinel Distribution'}
           </button>
         </form>
 
-        <p className="text-[11px] text-gray-600 mt-4 leading-relaxed">
+        <p className="text-xs text-gray-600 mt-5 leading-relaxed text-center">
           By continuing, you agree to Spinel Distribution's{' '}
-          <span className="text-blue-700 hover:underline cursor-pointer">Conditions of Use</span> and{' '}
-          <span className="text-blue-700 hover:underline cursor-pointer">Privacy Notice</span>.
+          <span className="text-[#0066c0] hover:underline cursor-pointer font-medium">Conditions of Use</span> and{' '}
+          <span className="text-[#0066c0] hover:underline cursor-pointer font-medium">Privacy Notice</span>.
         </p>
 
         <div className="relative my-6 text-center">
           <div className="absolute inset-0 flex items-center">
             <div className="w-full border-t border-gray-300" />
           </div>
-          <span className="relative bg-white px-2 text-xs text-gray-500">
-            {isSignUp ? 'Already have an account?' : 'New to Spinel Distribution?'}
+          <span className="relative bg-white px-3 text-xs text-gray-500 font-semibold uppercase tracking-wider">
+            {isSignUp ? 'Already registered?' : 'New enterprise customer?'}
           </span>
         </div>
 
         <button
           type="button"
           onClick={() => { setIsSignUp(!isSignUp); setError(''); }}
-          className="w-full bg-gray-100 hover:bg-gray-200 text-gray-800 font-medium py-1.5 px-4 rounded border border-gray-300 shadow-sm cursor-pointer transition-colors text-xs"
+          className="w-full bg-gray-100 hover:bg-gray-200 text-gray-800 font-semibold py-2.5 px-4 rounded-lg border border-gray-300 shadow-sm cursor-pointer transition-colors text-sm"
         >
           {isSignUp ? 'Sign in to existing account' : 'Create your Spinel account'}
         </button>
-
       </div>
-
-      <div className="mt-8 text-xs text-gray-500 flex items-center gap-4">
-        <span 
-          onClick={onNavigateHome}
-          className="text-blue-700 hover:underline cursor-pointer flex items-center gap-1"
-        >
-          <ArrowLeft size={12} /> Back to Storefront
-        </span>
-      </div>
-
     </div>
   );
 };

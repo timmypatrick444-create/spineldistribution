@@ -223,7 +223,7 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
   }
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8 font-sans">
+    <div className="w-full px-4 sm:px-6 lg:px-8 py-8 font-sans">
       <button
         onClick={onBackToCart}
         className="flex items-center gap-1.5 text-xs text-blue-700 hover:underline mb-6 font-medium"
@@ -400,7 +400,7 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
               <span>Shipping &amp; Handling:</span>
               <span className="font-semibold">
                 {shippingFeeUSD === 0 ? (
-                  <span className="text-green-700">FREE (Spinel Prime)</span>
+                  <span className="text-green-700 font-semibold">FREE (Enterprise Dispatch)</span>
                 ) : (
                   formatPrice(shippingFeeUSD)
                 )}

@@ -239,12 +239,10 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({
           name: `${cat.name.split('&')[0].trim()} Hardware Unit #${i} [${sub}]`,
           category: cat.name,
           subcategory: sub,
-          brand: i % 3 === 0 ? 'SpinelVision' : i % 3 === 1 ? 'SpinelSolar' : 'SpinelGuard',
-          priceUSD: price,
+          priceUSD: i % 2 === 0 ? price : 0, // Alternate between priced and quote-required items
           stock: 25 + (i % 80),
           rating: 4.5 + (i % 5) * 0.1,
           reviewCount: 12 + (i % 150),
-          isPrime: true,
           description: `Enterprise-grade ${sub} industrial equipment manufactured for high-reliability operations. Rigorously tested for 24/7 mission-critical workloads.`,
           images: [cat.image],
           features: [
@@ -760,7 +758,7 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({
                     rows={6}
                     value={pastedCSV}
                     onChange={(e) => setPastedCSV(e.target.value)}
-                    placeholder="sku,name,category,subcategory,brand,priceUSD,stock,description&#10;SPN-CAM-001,4K AI Camera,Video Surveillance & Cameras,Bullet Cameras,SpinelVision,249.99,50,Industrial camera..."
+                    placeholder="sku,name,category,subcategory,priceUSD,stock,description&#10;SPN-CAM-001,Axis 4K AI Dome Camera,Video Surveillance & Cameras,Dome Cameras,249.99,50,Industrial camera...&#10;SPN-NVR-002,Hikvision 64-Ch Enterprise NVR,Video Management & Recording,NVRs,,25,Leave price blank for Quote Request..."
                     className="w-full bg-[#0f172a] border border-slate-700 rounded-lg p-3 text-xs font-mono text-slate-200 placeholder-slate-600 focus:outline-none focus:border-amber-500"
                   />
                 </div>

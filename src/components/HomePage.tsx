@@ -92,7 +92,7 @@ export const HomePage: React.FC<HomePageProps> = ({
         </div>
 
         {/* Hero Slide Content */}
-        <div className="relative max-w-7xl mx-auto h-full px-6 sm:px-12 flex flex-col justify-center text-white z-10">
+        <div className="relative w-full h-full px-4 sm:px-6 lg:px-8 flex flex-col justify-center text-white z-10">
           <div className="max-w-xl space-y-4">
             <span className="inline-block bg-[#febd69] text-black text-xs font-bold uppercase tracking-wider px-2.5 py-1 rounded">
               Spinel Distribution Enterprise Exclusive
@@ -136,7 +136,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       </div>
 
       {/* 2. OVERLAPPING AMAZON 4-ITEM / FEATURED BENTO CARDS */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 relative -mt-24 sm:-mt-36 z-20">
+      <div className="w-full px-4 sm:px-6 lg:px-8 relative -mt-24 sm:-mt-36 z-20">
         
         {/* Amazon 4-Column Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
@@ -427,7 +427,7 @@ export const HomePage: React.FC<HomePageProps> = ({
       </div>
 
       {/* 3. HORIZONTAL PRODUCT CAROUSEL ROW (Amazon "Best Sellers & Featured Hardware") */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 mt-8">
+      <div className="w-full px-4 sm:px-6 lg:px-8 mt-8">
         {safeProducts.length > 0 ? (
           <div className="bg-white p-5 rounded shadow-sm border border-gray-200">
             <div className="flex items-center justify-between mb-4">
@@ -509,12 +509,6 @@ export const HomePage: React.FC<HomePageProps> = ({
                               </span>
                             )}
                           </div>
-                          {prod.isPrime && (
-                            <div className="text-xs text-gray-600 flex items-center gap-1 mt-0.5">
-                              <span className="text-[#007185] font-extrabold text-xs italic">✓prime</span>
-                              <span>FREE Delivery by Spinel</span>
-                            </div>
-                          )}
                         </>
                       ) : (
                         <div className="mt-1">

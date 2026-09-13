@@ -24,7 +24,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53,7 +52,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -83,7 +81,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -121,7 +118,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -159,7 +155,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -189,7 +184,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -220,7 +214,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -249,7 +242,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -279,7 +271,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -309,7 +300,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -339,7 +329,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -370,7 +359,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -401,7 +389,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -430,7 +417,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -460,7 +446,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -490,7 +475,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -520,7 +504,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -550,7 +533,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -580,7 +562,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -610,7 +591,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -639,7 +619,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -668,7 +647,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -698,7 +676,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -728,7 +705,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -758,7 +734,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -788,7 +763,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -819,7 +793,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -849,7 +822,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -879,7 +851,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -909,7 +880,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -939,7 +909,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -968,7 +937,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -997,7 +965,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1027,7 +994,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1058,7 +1024,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1088,7 +1053,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1118,7 +1082,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1148,7 +1111,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1186,7 +1148,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1224,7 +1185,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Engineered for 24/7 Mission-Critical Security Deployments",
       "Spinel Distribution Authorized Partner Guarantee"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1263,7 +1223,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1292,7 +1251,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1321,7 +1279,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1350,7 +1307,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1380,7 +1336,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1410,7 +1365,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1440,7 +1394,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1470,7 +1423,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1508,7 +1460,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1538,7 +1489,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1568,7 +1518,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1597,7 +1546,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1627,7 +1575,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1658,7 +1605,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1688,7 +1634,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1718,7 +1663,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1748,7 +1692,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1778,7 +1721,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1807,7 +1749,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1836,7 +1777,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1866,7 +1806,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1897,7 +1836,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1927,7 +1865,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -1957,7 +1894,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -1987,7 +1923,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2017,7 +1952,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2047,7 +1981,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2077,7 +2010,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2107,7 +2039,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2137,7 +2068,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2167,7 +2097,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2197,7 +2126,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2227,7 +2155,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2257,7 +2184,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2287,7 +2213,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2317,7 +2242,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2347,7 +2271,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2377,7 +2300,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2407,7 +2329,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2437,7 +2358,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Systems"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2467,7 +2387,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2497,7 +2416,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2533,7 +2451,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2562,7 +2479,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2592,7 +2508,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2621,7 +2536,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2650,7 +2564,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2679,7 +2592,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2710,7 +2622,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2741,7 +2652,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2770,7 +2680,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2799,7 +2708,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2828,7 +2736,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2857,7 +2764,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -2890,7 +2796,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2923,7 +2828,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2956,7 +2860,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -2989,7 +2892,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3022,7 +2924,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3055,7 +2956,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3088,7 +2988,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3121,7 +3020,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3154,7 +3052,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3187,7 +3084,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3220,7 +3116,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3253,7 +3148,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3282,7 +3176,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3311,7 +3204,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3340,7 +3232,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3376,7 +3267,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3405,7 +3295,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3441,7 +3330,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3470,7 +3358,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3506,7 +3393,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3535,7 +3421,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3571,7 +3456,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3600,7 +3484,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3636,7 +3519,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3666,7 +3548,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3702,7 +3583,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -3734,7 +3614,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3766,7 +3645,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3795,7 +3673,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3825,7 +3702,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3855,7 +3731,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3885,7 +3760,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3915,7 +3789,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3944,7 +3817,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -3973,7 +3845,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4002,7 +3873,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4031,7 +3901,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4060,7 +3929,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4089,7 +3957,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4119,7 +3986,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4149,7 +4015,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4178,7 +4043,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4207,7 +4071,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4236,7 +4099,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4265,7 +4127,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4294,7 +4155,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4323,7 +4183,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4352,7 +4211,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4381,7 +4239,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4410,7 +4267,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4439,7 +4295,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4468,7 +4323,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4497,7 +4351,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4526,7 +4379,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4555,7 +4407,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4584,7 +4435,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4616,7 +4466,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4646,7 +4495,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4676,7 +4524,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4706,7 +4553,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4736,7 +4582,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4766,7 +4611,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4796,7 +4640,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4826,7 +4669,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4856,7 +4698,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4886,7 +4727,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -4915,7 +4755,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4951,7 +4790,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -4981,7 +4819,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5011,7 +4848,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5041,7 +4877,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5071,7 +4906,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5101,7 +4935,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5131,7 +4964,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5161,7 +4993,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5191,7 +5022,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5221,7 +5051,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5251,7 +5080,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5281,7 +5109,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5311,7 +5138,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5341,7 +5167,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5371,7 +5196,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5401,7 +5225,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5431,7 +5254,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5461,7 +5283,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5491,7 +5312,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5522,7 +5342,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5551,7 +5370,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5581,7 +5399,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5611,7 +5428,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5641,7 +5457,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5671,7 +5486,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5701,7 +5515,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5731,7 +5544,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5761,7 +5573,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5791,7 +5602,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5821,7 +5631,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5851,7 +5660,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5881,7 +5689,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5913,7 +5720,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -5943,7 +5749,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -5973,7 +5778,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6002,7 +5806,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6031,7 +5834,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6060,7 +5862,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6089,7 +5890,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Law Enforcement Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6118,7 +5918,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6148,7 +5947,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6177,7 +5975,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6207,7 +6004,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6244,7 +6040,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6281,7 +6076,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6318,7 +6112,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6355,7 +6148,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6392,7 +6184,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6429,7 +6220,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6458,7 +6248,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6487,7 +6276,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6516,7 +6304,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6546,7 +6333,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6576,7 +6362,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6606,7 +6391,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6636,7 +6420,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6667,7 +6450,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6697,7 +6479,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6727,7 +6508,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Security & Field Enforcement"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6757,7 +6537,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6787,7 +6566,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6816,7 +6594,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6845,7 +6622,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6875,7 +6651,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6906,7 +6681,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -6936,7 +6710,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6966,7 +6739,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -6996,7 +6768,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7034,7 +6805,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7072,7 +6842,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7111,7 +6880,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7140,7 +6908,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7169,7 +6936,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7198,7 +6964,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7228,7 +6993,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7258,7 +7022,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7288,7 +7051,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7318,7 +7080,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7356,7 +7117,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Public Safety, Healthcare & Field Security Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7386,7 +7146,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7416,7 +7175,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7446,7 +7204,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7475,7 +7232,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7505,7 +7261,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7536,7 +7291,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7566,7 +7320,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7596,7 +7349,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7626,7 +7378,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7656,7 +7407,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7686,7 +7436,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7717,7 +7466,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7747,7 +7495,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7777,7 +7524,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7807,7 +7553,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7837,7 +7582,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7867,7 +7611,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -7897,7 +7640,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7927,7 +7669,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7957,7 +7698,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Body-Worn Camera Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -7987,7 +7727,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8017,7 +7756,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8047,7 +7785,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8077,7 +7814,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8107,7 +7843,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8137,7 +7872,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8167,7 +7901,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8197,7 +7930,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8227,7 +7959,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8257,7 +7988,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8287,7 +8017,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8316,7 +8045,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8345,7 +8073,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8377,7 +8104,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8407,7 +8133,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8437,7 +8162,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8467,7 +8191,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8497,7 +8220,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8527,7 +8249,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8557,7 +8278,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Public Safety Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -8593,7 +8313,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8630,7 +8349,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8667,7 +8385,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8704,7 +8421,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8741,7 +8457,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8776,7 +8491,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8811,7 +8525,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8846,7 +8559,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8879,7 +8591,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8912,7 +8623,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8947,7 +8657,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -8982,7 +8691,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9015,7 +8723,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9048,7 +8755,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9078,7 +8784,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9108,7 +8813,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9137,7 +8841,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9169,7 +8872,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9201,7 +8903,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9230,7 +8931,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9262,7 +8962,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9294,7 +8993,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9323,7 +9021,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9352,7 +9049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9381,7 +9077,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9410,7 +9105,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9439,7 +9133,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9468,7 +9161,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9502,7 +9194,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9531,7 +9222,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9560,7 +9250,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9593,7 +9282,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9623,7 +9311,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9657,7 +9344,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9693,7 +9379,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9725,7 +9410,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9754,7 +9438,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9783,7 +9466,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -9820,7 +9502,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9849,7 +9530,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Severe-Duty & Mission-Critical Perimeter Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9878,7 +9558,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9907,7 +9586,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9936,7 +9614,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9965,7 +9642,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -9994,7 +9670,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10023,7 +9698,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10052,7 +9726,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10082,7 +9755,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10112,7 +9784,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10144,7 +9815,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10175,7 +9845,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10206,7 +9875,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10237,7 +9905,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10268,7 +9935,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10301,7 +9967,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10332,7 +9997,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10363,7 +10027,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10394,7 +10057,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10425,7 +10087,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10455,7 +10116,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Surveillance & Panoramic Monitoring"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10488,7 +10148,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10521,7 +10180,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10554,7 +10212,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10587,7 +10244,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10620,7 +10276,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10653,7 +10308,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10686,7 +10340,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10719,7 +10372,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10749,7 +10401,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10779,7 +10430,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10809,7 +10459,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10839,7 +10488,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10869,7 +10517,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -10899,7 +10546,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10928,7 +10574,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10958,7 +10603,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -10988,7 +10632,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11017,7 +10660,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11047,7 +10689,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11077,7 +10718,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Total Situational Awareness"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11114,7 +10754,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11151,7 +10790,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11188,7 +10826,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11225,7 +10862,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11262,7 +10898,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11299,7 +10934,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11336,7 +10970,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11365,7 +10998,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11394,7 +11026,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11424,7 +11055,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11462,7 +11092,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11500,7 +11129,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11530,7 +11158,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11561,7 +11188,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11590,7 +11216,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11620,7 +11245,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11653,7 +11277,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11683,7 +11306,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11713,7 +11335,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11744,7 +11365,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Mission-Critical Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11774,7 +11394,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11804,7 +11423,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11834,7 +11452,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11868,7 +11485,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11898,7 +11514,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11928,7 +11543,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -11958,7 +11572,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -11987,7 +11600,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12018,7 +11630,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12047,7 +11658,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12076,7 +11686,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12107,7 +11716,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12136,7 +11744,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12166,7 +11773,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12200,7 +11806,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12234,7 +11839,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12267,7 +11871,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12300,7 +11903,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12333,7 +11935,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12366,7 +11967,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Ultra-High Resolution Long-Range Security Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12399,7 +11999,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12432,7 +12031,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12463,7 +12061,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12494,7 +12091,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12527,7 +12123,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12560,7 +12155,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12593,7 +12187,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12626,7 +12219,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12659,7 +12251,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12692,7 +12283,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12723,7 +12313,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12754,7 +12343,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12785,7 +12373,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12816,7 +12403,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12847,7 +12433,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12876,7 +12461,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12905,7 +12489,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -12939,7 +12522,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -12971,7 +12553,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13006,7 +12587,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Forensic Detail and Critical Infrastructure Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13037,7 +12617,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13067,7 +12646,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13097,7 +12675,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13131,7 +12708,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13160,7 +12736,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13189,7 +12764,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13218,7 +12792,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13247,7 +12820,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13276,7 +12848,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13305,7 +12876,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13334,7 +12904,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13363,7 +12932,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13392,7 +12960,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13421,7 +12988,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13450,7 +13016,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -13486,7 +13051,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13522,7 +13086,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13558,7 +13121,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13594,7 +13156,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13630,7 +13191,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Outdoor Weatherproof Perimeter Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13662,7 +13222,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13694,7 +13253,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13724,7 +13282,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13755,7 +13312,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13786,7 +13342,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13817,7 +13372,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13850,7 +13404,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13881,7 +13434,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13914,7 +13466,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13943,7 +13494,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -13976,7 +13526,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14011,7 +13560,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14046,7 +13594,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14079,7 +13626,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14108,7 +13654,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14143,7 +13688,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14172,7 +13716,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14201,7 +13744,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14230,7 +13772,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14259,7 +13800,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14288,7 +13828,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14317,7 +13856,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14346,7 +13884,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14375,7 +13912,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14404,7 +13940,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14433,7 +13968,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14462,7 +13996,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14491,7 +14024,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14521,7 +14053,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14550,7 +14081,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14579,7 +14109,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14608,7 +14137,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14637,7 +14165,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14666,7 +14193,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14695,7 +14221,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14724,7 +14249,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14753,7 +14277,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14782,7 +14305,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14811,7 +14333,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14840,7 +14361,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Onboard Analytics, WDR, and Optional Integrated IR Illumination"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -14869,7 +14389,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14898,7 +14417,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14929,7 +14447,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14961,7 +14478,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -14993,7 +14509,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15025,7 +14540,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15056,7 +14570,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15088,7 +14601,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15117,7 +14629,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15146,7 +14657,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15176,7 +14686,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15207,7 +14716,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15239,7 +14747,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15271,7 +14778,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15303,7 +14809,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15334,7 +14839,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15365,7 +14869,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15395,7 +14898,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15429,7 +14931,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15461,7 +14962,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Speed Pan-Tilt-Zoom Optical Tracking & Extended Coverage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15491,7 +14991,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15521,7 +15020,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15551,7 +15049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15581,7 +15078,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15611,7 +15107,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15640,7 +15135,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15669,7 +15163,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15698,7 +15191,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15727,7 +15219,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15757,7 +15248,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Tactical Ruggedness & Duty-Ready Field Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -15793,7 +15283,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15829,7 +15318,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15865,7 +15353,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15901,7 +15388,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15937,7 +15423,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -15973,7 +15458,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16009,7 +15493,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16045,7 +15528,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16081,7 +15563,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16117,7 +15598,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Dual Bispectral Imaging (Visual 2MP 40x Zoom + Thermal QVGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Extreme Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16153,7 +15633,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16189,7 +15668,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16225,7 +15703,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16261,7 +15738,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16297,7 +15773,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16333,7 +15808,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16369,7 +15843,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16405,7 +15878,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16441,7 +15913,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16477,7 +15948,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Bispectral PTZ Sensor (2MP 40x Visual + Thermal 640x512 VGA Detection)",
       "Spinel Distribution Authorized Commercial Warranty for Harsh Marine/Industrial Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16513,7 +15983,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16549,7 +16018,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16585,7 +16053,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16643,7 +16110,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16676,7 +16142,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16710,7 +16175,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16744,7 +16208,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16778,7 +16241,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16812,7 +16274,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16846,7 +16307,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations, Marine, Chemical, and Oil & Gas Facilities"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16876,7 +16336,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -16911,7 +16370,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -16946,7 +16404,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -16981,7 +16438,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17016,7 +16472,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17051,7 +16506,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17086,7 +16540,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17121,7 +16574,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17150,7 +16602,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17183,7 +16634,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic Range & Low-Light Performance",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17215,7 +16665,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17247,7 +16696,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17276,7 +16724,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17309,7 +16756,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17344,7 +16790,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17374,7 +16819,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17404,7 +16848,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17434,7 +16877,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17464,7 +16906,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -17493,7 +16934,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Deployments and Commercial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17522,7 +16962,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17557,7 +16996,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17592,7 +17030,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17625,7 +17062,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17654,7 +17090,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17683,7 +17118,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17712,7 +17146,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17741,7 +17174,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17770,7 +17202,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17799,7 +17230,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit and Environmental Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17828,7 +17258,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17857,7 +17286,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17886,7 +17314,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17915,7 +17342,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17944,7 +17370,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -17973,7 +17398,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18006,7 +17430,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18039,7 +17462,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18074,7 +17496,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18110,7 +17531,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Indoor and Outdoor Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18145,7 +17565,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18181,7 +17600,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18216,7 +17634,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18252,7 +17669,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18287,7 +17703,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18323,7 +17738,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18358,7 +17772,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18394,7 +17807,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18429,7 +17841,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18465,7 +17876,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Advanced Low-Light and True WDR Imaging",
       "Pelco Smart Analytics Suite with Onboard Deep Learning Detection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18500,7 +17910,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18535,7 +17944,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18571,7 +17979,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18606,7 +18013,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18642,7 +18048,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18677,7 +18082,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18713,7 +18117,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18749,7 +18152,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18784,7 +18186,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18820,7 +18221,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Intelligent Low-Light Video Processing",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18855,7 +18255,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18891,7 +18290,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18927,7 +18325,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -18962,7 +18359,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -18998,7 +18394,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19034,7 +18429,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19069,7 +18463,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19104,7 +18497,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19140,7 +18532,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19175,7 +18566,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision True WDR & Advanced Low-Light Video Performance",
       "Pelco Deep Learning Smart Analytics Suite"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19210,7 +18600,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19246,7 +18635,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19282,7 +18670,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19317,7 +18704,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19353,7 +18739,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19388,7 +18773,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19424,7 +18808,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19459,7 +18842,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19495,7 +18877,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19530,7 +18911,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision High-Dynamic-Range and Low-Light Imaging Engine",
       "Pelco Smart Analytics Suite with Real-Time Event Classification"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19566,7 +18946,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19601,7 +18980,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19637,7 +19015,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19672,7 +19049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19708,7 +19084,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19743,7 +19118,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19772,7 +19146,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19801,7 +19174,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19831,7 +19203,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19861,7 +19232,6 @@ export const SEED_PRODUCTS: Product[] = [
       "SureVision Low-Light and True WDR Technology",
       "Pelco Smart Analytics Engine and Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19897,7 +19267,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19933,7 +19302,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -19963,7 +19331,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -19996,7 +19363,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20028,7 +19394,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20060,7 +19425,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20092,7 +19456,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20124,7 +19487,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20156,7 +19518,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20188,7 +19549,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Designed for Hazardous Locations and Hostile Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20220,7 +19580,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20252,7 +19611,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20284,7 +19642,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20316,7 +19673,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20348,7 +19704,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20387,7 +19742,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -20422,7 +19776,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -20463,7 +19816,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -20499,7 +19851,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -20537,7 +19888,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Hazardous Locations (ATEX/IECEx/INMETRO Ex II 2GD Certified)"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -20567,7 +19917,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20596,7 +19945,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20625,7 +19973,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20655,7 +20002,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20685,7 +20031,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20715,7 +20060,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20745,7 +20089,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20774,7 +20117,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20804,7 +20146,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20834,7 +20175,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 360-Degree Panoramic and Multi-Sensor Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20864,7 +20204,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20894,7 +20233,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20923,7 +20261,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20953,7 +20290,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -20984,7 +20320,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -21015,7 +20350,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -21046,7 +20380,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -21083,7 +20416,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -21120,7 +20452,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -21157,7 +20488,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Mission-Critical Security and Commercial Operations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -21187,7 +20517,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21217,7 +20546,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21247,7 +20575,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21277,7 +20604,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21310,7 +20636,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21340,7 +20665,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21372,7 +20696,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21404,7 +20727,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21434,7 +20756,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21467,7 +20788,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21498,7 +20818,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21529,7 +20848,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21559,7 +20877,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21592,7 +20909,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21625,7 +20941,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21656,7 +20971,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21687,7 +21001,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21718,7 +21031,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21750,7 +21062,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21783,7 +21094,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Optical Grade Acrylic Bubble with Precision Fit for H4A / H5A Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21816,7 +21126,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21847,7 +21156,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21880,7 +21188,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21910,7 +21217,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21940,7 +21246,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -21972,7 +21277,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22003,7 +21307,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22033,7 +21336,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22064,7 +21366,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22095,7 +21396,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Deployment with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22126,7 +21426,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22160,7 +21459,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22193,7 +21491,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22226,7 +21523,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22260,7 +21556,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22291,7 +21586,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22320,7 +21614,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22349,7 +21642,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22378,7 +21670,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22409,7 +21700,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Fast, Reliable Installation in Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22438,7 +21728,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22467,7 +21756,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22496,7 +21784,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22525,7 +21812,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22560,7 +21846,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22596,7 +21881,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22632,7 +21916,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22667,7 +21950,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22703,7 +21985,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22738,7 +22019,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with LightCatcher and True WDR",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22773,7 +22053,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22809,7 +22088,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22845,7 +22123,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22881,7 +22158,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -22916,7 +22192,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22951,7 +22226,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -22987,7 +22261,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23016,7 +22289,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23051,7 +22323,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23087,7 +22358,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with LightCatcher and True Wide Dynamic Range (WDR)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23123,7 +22393,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23158,7 +22427,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23194,7 +22462,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23230,7 +22497,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23259,7 +22525,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23288,7 +22553,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23318,7 +22582,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23348,7 +22611,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23378,7 +22640,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23408,7 +22669,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Operational Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23437,7 +22697,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23470,7 +22729,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23502,7 +22760,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23537,7 +22794,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23572,7 +22828,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23607,7 +22862,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23636,7 +22890,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23665,7 +22918,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23694,7 +22946,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23723,7 +22974,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Accuracy Vehicle Identification and Covert/Modular Surveillance"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23753,7 +23003,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23788,7 +23037,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23824,7 +23072,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23859,7 +23106,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -23894,7 +23140,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23930,7 +23175,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -23965,7 +23209,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24001,7 +23244,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24036,7 +23278,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24071,7 +23312,6 @@ export const SEED_PRODUCTS: Product[] = [
       "LightCatcher Low-Light Imaging and True WDR Processing Engine",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24101,7 +23341,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24136,7 +23375,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24171,7 +23409,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24206,7 +23443,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24241,7 +23477,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24276,7 +23511,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24306,7 +23540,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24336,7 +23569,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24366,7 +23598,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24396,7 +23627,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Next-Generation Video Analytics with 270° and 360° Panoramic Coverage",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24426,7 +23656,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -24456,7 +23685,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24485,7 +23713,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24515,7 +23742,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24545,7 +23771,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24577,7 +23802,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24608,7 +23832,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24639,7 +23862,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24670,7 +23892,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24701,7 +23922,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Multi-Directional & Panoramic Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24730,7 +23950,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24760,7 +23979,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24790,7 +24008,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24820,7 +24037,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24851,7 +24067,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24881,7 +24096,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24912,7 +24126,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24944,7 +24157,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -24976,7 +24188,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25008,7 +24219,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Precision Engineered for Weather-Resistant Multisensor Housing Deployments",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25040,7 +24250,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25069,7 +24278,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25098,7 +24306,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25130,7 +24337,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25160,7 +24366,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25190,7 +24395,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25222,7 +24426,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25253,7 +24456,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25283,7 +24485,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25316,7 +24517,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Precision Fit with Enterprise Camera Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25346,7 +24546,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25377,7 +24576,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25408,7 +24606,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25439,7 +24636,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25470,7 +24666,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25501,7 +24696,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25532,7 +24726,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25563,7 +24756,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25594,7 +24786,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25631,7 +24822,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for 24/7 Enterprise Perimeter & Critical Infrastructure Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25668,7 +24858,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25705,7 +24894,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25741,7 +24929,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25778,7 +24965,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25815,7 +25001,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25852,7 +25037,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -25889,7 +25073,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25920,7 +25103,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25951,7 +25133,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -25980,7 +25161,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with Next-Generation Video Analytics and Sub-50mK Thermal Sensitivity",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26011,7 +25191,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26041,7 +25220,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26072,7 +25250,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26103,7 +25280,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26133,7 +25309,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26165,7 +25340,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26196,7 +25370,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26226,7 +25399,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26257,7 +25429,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26290,7 +25461,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26323,7 +25493,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26355,7 +25524,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26387,7 +25555,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26419,7 +25586,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26450,7 +25616,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26481,7 +25646,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26515,7 +25679,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26547,7 +25710,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26583,7 +25745,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26617,7 +25778,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Optical Clarity with Anti-Scratch and Rain Hydrophilic Treatments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26648,7 +25808,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26680,7 +25839,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26712,7 +25870,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26742,7 +25899,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26772,7 +25928,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26803,7 +25958,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26834,7 +25988,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26865,7 +26018,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26897,7 +26049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26928,7 +26079,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Protection"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26959,7 +26109,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -26990,7 +26139,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27021,7 +26169,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27051,7 +26198,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27082,7 +26228,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27116,7 +26261,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27146,7 +26290,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27180,7 +26323,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27213,7 +26355,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27244,7 +26385,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Scratch Resistance and Optical Precision"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27274,7 +26414,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27306,7 +26445,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27338,7 +26476,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27369,7 +26506,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27400,7 +26536,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27432,7 +26567,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27463,7 +26597,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27494,7 +26627,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27526,7 +26658,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27558,7 +26689,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Weatherproof Operation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27588,7 +26718,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27619,7 +26748,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27651,7 +26779,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27682,7 +26809,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27712,7 +26838,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27743,7 +26868,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27775,7 +26899,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27805,7 +26928,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27836,7 +26958,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27867,7 +26988,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High Scratch Resistance and Optical Clarity"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27897,7 +27017,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with True WDR, Pelco Analytics, and Adaptive IR Illumination",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27930,7 +27049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with True WDR, Pelco Analytics, and Adaptive IR Illumination",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27963,7 +27081,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with True WDR, Pelco Analytics, and Adaptive IR Illumination",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -27996,7 +27113,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with True WDR, Pelco Analytics, and Adaptive IR Illumination",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28029,7 +27145,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Equipped with True WDR, Pelco Analytics, and Adaptive IR Illumination",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28058,7 +27173,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL Class I Zone 1, EAC, INMETRO, UK Ex)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28092,7 +27206,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL Class I Zone 1, EAC, INMETRO, UK Ex)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28152,7 +27265,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL Class I Zone 1, EAC, INMETRO, UK Ex)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28212,7 +27324,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL Class I Zone 1, EAC, INMETRO, UK Ex)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28272,7 +27383,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL Class I Zone 1, EAC, INMETRO, UK Ex)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28310,7 +27420,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered with Smart Analytics, High Frame-Rate Optics, and Ruggedized Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28349,7 +27458,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered with Smart Analytics, High Frame-Rate Optics, and Ruggedized Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28387,7 +27495,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered with Smart Analytics, High Frame-Rate Optics, and Ruggedized Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28425,7 +27532,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered with Smart Analytics, High Frame-Rate Optics, and Ruggedized Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28463,7 +27569,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered with Smart Analytics, High Frame-Rate Optics, and Ruggedized Housings"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28501,7 +27606,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28533,7 +27637,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28563,7 +27666,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28596,7 +27698,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28628,7 +27729,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -28673,7 +27773,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, UK Ex, TS Mark)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28714,7 +27813,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, UK Ex, TS Mark)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28755,7 +27853,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, UK Ex, TS Mark)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28796,7 +27893,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, UK Ex, TS Mark)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28841,7 +27937,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, UK Ex, TS Mark)",
       "Spinel Distribution Authorized Commercial Warranty"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28886,7 +27981,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex)",
       "Submersible IP66/IP68 Heavy Stainless Steel Housing with Armored Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28934,7 +28028,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex)",
       "Submersible IP66/IP68 Heavy Stainless Steel Housing with Armored Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -28982,7 +28075,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex)",
       "Submersible IP66/IP68 Heavy Stainless Steel Housing with Armored Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29027,7 +28119,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex)",
       "Submersible IP66/IP68 Heavy Stainless Steel Housing with Armored Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29072,7 +28163,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex)",
       "Submersible IP66/IP68 Heavy Stainless Steel Housing with Armored Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29121,7 +28211,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex, TS Mark)",
       "Engineered for Hazardous Locations with Submersible IP66/IP68 Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29170,7 +28259,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex, TS Mark)",
       "Engineered for Hazardous Locations with Submersible IP66/IP68 Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29220,7 +28308,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex, TS Mark)",
       "Engineered for Hazardous Locations with Submersible IP66/IP68 Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29270,7 +28357,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex, TS Mark)",
       "Engineered for Hazardous Locations with Submersible IP66/IP68 Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29321,7 +28407,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, EAC, INMETRO, ETL USA/Canada, KCs, UK Ex, TS Mark)",
       "Engineered for Hazardous Locations with Submersible IP66/IP68 Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29372,7 +28457,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29417,7 +28501,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29463,7 +28546,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29516,7 +28598,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29562,7 +28643,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29609,7 +28689,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29663,7 +28742,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29709,7 +28787,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29756,7 +28833,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29801,7 +28877,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with IR Illuminator & SPOT/WIDE Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29856,7 +28931,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with 360-Degree Continuous Rotation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29908,7 +28982,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with 360-Degree Continuous Rotation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -29962,7 +29035,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with 360-Degree Continuous Rotation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30003,7 +29075,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with 360-Degree Continuous Rotation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30046,7 +29117,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade Stainless Steel Construction with 360-Degree Continuous Rotation"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30096,7 +29166,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Marine-Grade Stainless Steel Construction with Integrated Auxiliary Washer Power and Edge Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30137,7 +29206,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Marine-Grade Stainless Steel Construction with Integrated Auxiliary Washer Power and Edge Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30180,7 +29248,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Marine-Grade Stainless Steel Construction with Integrated Auxiliary Washer Power and Edge Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30230,7 +29297,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Marine-Grade Stainless Steel Construction with Integrated Auxiliary Washer Power and Edge Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30271,7 +29337,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Marine-Grade Stainless Steel Construction with Integrated Auxiliary Washer Power and Edge Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30314,7 +29379,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade AISI 316L Stainless Steel Construction with IR Illuminator and ONVIF G Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30364,7 +29428,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade AISI 316L Stainless Steel Construction with IR Illuminator and ONVIF G Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30414,7 +29477,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade AISI 316L Stainless Steel Construction with IR Illuminator and ONVIF G Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30451,7 +29513,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade AISI 316L Stainless Steel Construction with IR Illuminator and ONVIF G Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30509,7 +29570,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex, TS Mark)",
       "Submersible Marine-Grade AISI 316L Stainless Steel Construction with IR Illuminator and ONVIF G Storage"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30552,7 +29612,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Radiometrics, Smart Analytics, and FIPS 140-3 Level 3 TPM"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30595,7 +29654,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Radiometrics, Smart Analytics, and FIPS 140-3 Level 3 TPM"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30625,7 +29683,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Radiometrics, Smart Analytics, and FIPS 140-3 Level 3 TPM"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30655,7 +29712,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Radiometrics, Smart Analytics, and FIPS 140-3 Level 3 TPM"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30698,7 +29754,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Radiometrics, Smart Analytics, and FIPS 140-3 Level 3 TPM"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30741,7 +29796,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30771,7 +29825,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30801,7 +29854,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30845,7 +29897,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30888,7 +29939,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with High-Precision Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30918,7 +29968,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with Precision Long-Range Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30948,7 +29997,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with Precision Long-Range Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -30991,7 +30039,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with Precision Long-Range Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31034,7 +30081,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with Precision Long-Range Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31064,7 +30110,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, ETL USA/Canada, INMETRO, KCs, UK Ex)",
       "Equipped with Precision Long-Range Thermal Optics, Smart Analytics, and Optional FIPS 140-3 Level 3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31094,7 +30139,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, KCs, UK Ex)",
       "Submersible Industrial Housings & Multipolar Flame-Retardant Armored Barrier Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31131,7 +30175,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, KCs, UK Ex)",
       "Submersible Industrial Housings & Multipolar Flame-Retardant Armored Barrier Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31191,7 +30234,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, KCs, UK Ex)",
       "Submersible Industrial Housings & Multipolar Flame-Retardant Armored Barrier Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31227,7 +30269,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, KCs, UK Ex)",
       "Submersible Industrial Housings & Multipolar Flame-Retardant Armored Barrier Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -31263,7 +30304,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, INMETRO, KCs, UK Ex)",
       "Submersible Industrial Housings & Multipolar Flame-Retardant Armored Barrier Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -31299,7 +30339,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex)",
       "Marine-Grade AISI 316L Stainless Steel Construction and Multipolar Armored Flame-Retardant Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -31335,7 +30374,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex)",
       "Marine-Grade AISI 316L Stainless Steel Construction and Multipolar Armored Flame-Retardant Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -31388,7 +30426,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex)",
       "Marine-Grade AISI 316L Stainless Steel Construction and Multipolar Armored Flame-Retardant Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31441,7 +30478,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex)",
       "Marine-Grade AISI 316L Stainless Steel Construction and Multipolar Armored Flame-Retardant Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31494,7 +30530,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Extreme Environment Certified (ATEX, IECEx, UL USA/Canada, EAC, INMETRO, KCs, UK Ex)",
       "Marine-Grade AISI 316L Stainless Steel Construction and Multipolar Armored Flame-Retardant Cabling"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -31528,7 +30563,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31560,7 +30594,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31590,7 +30623,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31621,7 +30653,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31652,7 +30683,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31684,7 +30714,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31718,7 +30747,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31750,7 +30778,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31782,7 +30809,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31812,7 +30838,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Reliability Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31842,7 +30867,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Professional Architectural & Industrial Surveillance Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31874,7 +30898,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Professional Architectural & Industrial Surveillance Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31906,7 +30929,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Professional Architectural & Industrial Surveillance Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31941,7 +30963,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Professional Architectural & Industrial Surveillance Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -31973,7 +30994,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Professional Architectural & Industrial Surveillance Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -32011,7 +31031,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Equipped with Deep Learning Processing Unit (DLPU), Edge Vault Cybersecurity, and Object Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -32043,7 +31062,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Equipped with Deep Learning Processing Unit (DLPU), Edge Vault Cybersecurity, and Object Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -32087,7 +31105,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Equipped with Deep Learning Processing Unit (DLPU), Edge Vault Cybersecurity, and Object Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -32133,7 +31150,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Equipped with Deep Learning Processing Unit (DLPU), Edge Vault Cybersecurity, and Object Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -32179,7 +31195,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Equipped with Deep Learning Processing Unit (DLPU), Edge Vault Cybersecurity, and Object Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": false,
@@ -32218,7 +31233,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Sensor Architecture with Deep Learning Processing Unit (DLPU) & Forensic WDR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32257,7 +31271,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Sensor Architecture with Deep Learning Processing Unit (DLPU) & Forensic WDR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -32293,7 +31306,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Sensor Architecture with Deep Learning Processing Unit (DLPU) & Forensic WDR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32330,7 +31342,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Sensor Architecture with Deep Learning Processing Unit (DLPU) & Forensic WDR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -32365,7 +31376,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Sensor Architecture with Deep Learning Processing Unit (DLPU) & Forensic WDR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -32397,7 +31407,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32428,7 +31437,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32462,7 +31470,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32492,7 +31499,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32524,7 +31530,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32554,7 +31559,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32585,7 +31589,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32617,7 +31620,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32647,7 +31649,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32677,7 +31678,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32714,7 +31714,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -32746,7 +31745,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32776,7 +31774,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32808,7 +31805,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32839,7 +31835,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32872,7 +31867,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -32905,7 +31899,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32935,7 +31928,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32965,7 +31957,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -32995,7 +31986,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -33028,7 +32018,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Vandal-Resistant, Rugged Environmental Protection & Precision Optical Coating"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -33088,7 +32077,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33148,7 +32136,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33208,7 +32195,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33268,7 +32254,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33328,7 +32313,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33388,7 +32372,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33448,7 +32431,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33508,7 +32490,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33568,7 +32549,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33628,7 +32608,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33688,7 +32667,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33748,7 +32726,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33808,7 +32785,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33868,7 +32844,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33928,7 +32903,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -33988,7 +32962,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34048,7 +33021,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34108,7 +33080,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34168,7 +33139,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34228,7 +33198,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34288,7 +33257,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34348,7 +33316,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34408,7 +33375,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34468,7 +33434,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34528,7 +33493,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34588,7 +33552,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34648,7 +33611,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34708,7 +33670,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34768,7 +33729,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34820,7 +33780,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & Bispectral Thermal/Optical Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34872,7 +33831,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34924,7 +33882,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -34976,7 +33933,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35028,7 +33984,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35080,7 +34035,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35132,7 +34086,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35184,7 +34137,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35236,7 +34188,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35288,7 +34239,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35340,7 +34290,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35392,7 +34341,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35444,7 +34392,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35496,7 +34443,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35548,7 +34494,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35600,7 +34545,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35652,7 +34596,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 14mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35704,7 +34647,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 14mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35750,7 +34692,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 14mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35802,7 +34743,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35854,7 +34794,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35906,7 +34845,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -35958,7 +34896,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36010,7 +34947,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36062,7 +34998,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36114,7 +35049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36166,7 +35100,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36212,7 +35145,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & High-Resolution VGA 24mm Thermal Imaging"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36264,7 +35196,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36316,7 +35247,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36368,7 +35298,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36420,7 +35349,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36472,7 +35400,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36524,7 +35451,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "ATEX, IECEx, UL Class I Zone 1 Explosion-Proof Certification & TPM FIPS 140-3 L3 Security"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36573,7 +35499,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof for Hazardous Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36618,7 +35543,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof for Hazardous Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36670,7 +35594,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof for Hazardous Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36724,7 +35647,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof for Hazardous Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36776,7 +35698,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof for Hazardous Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36830,7 +35751,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof for Hazardous Industrial Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36883,7 +35803,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof with IR Illuminator and Heavy-Duty Stainless Steel Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -36942,7 +35861,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof with IR Illuminator and Heavy-Duty Stainless Steel Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37001,7 +35919,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof with IR Illuminator and Heavy-Duty Stainless Steel Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37061,7 +35978,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof with Dual SPOT/WIDE IR Illuminators and Heavy-Duty AISI316L Stainless Steel Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37120,7 +36036,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof with Dual SPOT/WIDE IR Illuminators and Heavy-Duty AISI316L Stainless Steel Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37180,7 +36095,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Certified Explosion Proof with Dual SPOT/WIDE IR Illuminators and Heavy-Duty AISI316L Stainless Steel Enclosure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37224,7 +36138,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics and High-Performance Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37263,7 +36176,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics and High-Performance Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37302,7 +36214,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics and High-Performance Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37342,7 +36253,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics and High-Performance Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37382,7 +36292,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics and High-Performance Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37419,7 +36328,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics and High-Performance Optics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37456,7 +36364,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Discreet Modular Installation with Deep Learning Edge Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37494,7 +36401,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Discreet Modular Installation with Deep Learning Edge Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37532,7 +36438,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Discreet Modular Installation with Deep Learning Edge Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37569,7 +36474,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Dual-Sensor Multidirectional Coverage with Deep Learning Edge Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37604,7 +36508,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Dual-Sensor Multidirectional Coverage with Deep Learning Edge Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37639,7 +36542,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Dual-Sensor Multidirectional Coverage with Deep Learning Edge Analytics"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37685,7 +36587,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics, Forensic WDR, and OptimizedIR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37730,7 +36631,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics, Forensic WDR, and OptimizedIR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37766,7 +36666,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Advanced Security Analytics, Forensic WDR, and OptimizedIR"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37802,7 +36701,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Body Worn Forensic Imaging, Continuous GNSS Location Tracking, and Secure Wireless Streaming"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37838,7 +36736,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Body Worn Forensic Imaging, Continuous GNSS Location Tracking, and Secure Wireless Streaming"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37873,7 +36770,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Body Worn Forensic Imaging, Continuous GNSS Location Tracking, and Secure Wireless Streaming"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37908,7 +36804,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Body Worn Forensic Imaging, Inbuilt LTE & GNSS Location Tracking, and KlickFast Mounting"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37945,7 +36840,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Body Worn Forensic Imaging, Inbuilt LTE & GNSS Location Tracking, and KlickFast Mounting"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -37979,7 +36873,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38014,7 +36907,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38048,7 +36940,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38079,7 +36970,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38110,7 +37000,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38141,7 +37030,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38173,7 +37061,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38205,7 +37092,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38237,7 +37123,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38269,7 +37154,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38301,7 +37185,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38333,7 +37216,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38364,7 +37246,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Enterprise Access Control Environments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38394,7 +37275,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38424,7 +37304,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38454,7 +37333,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38484,7 +37362,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38514,7 +37391,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38546,7 +37422,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38578,7 +37453,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38609,7 +37483,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38641,7 +37514,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38672,7 +37544,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38705,7 +37576,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38736,7 +37606,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38768,7 +37637,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Electronic Access and Smart Security Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38801,7 +37669,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38833,7 +37700,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38866,7 +37732,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38898,7 +37763,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38928,7 +37792,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38963,7 +37826,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -38998,7 +37860,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39029,7 +37890,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39065,7 +37925,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39101,7 +37960,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39132,7 +37990,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39164,7 +38021,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39195,7 +38051,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Salto ProAccess SPACE Ecosystem and Smart Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39226,7 +38081,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39255,7 +38109,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39284,7 +38137,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39313,7 +38165,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39343,7 +38194,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39373,7 +38223,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39403,7 +38252,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39442,7 +38290,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39472,7 +38319,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39502,7 +38348,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39532,7 +38377,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39562,7 +38406,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39592,7 +38435,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39622,7 +38464,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39653,7 +38494,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39682,7 +38522,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39711,7 +38550,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39740,7 +38578,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39769,7 +38606,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39801,7 +38637,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39831,7 +38666,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39863,7 +38697,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39895,7 +38728,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39927,7 +38759,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39959,7 +38790,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -39989,7 +38819,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40019,7 +38848,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40051,7 +38879,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40086,7 +38913,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40119,7 +38945,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40152,7 +38977,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40182,7 +39006,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40215,7 +39038,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40245,7 +39067,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40280,7 +39101,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40315,7 +39135,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40345,7 +39164,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40375,7 +39193,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40406,7 +39223,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Enterprise Access Control Systems and Infrastructure"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40436,7 +39252,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40466,7 +39281,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40497,7 +39311,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40528,7 +39341,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40558,7 +39370,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40592,7 +39403,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40626,7 +39436,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40657,7 +39466,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40692,7 +39500,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40722,7 +39529,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40753,7 +39559,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40783,7 +39588,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40817,7 +39621,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40850,7 +39653,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40884,7 +39686,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40917,7 +39718,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40950,7 +39750,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -40983,7 +39782,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41016,7 +39814,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41046,7 +39843,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41078,7 +39874,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41108,7 +39903,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41138,7 +39932,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41171,7 +39964,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41202,7 +39994,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41234,7 +40025,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41266,7 +40056,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41303,7 +40092,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41335,7 +40123,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41368,7 +40155,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41401,7 +40187,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41434,7 +40219,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41467,7 +40251,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41500,7 +40283,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41533,7 +40315,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41565,7 +40346,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41597,7 +40377,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41630,7 +40409,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41661,7 +40439,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41704,7 +40481,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41737,7 +40513,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41769,7 +40544,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41801,7 +40575,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41833,7 +40606,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41864,7 +40636,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41896,7 +40667,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41928,7 +40698,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41964,7 +40733,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -41996,7 +40764,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42028,7 +40795,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42060,7 +40826,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42092,7 +40857,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Security Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42123,7 +40887,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42163,7 +40926,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42195,7 +40957,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42233,7 +40994,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42264,7 +41024,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42299,7 +41058,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42330,7 +41088,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42373,7 +41130,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42406,7 +41162,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42440,7 +41195,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42471,7 +41225,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42501,7 +41254,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42534,7 +41286,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42564,7 +41315,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42593,7 +41343,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42623,7 +41372,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42653,7 +41401,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42683,7 +41430,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42714,7 +41460,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42744,7 +41489,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42774,7 +41518,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42807,7 +41550,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42837,7 +41579,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42867,7 +41608,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42897,7 +41637,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42927,7 +41666,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42958,7 +41696,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -42988,7 +41725,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43021,7 +41757,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43052,7 +41787,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43082,7 +41816,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43116,7 +41849,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43150,7 +41882,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43184,7 +41915,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43219,7 +41949,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43254,7 +41983,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43288,7 +42016,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43322,7 +42049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43353,7 +42079,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43385,7 +42110,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43416,7 +42140,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43450,7 +42173,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43485,7 +42207,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43518,7 +42239,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43550,7 +42270,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43582,7 +42301,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43614,7 +42332,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43646,7 +42363,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43676,7 +42392,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43707,7 +42422,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43737,7 +42451,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43768,7 +42481,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43799,7 +42511,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43831,7 +42542,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43863,7 +42573,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43894,7 +42603,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43926,7 +42634,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43960,7 +42667,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -43992,7 +42698,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44024,7 +42729,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44055,7 +42759,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44087,7 +42790,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44120,7 +42822,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44153,7 +42854,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44186,7 +42886,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for Secure Physical Access Control and High-Traffic Portals"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44216,7 +42915,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44246,7 +42944,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44276,7 +42973,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44306,7 +43002,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44337,7 +43032,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44370,7 +43064,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44402,7 +43095,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44446,7 +43138,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44487,7 +43178,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44529,7 +43219,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44559,7 +43248,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44589,7 +43277,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44624,7 +43311,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44654,7 +43340,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44684,7 +43369,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44714,7 +43398,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44744,7 +43427,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44781,7 +43463,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44818,7 +43499,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44854,7 +43534,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44891,7 +43570,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44928,7 +43606,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -44974,7 +43651,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45013,7 +43689,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45057,7 +43732,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45094,7 +43768,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45131,7 +43804,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45167,7 +43839,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45204,7 +43875,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45241,7 +43911,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45278,7 +43947,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45315,7 +43983,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45361,7 +44028,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45400,7 +44066,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45437,7 +44102,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45474,7 +44138,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45510,7 +44173,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45547,7 +44209,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45584,7 +44245,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45621,7 +44281,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45667,7 +44326,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45706,7 +44364,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45750,7 +44407,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45787,7 +44443,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45824,7 +44479,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45860,7 +44514,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45897,7 +44550,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45933,7 +44585,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -45970,7 +44621,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46007,7 +44657,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46044,7 +44693,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46081,7 +44729,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46127,7 +44774,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46166,7 +44812,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46210,7 +44855,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46247,7 +44891,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46284,7 +44927,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46320,7 +44962,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46357,7 +44998,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46394,7 +45034,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46431,7 +45070,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46477,7 +45115,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46516,7 +45153,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46560,7 +45196,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46597,7 +45232,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46634,7 +45268,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46670,7 +45303,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46707,7 +45339,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46744,7 +45375,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46781,7 +45411,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46827,7 +45456,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46866,7 +45494,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46910,7 +45537,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46947,7 +45573,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -46984,7 +45609,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47020,7 +45644,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47056,7 +45679,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47093,7 +45715,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47130,7 +45751,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47167,7 +45787,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47213,7 +45832,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47252,7 +45870,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47296,7 +45913,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47343,7 +45959,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47380,7 +45995,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47417,7 +46031,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47453,7 +46066,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47490,7 +46102,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47526,7 +46137,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47562,7 +46172,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47599,7 +46208,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47636,7 +46244,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47682,7 +46289,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47721,7 +46327,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47765,7 +46370,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47812,7 +46416,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47845,7 +46448,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47875,7 +46477,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47905,7 +46506,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47935,7 +46535,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47965,7 +46564,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -47995,7 +46593,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48029,7 +46626,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48059,7 +46655,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48089,7 +46684,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48119,7 +46713,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48149,7 +46742,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48179,7 +46771,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48209,7 +46800,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48250,7 +46840,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48280,7 +46869,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48310,7 +46898,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48340,7 +46927,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48370,7 +46956,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48400,7 +46985,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48430,7 +47014,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48460,7 +47043,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48490,7 +47072,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48520,7 +47101,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48551,7 +47131,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48582,7 +47161,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48613,7 +47191,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48643,7 +47220,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48674,7 +47250,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48704,7 +47279,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48735,7 +47309,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48765,7 +47338,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48797,7 +47369,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48828,7 +47399,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48859,7 +47429,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48890,7 +47459,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -48920,7 +47488,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -48950,7 +47517,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -48980,7 +47546,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49010,7 +47575,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49040,7 +47604,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49071,7 +47634,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49113,7 +47675,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49143,7 +47704,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49185,7 +47745,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49215,7 +47774,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49256,7 +47814,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49286,7 +47843,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49320,7 +47876,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49356,7 +47911,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49386,7 +47940,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49416,7 +47969,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49446,7 +47998,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49477,7 +48028,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49507,7 +48057,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49538,7 +48087,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49568,7 +48116,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49598,7 +48145,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49628,7 +48174,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49658,7 +48203,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49688,7 +48232,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49718,7 +48261,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49748,7 +48290,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49779,7 +48320,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49814,7 +48354,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49849,7 +48388,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49886,7 +48424,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49921,7 +48458,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -49951,7 +48487,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -49982,7 +48517,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50012,7 +48546,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50058,7 +48591,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50109,7 +48641,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50146,7 +48677,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50176,7 +48706,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50207,7 +48736,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50237,7 +48765,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50267,7 +48794,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50297,7 +48823,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50327,7 +48852,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50364,7 +48888,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50397,7 +48920,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50428,7 +48950,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50459,7 +48980,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50491,7 +49011,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50523,7 +49042,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50554,7 +49072,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50586,7 +49103,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50618,7 +49134,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50650,7 +49165,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50684,7 +49198,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50716,7 +49229,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50747,7 +49259,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50778,7 +49289,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50812,7 +49322,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Commercial Warranty",
       "Engineered for High-Security Physical Access Control Installations"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50843,7 +49352,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -50874,7 +49382,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50904,7 +49411,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50933,7 +49439,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50964,7 +49469,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -50993,7 +49497,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51022,7 +49525,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51051,7 +49553,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51080,7 +49581,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51109,7 +49609,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51139,7 +49638,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51170,7 +49668,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51199,7 +49696,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51229,7 +49725,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51258,7 +49753,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51289,7 +49783,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51319,7 +49812,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51348,7 +49840,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51377,7 +49868,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51406,7 +49896,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51435,7 +49924,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51466,7 +49954,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51497,7 +49984,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51528,7 +50014,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51557,7 +50042,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51586,7 +50070,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51617,7 +50100,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51648,7 +50130,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51678,7 +50159,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51709,7 +50189,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51740,7 +50219,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51771,7 +50249,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51802,7 +50279,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Designed for Professional Security & Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51833,7 +50309,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51863,7 +50338,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51892,7 +50366,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -51921,7 +50394,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51951,7 +50423,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -51982,7 +50453,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52013,7 +50483,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52042,7 +50511,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52071,7 +50539,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52102,7 +50569,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52131,7 +50597,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52160,7 +50625,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52189,7 +50653,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52218,7 +50681,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52247,7 +50709,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52277,7 +50738,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52307,7 +50767,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52336,7 +50795,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52365,7 +50823,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52394,7 +50851,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52424,7 +50880,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52453,7 +50908,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52482,7 +50936,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52512,7 +50965,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52541,7 +50993,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52570,7 +51021,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52600,7 +51050,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52629,7 +51078,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52659,7 +51107,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52688,7 +51135,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Engineered for Professional Indoor & Outdoor Video Surveillance Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52719,7 +51165,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52750,7 +51195,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52781,7 +51225,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52810,7 +51253,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52839,7 +51281,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52868,7 +51309,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52897,7 +51337,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52926,7 +51365,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -52955,7 +51393,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -52984,7 +51421,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53013,7 +51449,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53042,7 +51477,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53071,7 +51505,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53100,7 +51533,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53129,7 +51561,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53158,7 +51589,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53187,7 +51617,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53216,7 +51645,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53245,7 +51673,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53274,7 +51701,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53305,7 +51731,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53336,7 +51761,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53367,7 +51791,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53398,7 +51821,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53427,7 +51849,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53458,7 +51879,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53489,7 +51909,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53518,7 +51937,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53547,7 +51965,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53576,7 +51993,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53605,7 +52021,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53634,7 +52049,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53665,7 +52079,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53696,7 +52109,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53725,7 +52137,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53754,7 +52165,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53783,7 +52193,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53812,7 +52221,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53843,7 +52251,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53874,7 +52281,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -53903,7 +52309,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53932,7 +52337,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53962,7 +52366,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -53992,7 +52395,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54021,7 +52423,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54050,7 +52451,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54081,7 +52481,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54110,7 +52509,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54139,7 +52537,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54168,7 +52565,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54198,7 +52594,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54229,7 +52624,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54259,7 +52653,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54288,7 +52681,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54317,7 +52709,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54346,7 +52737,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54375,7 +52765,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54404,7 +52793,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54433,7 +52821,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54462,7 +52849,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54493,7 +52879,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54523,7 +52908,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54552,7 +52936,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54583,7 +52966,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54612,7 +52994,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54641,7 +53022,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54670,7 +53050,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54699,7 +53078,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54728,7 +53106,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54758,7 +53135,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54789,7 +53165,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54820,7 +53195,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54849,7 +53223,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54880,7 +53253,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54909,7 +53281,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -54940,7 +53311,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54969,7 +53339,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -54998,7 +53367,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55028,7 +53396,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55058,7 +53425,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55088,7 +53454,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55118,7 +53483,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55147,7 +53511,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55176,7 +53539,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55206,7 +53568,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55235,7 +53596,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55264,7 +53624,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55293,7 +53652,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55322,7 +53680,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55353,7 +53710,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55383,7 +53739,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55413,7 +53768,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55444,7 +53798,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55474,7 +53827,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55505,7 +53857,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55536,7 +53887,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55565,7 +53915,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55594,7 +53943,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55625,7 +53973,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55655,7 +54002,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55686,7 +54032,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55715,7 +54060,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55744,7 +54088,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55774,7 +54117,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55803,7 +54145,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55832,7 +54173,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55863,7 +54203,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -55892,7 +54231,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55921,7 +54259,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55952,7 +54289,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -55983,7 +54319,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56014,7 +54349,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56043,7 +54377,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56074,7 +54407,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56105,7 +54437,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56136,7 +54467,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56167,7 +54497,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56198,7 +54527,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56229,7 +54557,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56260,7 +54587,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56289,7 +54615,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56320,7 +54645,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56351,7 +54675,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56382,7 +54705,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56413,7 +54735,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56444,7 +54765,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56474,7 +54794,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56505,7 +54824,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56536,7 +54854,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56567,7 +54884,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56598,7 +54914,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56629,7 +54944,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56659,7 +54973,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56690,7 +55003,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56721,7 +55033,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56750,7 +55061,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56781,7 +55091,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56812,7 +55121,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56843,7 +55151,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56874,7 +55181,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56903,7 +55209,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56933,7 +55238,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -56964,7 +55268,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -56995,7 +55298,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57025,7 +55327,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57055,7 +55356,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57086,7 +55386,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57115,7 +55414,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57145,7 +55443,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57176,7 +55473,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57206,7 +55502,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57237,7 +55532,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57268,7 +55562,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57299,7 +55592,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57330,7 +55622,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57361,7 +55652,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57391,7 +55681,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57422,7 +55711,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57453,7 +55741,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57484,7 +55771,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57515,7 +55801,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57544,7 +55829,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57573,7 +55857,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57604,7 +55887,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57634,7 +55916,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57664,7 +55945,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57695,7 +55975,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57726,7 +56005,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57757,7 +56035,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57788,7 +56065,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57818,7 +56094,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57849,7 +56124,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57880,7 +56154,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57911,7 +56184,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -57941,7 +56213,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -57972,7 +56243,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58003,7 +56273,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58033,7 +56302,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58064,7 +56332,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58094,7 +56361,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58125,7 +56391,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58156,7 +56421,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58186,7 +56450,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58217,7 +56480,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58248,7 +56510,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58277,7 +56538,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58306,7 +56566,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58337,7 +56596,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58368,7 +56626,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58399,7 +56656,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58430,7 +56686,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58461,7 +56716,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58492,7 +56746,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58522,7 +56775,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58552,7 +56804,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58581,7 +56832,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58612,7 +56862,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58642,7 +56891,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58673,7 +56921,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58704,7 +56951,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58735,7 +56981,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58766,7 +57011,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58797,7 +57041,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58828,7 +57071,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58859,7 +57101,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58890,7 +57131,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -58920,7 +57160,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58950,7 +57189,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -58981,7 +57219,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59012,7 +57249,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59042,7 +57278,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59073,7 +57308,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59104,7 +57338,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59135,7 +57368,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59166,7 +57398,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59195,7 +57426,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59224,7 +57454,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59253,7 +57482,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59282,7 +57510,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59311,7 +57538,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59341,7 +57567,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59370,7 +57595,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59400,7 +57624,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59431,7 +57654,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59462,7 +57684,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59492,7 +57713,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59521,7 +57741,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59550,7 +57769,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59579,7 +57797,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59610,7 +57827,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59641,7 +57857,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59672,7 +57887,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59703,7 +57917,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59733,7 +57946,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59763,7 +57975,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59792,7 +58003,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59821,7 +58031,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59850,7 +58059,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -59879,7 +58087,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59909,7 +58116,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59939,7 +58145,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -59970,7 +58175,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": true,
     "featured": true,
@@ -60000,7 +58204,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,
@@ -60030,7 +58233,6 @@ export const SEED_PRODUCTS: Product[] = [
       "Spinel Distribution Authorized Hardware Warranty",
       "Heavy-Duty Industrial Grade Construction for Enterprise Deployments"
     ],
-    "isPrime": true,
     "isChoice": true,
     "isBestSeller": false,
     "featured": true,

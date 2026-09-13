@@ -184,18 +184,8 @@ function MainApp() {
     );
   }
 
-  // If viewing Customer Auth
-  if (currentView === 'auth') {
-    return (
-      <AuthPage
-        onSuccess={() => navigateTo('home')}
-        onNavigateHome={() => navigateTo('home')}
-      />
-    );
-  }
-
   return (
-    <div className="min-h-screen flex flex-col bg-[#eaeded] text-[#0F1111] font-sans antialiased">
+    <div className="min-h-screen flex flex-col bg-[#eaeded] text-[#0F1111] font-sans antialiased w-full max-w-full overflow-x-hidden">
       {/* 1. Amazon Main Header */}
       <AmazonHeader
         onOpenDrawer={() => setIsDrawerOpen(true)}
@@ -247,6 +237,8 @@ function MainApp() {
             {currentView === 'product' && selectedProduct && (
               <ProductDetailPage
                 product={selectedProduct}
+                allProducts={products}
+                onSelectProduct={handleSelectProduct}
                 onSelectCategory={handleSelectCategory}
                 onBuyNow={handleBuyNow}
                 onRequestQuote={handleRequestQuote}
@@ -263,9 +255,11 @@ function MainApp() {
 
             {currentView === 'cart' && (
               <CartPage
+                products={products}
                 onProceedToCheckout={() => navigateTo('checkout')}
                 onContinueShopping={() => navigateTo('catalog')}
                 onSelectProduct={handleSelectProduct}
+                onRequestQuote={handleRequestQuote}
               />
             )}
 
@@ -282,6 +276,13 @@ function MainApp() {
               <OrdersPage
                 onSelectProductById={handleSelectProductById}
                 onContinueShopping={() => navigateTo('catalog')}
+              />
+            )}
+
+            {currentView === 'auth' && (
+              <AuthPage
+                onSuccess={() => navigateTo('home')}
+                onNavigateHome={() => navigateTo('home')}
               />
             )}
           </>

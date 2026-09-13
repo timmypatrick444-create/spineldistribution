@@ -13,7 +13,6 @@ export interface Product {
   images: string[];
   specs: Record<string, string>;
   features: string[];
-  isPrime: boolean;
   isChoice: boolean;
   isBestSeller?: boolean;
   featured?: boolean;

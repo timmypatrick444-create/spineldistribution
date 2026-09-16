@@ -187,15 +187,32 @@ export function convertRowToProduct(row: RawProductRow, index: number): Product 
     'Warranty': '3 Years Spinel Distribution Replacement Warranty'
   };
 
+  const features: string[] = [
+    'Official Spinel Distribution certified equipment',
+    'Engineered for 24/7 mission-critical operations',
+    'Compliance with international safety & cybersecurity standards'
+  ];
+
   if (row.specs && typeof row.specs === 'string') {
     try {
       if (row.specs.startsWith('{')) {
         Object.assign(specs, JSON.parse(row.specs));
       } else {
         const parts = row.specs.split(';');
+        let specIndex = 1;
         for (const p of parts) {
-          const [k, v] = p.split(':');
-          if (k && v) specs[k.trim()] = v.trim();
+          const trimmed = p.trim();
+          if (!trimmed) continue;
+          if (trimmed.includes(':')) {
+            const [k, ...rest] = trimmed.split(':');
+            if (k && rest.length > 0) specs[k.trim()] = rest.join(':').trim();
+          } else {
+            specs[`Spec_${specIndex}`] = trimmed;
+            specIndex++;
+          }
+          if (features.length < 6) {
+            features.push(trimmed);
+          }
         }
       }
     } catch {
@@ -219,11 +236,7 @@ export function convertRowToProduct(row: RawProductRow, index: number): Product 
     stock,
     images,
     specs,
-    features: [
-      'Official Spinel Distribution certified equipment',
-      'Engineered for 24/7 mission-critical operations',
-      'Compliance with international safety & cybersecurity standards'
-    ],
+    features,
     isChoice: isChoice ?? (index % 4 === 0),
     featured: index % 5 === 0,
     createdAt: new Date().toISOString()

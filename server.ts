@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import { createServer as createViteServer } from 'vite';
 import { createClient } from '@supabase/supabase-js';
 import { SEED_PRODUCTS } from './src/data/seedProducts';
+import { UPLOADED_RENEWABLE_ENERGY_PRODUCTS } from './src/data/uploadedProducts';
 import { CATEGORIES } from './src/data/categories';
 import { Product, Order, UserProfile } from './src/types';
 
@@ -37,10 +38,13 @@ if (SUPABASE_URL && SUPABASE_ANON_KEY) {
 }
 
 // In-Memory resilient primary database state (Holds thousands of products reliably)
-let productCatalog: Product[] = SEED_PRODUCTS.map((p, index) => ({
-  ...p,
-  id: p.id || `prod-${p.sku || index}`
-}));
+let productCatalog: Product[] = [
+  ...UPLOADED_RENEWABLE_ENERGY_PRODUCTS,
+  ...SEED_PRODUCTS.map((p, index) => ({
+    ...p,
+    id: p.id || `prod-${p.sku || index}`
+  }))
+];
 let ordersStore: Order[] = [];
 let quotesStore: any[] = [
   {

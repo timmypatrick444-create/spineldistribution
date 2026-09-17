@@ -91,9 +91,7 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
         const isCatMatch = 
           pCatLower === selLower ||
           pCatLower.includes(selLower) ||
-          selLower.includes(pCatLower) ||
-          (selLower.includes('accessories') && pCatLower.includes('accessories')) ||
-          (selLower.includes('surveillance') && pCatLower.includes('surveillance'));
+          selLower.includes(pCatLower);
         if (!isCatMatch) return false;
       }
       // Subcategory

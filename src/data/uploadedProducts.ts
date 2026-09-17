@@ -12482,6 +12482,12179 @@ export const UPLOADED_RENEWABLE_ENERGY_PRODUCTS: Product[] = [
     isBestSeller: false,
     featured: false,
     createdAt: "2026-09-16T13:47:00.000Z"
+  },
+  {
+    id: "prod-halo-sensor-panic-button",
+    sku: "HALO-SENSOR-PANIC-BUTTON",
+    name: "HALO IoT Panic Button",
+    description: "HALO-SENSOR-PANIC-BUTTON. Panic button for HALO 3C & HALO 3C-PC; functional only with HALO Cloud. Fast-response emergency duress button providing discrete event triggering and instant notifications.",
+    priceUSD: 32.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Emergency Sensors",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 34,
+    stock: 215,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Device Type": "IoT Panic / Duress Button Accessory",
+      "Compatibility": "HALO 3C and HALO 3C-PC Smart Sensors",
+      "Cloud Integration": "Requires HALO Cloud Subscription",
+      "Functionality": "Emergency Triggering & Instant Notification"
+    },
+    features: [
+      "Provides rapid physical panic and duress signaling for HALO 3C and 3C-PC smart sensors",
+      "Connects seamlessly with HALO Cloud for automated mass alert dispatches",
+      "Discreet, accessible form factor for staff, classrooms, and reception desks",
+      "Instant event logging and notification verification"
+    ],
+    isChoice: false,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-halo-sensor-backbox",
+    sku: "HALO-SENSOR-BACKBOX",
+    name: "HALO Smart Sensor Conduit Backbox (HALO 3C / 3C-PC)",
+    description: "HALO-SENSOR-BACKBOX. Backbox for HALO 3C or HALO 3C-PC. Required anytime there is a wire mold or conduit connection to the HALO smart sensor enclosure.",
+    priceUSD: 150.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Intrusion Sensors",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 19,
+    stock: 87,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Accessory Type": "Conduit / Wiremold Surface Backbox",
+      "Compatibility": "HALO 3C and HALO 3C-PC Smart Sensors",
+      "Installation Type": "Surface Mount / Conduit & Wire Mold Connection",
+      "Material": "Commercial-Grade Flame-Retardant Polymer"
+    },
+    features: [
+      "Mandatory mounting accessory when routing conduit or wire mold to the HALO 3C / 3C-PC",
+      "Ensures clean surface-mount aesthetics and secure cable management",
+      "Matches factory contour and finish of HALO sensor enclosures",
+      "Durable commercial construction protecting internal wiring"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-halo-sensor-panic-button-v2",
+    sku: "HALO-SENSOR-PANIC-BUTTON-V2",
+    name: "HALO IoT Panic Button V2",
+    description: "HALO-SENSOR-PANIC-BUTTON-V2. Panic button for HALO 3C & HALO 3C-PC; functional only with HALO Cloud. Next-generation physical duress button engineered for instant emergency alerting and automated lockdown triggers.",
+    priceUSD: 32.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Emergency Sensors",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 231,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Device Type": "IoT Panic / Duress Button V2 Accessory",
+      "Compatibility": "HALO 3C and HALO 3C-PC Smart Sensors",
+      "Cloud Integration": "Requires HALO Cloud Subscription",
+      "Trigger Mechanism": "Instant Duress / Emergency Alerting"
+    },
+    features: [
+      "Upgraded tactile response for immediate duress activation",
+      "Directly integrates with HALO 3C / 3C-PC smart sensor ecosystem",
+      "Functional with HALO Cloud for broadcast security alerts and emergency protocols",
+      "Compact profile for under-desk, wall, or podium installation"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-halo-sensor-3c",
+    sku: "HALO-SENSOR-3C",
+    name: "HALO IoT Smart Sensor 3C (Air Quality, Vape, Audio & Security Detection)",
+    description: "HALO-SENSOR-3C. HALO IoT Smart Sensor 3C. Multifunctional security and environmental health device detecting vape, THC, gunshots, aggression, air quality (AQI, TVOC, CO2, PM2.5), and chemical signatures without using video cameras or recording conversations.",
+    priceUSD: 1794.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Audio Detection",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 62,
+    stock: 133,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Sensor Architecture": "Multi-Sensor IoT Air Quality, Audio & Safety Array",
+      "Detection Capabilities": "Vape, Smoke, THC, Gunshot, Spoken Key Words, Aggression, Panic",
+      "Environmental Metrics": "AQI, TVOC, CO2, CO, PM2.5, Humidity, Temperature",
+      "Privacy": "100% Privacy-Compliant (No Cameras, No Audio Recording)",
+      "Network & Power": "RJ-45 Gigabit PoE (IEEE 802.3af)"
+    },
+    features: [
+      "Multi-functional sensor detecting vaping, THC, gunshots, and verbal aggression in privacy-sensitive spaces",
+      "Real-time indoor air quality monitoring including CO2, VOCs, particulates, and chemical spills",
+      "Completely camera-free and audio-free design compliant with privacy regulations (FERPA, HIPAA)",
+      "Integrated emergency LED indicator and customizable alert sounder"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-halo-sensor-3c-pc",
+    sku: "HALO-SENSOR-3C-PC",
+    name: "HALO IoT Smart Sensor 3C-PC with Occupancy & People Counting",
+    description: "HALO-SENSOR-3C-PC. HALO IoT Smart Sensor 3C PC with Occupancy and People Counting. Enhanced multi-sensor platform combining environmental health monitoring, vape detection, audio event analysis, and optical-less occupancy people counting for privacy-compliant spaces.",
+    priceUSD: 2154.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Occupancy Sensors",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 47,
+    stock: 132,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Sensor Architecture": "Advanced IoT Sensor with People Counting & Occupancy",
+      "Occupancy & Counting": "Optical-Free People Counting & Presence Detection",
+      "Detection Capabilities": "Vape, THC, Gunshot, Aggression, Motion, Tampering",
+      "Environmental Metrics": "AQI, TVOC, CO2, PM2.5, Temperature, Humidity",
+      "Network & Power": "PoE (IEEE 802.3af), Ethernet RJ45"
+    },
+    features: [
+      "Combines comprehensive HALO 3C sensing with non-invasive occupancy and people counting",
+      "Maintains complete privacy without using cameras or microphones in bathrooms, locker rooms, and private offices",
+      "Real-time analytics for room utilization, emergency evacuation verification, and loitering detection",
+      "Full integration with Avigilon Unity Video and third-party security management platforms"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-halo-4-backbox",
+    sku: "HALO-4-BACKBOX",
+    name: "HALO 4 Smart Sensor Conduit Backbox",
+    description: "HALO-4-BACKBOX. Back box for HALO 4 sensor. Required anytime there is a wire mold or conduit connection to the HALO 4 sensor. Engineered for clean surface installations in commercial facilities.",
+    priceUSD: 150.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Intrusion Sensors",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 21,
+    stock: 176,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Accessory Type": "Conduit / Surface Mount Backbox",
+      "Compatibility": "HALO 4 IoT Smart Sensor Series",
+      "Installation Type": "Surface Mount / Conduit & Wire Mold Connection",
+      "Material": "High-Impact Commercial Polymer"
+    },
+    features: [
+      "Essential backbox accessory for HALO 4 surface conduit and wire mold connections",
+      "Protects structured cabling and ensures tamper-resistant deployment",
+      "Engineered to match the aesthetic profile and footprint of the HALO 4 sensor",
+      "Simplifies retrofits on hard ceilings, concrete, and commercial infrastructure"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-cwd-acc7-1lane-l-sub-1yr",
+    sku: "CWD-ACC7-1LANE-L-SUB-1YR",
+    name: "Motorola Solutions CWD 1-Year Software Subscription (1-Lane, Left, Indoor)",
+    description: "CWD-ACC7-1LANE-L-SUB-1YR. 1 Year software subscription for MSI CWD (1L; Left; Indoor). Requires purchase of hardware (CWD-ACC7-1LANE-L-HW-ONLY-ST or CWD-ACC7-1LANE-L-HW-ONLY-W). Powers AI-driven Concealed Weapons Detection (CWD) automated threat screening and ACC7/Unity integration.",
+    priceUSD: 30300.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Perimeter Sensors",
+    brand: "Motorola Solutions",
+    rating: 4.9,
+    reviewCount: 39,
+    stock: 204,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Software Platform": "Motorola Solutions Concealed Weapons Detection (MSI CWD)",
+      "Subscription Period": "1-Year Active Software License",
+      "Configuration": "1-Lane (Single Lane), Left Tower, Indoor Deployment",
+      "Hardware Requirement": "CWD-ACC7-1LANE-L-HW-ONLY-ST or CWD-ACC7-1LANE-L-HW-ONLY-W",
+      "VMS Integration": "Avigilon Control Center 7 / Unity Video Compatible"
+    },
+    features: [
+      "Powers AI weapons detection algorithms for high-throughput frictionless screening",
+      "Real-time visual alerts and threat location mapping on operator tablets and VMS",
+      "Includes continuous software updates, algorithm enhancements, and technical support",
+      "Seamless integration with Avigilon video security and access control systems"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-cwd-battery-o-90w",
+    sku: "CWD-BATTERY-O-90W",
+    name: "Motorola Solutions CWD 90W Outdoor Battery Pack",
+    description: "CWD-BATTERY-O-90W. 90W outdoor CWD battery. High-capacity all-weather battery pack designed for outdoor deployments of the Motorola Solutions Concealed Weapons Detection platform, enabling untethered, mobile security checkpoints.",
+    priceUSD: 588.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Perimeter Sensors",
+    brand: "Motorola Solutions",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 132,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Battery Type": "Outdoor Rechargeable High-Capacity Lithium-Ion Pack",
+      "Power Output": "90W Dedicated Power Delivery",
+      "Compatibility": "MSI Concealed Weapons Detection (CWD) Systems",
+      "Environment": "Weather-Resistant Outdoor Rated"
+    },
+    features: [
+      "Enables rapid, cord-free mobile CWD screening deployment at stadium and venue entrances",
+      "90W regulated power output designed for extended continuous operation",
+      "Rugged outdoor weather-sealed housing engineered for heavy commercial use",
+      "Quick-swap design for continuous multi-shift event coverage"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-cwd-batterycharger-o-single-ac",
+    sku: "CWD-BATTERYCHARGER-O-SINGLE-AC",
+    name: "Motorola Solutions CWD Outdoor Battery Charger Single w/ AC Adapter",
+    description: "CWD-BATTERYCHARGER-O-SINGLE-AC. CWD Outdoor Battery Charger; Single w/AC Adapter. Dedicated single-bay fast charger engineered to charge outdoor CWD lithium battery modules quickly and safely from standard AC mains.",
+    priceUSD: 487.2,
+    category: "Security Sensors & Detection",
+    subcategory: "Perimeter Sensors",
+    brand: "Motorola Solutions",
+    rating: 4.9,
+    reviewCount: 18,
+    stock: 142,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Device Type": "Single-Bay Fast Battery Charging Station",
+      "Input Power": "Universal AC Adapter Included (100-240V AC)",
+      "Target Battery": "CWD-BATTERY-O-90W Outdoor Battery Pack",
+      "Charge Management": "Intelligent Fast Charge with Overcurrent & Thermal Protection"
+    },
+    features: [
+      "Dedicated single-bay charging station with included AC power adapter",
+      "Optimized charging profile for maximum lithium battery cycle life and safety",
+      "LED charge status indicators for real-time monitoring during event preparation",
+      "Compact and durable portable design for venue security dispatch offices"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-cwd-standonly-f",
+    sku: "CWD-STANDONLY-F",
+    name: "Motorola Solutions CWD Platform Heavy-Duty Floor Stand",
+    description: "CWD-STANDONLY-F. CWD platform floor stand. Heavy-duty commercial floor stand for tablet and operator terminal deployment within the Motorola Solutions Concealed Weapons Detection security checkpoint.",
+    priceUSD: 1059.6,
+    category: "Security Sensors & Detection",
+    subcategory: "Perimeter Sensors",
+    brand: "Motorola Solutions",
+    rating: 4.8,
+    reviewCount: 16,
+    stock: 92,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Accessory Type": "Operator Tablet & Terminal Heavy-Duty Floor Stand",
+      "Compatibility": "MSI Concealed Weapons Detection (CWD) Operator Tablets",
+      "Base": "Weighted Commercial Anti-Tip Base",
+      "Material": "Industrial-Grade Steel / Powder-Coated Finish"
+    },
+    features: [
+      "Stable, weighted commercial floor stand positioning operator tablets at ideal ergonomic height",
+      "Internal cable routing keeps checkpoint areas clean and prevents tripping hazards",
+      "Durable scratch-resistant powder-coated industrial steel construction",
+      "Designed specifically for high-throughput stadium, school, and arena security entrances"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-cwd2-single-4yr-ps-sw-education",
+    sku: "CWD2-SINGLE-4YR-PS-SW-EDUCATION",
+    name: "Motorola Solutions CWD2 4-Year Software Subscription (Education Edition)",
+    description: "CWD2-SINGLE-4YR-PS-SW-EDUCATION. CWD2-SINGLE-4YR-PS-SW-EDUCATION. Comprehensive 4-Year software and professional support subscription for Motorola Solutions Concealed Weapons Detection (CWD2) systems, specifically tailored for K-12 and higher education campus security.",
+    priceUSD: 76060.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Perimeter Sensors",
+    brand: "Motorola Solutions",
+    rating: 5.0,
+    reviewCount: 31,
+    stock: 153,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Software Platform": "Motorola Solutions Concealed Weapons Detection 2 (CWD2)",
+      "Subscription Term": "4-Year Comprehensive License & Professional Support",
+      "Target Sector": "K-12 School Districts, Colleges & Higher Education Campuses",
+      "Licensing Model": "Single-System 4-Year Software & Algorithm Updates"
+    },
+    features: [
+      "4-year multi-year software licensing program optimized for education budget cycles",
+      "Provides advanced AI weapon threat identification tuned for student backpacks and daily campus flow",
+      "Includes continuous threat library updates, firmware upgrades, and priority technical support",
+      "Integrates directly with Avigilon Unity Video and campus lockdown protocols"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-halo-s4-d",
+    sku: "HALO-S4-D",
+    name: "HALO 4 IoT Smart Environmental Sensor (Air Quality, Vape & Audio Detection)",
+    description: "HALO-S4-D. HALO 4 IoT Smart Environmental Sensor. Fourth-generation smart environmental and security sensor featuring advanced air quality monitoring, precision vape/THC detection, acoustic gunshot identification, spoken keyword alerting, and BACnet BMS integration.",
+    priceUSD: 1078.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Audio Detection",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 52,
+    stock: 217,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Sensor Generation": "HALO 4 Next-Gen IoT Smart Sensor",
+      "Detection Metrics": "Vaping, THC, Smoke, Gunshots, Aggression, Air Quality (AQI, TVOC, CO2, PM2.5)",
+      "Protocol Integration": "BACnet, RTSP, MQTT, REST API, Halo Cloud",
+      "Privacy Standards": "100% Privacy Compliant (No Video, No Voice Recording)",
+      "Power": "Power over Ethernet (PoE IEEE 802.3af)"
+    },
+    features: [
+      "Fourth-generation sensor architecture with enhanced air quality sensors and acoustic detection",
+      "Instantly detects vaping, THC aerosols, gunshots, screams, and custom spoken help keywords",
+      "Native BACnet communication for automated HVAC ventilation and building management controls",
+      "Sleek low-profile design ideal for schools, healthcare facilities, and enterprise restrooms"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:10:00.000Z"
+  },
+  {
+    id: "prod-halo-s4oc-d",
+    sku: "HALO-S4OC-D",
+    name: "HALO 4 IoT Smart Environmental Sensor with Occupancy Counting",
+    description: "HALO-S4OC-D. HALO 4 IoT Smart Environmental Sensor with Occupancy Counting. Advanced fourth-generation multi-sensor combining air quality monitoring, vape/THC detection, gunshot recognition, and optical-less occupancy people counting in privacy-compliant areas.",
+    priceUSD: 1798.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Occupancy Sensors",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 38,
+    stock: 92,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Sensor Generation": "HALO 4 Series IoT Smart Sensor",
+      "Occupancy & Counting": "Optical-Free People Counting & Presence Analysis",
+      "Detection Capabilities": "Vape, Smoke, THC, Gunshots, Aggression, Spoken Keywords",
+      "Environmental Metrics": "AQI, TVOC, CO2, PM2.5, Temperature, Humidity",
+      "Network & Power": "RJ45 Gigabit PoE (IEEE 802.3af)"
+    },
+    features: [
+      "Integrated optical-free people counting and occupancy metrics for restrooms and private rooms",
+      "Comprehensive environmental health monitoring detecting airborne pollutants, vape, and THC",
+      "Acoustic gunshot identification and aggressive sound alert algorithms",
+      "Direct connectivity to BACnet BMS, Avigilon Unity, and HALO Cloud"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-halo-amp-os",
+    sku: "HALO-AMP-OS",
+    name: "HALO Amplify Occupancy Sensor",
+    description: "HALO-AMP-OS. Halo Amplify Occupancy Sensor. Dedicated secondary occupancy expansion sensor providing high-precision occupancy detection and sensor-based monitoring in commercial facilities, schools, and healthcare environments.",
+    priceUSD: 594.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Occupancy Sensors",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 92,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Device Type": "HALO Amplify Occupancy Sensor",
+      "Application": "Presence & Area Occupancy Detection",
+      "Compatibility": "HALO Ecosystem & Commercial Smart Buildings",
+      "Mounting": "Ceiling / Surface Mount"
+    },
+    features: [
+      "High-sensitivity non-invasive presence and occupancy monitoring",
+      "Seamless integration into the HALO smart building and safety network",
+      "Optimizes lighting, ventilation, and space utilization in private areas",
+      "Compact, low-profile architecture for quick overhead installation"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-halo-v3-00c",
+    sku: "HALO-V3.00C",
+    name: "HALO IoT Smart Sensor 3C (Base Model)",
+    description: "HALO-V3.00C. HALO IoT Smart Sensor 3C. Multifunctional security and environmental sensor detecting vape, THC, gunshots, screams, chemical leaks, and comprehensive air quality metrics without cameras or microphones.",
+    priceUSD: 1794.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Audio Detection",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 54,
+    stock: 231,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/HALO_Unit_Transparent%20Background_300dpi%20%281%29-06102021.png"
+    ],
+    specs: {
+      "Hardware Platform": "HALO 3C Smart Sensor v3.00",
+      "Sensors Included": "Air Quality, Audio Analytics, Chemical, Environmental",
+      "Detection Spectrum": "Vape, Smoke, THC, Gunshot, Aggression, Spoken Keywords",
+      "Power Source": "PoE (IEEE 802.3af)"
+    },
+    features: [
+      "Industry-standard smart sensor for vape and THC detection in schools and workplaces",
+      "Acoustic detection triggers alerts for gunshots, physical assaults, and distress keywords",
+      "Measures indoor environmental health indicators including CO2, TVOC, and particulates",
+      "Complies with strict privacy standards (FERPA/HIPAA) with zero video recording"
+    ],
+    isChoice: false,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-halo-v3-00c-backbox",
+    sku: "HALO-V3.00C-BACKBOX",
+    name: "HALO 3C Surface Conduit Backbox",
+    description: "HALO-V3.00C-BACKBOX. HALO3C Backbox. Backbox for HALO 3C or HALO 3C-PC. Required anytime there is a wire mold or conduit connection to the HALO smart sensor enclosure.",
+    priceUSD: 150.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Intrusion Sensors",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 16,
+    stock: 171,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/WKS%20and%20HALO/Halo-Smart-Sensor_500x500.jpg"
+    ],
+    specs: {
+      "Accessory Type": "Surface Mount Conduit / Wiremold Backbox",
+      "Compatibility": "HALO 3C and HALO 3C-PC Smart Sensors",
+      "Enclosure": "Flame-Retardant Polymer",
+      "Application": "Hard Ceilings & Concrete Surface Routing"
+    },
+    features: [
+      "Mandatory surface enclosure for conduit and wire mold cable routing to HALO 3C",
+      "Tamper-resistant construction protecting network terminations",
+      "Aesthetically aligned with factory HALO sensor contours",
+      "Facilitates rapid retrofit installation on solid ceilings"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-halo-v3-00c-pc",
+    sku: "HALO-V3.00C-PC",
+    name: "HALO IoT Smart Sensor 3C-PC with Occupancy & People Counting",
+    description: "HALO-V3.00C-PC. HALO IoT Smart Sensor 3C PC with Occupancy and People Counting. Flagship multi-sensor unit integrating air quality detection, acoustic safety analytics, vape detection, and non-optical people counting.",
+    priceUSD: 2154.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Occupancy Sensors",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 41,
+    stock: 244,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/HALO_Unit_Transparent%20Background_300dpi%20%281%29-06102021.png"
+    ],
+    specs: {
+      "Sensor Platform": "HALO 3C-PC v3.00 Smart Sensor",
+      "Analytics Capabilities": "Non-Optical Occupancy Detection & People Counting",
+      "Safety Detection": "Vape, THC, Gunshot, Aggression, Motion, Tamper",
+      "Power": "PoE (IEEE 802.3af)"
+    },
+    features: [
+      "Combines full HALO 3C air and acoustic detection with privacy-compliant people counting",
+      "Tracks room occupancy without camera lenses or microphones",
+      "Automates HVAC and lighting control through BACnet integration",
+      "Live alert transmission to Avigilon Alta and Unity video ecosystems"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-sen-cloud-1yr",
+    sku: "SEN-CLOUD-1YR",
+    name: "HALO Sensor to Avigilon Alta Video 1-Year Cloud Subscription",
+    description: "SEN-CLOUD-1YR. 1-year subscription; per Halo; to Alta Video includes free Halo Cloud subscription. End user information required. Connects 1x HALO smart sensor to the Avigilon Alta cloud video security platform.",
+    priceUSD: 214.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Intrusion Sensors",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 29,
+    stock: 180,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Subscription Term": "1-Year Active Cloud License",
+      "License Scope": "Per HALO Smart Sensor",
+      "Platform Access": "Avigilon Alta Video + Complimentary HALO Cloud",
+      "Requirements": "Reseller & End User Registration Required"
+    },
+    features: [
+      "Integrates HALO smart sensor telemetry directly into Avigilon Alta cloud video",
+      "Includes full access to HALO Cloud dashboard, notifications, and analytics",
+      "Instant push notifications and SMS/email security dispatch alerts",
+      "12-month cloud software updates, health monitoring, and priority support"
+    ],
+    isChoice: false,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-sen-cloud-3yr",
+    sku: "SEN-CLOUD-3YR",
+    name: "HALO Sensor to Avigilon Alta Video 3-Year Cloud Subscription",
+    description: "SEN-CLOUD-3YR. 3-year subscription; per Halo; to Alta Video includes free Halo Cloud subscription. End user information required. Multi-year cloud connectivity license pairing 1x HALO sensor with Avigilon Alta video management.",
+    priceUSD: 598.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Intrusion Sensors",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 37,
+    stock: 59,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Subscription Term": "3-Year Multi-Year Cloud License",
+      "License Scope": "Per HALO Smart Sensor",
+      "Platform Access": "Avigilon Alta Video + Complimentary HALO Cloud",
+      "Requirements": "Reseller & End User Registration Required"
+    },
+    features: [
+      "Cost-effective 36-month subscription program for school districts and enterprises",
+      "Direct sensor-to-cloud telemetry sync with Avigilon Alta Video management",
+      "Automated alert rules, live dashboard monitoring, and historical logging",
+      "Continuous software feature enhancements and cloud firmware maintenance"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-sen-cloud-5yr",
+    sku: "SEN-CLOUD-5YR",
+    name: "HALO Sensor to Avigilon Alta Video 5-Year Cloud Subscription",
+    description: "SEN-CLOUD-5YR. 5-year subscription; per Halo; to Alta Video includes free Halo Cloud subscription. End user information required. 5-year cloud subscription connecting 1x HALO sensor to the Avigilon Alta cloud platform.",
+    priceUSD: 958.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Intrusion Sensors",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 45,
+    stock: 221,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Subscription Term": "5-Year Long-Term Cloud License",
+      "License Scope": "Per HALO Smart Sensor",
+      "Platform Access": "Avigilon Alta Video + Complimentary HALO Cloud",
+      "Requirements": "Reseller & End User Registration Required"
+    },
+    features: [
+      "Comprehensive 5-year enterprise license locking in long-term operational rates",
+      "Enables cloud event correlation between HALO sensor alerts and adjacent video cameras",
+      "Includes complimentary HALO Cloud portal with multi-facility mapping",
+      "Guaranteed software updates, security patches, and cloud support"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-sen-cloud-10yr",
+    sku: "SEN-CLOUD-10YR",
+    name: "HALO Sensor to Avigilon Alta Video 10-Year Cloud Subscription",
+    description: "SEN-CLOUD-10YR. 10-year subscription; per Halo; to Alta Video includes free Halo Cloud subscription. End user information required. Decade-long cloud subscription program designed for long-term capital deployments and bond-funded institutions.",
+    priceUSD: 1918.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Intrusion Sensors",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 31,
+    stock: 266,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Subscription Term": "10-Year Extended Enterprise Cloud License",
+      "License Scope": "Per HALO Smart Sensor",
+      "Platform Access": "Avigilon Alta Video + Complimentary HALO Cloud",
+      "Requirements": "Reseller & End User Registration Required"
+    },
+    features: [
+      "10-year complete cloud service license eliminating annual recurring overhead",
+      "Ideal for bond-funded public school campuses and municipal institutions",
+      "Unifies sensor notifications, audio event analytics, and cloud camera verification",
+      "Full decade of automated cloud updates, feature enhancements, and cloud health monitoring"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-panic-btn-v2",
+    sku: "PANIC-BTN-V2",
+    name: "Sentry ERS Emergency Panic Button V2",
+    description: "PANIC-BTN-V2. Panic button for Sentry ERS. Hardwired emergency duress push button delivering instantaneous alert triggering for the Sentry ERS emergency response system.",
+    priceUSD: 48.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Emergency Sensors",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 14,
+    stock: 95,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Accessory Type": "Emergency Duress / Panic Push Button",
+      "Compatibility": "Sentry ERS (Emergency Response System)",
+      "Input Type": "Hardwired Contact Closure Trigger",
+      "Mounting": "Under-Desk / Wall Mount Surface"
+    },
+    features: [
+      "Instant single-press duress activation for classrooms and reception desks",
+      "Direct electrical trigger for Sentry ERS lockdown and dispatch sequences",
+      "Tactile feedback button designed to minimize false or accidental presses",
+      "Rugged commercial casing for high-security installations"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-sentryers-cloud-lic-eval",
+    sku: "SENTRYERS-CLOUD-LIC-EVAL",
+    name: "Sentry ERS Cloud Services Evaluation License (60-Day Trial)",
+    description: "SENTRYERS-CLOUD-LIC-EVAL. SentryERS CLOUD Services Evaluation- 60 Day License. Reseller and End User Information Required. 60-Day evaluation license unlocking cloud-based emergency lockdown, mass communication, and system health management for Sentry ERS deployments.",
+    priceUSD: 75.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Perimeter Sensors",
+    brand: "Avigilon",
+    rating: 4.7,
+    reviewCount: 8,
+    stock: 56,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "License Type": "60-Day Evaluation License",
+      "Software Platform": "Sentry ERS Cloud Services",
+      "Scope": "Full-Featured Security Evaluation",
+      "Registration": "Reseller and End User Verification Required"
+    },
+    features: [
+      "60-day complete trial of Sentry ERS cloud dispatch and lockdown tools",
+      "Enables real-time emergency broadcast testing and notification pathways",
+      "Accessible cloud administration console for configuration and diagnostics",
+      "Allows proof-of-concept verification prior to long-term licensing commitment"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-radar-detection-sticker-en-10pcs",
+    sku: "RADAR-DETECTION-STICKER-EN-10PCS",
+    name: "Axis Radar Detection in Operation Warning Stickers (English, 10-Pack)",
+    description: "RADAR-DETECTION-STICKER-EN-10PCS. RADAR DETECTION STICKER EN 10PCS. Axis branded sticker showing a radar detection illustration. Text: Radar detection in operation. 10-piece pack of weather-resistant warning decals for perimeter security installations.",
+    priceUSD: 18.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Perimeter Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 42,
+    stock: 198,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Item Type": "Perimeter Security Warning Decal Pack",
+      "Quantity": "10-Piece Pack (10 Decals)",
+      "Language": "English ('Radar detection in operation')",
+      "Compatibility": "Axis D2110-VE, D2210-VE Radar Detectors & Perimeter Systems",
+      "Material": "Weather-Resistant UV-Coated Vinyl"
+    },
+    features: [
+      "Official Axis Communications branded radar perimeter deterrence decals",
+      "Includes graphic illustration with text: 'Radar detection in operation'",
+      "High-durability weather-resistant vinyl engineered for outdoor UV and rain exposure",
+      "Meets visual notification guidelines for radar and electronic surveillance zones"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:13:00.000Z"
+  },
+  {
+    id: "prod-axis-fa1105",
+    sku: "AXIS-FA1105",
+    name: "AXIS FA1105 Compact 1080p Forensic WDR Sensor Unit (111° FOV, 8m Cable)",
+    description: "AXIS-FA1105. AXIS FA1105 SENSOR UNIT. AXIS FA1105 is a discreet indoor sensor unit with 111º horizontal field of view, for use with an AXIS FA Main Unit. It can be installed in tight places and flush-mounted in a wall, ceiling or metal panel with only a small hole visible for the lens. AXIS FA1105 provides a 1080p resolution and Forensic WDR (wide dynamic range) that is optimized for low light and motion. The unit comes with a mounting bracket and an 8 m (26 ft.) cable for connection to a main unit.",
+    priceUSD: 159.6,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 61,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Resolution": "1080p Full HD (1920x1080)",
+      "Field of View": "111° Horizontal Field of View",
+      "Dynamic Range": "Forensic WDR (Wide Dynamic Range)",
+      "Cable": "Included 8 m (26 ft) Connection Cable",
+      "Compatibility": "AXIS FA Series Main Units (e.g. AXIS FA54)",
+      "Form Factor": "Discreet Miniature Flush-Mount Sensor Unit"
+    },
+    features: [
+      "Ultra-discreet indoor sensor unit designed for tight enclosures, ATMs, and access barriers",
+      "Wide 111° horizontal field of view capturing broad coverage with minimal footprint",
+      "Forensic WDR captures intricate details in scenes with extreme lighting contrasts",
+      "Includes factory mounting bracket and 8-meter connection cable"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-fa1125",
+    sku: "AXIS-FA1125",
+    name: "AXIS FA1125 Discreet Pinhole 1080p Sensor Unit (91° FOV, 8m Cable)",
+    description: "AXIS-FA1125. AXIS FA1125 SENSOR UNIT. AXIS FA1125 is an extremely discreet indoor, pin hole lens, Sensor Unit with a 91º horizontal field of view, for use with an AXIS FA Main Unit. It can be installed in tight places and flush-mounted in a wall, ceiling or metal panel with only a pinhole visible for the lens. AXIS FA1125 provides a 1080p resolution and Forensic WDR (wide dynamic range) that is optimized for low light and motion. The unit comes with a mounting bracket and an 8 m (26 ft.) cable for connection to a main unit.",
+    priceUSD: 170.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 38,
+    stock: 281,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Resolution": "1080p Full HD (1920x1080)",
+      "Field of View": "91° Horizontal Field of View",
+      "Lens Type": "Discreet Pinhole Lens",
+      "Dynamic Range": "Forensic WDR Optimized for Low Light and Motion",
+      "Cable": "Included 8 m (26 ft) Detachable Cable",
+      "Compatibility": "AXIS FA Series Main Units"
+    },
+    features: [
+      "Pinhole lens geometry requires only a tiny opening for complete room coverage",
+      "Forensic WDR ensures clear forensic evidence across uneven indoor illumination",
+      "Supplied with mounting bracket and generous 8-meter connection cable",
+      "Ideal for covert monitoring in high-security banking, retail, and hospitality"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-fa3105-l",
+    sku: "AXIS-FA3105-L",
+    name: "AXIS FA3105-L Eyeball 1080p Sensor Unit with Built-in IR (103° FOV, 15m IR)",
+    description: "AXIS-FA3105-L. AXIS FA3105-L EYEBALL SENSOR UNIT. AXIS FA3105-L is a compact eyeball sensor unit with built in IR illumination (15 m / 49 ft range of reach) for use with AXIS FA Main Unit. It has 103º horizontal field of view and 1080p HDTV resolution with Forensic WDR (wide dynamic range) that is optimized for low light and motion. The unit comes with a mounting bracket and an 8 m (26 ft.) cable for connection to the main unit.",
+    priceUSD: 170.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 102,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Resolution": "1080p HDTV (1920x1080)",
+      "Field of View": "103° Horizontal Field of View",
+      "Infrared Illumination": "Built-in IR LED up to 15 m (49 ft) Range",
+      "Dynamic Range": "Forensic WDR Optimized for Low Light & Motion",
+      "Cable": "Included 8 m (26 ft) Cable",
+      "Form Factor": "Compact Adjustable Eyeball Sensor"
+    },
+    features: [
+      "Integrated infrared illumination illuminates pitch-black areas up to 15 meters",
+      "Adjustable eyeball form factor allows flexible 3-axis directional alignment",
+      "Forensic WDR delivers forensic-grade clarity in high-contrast lighting",
+      "Supplied with surface mounting bracket and 8 m connection lead"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-fa4115",
+    sku: "AXIS-FA4115",
+    name: "AXIS FA4115 Compact Varifocal Dome 1080p Sensor Unit (53°-99° FOV)",
+    description: "AXIS-FA4115. AXIS FA4115 SENSOR UNIT. AXIS FA4115 is a compact varifocal dome sensor unit with 53º to 99º horizontal field of view for use with an AXIS FA Main Unit. AXIS FA4115 provides a 1080p resolution and Forensic WDR (wide dynamic range) that is optimized for low light and motion. The unit comes with a mounting bracket and an 8-m (26 ft.) cable for connection to a main unit.",
+    priceUSD: 201.6,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.8,
+    reviewCount: 24,
+    stock: 214,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Resolution": "1080p Full HD (1920x1080)",
+      "Field of View": "53° to 99° Horizontal Field of View",
+      "Lens Type": "Varifocal Dome Sensor",
+      "Dynamic Range": "Forensic WDR",
+      "Cable": "Included 8 m (26 ft) Connection Cable",
+      "Compatibility": "AXIS FA Main Units"
+    },
+    features: [
+      "Compact varifocal dome enables optical zoom adjustment between 53° and 99°",
+      "High-definition 1080p sensor with Forensic WDR for crisp target identification",
+      "Discreet dome aesthetic blends naturally into retail stores and lobbies",
+      "Complete package includes versatile mounting bracket and 8 m cable"
+    ],
+    isChoice: false,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-f2115-r",
+    sku: "AXIS-F2115-R",
+    name: "AXIS F2115-R Rugged 1080p Varifocal Sensor (2nd Gen F-Series, 107°-56° FOV)",
+    description: "AXIS-F2115-R. AXIS F2115-R Varifocal Sensor. AXIS F2115-R is a 1080p Varifocal sensor part for the 2nd generation F-series. The focus as well as the focal length has to be manually adjusted on the lens. The Horizontal Field of View varies from 107° to 56°. The focal length varies from 3.2mm to 5.7mm. AXIS F2115-R is a rugged indoor sensor delivering up to 1080p at 60fps or 720p at 180fps with AXIS F91 main units.",
+    priceUSD: 330.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 35,
+    stock: 129,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Resolution & Frame Rate": "1080p at 60fps / 720p at 180fps",
+      "Field of View": "107° to 56° Varifocal Horizontal FOV",
+      "Focal Length": "3.2 mm to 5.7 mm Manual Adjustment",
+      "Compatibility": "2nd Gen F-Series F91 Main Units (Requires AXIS TU600X Cable)",
+      "Environment": "Rugged Indoor Construction"
+    },
+    features: [
+      "High-speed capture reaching 1080p at 60fps or 720p at 180fps for fast motion",
+      "Manual varifocal lens offering custom framing between 107° and 56° FOV",
+      "Ruggedized internal mechanics engineered for vibration resistance",
+      "Compatible with AXIS F91 multi-channel main units via TU600X cables"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-f2105-re",
+    sku: "AXIS-F2105-RE",
+    name: "AXIS F2105-RE Rugged Outdoor 1080p Sensor (IP66/IP6K9K, 108° FOV)",
+    description: "AXIS-F2105-RE. AXIS F2105-RE Standard Sensor. AXIS F2105-RE is a 1080p Standard sensor part for the F-series. It has 108° Horizontal Field of View and 3.1mm focal length. AXIS F2105-RE is a rugged outdoor sensor certified IP66 and IP6K9K, delivering up to 1080p at 60fps on AXIS F91 main units.",
+    priceUSD: 277.2,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 5.0,
+    reviewCount: 44,
+    stock: 105,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Resolution & Frame Rate": "1080p at 60fps / 720p at 180fps",
+      "Field of View": "108° Horizontal Field of View",
+      "Focal Length": "3.1 mm Fixed Focal Length",
+      "Ingress Protection": "IP66 and IP6K9K Weather & High-Pressure Washdown Rated",
+      "Compatibility": "AXIS F91 Series Main Units (Requires TU600X Cable)"
+    },
+    features: [
+      "Extreme weather durability certified IP66 and IP6K9K high-pressure washdown resistant",
+      "Wide 108° horizontal viewing angle in a miniature external housing",
+      "Supports smooth 60fps video at 1080p resolution or 180fps high frame rate",
+      "Engineered for emergency vehicles, commercial transit, and industrial gates"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-f2105-re-8p",
+    sku: "AXIS-F2105-RE-8P",
+    name: "AXIS F2105-RE Rugged Outdoor 1080p Standard Sensor (Bulk 8-Pack)",
+    description: "AXIS-F2105-RE-8P. AXIS F2105-RE Standard Sensor 8P. Bulk pack of 8x 1080p Standard sensor units for the 2nd generation F-series. Features 108° Horizontal Field of View, 3.1mm focal length, IP66 and IP6K9K rugged outdoor certification, delivering up to 1080p at 60fps with AXIS F91 main units.",
+    priceUSD: 2212.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 5.0,
+    reviewCount: 18,
+    stock: 273,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Pack Quantity": "Bulk 8-Pack (8x Sensor Units)",
+      "Resolution & Frame Rate": "1080p at 60fps per sensor unit",
+      "Field of View": "108° Horizontal Field of View",
+      "Focal Length": "3.1 mm Fixed",
+      "Ingress Protection": "IP66 and IP6K9K Certified",
+      "Compatibility": "AXIS F91 Main Units (Requires TU600X Cables)"
+    },
+    features: [
+      "Commercial contractor bulk 8-pack for fleet and facility-wide deployments",
+      "Each sensor delivers IP66 and IP6K9K washdown-rated outdoor reliability",
+      "Connects to 4-channel AXIS F9114 main units for consolidated processing",
+      "Delivers high-frame-rate 1080p video with Forensic WDR imaging"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-f2115-r-8p",
+    sku: "AXIS-F2115-R-8P",
+    name: "AXIS F2115-R Rugged Indoor 1080p Varifocal Sensor (Bulk 8-Pack)",
+    description: "AXIS-F2115-R-8P. AXIS F2115-R Varifocal Sensor 8P. Bulk pack of 8x 1080p Varifocal sensor parts for the 2nd generation F-series. Features manual focal length adjustment from 3.2mm to 5.7mm (107° to 56° FOV) and delivers up to 1080p at 60fps with AXIS F91 main units.",
+    priceUSD: 2640.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 21,
+    stock: 186,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Pack Quantity": "Bulk 8-Pack (8x Varifocal Sensor Units)",
+      "Resolution & Frame Rate": "1080p at 60fps / 720p at 180fps",
+      "Field of View": "107° to 56° Adjustable Varifocal FOV",
+      "Focal Length": "3.2 mm to 5.7 mm Manual Adjustment",
+      "Compatibility": "AXIS F91 Main Units (Requires TU600X Cables)"
+    },
+    features: [
+      "Commercial volume 8-pack of 2nd generation F-series varifocal sensors",
+      "Flexible optical adjustment covering narrow corridors to wide reception halls",
+      "High-speed 60fps capture ensuring blur-free identification of fast-moving targets",
+      "Ruggedized metal chassis built for demanding indoor transport and commerce"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:16:00.000Z"
+  },
+  {
+    id: "prod-axis-d2123-ve-black",
+    sku: "AXIS-D2123-VE-BLACK",
+    name: "AXIS D2123-VE 270° FMCW Security Radar with AI Classification (Black Front)",
+    description: "AXIS-D2123-VE-BLACK. AXIS D2123-VE Radar Black. Wide 270° horizontal field of detection delivering reliable 24/7 detection and AI-powered human and vehicle classification. Unique box-shaped zones simplify coverage planning and enable radar-video fusion with ARTPEC-9 PTZ cameras. Features 24.05–24.25 GHz FMCW band, 60W PoE out to power an additional camera, 140m human recognition, 200m vehicle recognition, IP66/IP67 and IK09/IK10 ratings.",
+    priceUSD: 5216.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Radar Sensors",
+    brand: "Axis Communications",
+    rating: 5.0,
+    reviewCount: 41,
+    stock: 213,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Detection Coverage": "270° Horizontal Field of Detection (FMCW Radar)",
+      "Operating Frequency": "24.05 – 24.25 GHz FMCW Operation Band",
+      "Analytics": "Built-in AI Classification (Humans up to 140m / Vehicles up to 200m)",
+      "Radar-Video Fusion": "Native Pairing with Selected ARTPEC-9 PTZ Cameras",
+      "Power Delivery": "60W PoE Out (IEEE 802.3bt Type 4 Class 8 In required for PoE pass-through)",
+      "Durability & Ingress": "IP66/IP67, IK09/IK10, NEMA 4X, -40°C to 60°C"
+    },
+    features: [
+      "Expansive 270° detection radius eliminating blind spots along facility perimeters",
+      "AI classification distinguishes humans and vehicles day or night regardless of fog or weather",
+      "Direct radar-video fusion integration with Axis ARTPEC-9 PTZ tracking cameras",
+      "60W PoE pass-through powers an attached PTZ or illuminator without extra cable runs"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:18:00.000Z"
+  },
+  {
+    id: "prod-axis-d2123-ve-white",
+    sku: "AXIS-D2123-VE-WHITE",
+    name: "AXIS D2123-VE 270° FMCW Security Radar with AI Classification (White Front)",
+    description: "AXIS-D2123-VE-WHITE. AXIS D2123-VE Radar White. Offers a wide 270° horizontal field of detection delivering reliable 24/7 detection and AI-powered classification. Box-shaped zones simplify coverage planning and system design. Integrates with ARTPEC-9 PTZ cameras for radar-video fusion, features 24.05–24.25 GHz FMCW, 60W PoE out, 140m human recognition distance, 200m vehicle detection, and IP66/IP67 weatherproofing.",
+    priceUSD: 5216.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Radar Sensors",
+    brand: "Axis Communications",
+    rating: 5.0,
+    reviewCount: 37,
+    stock: 222,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Detection Coverage": "270° Horizontal Field of Detection (FMCW Radar)",
+      "Operating Frequency": "24.05 – 24.25 GHz FMCW Operation Band",
+      "Analytics": "Built-in AI Classification (Humans up to 140m / Vehicles up to 200m)",
+      "Radar-Video Fusion": "Seamless Auto-Tracking Pairing with ARTPEC-9 PTZ Cameras",
+      "Power Delivery": "60W PoE Out Port to Power Companion Camera",
+      "Durability & Ingress": "IP66/IP67, IK09/IK10, NEMA 250 Type 4X, NEMA TS 2"
+    },
+    features: [
+      "Wide 270° radar coverage area of 30,000 m² for human recognition and 59,000 m² for vehicles",
+      "Weather-immune detection performs flawlessly in dense fog, heavy rain, smoke, and zero light",
+      "Standard Axis PTZ mounting interface simplifies unified physical and radar installation",
+      "PoE pass-through enables single-cable installation powering both radar and PTZ camera"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:18:00.000Z"
+  },
+  {
+    id: "prod-axis-d2210-ve-white",
+    sku: "AXIS-D2210-VE-WHITE",
+    name: "AXIS D2210-VE 95° FMCW Security Radar with Dynamic LEDs (White Front)",
+    description: "AXIS-D2210-VE-WHITE. AXIS D2210-VE Security Radar, White front. 61.0–61.5 GHz FMCW radar for pole and wall mount. Reliable 95° horizontal field of detection 24/7 with built-in analytics including human and vehicle classification, radar autotracking for PTZ cameras, integrated dynamic deterrence LEDs, 30W PoE out, IP66, IK08, and NEMA 4 ratings.",
+    priceUSD: 1388.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Radar Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 103,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Detection Field": "95° Horizontal Field of Detection",
+      "Frequency Band": "61.0 – 61.5 GHz FMCW High-Frequency Band",
+      "Classification Analytics": "AI-Based Human and Vehicle Classification",
+      "Deterrence Features": "Integrated Dynamic Visual Warning LEDs",
+      "PTZ Integration": "Radar Autotracking Direct PTZ Camera Slew-to-Cue",
+      "Power & Ports": "30W PoE Out, 1 Input / 1 Output, DC 8-28V or PoE (802.3bt Class 6)"
+    },
+    features: [
+      "High-precision 60 GHz radar optimized for area surveillance and traffic speed monitoring",
+      "Dynamic deterrence LEDs flash upon intrusion to visually notify trespassers",
+      "Slew-to-cue radar autotracking directs PTZ cameras automatically to detected coordinates",
+      "30W PoE passthrough powers companion visual cameras or network horns"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:18:00.000Z"
+  },
+  {
+    id: "prod-axis-d2210-ve-black",
+    sku: "AXIS-D2210-VE-BLACK",
+    name: "AXIS D2210-VE 95° FMCW Security Radar with Dynamic LEDs (Black Front)",
+    description: "AXIS-D2210-VE-BLACK. AXIS D2210-VE Security Radar, Black front. 61.0–61.5 GHz FMCW radar for pole and wall mount. Features reliable 95° horizontal field of detection with built-in analytics for human and vehicle classification. Optimized for area and traffic monitoring with radar autotracking, dynamic deterrence LEDs, 30W PoE out, and rugged IP66/IK08 rating.",
+    priceUSD: 1388.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Radar Sensors",
+    brand: "Axis Communications",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 165,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Detection Field": "95° Horizontal Field of Detection",
+      "Frequency Band": "61.0 – 61.5 GHz FMCW High-Frequency Band",
+      "Front Finish": "Black Front Panel for Architectural Blending",
+      "Analytics": "Human & Vehicle Classification, Distance Filtering",
+      "Deterrence": "Integrated Programmable Dynamic LEDs",
+      "Ingress Protection": "IP66, IK08, NEMA 4, -40°C to 60°C Operating Temperature"
+    },
+    features: [
+      "Sleek black front enclosure designed to blend into modern dark architecture and facades",
+      "Accurate velocity and position calculation for vehicles and pedestrians",
+      "Triggers automatic camera recording, network audio announcements, and deterrent lighting",
+      "Onboard microSD slot enables redundant edge recording of radar tracks"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:18:00.000Z"
+  },
+  {
+    id: "prod-axis-d6210",
+    sku: "AXIS-D6210",
+    name: "AXIS D6210 Compact Network Indoor Air Quality Sensor",
+    description: "AXIS-D6210. AXIS D6210 Air Quality Sensor. Axis' first environmental sensor, seamlessly adding indoor air quality monitoring to compatible Axis devices and VMS platforms. Delivers continuous tracking of indoor environmental health indicators in classrooms, healthcare, and offices.",
+    priceUSD: 458.4,
+    category: "Security Sensors & Detection",
+    subcategory: "Environmental Sensors",
+    brand: "Axis Communications",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 151,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Device Type": "Indoor Air Quality & Environmental Sensor",
+      "Integration": "Direct Compatibility with Axis Network Devices & VMS",
+      "Application": "Classrooms, Healthcare, Corporate Offices, Smart Buildings",
+      "Form Factor": "Compact Low-Profile Surface Mount"
+    },
+    features: [
+      "Monitors real-time indoor air quality parameters and environmental health",
+      "Seamlessly connects into Axis network video and building management ecosystems",
+      "Triggers automated alerts when environmental thresholds exceed healthy baselines",
+      "Compact unobtrusive profile installs easily in learning and enterprise spaces"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:18:00.000Z"
+  },
+  {
+    id: "prod-axis-d6310",
+    sku: "AXIS-D6310",
+    name: "AXIS D6310 All-in-One Network Air Quality, Vape & Audio Sensor (IK08)",
+    description: "AXIS-D6310. AXIS D6310 Air Quality Sensor. All-in-one network connected indoor Air Quality Sensor. Detects vaping, smoking, and measures indoor air quality (IAQ). Features 4 multicolor status LEDs, built-in network speaker for announcements, built-in microphone for AXIS Audio Analytics, Class 3 PoE passthrough, PIR presence sensor, virtual dashboard video streaming, and IK08 vandal resistance.",
+    priceUSD: 1122.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Audio Detection",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 48,
+    stock: 99,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Sensor Architecture": "All-in-One Environmental, Vape & Audio Sensor",
+      "Detection Capabilities": "Vaping & Smoking Detection, Indoor Air Quality (IAQ)",
+      "Audio Hardware": "Built-in Microphone + Built-in Network Speaker for Announcements",
+      "Audio Analytics": "AXIS Audio Analytics Included (Acoustic Anomaly Detection)",
+      "Presence Sensing": "Integrated Passive Infrared (PIR) Motion Detector",
+      "Visual Alerts": "Four Multicolor LEDs (Red, Yellow, Green, Blue)",
+      "Network & Power": "Class 3 PoE Passthrough Port (Connects Second IP Device)",
+      "Vandal Rating": "IK08 Impact-Resistant Enclosure with Tamper-Resistant Screws",
+      "Video Dashboard": "Virtual Stream Outputs Real-Time Dashboard to VMS"
+    },
+    features: [
+      "Complete multi-sensor platform identifying vape aerosols, tobacco smoke, and air pollution",
+      "Integrated microphone with AXIS Audio Analytics and two-way network speaker for live paging",
+      "PIR motion sensor detects room presence for occupancy and energy management",
+      "Class 3 PoE passthrough allows daisychaining a camera without a second network drop",
+      "Virtual stream delivers an animated dashboard directly into any ONVIF-compliant VMS"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:18:00.000Z"
+  },
+  {
+    id: "prod-axis-f7225-re",
+    sku: "AXIS-F7225-RE",
+    name: "AXIS F7225-RE Rugged Outdoor Angled Pinhole 1080p Sensor Unit (92° FOV)",
+    description: "AXIS-F7225-RE. AXIS F7225-RE Pinhole Sensor. AXIS F7225-RE is a 1080p Angled pinhole sensor part for the F-series. It has 92° Horizontal Field of View and 3.7mm focal length. AXIS F7225-RE is a rugged outdoor angled pinhole sensor certified IP66, delivering up to 1080p at 60fps with AXIS F91 main units (or 720p at 180fps with AXIS F9111). Includes 1x AXIS F8202 Straight Mounting bracket. Requires AXIS TU600X cable.",
+    priceUSD: 277.2,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 32,
+    stock: 256,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Resolution & Frame Rate": "1080p at 60fps / 720p at 180fps",
+      "Field of View": "92° Horizontal Field of View",
+      "Focal Length": "3.7 mm Focal Length",
+      "Form Factor": "Angled Pinhole Covert Sensor Unit",
+      "Ingress Protection": "IP66 Weather & Dust Resistant",
+      "Included Accessories": "1x AXIS F8202 Straight Mounting Bracket (TU600X Cable Required)"
+    },
+    features: [
+      "Covert angled pinhole design enables concealed installation in ATMs, doors, and exterior access panels",
+      "Rugged IP66-certified outdoor chassis resistant to rain, dust, and tampering",
+      "High frame rate capture up to 60fps at 1080p or 180fps at 720p",
+      "Compatible with 2nd generation AXIS F91 modular multi-channel main units"
+    ],
+    isChoice: false,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-axis-f7225-re-8p",
+    sku: "AXIS-F7225-RE-8P",
+    name: "AXIS F7225-RE Rugged Outdoor Angled Pinhole 1080p Sensor (Bulk 8-Pack)",
+    description: "AXIS-F7225-RE-8P. AXIS F7225-RE Pinhole Sensor 8P. Bulk pack of 8x 1080p angled pinhole sensor units for the F-series. Each unit features 92° Horizontal Field of View, 3.7mm focal length, IP66 rugged outdoor rating, up to 1080p at 60fps on AXIS F91 main units. Supplied with 8x AXIS F8202 Straight Mounting brackets. TU600X cables purchased separately.",
+    priceUSD: 2212.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.8,
+    reviewCount: 17,
+    stock: 106,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Pack Quantity": "Bulk 8-Pack (8x Angled Pinhole Sensors)",
+      "Resolution": "1080p Full HD at 60fps per sensor",
+      "Field of View": "92° Horizontal Field of View",
+      "Focal Length": "3.7 mm Fixed",
+      "Ingress Protection": "IP66 Rugged Outdoor Rating",
+      "Included Mounts": "8x AXIS F8202 Straight Mounting Brackets"
+    },
+    features: [
+      "Volume contractor 8-pack tailored for banking kiosks, fleet transit, and retail chain installations",
+      "Angled pinhole geometry conceals discreetly behind flat panels and structural gaps",
+      "IP66 rated against harsh outdoor environmental and weather exposure",
+      "Supplied with 8 straight mounting brackets for uniform deployment"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-axis-f2107-re",
+    sku: "AXIS-F2107-RE",
+    name: "AXIS F2107-RE Rugged Outdoor 5MP Standard Sensor (110° FOV, IP66/IP6K9K)",
+    description: "AXIS-F2107-RE. AXIS F2107-RE Standard Sensor. AXIS F2107-RE is a 5Mp Standard sensor with 110º Horizontal Field of View and 2.8mm focal length. Rugged outdoor sensor unit certified IP66 and IP6K9K, compatible with all AXIS F91 main units. Compatible with all AXIS F2105-RE mounting accessories. Requires AXIS TU600X cable.",
+    priceUSD: 319.2,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 5.0,
+    reviewCount: 29,
+    stock: 61,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Resolution": "5 MP High-Resolution Sensor",
+      "Field of View": "110° Wide Horizontal Field of View",
+      "Focal Length": "2.8 mm Fixed Focal Length",
+      "Ingress & Ruggedness": "IP66 and IP6K9K High-Pressure Washdown Certified",
+      "Compatibility": "AXIS F91 Main Units (Requires TU600X Cable)"
+    },
+    features: [
+      "5 Megapixel high-definition sensor delivers crisp forensic details in outdoor environments",
+      "Broad 110° horizontal angle capturing wide surveillance zones with minimal camera units",
+      "Certified IP66 and IP6K9K resistant to high-pressure thermal washdowns and extreme vibration",
+      "Shares full mounting accessory compatibility with AXIS F2105-RE hardware"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-axis-f2107-re-8p",
+    sku: "AXIS-F2107-RE-8P",
+    name: "AXIS F2107-RE Rugged Outdoor 5MP Standard Sensor (Bulk 8-Pack)",
+    description: "AXIS-F2107-RE-8P. AXIS F2107-RE Standard Sensor 8P. Bulk pack of 8x 5Mp Standard sensors. Features 110° Horizontal Field of View, 2.8mm focal length, IP66 and IP6K9K rugged outdoor certification, compatible with all AXIS F91 main units. Requires AXIS TU600X cables.",
+    priceUSD: 2554.8,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 5.0,
+    reviewCount: 23,
+    stock: 215,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Pack Quantity": "Bulk 8-Pack (8x 5MP Sensors)",
+      "Resolution": "5 MP High-Resolution (per sensor)",
+      "Field of View": "110° Horizontal Field of View",
+      "Focal Length": "2.8 mm Fixed",
+      "Durability": "IP66 and IP6K9K Washdown Certified",
+      "Compatibility": "AXIS F91 Main Units (TU600X Cable Required)"
+    },
+    features: [
+      "Cost-saving bulk 8-pack for enterprise facility perimeters and transit vehicle fleets",
+      "5MP resolution provides digital zoom forensic clarity on license plates and faces",
+      "Built to endure severe vibration, extreme weather, and high-pressure steam cleaning",
+      "Integrates directly into 4-channel AXIS F91 main unit recording streams"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-axis-f2108",
+    sku: "AXIS-F2108",
+    name: "AXIS F2108 Ultra-Compact Indoor 8MP 4K Sensor Unit",
+    description: "AXIS-F2108. AXIS F2108 Standard Sensor. Ultra-compact indoor Standard sensor delivering 8MP (4K) resolution. Non-rugged indoor sensor unit compatible with all AXIS F91 and F91 Mk II main units and AXIS TU600X cables.",
+    priceUSD: 255.6,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 39,
+    stock: 226,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/07_34_Right_Front_Decline_Avigilon_Blue_03%20%281%29%20%281%29.png"
+    ],
+    specs: {
+      "Resolution": "8 MP / 4K Ultra HD Resolution",
+      "Form Factor": "Ultra-Compact Miniature Indoor Sensor",
+      "Environment": "Indoor Controlled Applications",
+      "Compatibility": "AXIS F91 and F91 Mk II Main Units",
+      "Cabling": "Compatible with AXIS TU600X Cables"
+    },
+    features: [
+      "Delivers crystal-clear 8MP 4K resolution in a miniature thumb-sized form factor",
+      "Ultra-compact footprint fits effortlessly into retail display fixtures, doorways, and ceilings",
+      "Works with AXIS F91 and F91 Mk II main units for distributed multi-room coverage",
+      "Exceptional forensic image detail preserving facial features and text legibility"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-axis-f2108-8p",
+    sku: "AXIS-F2108-8P",
+    name: "AXIS F2108 Ultra-Compact Indoor 8MP 4K Sensor Unit (Bulk 8-Pack)",
+    description: "AXIS-F2108-8P. AXIS F2108 Standard Sensor 8P. Bulk pack of 8x AXIS F2108 Standard Sensor units. Ultra compact Standard sensors delivering 8Mp resolution. Non-rugged indoor sensors compatible with all AXIS F91 and F91 Mk II main units and AXIS TU600X cables.",
+    priceUSD: 2041.2,
+    category: "Security Sensors & Detection",
+    subcategory: "Motion Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 200,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Pack Quantity": "Bulk 8-Pack (8x 8MP Sensor Units)",
+      "Resolution": "8 MP / 4K UHD Resolution per sensor",
+      "Form Factor": "Ultra-Compact Indoor Miniature Sensor",
+      "Compatibility": "AXIS F91 and F91 Mk II Main Units",
+      "Cabling": "Compatible with AXIS TU600X Cables"
+    },
+    features: [
+      "Bulk contractor 8-pack of 8MP 4K miniature indoor sensors",
+      "Ideal for high-density luxury retail stores, banks, and corporate reception areas",
+      "Delivers 8MP clarity across multiple rooms while centralizing compute in the main unit",
+      "Compatible with standard AXIS TU600X interconnect cables"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-axis-d2122-ve-black",
+    sku: "AXIS-D2122-VE-BLACK",
+    name: "AXIS D2122-VE 180° FMCW Security Radar with AI Classification (Black Front)",
+    description: "AXIS-D2122-VE-BLACK. AXIS D2122-VE Radar Black. Wide 180° horizontal field of detection delivering reliable 24/7 detection and AI-powered human and vehicle classification. Unique box-shaped zones simplify coverage planning and enable radar-video fusion with ARTPEC-9 PTZ cameras. Operates on 24.05–24.25 GHz FMCW band, 60W PoE out, 140m human recognition distance, 200m vehicle detection, IP66/IP67, and IK09/IK10 ratings.",
+    priceUSD: 4062.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Radar Sensors",
+    brand: "Axis Communications",
+    rating: 5.0,
+    reviewCount: 35,
+    stock: 210,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Halo%204/06_Front_Decline_Avigilon_03.png"
+    ],
+    specs: {
+      "Detection Field": "180° Horizontal Field of Detection (FMCW Radar)",
+      "Frequency Band": "24.05 – 24.25 GHz FMCW Radar Band",
+      "Classification Range": "Human Recognition up to 140m / Vehicles up to 200m",
+      "Coverage Area": "20,000 m² Human Recognition / 39,400 m² Vehicle Detection",
+      "Radar-Video Fusion": "Selected ARTPEC-9 PTZ Camera Integration",
+      "Power Delivery": "60W PoE Out Port (PoE In 802.3bt Type 4 Class 8 Required)",
+      "Ingress & Finish": "Black Front Panel, IP66/IP67, IK09/IK10, NEMA 4X, -40°C to 60°C"
+    },
+    features: [
+      "180° radar perimeter coverage tailored for long facility boundary walls and facades",
+      "Advanced AI analytics classify persons and vehicles regardless of weather conditions",
+      "Pairs directly with Axis ARTPEC-9 PTZ cameras for coordinated visual confirmation",
+      "60W PoE passthrough powers companion high-power PTZ cameras or audio horns"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-axis-d2122-ve-white",
+    sku: "AXIS-D2122-VE-WHITE",
+    name: "AXIS D2122-VE 180° FMCW Security Radar with AI Classification (White Front)",
+    description: "AXIS-D2122-VE-WHITE. AXIS D2122-VE Radar White. Wide 180° horizontal field of detection delivering reliable 24/7 detection and AI-powered classification. Box-shaped detection zones simplify system design. Works standalone or integrates with ARTPEC-9 PTZ cameras for radar-video fusion. 24.05–24.25 GHz FMCW band, 60W PoE out, 140m human recognition, 200m vehicle recognition, IP66/IP67, and IK09/IK10 ratings.",
+    priceUSD: 4062.0,
+    category: "Security Sensors & Detection",
+    subcategory: "Radar Sensors",
+    brand: "Axis Communications",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 92,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Amplify%20Halo%20Sensor/APC001_Rendering2%20%281%29.png"
+    ],
+    specs: {
+      "Detection Field": "180° Horizontal Field of Detection (FMCW Radar)",
+      "Frequency Band": "24.05 – 24.25 GHz FMCW Radar Band",
+      "Classification Range": "Human Recognition up to 140m / Vehicles up to 200m",
+      "Coverage Area": "20,000 m² Human Recognition / 39,400 m² Vehicle Detection",
+      "Radar-Video Fusion": "Selected ARTPEC-9 PTZ Camera Integration",
+      "Power Delivery": "60W PoE Out Port (PoE In 802.3bt Type 4 Class 8 Required)",
+      "Ingress & Finish": "White Front Panel, IP66/IP67, IK09/IK10, NEMA 4X, -40°C to 60°C"
+    },
+    features: [
+      "180° wide detection arc delivering expansive perimeter coverage without video blind spots",
+      "Reliable 24/7 operation immune to blinding sunlight, rain, snow, and darkness",
+      "Uses the same mounting interface as Axis PTZ cameras for fast consolidated mounting",
+      "Edge storage with microSD slot and open API for seamless third-party VMS integration"
+    ],
+    isChoice: false,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:20:00.000Z"
+  },
+  {
+    id: "prod-pelco-cm1751",
+    sku: "CM1751",
+    name: "Pelco CM1751 Light Duty Mount Ceiling/Pendant/Wall",
+    description: "CM1751. Light Duty mount ceiling/pendant/wall. Versatile light duty camera mounting bracket suitable for ceiling, pendant, or wall applications.",
+    priceUSD: 73.46,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 38,
+    stock: 182,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Light Duty Ceiling / Pendant / Wall Mount",
+      "Compatibility": "Universal Light Duty Security Cameras",
+      "Construction": "High-Durability Powder-Coated Metal",
+      "Finish": "White Finish"
+    },
+    features: [
+      "Multi-directional 3-in-1 mounting support: ceiling, pendant, or wall installation",
+      "Engineered for compact indoor and light-duty commercial camera positions",
+      "Sturdy lightweight metal design with neat cable management conduit routing",
+      "Prime expedited delivery and authorized Pelco hardware warranty"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-cm400",
+    sku: "CM400",
+    name: "Pelco CM400 Heavy-Duty Corner Adapter (Supports up to 75 lbs)",
+    description: "CM400. Corner adapter for LWM41 Legacy; IWM; or IWM24 wall mounts for Legacy and Intercept series or Spectra and DF5 pendant series. Supports up to 75 lbs.",
+    priceUSD: 114.86,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 42,
+    stock: 138,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Load Capacity": "Supports up to 75 lbs (34 kg)",
+      "Compatibility": "LWM41 Legacy, IWM, IWM24 Wall Mounts; Spectra & DF5 Series",
+      "Mounting Style": "Exterior/Interior 90° Corner Adapter",
+      "Material": "Cast Aluminum Hardware"
+    },
+    features: [
+      "Reinforced corner adapter engineered for heavy-duty structural corner attachment",
+      "Compatible with Pelco LWM41, IWM, and IWM24 series pendant arms",
+      "Supports large dome payloads up to 75 lbs in demanding perimeter positions",
+      "Pre-drilled mounting patterns with corrosion-resistant exterior coating"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-cm400-sw",
+    sku: "CM400-SW",
+    name: "Pelco CM400-SW Corner Mount Adapter for IWM-SW Spectra Enhanced 7 (RAL 9003)",
+    description: "CM400-SW. Corner Mount Adaptor For IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003. Specifically color-matched in architectural white for pristine exterior and interior corner installations.",
+    priceUSD: 114.86,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 201,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Color Finish": "RAL 9003 Signal White Architectural Finish",
+      "Compatibility": "IWM-SW Wall Mount for Spectra Enhanced 7 IP PTZ",
+      "Mounting Position": "90° Exterior / Interior Corner Adapter",
+      "Weather Rating": "Outdoor Weather-Resistant Coating"
+    },
+    features: [
+      "Designed specifically for pairing with Pelco IWM-SW wall brackets",
+      "Matches Spectra Enhanced 7 IP PTZ camera styling and RAL 9003 signal white color",
+      "Precision corner geometry eliminates structural vibration on high-zoom PTZs",
+      "All-weather powder coat protects against salt spray and ultraviolet degradation"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-crnmt-1001",
+    sku: "CRNMT-1001",
+    name: "Pelco CRNMT-1001 Corner Mount Adapter for WLMT-1001 Large Pendant",
+    description: "CRNMT-1001. Corner mount for large pendant WLMT-1001. CORNER MNT FOR LRGE PENDT WLMT-1001. Heavy-duty external corner bracket engineered to support high-payload pendant wall arms.",
+    priceUSD: 174.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 31,
+    stock: 266,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "WLMT-1001 Large Pendant Wall Arm",
+      "Mounting Style": "Heavy-Duty 90° Outside Corner Mount",
+      "Application": "Large Industrial & Campus Pendant Domes",
+      "Construction": "Structural Aluminum Alloy"
+    },
+    features: [
+      "Custom engineered footprint for the Pelco WLMT-1001 heavy pendant mount",
+      "Provides expansive 270° corner situational surveillance visibility",
+      "Rigid alloy casting minimizes wind vibration for high-zoom analytics",
+      "Integrated cable entry feeds wiring directly through corner walls"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-dbhwgc",
+    sku: "DBHWGC",
+    name: "Pelco DBHWGC Pole Mount Adapter (210mm to 225mm Diameter)",
+    description: "DBHWGC. Pole adapter 210 to 225mm. Heavy-duty pole mount adapter designed for medium-to-large utility and light poles ranging from 210mm to 225mm in diameter.",
+    priceUSD: 134.63,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 112,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Pole Diameter Range": "210 mm to 225 mm (8.27 in to 8.86 in)",
+      "Material": "Galvanized Steel / Weather-Resistant Alloy",
+      "Strapping Compatibility": "Standard Heavy-Duty Stainless Steel Straps",
+      "Application": "Perimeter Utility Poles, Street Lighting, Parking Mast"
+    },
+    features: [
+      "Accommodates circular and octagonal poles with diameters between 210mm and 225mm",
+      "High clamping torque ensures stability during extreme storm and wind conditions",
+      "Universal mounting pattern for Pelco wall arms, junction boxes, and bullet cameras",
+      "Corrosion-inhibiting electro-plating for long-term outdoor infrastructure"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-ibp3bbap-ei",
+    sku: "IBP3BBAP-EI",
+    name: "Pelco IBP3BBAP-EI In-Ceiling Mount for Sarix Pro 3 & Enhanced 3 Environmental Bullets",
+    description: "IBP3BBAP-EI. In-ceiling Mount for Sarix Pro 3 and Sarix Enh 3 Environmental Bullet cameras. In-ceiling Mount for Sarix Professional 3 and Sarix Enhanced 3 Environmental Bullet cameras.",
+    priceUSD: 136.24,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 35,
+    stock: 118,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Sarix Professional 3 & Sarix Enhanced 3 Environmental Bullet Cameras",
+      "Installation Type": "Recessed In-Ceiling / Drop-Ceiling Mount",
+      "Plenum Rating": "Suitable for Indoor Ceiling & Air-Handling Plenum Spaces",
+      "Finish": "Architectural White Trim Ring"
+    },
+    features: [
+      "Provides seamless flush in-ceiling integration for environmental bullet cameras",
+      "Eliminates exposed cabling and hardware for a pristine architectural look",
+      "Quick-clamp ceiling bracket simplifies installation in standard drop-ceiling tiles",
+      "Designed specifically for Pelco Sarix Pro 3 and Enhanced 3 bullet series"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-ibp3bbap-es",
+    sku: "IBP3BBAP-ES",
+    name: "Pelco IBP3BBAP-ES Surface Mount for Sarix Pro 3 & Enhanced 3 Environmental Bullets",
+    description: "IBP3BBAP-ES. Surface Mount for Sarix Pro 3 and Sarix Enh 3 Environmental Bullet cameras. Surface Mount for Sarix Professional 3 and Sarix Enhanced 3 Environmental Bullet cameras.",
+    priceUSD: 141.58,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 46,
+    stock: 237,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Sarix Professional 3 & Sarix Enhanced 3 Environmental Bullets",
+      "Mounting Type": "Outdoor / Indoor Surface Mount Junction Base",
+      "Conduit Access": "Side and Rear Conduit Entry Knockouts",
+      "Environmental Seal": "Weatherproof Gasket Included"
+    },
+    features: [
+      "Sturdy surface mounting base allowing surface conduit termination",
+      "Factory-fit gasket seals against dust and moisture ingress in outdoor settings",
+      "Spacious internal junction space simplifies cable termination and grounding",
+      "Pre-drilled mounting holes match Sarix 3 bullet camera mounting feet"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-imm-cm",
+    sku: "IMM-CM",
+    name: "Pelco IMM-CM Corner Mount for WMVE-SR (Telegrey Finish)",
+    description: "IMM-CM. Corner Mount for WMVE-SR; Telegrey. Precision external corner mounting bracket in signature Telegrey finish for WMVE-SR wall mounts.",
+    priceUSD: 173.63,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 124,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco WMVE-SR Wall Mount Arm",
+      "Color Finish": "Telegrey Industrial Powder Coat",
+      "Mounting Style": "90° Exterior Corner Adapter",
+      "Material": "Heavy Cast Aluminum"
+    },
+    features: [
+      "Matches Pelco Telegrey finish for seamless commercial building integration",
+      "Designed specifically for pairing with WMVE-SR pendant wall brackets",
+      "Provides wide 270° corner field of view for high-performance multisensor domes",
+      "Includes heavy-duty stainless steel mounting hardware and fasteners"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-iwm-gy",
+    sku: "IWM-GY",
+    name: "Pelco IWM-GY Wall Mount with Cable Feedthrough for Spectra Pendant (Gray, 75 lbs)",
+    description: "IWM-GY. Wall mount with cable feedthrough for pendant Spectra cameras; Gray. Wall mount with cable feedthrough for pendant mounted Spectra cameras. Supports up to 75 pounds. Can also be used with PP4348 for parapet rooftop applications. Gray finish.",
+    priceUSD: 130.88,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 52,
+    stock: 193,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Load Capacity": "Supports up to 75 lbs (34 kg)",
+      "Compatibility": "Spectra Series Pendant Domes, PP4348 Parapet Adapter",
+      "Cable Routing": "Integrated Internal Cable Feedthrough Channel",
+      "Finish": "Durable Gray Powder Coat"
+    },
+    features: [
+      "Internal wire routing completely protects cables against vandalism and weather",
+      "Heavy-duty cast aluminum structure easily supports up to 75 pounds",
+      "Versatile compatibility with Spectra pendant domes and PP4348 rooftop parapets",
+      "1.5-inch NPT threaded pendant head provides rapid camera twist-lock mounting"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-iwm-sr",
+    sku: "IWM-SR",
+    name: "Pelco IWM-SR Wall Mount Light Gray for Sarix IE Large Pendant",
+    description: "IWM-SR. Wall Mount Lt Gray for Sarix IE P Pnd Lg. Wall mount with cable feedthrough in Light Gray finish for Sarix IE series pendant large cameras.",
+    priceUSD: 126.89,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 39,
+    stock: 249,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Sarix IE Series Pendant Large Cameras",
+      "Finish": "Light Gray (SR) Weather-Resistant Coating",
+      "Mounting Position": "Vertical Wall Mount Arm",
+      "Cable Channel": "Internal Protected Conduit Path"
+    },
+    features: [
+      "Factory-engineered for Sarix IE large environmental pendant domes",
+      "Integrated cable passage shields signal and power wires from elements",
+      "Robust cast construction prevents sway during high winds",
+      "Prime-eligible stock ready for immediate dispatch and installation"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-iwm-sw",
+    sku: "IWM-SW",
+    name: "Pelco IWM-SW Environmental Wall Mount for Spectra Enhanced 7 (RAL 9003 White)",
+    description: "IWM-SW. Environmental wall mount with cable feedthrough for Spectra Enhanced 7; RAL 9003. Environmental wall mount with cable feedthrough for Spectra Enhanced 7 IP PTZ cameras; RAL 9003 white finish.",
+    priceUSD: 130.88,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 44,
+    stock: 114,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Color Finish": "RAL 9003 Signal White Environmental Finish",
+      "Compatibility": "Spectra Enhanced 7 IP PTZ Series",
+      "Cable Management": "Internal Feedthrough with Weather-Gasket Seals",
+      "Thread": "1.5-inch NPT Female Threaded Connection"
+    },
+    features: [
+      "Matched specifically to the high-performance Spectra Enhanced 7 PTZ series",
+      "Pure RAL 9003 signal white finish blends seamlessly into modern architecture",
+      "Internal wire way eliminates exposed conduit and protects against weather",
+      "Pairs natively with Pelco CM400-SW corner and PA101-SW pole adapters"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-jbox-1201",
+    sku: "JBOX-1201",
+    name: "Pelco JBOX-1201 Weatherproof Junction Box for Dual Head Cameras",
+    description: "JBOX-1201. Junction Box for Dual Head Cameras. Specialized weatherproof junction box providing neat cable splicing and conduit entry for dual-head multisensor surveillance cameras.",
+    priceUSD: 126.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 33,
+    stock: 229,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Dual Head Multisensor IP Cameras",
+      "Enclosure Type": "Weatherproof Cast Aluminum Junction Box",
+      "Conduit Entries": "Multiple Threaded NPT Conduit Knockouts",
+      "Mounting Pattern": "Direct Wall and Ceiling Surface Fastening"
+    },
+    features: [
+      "Dedicated junction enclosure tailored for dual-head security camera cabling",
+      "Weather-sealed neoprene gasket safeguards electrical splices against rain",
+      "Generous interior volume accommodates PoE splitters, surge arrestors, and coils",
+      "Pre-drilled mounting hole matrix for quick surface attachment"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-mrca",
+    sku: "MRCA",
+    name: "Pelco MRCA Ceiling Adapter for Domes & MR3000/MR3050/MR4000/MRU Monitor Mounts",
+    description: "MRCA. Ceiling adapter for domes and MR3000; MR3050; MR4000 and MRU monitor mounts. Universal ceiling flange adapter designed for suspended camera domes and monitor mounting arms.",
+    priceUSD: 53.42,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 154,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Domes, MR3000, MR3050, MR4000, MRU Monitor Mounts",
+      "Type": "Ceiling Flange Adapter Plate",
+      "Material": "Cold-Rolled Structural Steel",
+      "Finish": "Electrostatic Powder Finish"
+    },
+    features: [
+      "Compact, cost-effective ceiling anchor for overhead dome and monitor arms",
+      "Multi-pattern bolt ring accommodates Pelco MR series articulating arms",
+      "Heavy gauge steel construction rated for continuous suspended loads",
+      "Simple surface installation directly into ceiling joists or unistrut channels"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-msi-nptcon-1001",
+    sku: "MSI-NPTCON-1001",
+    name: "Pelco MSI-NPTCON-1001 1-1/2 Inch x 1/2 Inch NPT Male Adapter",
+    description: "MSI-NPTCON-1001. ADAPTOR; 1-1/2\" x 1/2\" NPT Male. Precision machined conduit connector converting 1-1/2 inch NPT female mounts down to 1/2 inch NPT male conduit lines.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 16,
+    stock: 109,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Thread Sizing": "1-1/2\" NPT to 1/2\" NPT Male Threading",
+      "Material": "Solid Machined Weather-Resistant Metal",
+      "Application": "Conduit Reducer for Industrial Camera Mounts",
+      "Standard": "ANSI/ASME NPT Tapered Pipe Thread"
+    },
+    features: [
+      "Adapts 1.5-inch pendant mounts directly to standard 1/2-inch electrical conduit",
+      "Precision NPT threading ensures waterproof seal with PTFE tape or sealant",
+      "Prevents water ingress at critical overhead pipe joints",
+      "Heavy-duty metallic core withstands high installation torque"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-mvxima",
+    sku: "MVXIMA",
+    name: "Pelco MVXIMA Explosion-Proof Illuminator Adapter for MVXWB",
+    description: "MVXIMA. ADAPTER FOR EXPLOSION PROOF ILLUMINATOR ON MVXWB. Heavy-duty hazardous location bracket allowing the attachment of explosion-proof auxiliary illuminators onto the MVXWB wall bracket.",
+    priceUSD: 165.85,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 14,
+    stock: 122,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "MVXWB Wall Bracket, ExSite Series Explosion-Proof Illuminators",
+      "Hazardous Rating": "Engineered for Class I/II Hazardous & Oil & Gas Deployments",
+      "Material": "Electropolished 316L Stainless Steel / Marine-Grade Hardware",
+      "Position": "Auxiliary Illuminator Under-Mount Plate"
+    },
+    features: [
+      "Certified hazardous-area adapter plate engineered for petrochemical facilities",
+      "Mounts auxiliary explosion-proof IR or white light illuminators below MVXWB bracket",
+      "Marine-grade corrosion protection for offshore platforms and refineries",
+      "High mechanical strength resistant to industrial vibration and shock"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-mvxwb",
+    sku: "MVXWB",
+    name: "Pelco MVXWB Heavy-Duty Wall Bracket for MXH ExSite Enhanced 2 Fixed Cameras",
+    description: "MVXWB. WALL BRACKET FOR MXH - EXSITE ENH 2 FIXED. Certified explosion-proof stainless steel heavy wall mounting bracket engineered exclusively for Pelco ExSite Enhanced 2 fixed hazardous area cameras.",
+    priceUSD: 1055.22,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 28,
+    stock: 211,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco ExSite Enhanced 2 (MXH Series) Fixed Explosion-Proof Cameras",
+      "Construction": "AISI 316L Stainless Steel Heavy Plate",
+      "Load Rating": "Engineered for Severe Industrial Payloads & High Seismic Zones",
+      "Environment": "Class I, Division 1 / ATEX / IECEx Hazardous Locations"
+    },
+    features: [
+      "Constructed from solid AISI 316L electropolished stainless steel",
+      "Engineered to support heavy explosion-proof housings in harsh refinery environments",
+      "Immune to extreme chemical vapors, salt water spray, and outdoor weathering",
+      "Internal wiring passage keeps power and fiber lines sealed and protected"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-npta-1001",
+    sku: "NPTA-1001",
+    name: "Pelco NPTA-1001 1.5 Inch NPT Adapter for Large Pendant Mount Cameras",
+    description: "NPTA-1001. 1.5 inch NPT Adapter for Large Pendant Mount Camera. Precision 1.5-inch NPT threaded mounting adapter for large format commercial pendant cameras and dome enclosures.",
+    priceUSD: 78.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 37,
+    stock: 207,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Thread Standard": "1.5\" NPT Tapered Pipe Thread",
+      "Compatibility": "Pelco Large Pendant Mount Cameras & Wall Arms",
+      "Material": "Cast Aluminum Alloy with Protective Primer",
+      "Locking Mechanism": "Set Screws Included for Anti-Rotation Security"
+    },
+    features: [
+      "Standard 1.5-inch NPT connection interfaces with common pendant drops and wall arms",
+      "Anti-rotation set screws ensure permanent, vibration-proof camera alignment",
+      "Durable weatherproof construction prevents thread seizing over time",
+      "Provides rapid twist-on installation for high-elevation camera locations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-npta-1201",
+    sku: "NPTA-1201",
+    name: "Pelco NPTA-1201 1.5 Inch NPT Adapter for Dual Head Cameras",
+    description: "NPTA-1201. 1.5 inch NPT Adapter for Dual Head Cameras. Heavy-duty 1.5\" NPT threaded adapter engineered specifically for dual-head multisensor security cameras.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 117,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Thread Type": "1.5-inch NPT Internal Threading",
+      "Compatibility": "Dual-Head Multisensor Camera Series",
+      "Form Factor": "Flanged Pendant Mount Thread Coupler",
+      "Finish": "Outdoor Rated Protective White Finish"
+    },
+    features: [
+      "Custom adapter flange matched to dual-head multisensor camera bases",
+      "Facilitates suspended pendant drop installations from ceilings and unistruts",
+      "Generous center conduit opening for thick dual-stream Ethernet and power lines",
+      "Precision-machined locking threads for rock-solid camera positioning"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-pa101",
+    sku: "PA101",
+    name: "Pelco PA101 Pole Mount Adapter (Min 1.5-inch Diameter, Straps Included)",
+    description: "PA101. Pole adapter for EM1400; PM14; MM1000 mounts. Minimum pole diameter 1.5-inches. Mounting straps included.",
+    priceUSD: 89.48,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 45,
+    stock: 161,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "EM1400, PM14, MM1000 Mounts and Standard Wall Arms",
+      "Minimum Pole Diameter": "1.5 inches (38 mm)",
+      "Included Accessories": "High-Strength Stainless Steel Mounting Straps",
+      "Finish": "Gray Powder-Coated Cast Aluminum"
+    },
+    features: [
+      "Versatile pole adapter accommodating small to medium utility poles starting at 1.5 inches",
+      "Supplied complete with heavy-duty stainless steel tightening bands",
+      "Directly accepts Pelco EM1400, PM14, and MM1000 series mounting brackets",
+      "Weather-hardened for prolonged exposure to rain, ice, and direct sunlight"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-pa101-sw",
+    sku: "PA101-SW",
+    name: "Pelco PA101-SW Pole Mount Adapter (White Finish, Straps Included)",
+    description: "PA101-SW. Pole mount adapter. Minimum pole diameter 1.5-inches. Mounting straps included. Architectural White finish.",
+    priceUSD: 89.48,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 38,
+    stock: 123,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "IWM-SW Wall Mounts & Universal Pelco White Brackets",
+      "Minimum Pole Diameter": "1.5 inches (38 mm)",
+      "Finish": "RAL 9003 Signal White Architectural Coating",
+      "Included Hardware": "Stainless Steel Band Straps Included"
+    },
+    features: [
+      "Matched in clean architectural white for Spectra Enhanced 7 and modern exterior poles",
+      "Includes adjustable stainless steel clamping bands for quick pole installation",
+      "Resilient aluminum construction prevents rust run-off on white building exteriors",
+      "Supports outdoor pendant wall arms and junction boxes with universal screw slots"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:53:00.000Z"
+  },
+  {
+    id: "prod-pelco-swm-gy",
+    sku: "SWM-GY",
+    name: "Pelco SWM-GY Compact Environmental Wall Mount for Spectra & DF5 (Gray)",
+    description: "SWM-GY. Wall mount with cable feedthrough for Spectra and DF5 pendant domes; Gray. Compact environmental wall mount for small size pendant domes camera. 1.5-inch NPT. Supports up to 4.5 kg (10 lb). RAL 9002 (env gray) color.",
+    priceUSD: 76.13,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 258,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Compact Environmental Wall Mount",
+      "Thread": "1.5-inch NPT Threaded Connection",
+      "Load Capacity": "Supports up to 4.5 kg (10 lb)",
+      "Color Finish": "RAL 9002 Environmental Gray"
+    },
+    features: [
+      "Compact footprint engineered for small to medium sized pendant dome cameras",
+      "1.5-inch NPT internal cable feedthrough channel for protected wiring",
+      "Durable aluminum construction with weather-resistant RAL 9002 coating",
+      "Seamless integration with Pelco Spectra and DF5 series pendant domes"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-swm-pa-gy",
+    sku: "SWM-PA-GY",
+    name: "Pelco SWM-PA-GY Pole Adapter with Cable Feedthrough (Gray)",
+    description: "SWM-PA-GY. Pole adapter; cable feedthrough with SWM-BK. For Spectra or DF5 pendant; Gray. Gray pole adapter for the SWM-GY. Mounts Spectra or DF5 pendant domes using two stainless steel straps and an attachment plate. Provides cable feedthrough.",
+    priceUSD: 45.41,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 24,
+    stock: 152,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco SWM-GY Wall Mount, Spectra & DF5 Series",
+      "Mounting Method": "Dual Stainless Steel Strapping Bands",
+      "Cable Passage": "Integrated Feedthrough Cable Slot",
+      "Finish": "Weather-Resistant Gray Finish"
+    },
+    features: [
+      "Secures SWM-GY wall mount directly onto round or multi-sided utility poles",
+      "Includes high-tensile stainless steel pole mounting bands",
+      "Provides protected cable passage directly into pole structures",
+      "Heavy cast metal construction resistant to high winds and vibration"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-tb1751",
+    sku: "TB1751",
+    name: "Pelco TB1751 Light Duty Camera Mount with Bar Clip",
+    description: "TB1751. Mount; Light Duty; with Bar Clip. Versatile light duty camera mounting bracket equipped with a secure T-bar drop ceiling clip for quick suspended ceiling attachment.",
+    priceUSD: 76.13,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 39,
+    stock: 227,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Light Duty T-Bar Grid Ceiling Mount",
+      "Attachment": "Integrated Heavy-Duty T-Rail Spring Clip",
+      "Adjustability": "Multi-Directional Swivel and Tilt Ball Joint",
+      "Application": "Drop Ceiling Tile Grids in Retail & Corporate Spaces"
+    },
+    features: [
+      "Instantly clamps onto standard drop-ceiling T-bars without drilling or structural alteration",
+      "Fully adjustable ball joint provides 360° pan and 90° tilt positioning",
+      "Low-profile aesthetic designed for discreet indoor surveillance",
+      "Lightweight yet sturdy metal construction with clean locking mechanism"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-ueac",
+    sku: "UEAC",
+    name: "Pelco UEAC Corner Adapter Stainless Steel AISI 316L for ULISSE EVO",
+    description: "UEAC. Corner adaptor stainless AISI 316L. Marine-grade electropolished AISI 316L stainless steel external corner adapter engineered for ULISSE EVO PTZ cameras.",
+    priceUSD: 186.12,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 19,
+    stock: 274,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Material": "AISI 316L Electropolished Stainless Steel",
+      "Compatibility": "Pelco / Videotec ULISSE EVO Positioning Units",
+      "Mounting Position": "90° Outside Corner Mount",
+      "Corrosion Rating": "Marine Grade, Offshore & Coastal Environments"
+    },
+    features: [
+      "Constructed from high-grade AISI 316L electropolished stainless steel",
+      "Provides absolute resistance to marine corrosion, chemical vapours, and salt spray",
+      "Solid structural plate prevents vibration for precision long-range PTZ cameras",
+      "Pre-drilled mounting template aligned with ULISSE EVO wall brackets"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-ueap",
+    sku: "UEAP",
+    name: "Pelco UEAP Pole Adapter Stainless Steel AISI 316L for ULISSE EVO",
+    description: "UEAP. Pole adaptor stainless steel AISI 316L. Heavy-duty marine grade AISI 316L stainless steel pole mount adapter designed for ULISSE EVO positioning systems.",
+    priceUSD: 143.94,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 236,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Material": "AISI 316L Stainless Steel",
+      "Compatibility": "ULISSE EVO Series Wall Brackets",
+      "Mounting Standard": "Accepts Heavy Stainless Steel Worm-Drive Clamps",
+      "Environment": "Harsh Industrial, Offshore & Coastal Infrastructure"
+    },
+    features: [
+      "Solid AISI 316L stainless steel fabrication resists extreme weather and corrosion",
+      "Engineered to support heavy motorized PTZ positioning systems on masts",
+      "Wide curved saddle delivers rock-solid clamping against circular utility poles",
+      "Compatible with stainless steel banding straps for rapid installation"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-ueaw",
+    sku: "UEAW",
+    name: "Pelco UEAW Counter-Plate Stainless Steel AISI 316L for ULISSE EVO",
+    description: "UEAW. Counter-plate stainless AISI 316L. Heavy structural reinforcement counter-plate in AISI 316L stainless steel for through-wall sandwich mounting of ULISSE EVO units.",
+    priceUSD: 203.38,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 15,
+    stock: 209,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Material": "AISI 316L Stainless Steel Heavy Gauge",
+      "Application": "Interior Through-Wall Reinforcement Plate",
+      "Compatibility": "ULISSE EVO Wall Brackets",
+      "Hardware": "Includes Stainless Steel Through-Bolts and Washers"
+    },
+    features: [
+      "Distributes heavy PTZ mechanical load across hollow cinderblock or thin walls",
+      "AISI 316L stainless steel provides lifetime protection against rust and stress failure",
+      "Essential for high-wind perimeter walls, container installations, and towers",
+      "Pre-drilled hole pattern aligns precisely with UEBWAA wall brackets"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-uebp0aa",
+    sku: "UEBP0AA",
+    name: "Pelco UEBP0AA Parapet Bracket Internal Cable Routing (RAL 9002)",
+    description: "UEBP0AA. Parapet bracket internal cable RAL9002. Precision parapet mount bracket with internal cable channel in RAL 9002 finish for ULISSE EVO cameras.",
+    priceUSD: 102.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 32,
+    stock: 298,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Rooftop / Parapet Wall Mount Bracket",
+      "Cable Management": "Internal Protected Conduit Channel",
+      "Finish": "RAL 9002 Environmental Powder Coating",
+      "Compatibility": "ULISSE EVO PTZ Camera Line"
+    },
+    features: [
+      "Allows convenient swiveling over rooftop parapets for maintenance and servicing",
+      "Internal wire way completely hides and protects cabling from weather and tampering",
+      "Epoxy-polyester RAL 9002 coating resists extreme UV and temperature fluctuations",
+      "Heavy load rating certified for dynamic high-speed camera panning"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-uebp4aa",
+    sku: "UEBP4AA",
+    name: "Pelco UEBP4AA Parapet Bracket RJ45 PoE 4-Power I/O (RAL 9002)",
+    description: "UEBP4AA. Parapet bracket RJ45-PoE4PWR-IO RAL9002. Integrated parapet mounting bracket with internal RJ45 PoE 4-power and I/O interface board in RAL 9002.",
+    priceUSD: 258.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 22,
+    stock: 180,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Integrated Electronics": "RJ45 PoE (4-Power) and Alarm I/O Interface Board",
+      "Mount Type": "Parapet Bracket with Built-in Termination Block",
+      "Finish": "RAL 9002 Powder Coat",
+      "Compatibility": "ULISSE EVO Series"
+    },
+    features: [
+      "Built-in junction board streamlines network and power wiring inside the bracket",
+      "Weather-sealed access cover allows effortless field testing and troubleshooting",
+      "Protects Ethernet signal, power feeds, and alarm contacts against electrical surge",
+      "Precision parapet geometry offers unobstructed perimeter observation angles"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-uebp7aa",
+    sku: "UEBP7AA",
+    name: "Pelco UEBP7AA Parapet Bracket RJ45 PoE 7-Power I/O (RAL 9002)",
+    description: "UEBP7AA. Parapet bracket RJ45-PoE7PWR-IO RAL9002. High-capacity parapet bracket with built-in RJ45 PoE 7-power and industrial I/O connection board in RAL 9002 finish.",
+    priceUSD: 318.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 26,
+    stock: 219,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Interface": "High-Power RJ45 PoE (7-Power Lines) & Digital I/O Module",
+      "Mounting Position": "Industrial Rooftop Parapet",
+      "Finish": "RAL 9002 Industrial Coating",
+      "Rating": "NEMA 4X / IP66 Equivalent Ingress Seal"
+    },
+    features: [
+      "Supports high-wattage PoE delivery required for motorized wipers and illuminators",
+      "Integrated terminal board eliminates external junction box requirements",
+      "Rugged cast aluminum frame built for demanding industrial plant rooftops",
+      "Facilitates fast rooftop swing-in servicing without ladders or scaffolding"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-uebwaa",
+    sku: "UEBWAA",
+    name: "Pelco UEBWAA Wall Bracket for ULISSE EVO (RAL 9002)",
+    description: "UEBWAA. Wall bracket for ULISSE EVO (RAL9002). Solid aluminum wall mount bracket engineered specifically for the ULISSE EVO PTZ camera family in RAL 9002.",
+    priceUSD: 93.82,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 41,
+    stock: 249,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Heavy-Duty Wall Mount Arm",
+      "Compatibility": "ULISSE EVO PTZ Series",
+      "Finish": "RAL 9002 Environmental Powder Coating",
+      "Cable Routing": "Internal Protected Channel"
+    },
+    features: [
+      "Official Pelco wall mount arm tailored to the ULISSE EVO base footprint",
+      "Rigid structural profile suppresses vibrations for high optical zoom stability",
+      "Concealed internal wiring protects cables against cutting and sun exposure",
+      "Directly mates with UEAC corner adapter and UEAP pole adapter"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-pp451-sw",
+    sku: "PP451-SW",
+    name: "Pelco PP451-SW Rooftop Parapet Adapter Mount for Spectra & DF5 (White)",
+    description: "PP451-SW. Rooftop parapet adapter mount for Spectra and DF5 series pendant domes; White. Rooftop parapet adapter mount Intercept for Spectra and DF5 series pendant domes (any utilizing 1.5-inch NPT threaded pipe). Mounts to rooftop or flat horizontal surface. Removable end cap. White.",
+    priceUSD: 762.62,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 29,
+    stock: 247,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mounting Application": "Rooftop Parapet or Flat Horizontal Roof Surface",
+      "Pipe Thread": "1.5-inch NPT Threaded Male Conduit Interface",
+      "Compatibility": "Spectra & DF5 Pendant Domes",
+      "Special Feature": "Removable End Cap for Fast In-Mast Cable Pulling",
+      "Finish": "Weather-Resistant Architectural White"
+    },
+    features: [
+      "Heavy commercial rooftop parapet mount engineered for flat roof and parapet edges",
+      "Allows the camera dome to swivel safely inward for rooftop ground-level maintenance",
+      "Removable top cap permits rapid wiring pulls through the hollow 1.5-inch pipe",
+      "Corrosion-resistant architectural white finish blends with modern commercial buildings"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-slspcil-1001",
+    sku: "SLSPCIL-1001",
+    name: "Pelco SLSPCIL-1001 In-Ceiling Mount for 6.1-Inch (156mm) Dome Cameras",
+    description: "SLSPCIL-1001. In-ceiling mount for 6.1\" (156mm) Dome camera. Flush recessed in-ceiling mounting kit designed for 6.1-inch (156mm) diameter fixed and PTZ dome cameras.",
+    priceUSD: 39.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 34,
+    stock: 249,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Cutout Diameter": "6.1 inches (156 mm)",
+      "Mount Type": "Recessed In-Ceiling Bracket Kit",
+      "Compatibility": "Universal 6.1-inch Dome Security Cameras",
+      "Fastening": "Spring-Loaded Tile Clamps with Bezel Ring"
+    },
+    features: [
+      "Provides an ultra-clean flush look by recessing camera bodies into ceiling tiles",
+      "Spring-assisted wing clamps secure tightly against drywall and acoustical tiles",
+      "Paintable white trim ring complements any architectural interior color scheme",
+      "Integrated safety cable tether point ensures code compliance"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-sm-fjb-aw-3991",
+    sku: "SM-FJB-AW-3991",
+    name: "Pelco SM-FJB-AW-3991 SMR Fixed Junction Box (Pantone 427C)",
+    description: "SM-FJB-AW-3991. SMR Fixed J Box Pantone 427C 2-003991. Fixed weather-resistant junction box engineered for SMR camera series in Pantone 427C light cool grey.",
+    priceUSD: 288.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 20,
+    stock: 201,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Enclosure Type": "Fixed Weatherproof Junction Box",
+      "Color Finish": "Pantone 427C Light Cool Grey",
+      "Part Number": "2-003991",
+      "Conduit Entries": "Threaded NPT Side and Back Conduit Openings"
+    },
+    features: [
+      "Spacious interior cavity accommodates large PoE injectors, connectors, and excess wire",
+      "High-grade silicone gasket prevents moisture and dust ingress in outdoor deployments",
+      "Pantone 427C factory finish matches Pelco SMR camera bodies perfectly",
+      "Solid aluminum casing with secure tamper-resistant cover fasteners"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-sm-sjb-aw-3398",
+    sku: "SM-SJB-AW-3398",
+    name: "Pelco SM-SJB-AW-3398 SMR Swivel Junction Box (Pantone 427C)",
+    description: "SM-SJB-AW-3398. SMR Swivel J Box Pantone 427C 2-003398. Articulating swivel junction box allowing multi-axis camera positioning in Pantone 427C finish.",
+    priceUSD: 446.09,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 18,
+    stock: 112,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Type": "Articulating Swivel Weatherproof Junction Box",
+      "Part Number": "2-003398",
+      "Finish": "Pantone 427C Architectural Coating",
+      "Adjustability": "360° Rotational Swivel with Locking Screws"
+    },
+    features: [
+      "Integrated swivel mechanism allows precise camera aiming without re-drilling walls",
+      "Weatherproof seal maintains IP66/NEMA 4X integrity across all swivel angles",
+      "Heavy-duty locking bolts maintain position during heavy storms and vibrations",
+      "Designed specifically for enterprise deployments of Pelco SMR camera platforms"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-sp01-001-aw",
+    sku: "SP01-001-AW",
+    name: "Pelco SP01-001-AW SMR Pole Top Mount Pendant (Pantone 427C)",
+    description: "SP01-001-AW. SMR POLE TOP MT PENDANT; Pantone 427C. Commercial pole top pendant adapter for mounting SMR cameras and pendant domes atop utility poles in Pantone 427C.",
+    priceUSD: 110.72,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 23,
+    stock: 156,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Position": "Vertical Mast Top / Pole Top Adapter",
+      "Finish": "Pantone 427C Weatherproof Coating",
+      "Compatibility": "SMR Series Cameras and 1.5-inch NPT Pendants",
+      "Cable Pathway": "Center Pass-Through for In-Pole Cable Routing"
+    },
+    features: [
+      "Mounts security cameras directly on top of lighting poles and perimeter masts",
+      "Provides 360° unobstructed panoramic situational view across open parking and grounds",
+      "Center wire cavity routes power and fiber directly into the hollow mast",
+      "Corrosion-resistant alloy with factory-certified Pantone 427C finish"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-sp01-146a-aw",
+    sku: "SP01-146A-AW",
+    name: "Pelco SP01-146A-AW SMR 1.5-Inch NPT Extension 300mm (Pantone 427C)",
+    description: "SP01-146A-AW. SMR 1.5-IN NPT EXT; 300MM WT Pantone 427C. 300mm (12-inch) rigid 1.5-inch NPT pipe extension tube for suspended pendant camera installations in Pantone 427C.",
+    priceUSD: 114.86,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 30,
+    stock: 111,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Length": "300 mm (11.8 inches)",
+      "Threading": "1.5-inch NPT Male Both Ends",
+      "Material": "Seamless Heavy-Wall Steel Tubing",
+      "Finish": "Pantone 427C Durable Powder Coat"
+    },
+    features: [
+      "Lowers pendant cameras 300mm beneath ceiling obstructions, HVAC ducts, and lighting",
+      "Precision NPT tapered threads ensure rigid, wobble-free camera suspension",
+      "Internal conduit space accommodates multiple category cables and coaxial leads",
+      "Pantone 427C architectural color matches Pelco pendant caps and wall arms"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-sp01-146b-aw",
+    sku: "SP01-146B-AW",
+    name: "Pelco SP01-146B-AW SMR 1.5-Inch NPT Extension 1 Meter (Pantone 427C)",
+    description: "SP01-146B-AW. SMR 1.5-IN NPT EXT; 1M WT Pantone 427C. 1-meter (39.4-inch) heavy-duty 1.5-inch NPT threaded pendant extension drop pipe in Pantone 427C.",
+    priceUSD: 233.74,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 242,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Length": "1000 mm (1.0 Meter / 39.4 inches)",
+      "Threading": "1.5-inch NPT Threaded Ends",
+      "Construction": "Rigid Cold-Drawn Steel Pipe",
+      "Finish": "Pantone 427C Architectural Finish"
+    },
+    features: [
+      "Suspends surveillance cameras 1 meter below high warehouse rafters and atrium ceilings",
+      "Eliminates sway and optical oscillation with extra-thick steel pipe walls",
+      "Double-threaded 1.5-inch NPT design couples smoothly with all Pelco ceiling flanges",
+      "Factory-treated exterior prevents corrosion in humid indoor and semi-outdoor spaces"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-sp99-321-aw",
+    sku: "SP99-321-AW",
+    name: "Pelco SP99-321-AW SMR 4-8 Ft Telescoping Pole Mount (Pantone 427C)",
+    description: "SP99-321-AW. SMR 4-8 FT TELESCOPING POLE Pantone 427C. Adjustable heavy-duty 4 to 8 foot telescoping pendant suspension pole for high-bay ceilings and warehouse installations in Pantone 427C.",
+    priceUSD: 660.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 16,
+    stock: 134,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Adjustable Length": "4 feet to 8 feet (1.2m to 2.4m)",
+      "Locking System": "Dual Safety Pin & Compression Friction Clamp",
+      "Thread Standard": "1.5-inch NPT Top Flange and Bottom Pendant Coupler",
+      "Finish": "Pantone 427C High-Durability Finish"
+    },
+    features: [
+      "Continuously adjustable from 4 feet up to 8 feet for dynamic field positioning",
+      "Positive locking pin prevents any downward slippage under heavy camera payloads",
+      "Internal wire channel feeds cabling throughout the full telescoping stroke",
+      "Perfect for distribution centers, manufacturing plants, and airport terminals"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-spm5-w",
+    sku: "SPM5-W",
+    name: "Pelco SPM5-W Spectra Mini White Pendant Mount",
+    description: "SPM5-W. Spectra Mini White Pendant Mount. Compact aesthetic pendant mounting arm designed specifically for the Spectra Mini indoor dome camera series.",
+    priceUSD: 45.36,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 36,
+    stock: 174,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Spectra Mini Indoor Dome Cameras",
+      "Mount Type": "Miniature Pendant Drop Arm",
+      "Finish": "Crisp Architectural White",
+      "Cable Management": "Internal Channel Through Mounting Stem"
+    },
+    features: [
+      "Engineered exclusively for the compact Pelco Spectra Mini dome camera family",
+      "Sleek minimalist arm complements upscale retail boutiques, banks, and lobbies",
+      "Quick twist-lock camera engagement simplifies installation and retrofits",
+      "Prime-eligible stock ready for immediate deployment"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxp4c-mt-npta1",
+    sku: "SRXP4C-MT-NPTA1",
+    name: "Pelco SRXP4C-MT-NPTA1 Sarix Pro 4 Compact Pendant NPT Adapter (Outdoor, Grey)",
+    description: "SRXP4C-MT-NPTA1. MOUNT; Pendant Adapter; Grey; Odr; Pro4C. Outdoor environmental 1.5-inch NPT pendant mounting adapter for Sarix Professional 4 Compact dome cameras in grey finish.",
+    priceUSD: 60.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 25,
+    stock: 207,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Sarix Professional 4 Compact Dome Series",
+      "Connection": "Standard 1.5-inch NPT Female Threading",
+      "Weather Rating": "Outdoor Environmental Weatherproof Gasket Included",
+      "Finish": "Industrial Grey Finish"
+    },
+    features: [
+      "Adapts Sarix Professional 4 Compact dome cameras to standard 1.5\" NPT pendant stems",
+      "Full perimeter gasket maintains outdoor camera environmental ratings",
+      "Rugged cast aluminum frame resists tampering and physical shock",
+      "Compact aesthetic profile preserves clean sightlines"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T13:58:00.000Z"
+  },
+  {
+    id: "prod-axis-02931-021",
+    sku: "02931-021",
+    name: "AXIS TP3907 Clamp Bracket Mount (10-Pack)",
+    description: "02931-021. AXIS TP3907 Clamp Bracket Mount 10P. 10 pack spare part clamp bracket mount. Compatible with AXIS P3735-PLE, AXIS P3737-PLE, AXIS P3738-PLE multidirectional cameras.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 232,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "10-Pack Spare Clamp Brackets",
+      "Compatibility": "AXIS P3735-PLE, AXIS P3737-PLE, AXIS P3738-PLE",
+      "Type": "Clamp Bracket Mount",
+      "Material": "Durable High-Strength Composite/Metal"
+    },
+    features: [
+      "Official Axis replacement clamp bracket mount in a convenient 10-pack",
+      "Ensures secure fastening for AXIS P37 series panoramic multi-sensor cameras",
+      "Direct factory replacement restores factory-tight clamping tolerances",
+      "Resistant to weather and outdoor environmental conditions"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-5505-041",
+    sku: "5505-041",
+    name: "AXIS T8353 Microphone Mounting Accessory",
+    description: "5505-041. AXIS T8353 MOUNT. Precision acoustic mounting bracket accessory designed specifically for AXIS T8353 surveillance microphones.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.7,
+    reviewCount: 28,
+    stock: 226,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS T8353 Surveillance Microphones",
+      "Mount Type": "Surface / Wall Acoustic Microphone Mount",
+      "Finish": "Discreet Low-Profile White",
+      "Vibration Isolation": "Acoustic Dampening Polymer Base"
+    },
+    features: [
+      "Engineered specifically for optimal directional capture with AXIS T8353 microphones",
+      "Acoustic dampening base isolates microphone from structure-borne vibrations",
+      "Low profile design provides clean, discreet installation on walls or ceilings",
+      "Complete with mounting fasteners for rapid deployment"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-01219-001",
+    sku: "01219-001",
+    name: "AXIS T90 Wall-and-Pole Mount Bracket",
+    description: "01219-001. AXIS T90 WALL-AND-POLE MOUNT. Heavy-duty versatile mounting bracket for AXIS T90 series white-light and infrared illuminators.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 35,
+    stock: 191,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS T90 Series IR & White-Light Illuminators",
+      "Mount Application": "Wall & Pole Mount Installations",
+      "Material": "Powder-Coated Aluminum Alloy",
+      "Hardware": "Strapping Slots for Steel Bands Included"
+    },
+    features: [
+      "Dual-purpose mounting plate accommodates flat walls or curved utility poles",
+      "Allows fine vertical tilt adjustment to precisely direct illuminator beam",
+      "Built from weather-hardened aluminum for long outdoor lifetime",
+      "Supports standard steel strapping bands for versatile pole mounting"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-01220-001",
+    sku: "01220-001",
+    name: "AXIS T90 Single Illuminator Bracket",
+    description: "01220-001. AXIS T90 SINGLE BRACKET. Dedicated mounting bracket engineered for mounting a single AXIS T90 illuminator alongside security camera enclosures.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 42,
+    stock: 287,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS T90 Series Illuminators & Pan/Tilt Housings",
+      "Capacity": "Single Illuminator Unit",
+      "Material": "Stainless Steel / Cast Metal Alloy",
+      "Adjustment": "Precision Angle Lock Screws"
+    },
+    features: [
+      "Mounts a single AXIS T90 IR or LED unit directly to wall mounts or camera housings",
+      "Interlocking design maintains stable illumination alignment under wind loads",
+      "Corrosion-resistant metal prevents degradation in coastal environments",
+      "Simplified cable management keeps power leads concealed and secure"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-01221-001",
+    sku: "01221-001",
+    name: "AXIS T90 Multi Bracket for Multiple Illuminators",
+    description: "01221-001. AXIS T90 MULTI BRACKET. High-strength dual and multi mounting bracket for deploying multiple AXIS T90 illuminators in broad-area coverage setups.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 21,
+    stock: 107,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS T90 Series Illuminators",
+      "Capacity": "Supports Multiple Dual/Triple Illuminator Array",
+      "Material": "Heavy-Duty Powder-Coated Metal",
+      "Orientation": "Independent Horizontal & Vertical Aiming"
+    },
+    features: [
+      "Enables dual or multi-illuminator arrays for ultra-wide perimeter night vision",
+      "Each mounted illuminator can be angled independently for custom light distribution",
+      "High payload rating engineered for harsh outdoor mast and wall environments",
+      "Factory finished for maximum UV and chemical resistance"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02126-001",
+    sku: "02126-001",
+    name: "AXIS TW1100 Clip Mount (5-Pack)",
+    description: "02126-001. AXIS TW1100 Clip Mount 5P. 5 pack mount for the Klick Fast adaptor on Axis body worn cameras. The clip mount is an easy to use, versatile mount suitable for many types of clothing.",
+    priceUSD: 116.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 107,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "5-Pack Clip Mounts",
+      "Compatibility": "Axis Body Worn Cameras with Klick Fast Adapter",
+      "Attachment Type": "Heavy Spring Clothing Clip",
+      "Weight": "Ultra-Lightweight Ergonomic Profile"
+    },
+    features: [
+      "Quick spring-loaded clip securely grabs pockets, lapels, and uniform plackets",
+      "Authentic Klick Fast adapter socket provides rapid camera docking and undocking",
+      "Allows smooth tilt positioning for optimal forward-facing video evidence capture",
+      "Sold in an economical 5-pack for law enforcement and security teams"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02129-001",
+    sku: "02129-001",
+    name: "AXIS TW1103 Chest Harness Mount (5-Pack)",
+    description: "02129-001. AXIS TW1103 Chest Harness Mount 5P. 5 pack mount for the Klick Fast adaptor on Axis body worn cameras. The chest harness mount holds the camera independent of choice of clothing.",
+    priceUSD: 201.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 38,
+    stock: 171,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "5-Pack Chest Mounts",
+      "Compatibility": "Axis Body Worn Cameras (Klick Fast)",
+      "Application": "Chest Harness Integration",
+      "Material": "High-Durability Polymer"
+    },
+    features: [
+      "Locks securely onto tactical chest rigs, load-bearing vests, and harnesses",
+      "Eliminates camera shake and garment sagging during rapid movement or foot pursuits",
+      "Centered chest perspective offers consistent evidentiary field of view",
+      "Includes 5 individual harness mounts for duty fleet deployment"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02437-001",
+    sku: "02437-001",
+    name: "AXIS TW1104 Rugged Magnet Mount (5-Pack)",
+    description: "02437-001. AXIS TW1104 MAGNET MOUNT 5P. 5 pack mount for the Klick Fast adaptor on Axis body worn cameras. The magnet mount is a rugged, versatile mount suitable for many types of clothing. This updated version perfectly follows the shape of the camera and has an improved stability to the camera.",
+    priceUSD: 469.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 46,
+    stock: 220,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "5-Pack Magnet Mounts",
+      "Compatibility": "Axis Body Worn Cameras (Klick Fast)",
+      "Magnet Type": "Ultra-Strong Neodymium Rare-Earth Magnets",
+      "Design": "Contoured Ergonomic Form Factor"
+    },
+    features: [
+      "Ultra-strong neodymium magnets clamp through heavy jackets, winter coats, and blazers",
+      "Contoured camera-matching form factor ensures rock-solid stability during physical exertion",
+      "Leaves no puncture holes, tears, or permanent marks on uniform garments",
+      "Field-proven high-retention system prevents accidental camera dislodgement"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02689-001",
+    sku: "02689-001",
+    name: "AXIS TW1106 Light Magnet Mount for W110 (5-Pack)",
+    description: "02689-001. AXIS TW1106 Magnet Mount 5P. For flexible and light wearing of the AXIS W110 Body Worn Camera on any fabric. Comes in 5-pack.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 166,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "5-Pack Magnet Mounts",
+      "Compatibility": "AXIS W110 Body Worn Camera",
+      "Weight": "Ultralight Comfort Form Factor",
+      "Fabric Support": "Shirts, Polos, Blouses & Light Jackets"
+    },
+    features: [
+      "Optimized for lightweight and daily comfortable wear of the compact AXIS W110 camera",
+      "Gentle yet powerful magnetic clamping preserves delicate uniform fabrics and polo shirts",
+      "Non-intrusive slim profile prevents snagging on seatbelts and lanyards",
+      "Supplied in a convenient 5-pack for retail, hospitality, and healthcare teams"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02690-001",
+    sku: "02690-001",
+    name: "AXIS TW1107 Magnet Mount for W110 Klick Fast (5-Pack)",
+    description: "02690-001. AXIS TW1107 Magnet Mount 5 pcs. AXIS W110 Body Worn Camera mount for secure wearing compatible with all Klick Fast mounts. Comes in 5-pack.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 149,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "5-Pack Magnet Mounts",
+      "Compatibility": "AXIS W110 Body Worn Camera & Klick Fast Ecosystem",
+      "Mount Interface": "Klick Fast Compatible Female Receiver",
+      "Clamping": "Dual Magnetic Base Plates"
+    },
+    features: [
+      "Bridges the lightweight AXIS W110 camera to the universal Klick Fast mounting system",
+      "Magnetic sandwich clamp secures firmly through thick uniforms and outerwear",
+      "Enables 360° rotational camera positioning with positive step detents",
+      "Robust engineering designed for frontline and tactical service duty"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02966-001",
+    sku: "02966-001",
+    name: "AXIS TW1108 Screw-On Garment Mount (5-Pack)",
+    description: "02966-001. AXIS TW1108 Screw-on Mount 5P. AXIS TW1108 Screw-on Mount offers secure mounting of the body worn camera on any type of garment. With four screws the front of the mount is screwed together with the back through the fabric of the garment. Sold in 5-pack.",
+    priceUSD: 105.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 30,
+    stock: 277,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "5-Pack Screw-on Mounts",
+      "Fastening": "Four Precision Threaded Screws Through Fabric",
+      "Compatibility": "Axis Body Worn Cameras (Klick Fast)",
+      "Security": "Anti-Theft Permanent Garment Attachment"
+    },
+    features: [
+      "Four-screw clamp locks permanently onto heavy duty duty shirts and tactical vests",
+      "Completely eliminates accidental dislodgement or loss during physical altercations",
+      "Maintains perfectly consistent vertical orientation for body camera footage",
+      "Pack of 5 units includes all required fastening hardware"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-03219-001",
+    sku: "03219-001",
+    name: "AXIS TW1110 MOLLE Tactical Mount (5-Pack)",
+    description: "03219-001. AXIS TW1110 MOLLE Mount 5 pcs. 5 pack mount for the Klick Fast adaptor on Axis body worn cameras. The MOLLE mount is especially suitable for the MOLLE system found on tactical equipment and such.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 44,
+    stock: 254,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "5-Pack MOLLE Mounts",
+      "Standard": "MOLLE / PALS Tactical Webbing Grid",
+      "Compatibility": "Axis Body Worn Cameras (Klick Fast)",
+      "Material": "Reinforced Tactical Polymer"
+    },
+    features: [
+      "Snaps securely onto standard 1-inch tactical MOLLE / PALS webbing loops",
+      "Designed specifically for tactical vests, plate carriers, and police body armor",
+      "Klick Fast docking system enables quick camera insertion and removal",
+      "Durable matte tactical finish avoids light reflection in field operations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02958-001",
+    sku: "02958-001",
+    name: "AXIS TW1908 Klick Fast Stud Mount (10-Pack)",
+    description: "02958-001. AXIS TW1908 Stud Mount 10 pcs. AXIS TW1908 Stud Mount is a sparepart for body worn cameras using Klick Fast solution and is sold in 10-pack.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 188,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Package Quantity": "10-Pack Stud Mounts",
+      "Compatibility": "Axis Body Worn Cameras & Klick Fast Mounts",
+      "Type": "Male Klick Fast Docking Stud Spare Part",
+      "Material": "High-Impact Composite Polymer"
+    },
+    features: [
+      "Official Axis spare male Klick Fast mounting studs in a 10-pack",
+      "Enables rapid camera body replacement or multi-device outfit retrofitting",
+      "Precision molded for smooth 360-degree rotation and secure detent lock",
+      "Restores original click-in retention strength on worn camera bodies"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-axis-02321-001",
+    sku: "02321-001",
+    name: "AXIS TW8100 19-Inch Rack Mount for W800 System Controllers",
+    description: "02321-001. AXIS TW8100 RACK MOUNT. The AXIS TW8100 Rack Mount is an accessory that makes it possible to conveniently place multiple AXIS W800 System Controllers in a 19-inch rack. This mount therefore enables easy placement of the Axis body worn system's controllers in a server room with controlled physical access and operational environment. The TW8100 Rack Mount is flexible and allows both horizontal and vertical placement of devices. In horizontal placement, up to 2 pcs of W800 System Controller are supported and will occupy 2U in height. In vertical placement, up to 6 pcs of controllers are supported and will occupy only 5U in height. (NB: Vertical mounting is only compatible with the AXIS W800 System Controller of revision 2 (R2)).",
+    priceUSD: 181.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 18,
+    stock: 214,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Rack Standard": "Standard 19-inch Equipment Rack",
+      "Horizontal Capacity": "Up to 2x AXIS W800 Controllers (2U Height)",
+      "Vertical Capacity": "Up to 6x AXIS W800 R2 Controllers (5U Height)",
+      "Material": "Heavy-Gauge Steel with Cable Management Slots"
+    },
+    features: [
+      "Consolidates body-worn camera server hardware in secure datacenter racks",
+      "Flexible dual-mode orientation: 2U horizontal (2 units) or 5U high-density vertical (6 units)",
+      "Optimizes airflow, power distribution, and patch cable routing",
+      "Rugged commercial steel frame certified for server room installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:02:00.000Z"
+  },
+  {
+    id: "prod-pelco-wlmt-1021",
+    sku: "WLMT-1021",
+    name: "Pelco WLMT-1021 Pendant Arm Mount 20cm (1.5 NPT)",
+    description: "WLMT-1021. Mount; Pendant Arm; 20cm Long; 1.5 NPT. 20cm (8-inch) pendant wall arm mount with 1.5\" NPT threaded adapter for outdoor and indoor pendant cameras.",
+    priceUSD: 126.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 176,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Pendant Wall Arm",
+      "Length": "20 cm (7.9 inches)",
+      "Threading": "1.5-inch NPT Standard Female Thread",
+      "Material": "Corrosion-Resistant Cast Aluminum Alloy"
+    },
+    features: [
+      "Compact 20cm projection ideal for tight corridors, overhangs, and soffits",
+      "Standard 1.5-inch NPT threaded connection supports industry standard pendant domes",
+      "Integrated cable channel protects network wiring inside the arm",
+      "Durable weatherproof finish engineered for harsh outdoor environments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-pelco-wlmt-1031",
+    sku: "WLMT-1031",
+    name: "Pelco WLMT-1031 Universal Wall Arm Mount 30cm (1.5 NPT Adapter)",
+    description: "WLMT-1031. Universal Wall Arm Mount; 30cm; 1.5 NPT Adapter. Heavy-duty 30cm (12-inch) universal wall bracket with 1.5-inch NPT adapter.",
+    priceUSD: 126.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 37,
+    stock: 234,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Universal Pendant Wall Arm Mount",
+      "Length": "30 cm (11.8 inches)",
+      "Adapter": "1.5-inch NPT Threaded Coupler",
+      "Cable Entry": "Rear Wall Feed and Bottom Conduit Knockout"
+    },
+    features: [
+      "Extended 30cm reach provides clear line of sight around gutters and architectural trim",
+      "Universal 1.5\" NPT adapter accepts all standard Pelco and compatible pendant caps",
+      "Heavy cast construction engineered to eliminate optical shake at high zoom",
+      "Dual cable entry options for clean surface conduit or concealed wall wiring"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-pelco-wmve-sr",
+    sku: "WMVE-SR",
+    name: "Pelco WMVE-SR Vandal-Resistant Wall Mount 1.5 Inch NPT (Cool Light Gray)",
+    description: "WMVE-SR. Wall Mount 1.5 Inch NPT Cool Light Gray For Sarix IE; IM-V; IM-E; Others. Wall Mount Vandal Resistant 1.5 Inch NPT Cool Light Gray For Sarix Series IE; IM-V; IM-E; Others.",
+    priceUSD: 74.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 226,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Sarix Series IE, IM-V, IM-E, and 1.5\" NPT Domes",
+      "Vandal Resistance": "Heavy-Duty Impact-Resistant Cast Metal",
+      "Color Finish": "Cool Light Gray",
+      "Conduit": "1.5-inch NPT Threaded Interface"
+    },
+    features: [
+      "Vandal-resistant construction protects against severe impacts and tampering",
+      "Cool light gray finish matched to Sarix commercial camera enclosures",
+      "Concealed internal wiring eliminates accessible external cable loops",
+      "Seamlessly mates with Pelco corner and pole adapters for custom installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-pelco-wmve-sw",
+    sku: "WMVE-SW",
+    name: "Pelco WMVE-SW Vandal Wall Mount 1.5 Inch NPT with 0.75 Inch Adapter (RAL 9003)",
+    description: "WMVE-SW. Wall Mount 1.5 inch NPT with 0.75 inch NPT adapter RAL 9003. Wall Mount Vandal 1.5 inch NPT with Indoor 0.75 inch NPT adapter For Sarix Professional and Enhanced Range pendants; RAL 9003.",
+    priceUSD: 74.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 187,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Sarix Professional & Enhanced Range Pendants",
+      "Included Adapter": "1.5\" to 0.75\" NPT Reducer Bushing Included",
+      "Finish": "RAL 9003 Signal White Architectural Coating",
+      "Mount Type": "Vandal-Resistant Wall Mount Arm"
+    },
+    features: [
+      "Includes 0.75-inch NPT adapter for versatile mounting of indoor & outdoor pendants",
+      "Pristine RAL 9003 signal white finish matches contemporary facility designs",
+      "Cast aluminum body with impact-resistant internal lock mechanism",
+      "Weather-sealed wall gasket prevents water ingress behind the mount"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-pelco-wsfpa",
+    sku: "WSFPA",
+    name: "Pelco WSFPA Pole Mount Adapter (65mm to 140mm)",
+    description: "WSFPA. Pole mount adaptor 65mm to 140mm. Versatile stainless steel pole mount adaptor supporting mast and pole diameters between 65mm and 140mm.",
+    priceUSD: 87.89,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 34,
+    stock: 286,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Pole Diameter Range": "65 mm to 140 mm (2.5 to 5.5 inches)",
+      "Material": "Weather-Resistant Stainless Steel Clamping Assembly",
+      "Application": "Adapts Wall Brackets to Circular Light Masts & Poles",
+      "Hardware": "Heavy-Duty Adjustable Worm-Drive Straps Included"
+    },
+    features: [
+      "Accommodates a wide range of utility pole sizes from 65mm to 140mm diameter",
+      "Stainless steel construction prevents rust streaks on building and pole facades",
+      "Pre-drilled mounting slots align with Pelco standard wall mount footprints",
+      "Supplied with two industrial-grade stainless steel tightening bands"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-pelco-xwba",
+    sku: "XWBA",
+    name: "Pelco XWBA Marine-Grade Wall Bracket AISI 316L Stainless Steel",
+    description: "XWBA. BRACKET; Wall; AISI 316L. Heavy-duty electropolished AISI 316L stainless steel wall bracket engineered for extreme maritime and explosive hazardous environments.",
+    priceUSD: 816.41,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 17,
+    stock: 214,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Material": "Solid AISI 316L Electropolished Stainless Steel",
+      "Load Capacity": "Engineered for Extreme Payloads & Heavy Hazardous Housings",
+      "Environment": "Offshore Oil & Gas Platforms, Marine, Chemical Plants",
+      "Wiring Passage": "Fully Sealed Internal Feedthrough Channel"
+    },
+    features: [
+      "Forged from solid AISI 316L stainless steel for ultimate saltwater and chemical vapor resistance",
+      "High mechanical load capacity certified for explosion-proof camera systems",
+      "Internal conduit path shields power and fiber connections from corrosive atmosphere",
+      "Complies with stringent marine and industrial offshore installation specifications"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-pelco-xwbta",
+    sku: "XWBTA",
+    name: "Pelco XWBTA Parapet Mount Bracket AISI 316L Stainless Steel",
+    description: "XWBTA. MOUNT; Parapet; AISI 316L. Marine-grade AISI 316L stainless steel parapet mount bracket designed for harsh outdoor industrial and offshore security applications.",
+    priceUSD: 352.18,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 23,
+    stock: 173,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Material": "AISI 316L Stainless Steel Heavy Gauge",
+      "Mounting Position": "Industrial Rooftop Parapet and Catwalk Railings",
+      "Corrosion Rating": "Offshore Marine Grade",
+      "Cable Management": "Internal Through-Flange Conduit Pathway"
+    },
+    features: [
+      "Electropolished AISI 316L stainless steel immune to corrosive coastal atmospheres",
+      "Enables safe parapet mounting with inward swinging access for camera maintenance",
+      "Precision pre-drilled flange mates directly with Pelco hazardous-area camera bases",
+      "Rock-solid rigid construction resists extreme sea wind loads and structural vibration"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-vt-100-id-cus-1000",
+    sku: "VT-100-ID-CUS-1000",
+    name: "Avigilon VT-100-ID-CUS-1000 Custom Front-Panel ID Card (1000 Pack)",
+    description: "VT-100-ID-CUS-1000. Custom VT100 Front-panel ID Card (1000). 1000 Custom front panel ID-card for the VT-100 body-worn camera.",
+    priceUSD: 2760.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 15,
+    stock: 255,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/eCommerce-Site_Generic-Image_Body-Worn-Cameras-and-Accessories_070720.jpg"
+    ],
+    specs: {
+      "Pack Quantity": "1000 Custom ID Badges",
+      "Compatibility": "Avigilon VT-100 Body Worn Camera",
+      "Printing": "Full-Color Custom Corporate Branding & Staff Badging",
+      "Durability": "Scratch-Resistant Polycarbonate Front Inserts"
+    },
+    features: [
+      "Custom-printed 1000-pack of front-panel ID cards for the Avigilon VT-100 camera",
+      "Displays organization branding, officer name, or security identification clearly",
+      "Snap-in precision fit protects the front faceplate against daily wear and tear",
+      "Bulk enterprise volume discount for police forces and private security fleets"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-vt-100-id-cus-250",
+    sku: "VT-100-ID-CUS-250",
+    name: "Avigilon VT-100-ID-CUS-250 Custom Front-Panel ID Cards (250 Pack)",
+    description: "VT-100-ID-CUS-250. 250 ID Cards for VT100. 250 Custom front panel ID-card for the VT100 body-worn camera.",
+    priceUSD: 2142.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 20,
+    stock: 118,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/VT-100-ID-CUS-250_071320.jpg"
+    ],
+    specs: {
+      "Pack Quantity": "250 Custom ID Cards",
+      "Compatibility": "Avigilon VT100 Body Worn Camera",
+      "Material": "UV-Stabilized Hard Plastic Badging Insert",
+      "Finish": "High-Resolution Custom Graphic Overlay"
+    },
+    features: [
+      "Provides 250 customized front identification inserts for the VT-100 body camera",
+      "Professional personalization with custom company emblem and staff role badges",
+      "Factory-accurate dimensions ensure smooth, rattle-free camera installation",
+      "Durable print process resists fading from sunlight and moisture exposure"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-vt-100-id-cus-5000",
+    sku: "VT-100-ID-CUS-5000",
+    name: "Avigilon VT-100-ID-CUS-5000 Custom Front-Panel ID Card (5000 Pack)",
+    description: "VT-100-ID-CUS-5000. Custom VT100 Front-panel ID Card (5000). 5000 Custom front panel ID-card for the VT-100 body camera.",
+    priceUSD: 10302.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 12,
+    stock: 130,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Pack Quantity": "5000 Custom ID Badges",
+      "Compatibility": "Avigilon VT-100 Body Worn Camera Fleet",
+      "Service Tier": "Enterprise Fleet Full-Volume Production",
+      "Application": "Metropolitan Transit, Healthcare & Municipal Deployments"
+    },
+    features: [
+      "High-volume 5000-pack of custom branded front faceplate inserts for VT-100",
+      "Ideal for citywide law enforcement, large healthcare networks, and transit agencies",
+      "Custom graphic artwork applied with high-durability industrial bonding",
+      "Consistent color matching across massive multi-site body camera deployments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-vt-100-id-cus-art",
+    sku: "VT-100-ID-CUS-ART",
+    name: "Avigilon VT-100-ID-CUS-ART Artwork Creation Service for VT100 ID Cards",
+    description: "VT-100-ID-CUS-ART. Artwork creation for VT100. Artwork creation for custom VT100 front panel ID-card.",
+    priceUSD: 522.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 18,
+    stock: 231,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/VT-100-ID-CUS-250_071320.jpg"
+    ],
+    specs: {
+      "Service Type": "Professional Graphic Setup & Artwork Proofing",
+      "Deliverable": "Production-Ready Digital Proofs for VT100 Custom Cards",
+      "Compatibility": "VT-100-ID-CUS Card Series",
+      "Turnaround": "Fast Turnaround Digital Pre-Press Approval"
+    },
+    features: [
+      "Dedicated pre-press graphic design setup for custom VT100 front-panel badges",
+      "Ensures exact corporate pantone color matching and regulatory layout compliance",
+      "Includes digital proofs and revisions before volume badge printing",
+      "Required initial setup service for all custom VT100 ID card production runs"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-vt-100-solo",
+    sku: "VT-100-SOLO",
+    name: "Avigilon VT-100-SOLO 1-Port USB Charging & Offload Dock for VT100",
+    description: "VT-100-SOLO. 1 Port dock for VT100. VT100 one-port USB dock; USB cable. Available only for EU; EFTA; US and Canada.",
+    priceUSD: 102.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 45,
+    stock: 207,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/VT-100-SOLO_070520.jpg"
+    ],
+    specs: {
+      "Port Capacity": "1x VT100 Body Worn Camera Docking Bay",
+      "Interface": "USB High-Speed Data & Fast Charging",
+      "Included Accessories": "Detachable High-Speed USB Cable Included",
+      "Regional Availability": "Certified for US, Canada, EU, and EFTA Markets"
+    },
+    features: [
+      "Single-camera desktop docking station for fast charging and automated video offload",
+      "Stable weighted base with non-slip rubber feet for office or dispatch desks",
+      "Plug-and-play USB connection integrates seamlessly with VideoManager software",
+      "Includes durable USB connecting cable for immediate field setup"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-avg-blkbdy1",
+    sku: "AVG-BLKBDY1",
+    name: "Avigilon AVG-BLKBDY1 Nightingale Blackbody Thermal Calibration Device",
+    description: "AVG-BLKBDY1. Nightingale Blackbody Device. High-precision thermal reference source for elevated skin temperature screening systems, providing continuous NIST-traceable temperature calibration.",
+    priceUSD: 2313.36,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 14,
+    stock: 142,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Accuracy": "±0.1°C (±0.18°F) Temperature Stability",
+      "Calibration": "Factory NIST Traceable Calibration Standard",
+      "Mounting": "1/4-20 Standard Tripod Thread & Wall Mountable",
+      "Application": "Elevated Skin Temperature (EST) Screening Cameras"
+    },
+    features: [
+      "Provides constant high-accuracy thermal reference point for temperature screening cameras",
+      "Continuous auto-calibration eliminates thermal drift caused by ambient room variations",
+      "Essential component for contactless health and security screening checkpoints",
+      "Includes standard mounting socket for easy tripod or wall bracket deployment"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-uewbta-2",
+    sku: "UEWBTA-2",
+    name: "Avigilon UEWBTA-2 Parapet or Ceiling Mounting Bracket (UK)",
+    description: "UEWBTA-2. Parapet or ceiling mounting bracket UK. Heavy commercial parapet or ceiling drop mounting bracket engineered for UK and European security standards.",
+    priceUSD: 352.18,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 293,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Dual Parapet / Suspended Ceiling Mount Bracket",
+      "Standards": "UK and European Industrial Construction Compliance",
+      "Finish": "Corrosion-Resistant Architectural Coating",
+      "Cable Routing": "Fully Concealed Internal Wireway"
+    },
+    features: [
+      "Dual application bracket suitable for rooftop parapet edges or overhead ceiling drops",
+      "Engineered to meet rigorous UK commercial construction and seismic guidelines",
+      "Internal wireway conceals power and data lines away from weather and sabotage",
+      "Heavy load rating supports heavy PTZ and multi-sensor camera assemblies"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-avo-fe-acc-kit",
+    sku: "AVO-FE-ACC-KIT",
+    name: "Avigilon AVO-FE-ACC-KIT Installation Accessory Kit for Fisheye Domes",
+    description: "AVO-FE-ACC-KIT. Install Accy Kit for Fisheye Dome. Complete installation hardware kit for Avigilon fisheye panoramic cameras, including tamper screws, anchors, sealing grommets, and punch-down tool.",
+    priceUSD: 18.9,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.7,
+    reviewCount: 39,
+    stock: 187,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon Panoramic Fisheye Dome Camera Series",
+      "Included Contents": "Security Torx Screws, Wall Anchors, Silicone Grommets, Template",
+      "Tooling": "RJ45 Punch-Down & Grommet Insertion Tool",
+      "Sealing": "Weather-Tight IP66 Ingress Seals"
+    },
+    features: [
+      "Comprehensive hardware kit provides all essential components for fisheye camera mounting",
+      "Includes tamper-resistant security screws to prevent unauthorized removal",
+      "Pre-molded rubber sealing grommets ensure reliable IP66/NEMA 4X weatherproofing",
+      "Surface drilling template included for fast, accurate hole alignment"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-cm-ac-avio1",
+    sku: "CM-AC-AVIO1",
+    name: "Avigilon CM-AC-AVIO1 3.5mm Audio and Video I/O Jack with 1.8m Fly Wire",
+    description: "CM-AC-AVIO1. 3.5mm audio and video I/O jack with 1.8m fly wire. Precision interface pigtail cable providing auxiliary audio input/output and analog video test feed.",
+    priceUSD: 23.33,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 28,
+    stock: 138,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Connector": "3.5 mm Audio/Video Multi-Pole Terminal",
+      "Length": "1.8 meters (6 feet) Flexible Pigtail Wire",
+      "Conductors": "Color-Coded Tinned Leads for Easy Field Splicing",
+      "Compatibility": "Avigilon Dome and Bullet Camera Audio/Alarm Ports"
+    },
+    features: [
+      "Enables external microphone input and two-way audio speaker connectivity",
+      "Provides analog composite video test port for handheld field installer monitors",
+      "1.8m generous length facilitates clean routing into nearby electrical junction boxes",
+      "Heavy shielding prevents electromagnetic interference and audio hum"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-cm-ac-ferr1",
+    sku: "CM-AC-FERR1",
+    name: "Avigilon CM-AC-FERR1 Ferrite Clamp for H4 Multisensor (Pack of 5)",
+    description: "CM-AC-FERR1. Ferrite Clamp for H4 Multisensor (Pack of 5). Ferrite clamp for use with H4 Multisensor aux power cable to meet EN-50121-4 railway and industrial EMC compliance. Pack of 5.",
+    priceUSD: 35.69,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 16,
+    stock: 225,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Pack Quantity": "5-Pack Split-Core Ferrite Clamps",
+      "Standard Compliance": "EN-50121-4 Railway & Industrial EMC Directives",
+      "Compatibility": "Avigilon H4 Multisensor Auxiliary Power Cables",
+      "Clamping Type": "Snap-Lock High-Permeability Core"
+    },
+    features: [
+      "Mandatory suppression component for EN-50121-4 railway and high-noise EMC environments",
+      "Suppresses high-frequency electromagnetic noise on auxiliary DC/AC power lines",
+      "Snap-together housing installs effortlessly without cutting or re-terminating wires",
+      "Supplied in a pack of 5 clamps for multi-sensor camera deployment"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-cm-ac-grom1",
+    sku: "CM-AC-GROM1",
+    name: "Avigilon CM-AC-GROM1 3/4 Inch Cable Sealing Grommet (Pack of 10)",
+    description: "CM-AC-GROM1. 3/4\" Cable Sealing Grommet (Pack of 10). Cable sealing grommet for use with 3/4\" conduit entry; pack of 10.",
+    priceUSD: 22.68,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 207,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/MEC-0305B_072820.jpg"
+    ],
+    specs: {
+      "Pack Quantity": "10-Pack Rubber Sealing Grommets",
+      "Conduit Knockout": "Standard 3/4-inch (20mm) Conduit Entry",
+      "Ingress Protection": "Maintains IP66 / IP67 / NEMA 4X Ratings",
+      "Material": "UV-Resistant EPDM Weatherproof Rubber"
+    },
+    features: [
+      "Provides watertight compression seal around RJ45 Ethernet and auxiliary power wires",
+      "Prevents insect, dust, and moisture entry through 3/4-inch conduit openings",
+      "Durable EPDM rubber retains flexibility across extreme sub-zero and desert temperatures",
+      "Pack of 10 grommets ensures spare hardware for ongoing maintenance and additions"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-h6adh-do-cler1",
+    sku: "H6ADH-DO-CLER1",
+    name: "Avigilon H6ADH-DO-CLER1 Replacement Clear Cover for H6A Dual Head Camera",
+    description: "H6ADH-DO-CLER1. Replacement Clear Cover for H6A Dual Head Camera. High-grade optical distortion-free clear dome bubble replacement for Avigilon H6A Dual Head multi-sensor cameras.",
+    priceUSD: 100.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 22,
+    stock: 110,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon H6A Dual Head Multi-Sensor Camera Series",
+      "Material": "Optically Clear Polycarbonate with Anti-Scratch Hardcoat",
+      "Vandal Rating": "IK10 Impact-Resistant Enclosure Standard",
+      "Gasket": "Factory Integrated Waterproof O-Ring Gasket"
+    },
+    features: [
+      "Original equipment manufacturer replacement clear dome cover for H6A Dual Head cameras",
+      "Optical-grade polycarbonate delivers crystal clear dual-sensor video without refraction",
+      "IK10 vandal resistance shields camera lenses from direct physical impacts and vandalism",
+      "Includes integral pre-fitted weather gasket for immediate watertight replacement"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-h6sl-mt-npta1",
+    sku: "H6SL-MT-NPTA1",
+    name: "Avigilon H6SL-MT-NPTA1 1.5 Inch NPT Adapter for H6SL Dome Cameras",
+    description: "H6SL-MT-NPTA1. NPT Adapter for H6SL Dome Cameras. 1.5-inch NPT female threaded mounting adapter specifically designed for Avigilon H6SL series indoor and outdoor dome cameras.",
+    priceUSD: 54.18,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 30,
+    stock: 271,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6SL/H6SL_Pole-03092023.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon H6SL Dome Camera Series",
+      "Thread Type": "Standard 1.5-inch NPT Female Conduit Thread",
+      "Material": "Cast Aluminum Alloy with Weather-Resistant Coating",
+      "Hardware": "Set Screws and Camera Attachment Fasteners Included"
+    },
+    features: [
+      "Converts Avigilon H6SL dome cameras for pendant stem, wall arm, or drop pipe mounting",
+      "Standard 1.5\" NPT thread connects with standard commercial CCTV pendant brackets",
+      "Locking set screws prevent accidental camera rotation and maintain field of view",
+      "Pass-through center orifice facilitates rapid Ethernet cable termination"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:03:00.000Z"
+  },
+  {
+    id: "prod-avigilon-ppmnt-1001",
+    sku: "PPMNT-1001",
+    name: "Avigilon PPMNT-1001 Parapet Wall Arm Mount for Outdoor Pendant Cameras",
+    description: "PPMNT-1001. Parapet Wall Arm. Parapet Wall Arm Mount for Outdoor Pendant Cameras. Commercial rooftop parapet mounting arm designed for secure swivel maintenance access.",
+    priceUSD: 624.96,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 287,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Rooftop Parapet Wall Arm",
+      "Application": "Outdoor Pendant Cameras",
+      "Thread": "1.5-inch NPT Female Conduit Interface",
+      "Material": "Heavy-Duty Cast Aluminum Alloy"
+    },
+    features: [
+      "Heavy-duty parapet wall arm engineered specifically for outdoor pendant cameras",
+      "Allows the camera to swivel inward for safe rooftop ground-level servicing",
+      "Internal wireway completely conceals and protects network and power cables",
+      "Weather-hardened coating provides decades of resistance against extreme outdoor elements"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-rfmnt-base",
+    sku: "RFMNT--BASE",
+    name: "Avigilon RFMNT--BASE Heavy-Duty Rooftop Parapet Mounting Base",
+    description: "RFMNT--BASE. Heavy-duty rooftop parapet base plate designed for securing high-payload pendant and PTZ cameras on flat commercial roofs.",
+    priceUSD: 897.53,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 16,
+    stock: 279,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Material": "Solid Welded Structural Steel",
+      "Application": "Commercial Flat Roof Anchoring Base Plate",
+      "Compatibility": "Avigilon RFMNT2 Pipe and Parapet Arms",
+      "Hardware": "Pre-Drilled Heavy Anchor Bolt Pattern"
+    },
+    features: [
+      "Provides rock-solid structural anchoring on concrete flat roofs and parapet edges",
+      "Engineered to withstand hurricane-force winds and dynamic camera payloads",
+      "Galvanized corrosion-resistant finish for long-term outdoor exposure",
+      "Precision bolt pattern mates seamlessly with RFMNT2 series pipe extensions"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-rfmnt2-pipe",
+    sku: "RFMNT2--PIPE",
+    name: "Avigilon RFMNT2--PIPE Rooftop Parapet Pipe Extension",
+    description: "RFMNT2--PIPE. Rooftop parapet pipe extension tube engineered to pair with RFMNT base plate for elevated rooftop camera sightlines.",
+    priceUSD: 560.95,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 179,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Construction": "Heavy-Gauge Cold-Rolled Steel Pipe",
+      "Compatibility": "RFMNT Base Mounting Assemblies",
+      "Finish": "Weatherproof Anti-Corrosion Architectural Coating",
+      "Wiring": "Hollow Center for In-Pipe Cable Pulling"
+    },
+    features: [
+      "Elevates surveillance cameras above rooftop HVAC units, gravel, and parapet edges",
+      "Rigid structural design eliminates optical sway and vibration under gusty conditions",
+      "Hollow internal chamber allows effortless routing of thick outdoor Cat6 and power cables",
+      "Direct bolt-on interface with Avigilon rooftop bases and pendant arms"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-sm-fjb-aw-3991-2",
+    sku: "SM-FJB-AW-3991-2",
+    name: "Avigilon SM-FJB-AW-3991-2 SMR Fixed Junction Box (Pantone 427C)",
+    description: "SM-FJB-AW-3991-2. SMR Fixed J Box Pantone 427C 2-003991. Fixed weather-resistant junction box for Avigilon SMR series cameras in Pantone 427C light cool grey.",
+    priceUSD: 288.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 24,
+    stock: 265,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Enclosure Type": "Fixed Weatherproof Junction Box",
+      "Color Finish": "Pantone 427C Light Cool Grey",
+      "Compatibility": "Avigilon SMR Camera Line",
+      "Weather Rating": "IP66 / NEMA 4X Rated Ingress Protection"
+    },
+    features: [
+      "Provides ample internal wiring volume for PoE splitters and high-voltage connections",
+      "High-grade perimeter gasket prevents water and particulate infiltration",
+      "Pantone 427C factory finish blends seamlessly with Avigilon mounting arms",
+      "Conduit knockouts on back and bottom for flexible electrical piping"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-sm-sjb-aw-3398-2",
+    sku: "SM-SJB-AW-3398-2",
+    name: "Avigilon SM-SJB-AW-3398-2 SMR Swivel Junction Box (Pantone 427C)",
+    description: "SM-SJB-AW-3398-2. SMR Swivel J Box Pantone 427C 2-003398. Articulating swivel junction box allowing multi-axis camera aiming in Pantone 427C.",
+    priceUSD: 446.09,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 247,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Type": "Articulating Swivel Weatherproof Junction Box",
+      "Adjustment": "Multi-Axis Swivel with Positive Lock Screws",
+      "Finish": "Pantone 427C Architectural Coating",
+      "Application": "Industrial & Enterprise Wall Mount Installations"
+    },
+    features: [
+      "Articulating ball-joint swivel allows precise field-of-view targeting without bracket repositioning",
+      "Weather-sealed design maintains continuous IP66 protection at any tilt angle",
+      "Precision cast metal chassis withstands severe mechanical vibration",
+      "Matches Pantone 427C aesthetic for standardized enterprise sites"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-sp01-001-aw-2",
+    sku: "SP01-001-AW-2",
+    name: "Avigilon SP01-001-AW-2 SMR Pole Top Mount Pendant (Pantone 427C)",
+    description: "SP01-001-AW-2. SMR POLE TOP MT PENDANT; Pantone 427C. Commercial pole top pendant adapter for mounting SMR cameras on utility poles in Pantone 427C.",
+    priceUSD: 116.26,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 274,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Position": "Pole Top / Mast Apex Mounting Adapter",
+      "Finish": "Pantone 427C Weather-Treated Coating",
+      "Cable Passage": "Central Feedthrough Hole for Hollow Poles",
+      "Compatibility": "SMR Cameras and 1.5\" NPT Pendant Assemblies"
+    },
+    features: [
+      "Mounts cameras directly at the summit of utility and parking lot lighting poles",
+      "Offers full 360-degree panoramic sightlines with zero blind spots",
+      "Internal wireway directs cabling safely down through the hollow mast interior",
+      "Heavy cast metal construction engineered for high wind resistance"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-sp01-146a-aw-2",
+    sku: "SP01-146A-AW-2",
+    name: "Avigilon SP01-146A-AW-2 1.5-Inch NPT Extension 300mm (Pantone 427C)",
+    description: "SP01-146A-AW-2. SMR 1.5-IN NPT EXT; 300MM WT Pantone 427C. 300mm (12-inch) rigid 1.5-inch NPT pipe extension tube for pendant dome cameras in Pantone 427C.",
+    priceUSD: 114.86,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 20,
+    stock: 214,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Drop Length": "300 mm (11.8 inches)",
+      "Thread Specification": "1.5-inch NPT Male Both Ends",
+      "Material": "Solid Heavy-Gauge Steel Tubing",
+      "Finish": "Pantone 427C Architectural Powder Coat"
+    },
+    features: [
+      "Drops pendant domes 300mm below high ceilings, structural beams, and lighting fixtures",
+      "Precision NPT tapered threads ensure rigid, wobble-free installation",
+      "Spacious inner diameter easily accommodates pre-terminated RJ45 connectors",
+      "Factory-matched Pantone 427C color ensures uniform corporate appearance"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-sp01-146b-aw-2",
+    sku: "SP01-146B-AW-2",
+    name: "Avigilon SP01-146B-AW-2 1.5-Inch NPT Extension 1 Meter (Pantone 427C)",
+    description: "SP01-146B-AW-2. SMR 1.5-IN NPT EXT; 1M WT Pantone 427C. 1-meter (39.4-inch) heavy-duty 1.5-inch NPT threaded pendant drop pipe in Pantone 427C.",
+    priceUSD: 233.74,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 172,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Drop Length": "1000 mm (1.0 Meter / 39.4 inches)",
+      "Thread Type": "1.5-inch NPT Male Threaded Ends",
+      "Wall Thickness": "Industrial Heavy-Wall Pipe Specification",
+      "Finish": "Pantone 427C Tough Enamel Coating"
+    },
+    features: [
+      "Suspends surveillance cameras 1 meter into warehouse bays, atriums, and transit hubs",
+      "Thick pipe walls completely eliminate optical flutter under ambient air handling airflow",
+      "Compatible with all standard 1.5\" NPT ceiling flanges and camera pendant caps",
+      "Corrosion-resistant coating protects against humidity in indoor and semi-outdoor areas"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-sp99-321-aw-2",
+    sku: "SP99-321-AW-2",
+    name: "Avigilon SP99-321-AW-2 4-8 Ft Telescoping Pole Mount (Pantone 427C)",
+    description: "SP99-321-AW-2. SMR 4-8 FT TELESCOPING POLE Pantone 427C. Adjustable heavy-duty 4 to 8 foot telescoping pendant suspension pole for high-bay ceilings in Pantone 427C.",
+    priceUSD: 660.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 19,
+    stock: 283,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Extension Range": "4 feet to 8 feet (1.2m to 2.4m) Continuously Variable",
+      "Locking Collar": "Dual Friction Clamp with Positive Steel Locking Pin",
+      "Threading": "1.5-inch NPT Ceiling Flange and Bottom Pendant Drop",
+      "Finish": "Pantone 427C Commercial Grade Coating"
+    },
+    features: [
+      "Allows instant field adjustment between 4 and 8 feet without cutting pipe on site",
+      "Heavy-duty safety locking pin guarantees camera will never slip downward",
+      "Internal wireway extends smoothly alongside telescoping tubes",
+      "Ideal for distribution centers, manufacturing facilities, and airport terminals"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-wlmt-1031-2",
+    sku: "WLMT-1031-2",
+    name: "Avigilon WLMT-1031-2 Universal Wall Arm Mount 30cm (1.5 NPT Adapter)",
+    description: "WLMT-1031-2. Universal Wall Arm Mount; 30cm; 1.5 NPT Adapter. Heavy-duty 30cm (12-inch) universal wall bracket with 1.5-inch NPT adapter for Avigilon pendant cameras.",
+    priceUSD: 132.3,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 36,
+    stock: 198,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Universal Pendant Wall Arm Mount",
+      "Length": "30 cm (11.8 inches)",
+      "Adapter": "1.5-inch NPT Threaded Coupler",
+      "Wire Routing": "Protected Rear and Bottom Knockouts"
+    },
+    features: [
+      "Extended 30cm reach clears wall obstructions, signage, and exterior trim",
+      "Universal 1.5\" NPT adapter accommodates all compatible pendant domes",
+      "Cast aluminum arm dampens mechanical vibration for clear video images",
+      "Equipped with both concealed wall feed and conduit pipe knockouts"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-01801-001",
+    sku: "01801-001",
+    name: "AXIS TP3001-E Mounting Bracket (4-Pack)",
+    description: "01801-001. AXIS TP3001-E MOUNTING BRACKET 4P. Spare part mounting bracket for selected AXIS P32 outdoor cameras. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    priceUSD: 105.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 29,
+    stock: 262,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pack Quantity": "4-Pack Mounting Brackets",
+      "Compatibility": "Selected AXIS P32 Outdoor Camera Models",
+      "Junction Box Support": "4\" Octagon, Single-Gang, Double-Gang Standard Boxes",
+      "Material": "Impact-Resistant Weather-Sealed Metal Base"
+    },
+    features: [
+      "Official Axis spare mounting bracket supplied in an economical 4-pack",
+      "Enables direct mounting onto standard commercial electrical junction boxes",
+      "Integrated weather seal maintains outdoor camera environmental ratings",
+      "Includes all necessary mounting screws and hardware"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-02274-001",
+    sku: "02274-001",
+    name: "AXIS TQ3902 Mounting Bracket for Q3819-PVE",
+    description: "02274-001. AXIS TQ3902 MOUNT BRACKET. Mount bracket for Q3819-PVE panoramic camera. Includes conduit lid to cover conduit entry not used.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 18,
+    stock: 157,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q3819-PVE Panoramic Network Camera",
+      "Included Accessories": "Conduit Lid Cover for Unused Ports",
+      "Material": "Robust Weatherproof Metal Alloy",
+      "Mounting Pattern": "Factory Matched to Q3819-PVE Base"
+    },
+    features: [
+      "Tailor-made mounting bracket specifically designed for AXIS Q3819-PVE",
+      "Supplied with a protective conduit lid to seal unused cable entry holes",
+      "Maintains IP66 and NEMA 4X weather tightness across all mounting styles",
+      "Streamlines camera installation with secure captive fastening points"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-02852-001",
+    sku: "02852-001",
+    name: "AXIS TM1001 Wall Mount for M1055-L & M1075-L (5-Pack)",
+    description: "02852-001. AXIS TM1001 Wall Mount 5 pcs. 5 pack spare part wall mount for: AXIS M1055-L and AXIS M1075-L.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.7,
+    reviewCount: 35,
+    stock: 256,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pack Quantity": "5-Pack Wall Mounts",
+      "Compatibility": "AXIS M1055-L, AXIS M1075-L Indoor Cameras",
+      "Adjustment": "Swivel Ball-Joint for 3-Axis Aiming",
+      "Finish": "Discreet Low-Profile White"
+    },
+    features: [
+      "Spare wall mounting brackets in a 5-pack for AXIS M10 series indoor cameras",
+      "Integrated ball joint allows smooth pan and tilt adjustment for ideal coverage",
+      "Compact footprint blends unobtrusively into retail and office spaces",
+      "Original Axis accessory ensures solid camera retention"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-02829-001",
+    sku: "02829-001",
+    name: "AXIS TQ3002-E Mounting Bracket for Q3626/8-VE",
+    description: "02829-001. AXIS TQ3002-E Mounting Bracket. Spare part standard mounting bracket for AXIS Q3626/8-VE Network Cameras.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 21,
+    stock: 294,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q3626-VE, AXIS Q3628-VE Network Cameras",
+      "Vandal Resistance": "IK10 Vandal-Resistant Enclosure Base",
+      "Material": "Heavy-Duty Powder-Coated Metal",
+      "Application": "Outdoor Surface and Bracket Mounting"
+    },
+    features: [
+      "Factory replacement standard mounting bracket for AXIS Q3626-VE and Q3628-VE",
+      "Engineered to withstand physical shock and IK10 vandal impact forces",
+      "Provides weather-sealed gasket channels for reliable outdoor moisture protection",
+      "Pre-drilled mounting holes simplify installation on walls or third-party arms"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-03303-001",
+    sku: "03303-001",
+    name: "AXIS TQ3903-E Mounting Bracket for Q3839-PVE & Q4809-PVE",
+    description: "03303-001. AXIS TQ3903-E Mounting Bracket. Spare part mount bracket for AXIS Q3839-PVE, AXIS Q4809-PVE.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 23,
+    stock: 149,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q3839-PVE, AXIS Q4809-PVE Network Cameras",
+      "Environment": "Outdoor High-Security Installations",
+      "Material": "Marine-Grade Treated Aluminum Alloy",
+      "Hardware": "Captive Stainless Fastening Hardware"
+    },
+    features: [
+      "Genuine Axis spare mounting bracket for high-end panoramic and multisensor cameras",
+      "Heavy load rating ensures zero image wobble in high-wind conditions",
+      "Captive mounting hardware prevents dropped screws during elevated installation",
+      "Corrosion-resistant coating certified for industrial and coastal deployments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-03322-001",
+    sku: "03322-001",
+    name: "AXIS TP3007 Indoor Junction Box Mounting Bracket (4-Pack)",
+    description: "03322-001. AXIS TP3007 Mounting Bracket 4P. Spare part mounting bracket. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack. Compatible with: AXIS P3267-LV, AXIS P3268-LV, AXIS P327x-LV, P328x-LV.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 37,
+    stock: 161,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pack Quantity": "4-Pack Mounting Brackets",
+      "Compatibility": "AXIS P3267-LV, AXIS P3268-LV, AXIS P327x-LV, P328x-LV",
+      "Box Compatibility": "4-Inch Octagon, Single-Gang, Double-Gang Boxes",
+      "Material": "Reinforced Composite Polymer Metal Hybrid"
+    },
+    features: [
+      "Enables clean, flush mounting over standard electrical outlet and junction boxes",
+      "Universal slot pattern fits single-gang, double-gang, and 4-inch octagonal boxes",
+      "Pack of 4 units provides bulk savings for indoor camera rollouts",
+      "Integrated cable guide protects wires from pinching against sharp drywall edges"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-03323-001",
+    sku: "03323-001",
+    name: "AXIS TP3006-E Outdoor Junction Box Mounting Bracket (4-Pack)",
+    description: "03323-001. AXIS TP3006-E Mounting Bracket 4P. Spare part mounting bracket. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack. Compatible with: AXIS P3265-LVE 22 mm, AXIS P3267-LVE, AXIS P3268-LVE, P327x-LVE, AXIS P328x-LVE.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 30,
+    stock: 202,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pack Quantity": "4-Pack Outdoor Mounting Brackets",
+      "Compatibility": "AXIS P3265-LVE (22mm), P3267-LVE, P3268-LVE, P327x-LVE, P328x-LVE",
+      "Junction Box Types": "4\" Octagon, Single-Gang, Double-Gang Electrical Boxes",
+      "Weather Sealing": "Includes Full Environmental Perimeter Gasket"
+    },
+    features: [
+      "Engineered for outdoor P32 series cameras mounted over exterior electrical boxes",
+      "Includes heavy weather gasket to block rain and humidity ingress into the junction box",
+      "Supplied in a 4-pack to equip commercial installers across multiple camera drops",
+      "High rigidity prevents camera deflection in windy exterior conditions"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-5700-851",
+    sku: "5700-851",
+    name: "AXIS 5700-851 Hard Ceiling Surface Bracket Kit for Q60XX & P55XX",
+    description: "5700-851. SPR BRACKET KIT AXIS Q60XX/P55XX. Bracket kit for surface mounting a camera on a hard ceiling. Compatible with Q603X and P553X. Content: Bracket, screws with washers and wave springs.",
+    priceUSD: 31.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 289,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q603X and P553X Series PTZ Dome Cameras",
+      "Mount Application": "Hard Ceiling Surface Mounting (Concrete/Wood/Plaster)",
+      "Contents": "Hard Ceiling Bracket, Screws with Washers, Wave Springs",
+      "Finish": "White Powder-Coated Steel"
+    },
+    features: [
+      "Enables direct flush surface mounting of PTZ domes against hard concrete or wood ceilings",
+      "Included wave springs and anti-vibration washers absorb mechanical PTZ rotation shock",
+      "Original Axis replacement hardware maintains full equipment safety certifications",
+      "Fast twist-and-lock camera chassis engagement ensures rapid field installation"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-01600-001",
+    sku: "01600-001",
+    name: "AXIS 01600-001 Q62 Impact Protection Bracket (IK10)",
+    description: "01600-001. AXIS Q62 IMPACT PROTECTION BRACKET. Protection of front window on AXIS Q62-LE camera. Provides IK10 rating on product. Includes bracket and mounting screws.",
+    priceUSD: 31.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 19,
+    stock: 158,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q62-LE Heavy-Duty PTZ Camera",
+      "Impact Rating": "IK10 Vandal and Debris Impact Certification",
+      "Material": "Heavy-Gauge Powder-Coated Steel Guard",
+      "Hardware": "Includes Tamper-Proof Fastening Screws"
+    },
+    features: [
+      "Shields the front optical window of AXIS Q62-LE against rocks, hail, and vandalism",
+      "Elevates the camera system to certified IK10 physical impact standards",
+      "Preserves unobstructed field of view for high-powered optical zoom lenses",
+      "Comes complete with specialized corrosion-resistant attachment screws"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-axis-02586-001",
+    sku: "02586-001",
+    name: "AXIS TM2001 Mounting Bracket with Cable Gasket for M2035-LE & M2036-LE",
+    description: "02586-001. AXIS TM2001 MOUNT BRACKET. Spare part mounting bracket for AXIS M2035-LE, M2036-LE. Includes a mounting bracket and gasket for cable.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 32,
+    stock: 151,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M2035-LE, AXIS M2036-LE Bullet Cameras",
+      "Included Components": "Mounting Foot Bracket and Weatherproof Cable Gasket",
+      "Material": "Impact-Resistant Outdoor Grade Polymer/Alloy",
+      "Finish": "Signal White Finish"
+    },
+    features: [
+      "Official Axis replacement foot mount bracket for M2035-LE and M2036-LE cameras",
+      "Includes factory cable sealing gasket to prevent water intrusion along the Ethernet line",
+      "Allows easy 3-axis bullet camera aiming on walls, ceilings, or junction boxes",
+      "Maintains IP66 / IP67 environmental rating on outdoor bullet camera runs"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:06:00.000Z"
+  },
+  {
+    id: "prod-avigilon-hd-lp-ps-a",
+    sku: "HD-LP-PS-A",
+    name: "Avigilon HD-LP-PS-A Replacement Power Supply for JPEG2000 LPR Kits",
+    description: "HD-LP-PS-A. Replacement Power Supply for JPEG2000 LPR Kits. Heavy-duty regulated replacement power supply engineered for Avigilon JPEG2000 license plate recognition (LPR) camera systems.",
+    priceUSD: 1204.32,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 12,
+    stock: 119,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon JPEG2000 LPR Camera Enclosures",
+      "Type": "Regulated Industrial Replacement Power Supply",
+      "Input": "100-240V AC 50/60Hz Universal Input",
+      "Output": "High-Current Camera & Illuminator DC Power Rails"
+    },
+    features: [
+      "Original OEM replacement power supply for Avigilon JPEG2000 LPR capture kits",
+      "Delivers ultra-stable clean voltage to sensitive license plate recognition sensors and IR strobes",
+      "Industrial temperature rated for harsh outdoor roadside cabinets and gantries",
+      "Comprehensive built-in short circuit, overload, and thermal surge protection"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-npta-1001-2",
+    sku: "NPTA-1001-2",
+    name: "Avigilon NPTA-1001-2 1.5-Inch NPT Adapter for Large Pendant Mount Cameras",
+    description: "NPTA-1001-2. 1.5 inch NPT Adapter for Large Pendant Mount Camera. Precision 1.5-inch NPT threaded adapter designed for Avigilon large format commercial pendant dome cameras.",
+    priceUSD: 82.74,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 295,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Thread Standard": "1.5-inch NPT Tapered Pipe Thread",
+      "Compatibility": "Avigilon Large Pendant Mount Cameras",
+      "Material": "Weather-Resistant Cast Aluminum Alloy",
+      "Hardware": "Anti-Rotation Lock Screws Included"
+    },
+    features: [
+      "Connects large format Avigilon pendant domes to standard 1.5-inch NPT conduits",
+      "Engineered cast alloy chassis eliminates vibrations under high optical zoom",
+      "Includes set screws to securely lock camera orientation in high winds",
+      "Seamlessly routes cabling directly into overhead pendant pipe stems"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-plmt-1001-2",
+    sku: "PLMT-1001-2",
+    name: "Avigilon PLMT-1001-2 Pole Mount Adapter for Large Pendant WLMT-1001",
+    description: "PLMT-1001-2. Pole mount for large pendant WLMT-1001. Heavy-duty pole mount adapter engineered for mounting the WLMT-1001 large pendant arm onto exterior utility poles and masts.",
+    priceUSD: 144.9,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 242,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H4-Camera_Pole-Mount_Back_070120.jpg"
+    ],
+    specs: {
+      "Compatibility": "Avigilon WLMT-1001 Large Pendant Wall Arm",
+      "Mounting": "Utility Poles and Light Masts (6\" to 12\" Diameter)",
+      "Hardware": "Heavy-Duty Stainless Steel Band Clamps Included",
+      "Finish": "Weather-Resistant Architectural White"
+    },
+    features: [
+      "Adapts large WLMT-1001 wall arms directly to perimeter poles and parking lot lighting masts",
+      "High mechanical load capacity handles oversized multi-sensor and PTZ pendant cameras",
+      "Supplied with industrial-strength marine grade stainless steel mounting bands",
+      "UV-stable architectural powder coating resists corrosion and weathering"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-ppmnt-2001",
+    sku: "PPMNT-2001",
+    name: "Avigilon PPMNT-2001 Large Parapet Wall Arm Mount for Outdoor Pendant Cameras",
+    description: "PPMNT-2001. Parapet Wall Arm Mount Large for Outdoor Pendant Camera. Commercial heavy-duty extended parapet wall arm mount engineered for large outdoor pendant dome cameras.",
+    priceUSD: 693.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 246,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Extended Large Parapet Swivel Wall Arm",
+      "Conduit Interface": "1.5-inch NPT Standard Female Thread",
+      "Compatibility": "Large Outdoor Pendant Domes & PTZ Assemblies",
+      "Material": "Structural Heavy-Duty Cast Alloy"
+    },
+    features: [
+      "Extended reach clears high parapet capstones and architectural exterior cornices",
+      "Swivel hinge allows 180-degree inward rotation for safe roof-level camera service",
+      "Completely concealed through-arm cable pathway protects data lines from vandalism",
+      "Rated for sustained high wind resistance and severe rooftop environmental exposure"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-rfmnt-1001",
+    sku: "RFMNT-1001",
+    name: "Avigilon RFMNT-1001 Rooftop Arm Mount for Outdoor Pendant Cameras",
+    description: "RFMNT-1001. Rooftop Wall Arm. Rooftop Arm Mount for Outdoor Pendant Camera. Heavy commercial rooftop arm mount facilitating secure parapet and flat-roof installation.",
+    priceUSD: 967.68,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 21,
+    stock: 180,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Application": "Commercial Flat Roof & Rooftop Parapet Mounting",
+      "Thread": "1.5\" NPT Pendant Connection",
+      "Swivel": "Inward Swivel for Safe Maintenance Access",
+      "Finish": "Corrosion-Proof Heavy Enamel Coating"
+    },
+    features: [
+      "Facilitates secure perimeter surveillance mounting on commercial flat roofs",
+      "Rotates inward to eliminate the need for dangerous bucket trucks during lens cleaning",
+      "Engineered structural pipe design eliminates camera jitter at long focal lengths",
+      "Pass-through internal channel accommodates bundled PoE and auxiliary power wiring"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-rfmnt-2001",
+    sku: "RFMNT-2001",
+    name: "Avigilon RFMNT-2001 Large Rooftop Arm Mount for Outdoor Pendant Cameras",
+    description: "RFMNT-2001. Rooftop Wall Arm Large. Rooftop Arm Mount Large for Outdoor Pendant Camera. Extended reach heavy commercial rooftop arm mount for oversized outdoor pendant domes and heavy PTZ payloads.",
+    priceUSD: 1018.08,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 5.0,
+    reviewCount: 18,
+    stock: 187,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Large Rooftop Parapet Arm Mount",
+      "Payload Rating": "Heavy Commercial & Industrial Payloads",
+      "Wiring": "Concealed Through-Tube Cable Pathway",
+      "Interface": "1.5-inch NPT Threaded Connection"
+    },
+    features: [
+      "Maximum-reach rooftop arm engineered for high-elevation perimeter monitoring",
+      "Heavy load capacity certified for multi-sensor and thermal PTZ camera heads",
+      "Safe service swivel mechanism allows rooftop maintenance without exterior staging",
+      "Industrial corrosion-resistant finish withstands intense coastal salt fog and UV radiation"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-wlmt-1001-2",
+    sku: "WLMT-1001-2",
+    name: "Avigilon WLMT-1001-2 Heavy-Duty Wall Mount Arm for Large Pendant Cameras",
+    description: "WLMT-1001-2. Wall Mount for large pendant camera. Commercial heavy-duty wall arm mount engineered specifically for Avigilon large pendant dome cameras.",
+    priceUSD: 152.87,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 38,
+    stock: 277,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Pendant Wall Arm",
+      "Compatibility": "Avigilon Large Format Pendant Domes",
+      "Thread": "1.5-inch NPT Connection",
+      "Cable Management": "Internal Feedthrough Channel"
+    },
+    features: [
+      "Sturdy cast aluminum alloy arm prevents sway in high-wind outdoor environments",
+      "1.5-inch NPT threaded connection supports Avigilon large pendant caps and domes",
+      "Concealed wiring design feeds directly through wall cavity or surface conduit knockouts",
+      "Factory finished in durable architectural white powder coating"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-wlmt-1021-2",
+    sku: "WLMT-1021-2",
+    name: "Avigilon WLMT-1021-2 Pendant Wall Arm 20cm (1.5 NPT)",
+    description: "WLMT-1021-2. Mount; Pendant Arm; 20cm Long; 1.5 NPT. Compact 20cm (8-inch) pendant wall arm mount with 1.5-inch NPT connection for outdoor and indoor pendant installations.",
+    priceUSD: 132.3,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 189,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6A-X-XP%20Camera%20Line/WLMT-1021-09192023.png"
+    ],
+    specs: {
+      "Reach": "20 cm (7.9 inches)",
+      "Threading": "1.5-inch NPT Threaded Interface",
+      "Material": "Cast Weather-Resistant Alloy",
+      "Finish": "Architectural White"
+    },
+    features: [
+      "Space-saving 20cm projection ideal for corridors, loading bays, and entry portals",
+      "1.5-inch NPT thread supports standard pendant caps and domes",
+      "Provides internal wire channels for a neat and tamper-resistant installation",
+      "Compatible with Avigilon corner and pole mounting adapter plates"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-h6m-mt-npta1",
+    sku: "H6M-MT-NPTA1",
+    name: "Avigilon H6M-MT-NPTA1 Pendant NPT Adapter (Outdoor, Grey)",
+    description: "H6M-MT-NPTA1. MOUNT; Pendant Adapter; Grey; Odr; H6M. Outdoor weatherproof 1.5-inch NPT pendant mounting adapter for Avigilon H6 Mini Dome (H6M) cameras in grey.",
+    priceUSD: 51.48,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 252,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon H6 Mini Dome (H6M) Series",
+      "Thread Type": "1.5-inch NPT Female Thread",
+      "Finish": "Weatherproof Outdoor Grey Finish",
+      "Gasket": "Integral Moisture Seal"
+    },
+    features: [
+      "Adapts compact H6 Mini Dome cameras for pendant wall arm or ceiling stem mounting",
+      "Standard 1.5-inch NPT female thread ensures universal compatibility with conduit pipes",
+      "Outdoor rated grey finish matches industrial exterior facades",
+      "Integrated water-tight gasket preserves IP66 and NEMA 4X camera ratings"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-avigilon-apd-mt-wall1",
+    sku: "APD-MT-WALL1",
+    name: "Avigilon APD-MT-WALL1 Wall & Corner Mount for Presence Detector",
+    description: "APD-MT-WALL1. APD Wall Mount. Optional wall or corner Mount for Avigilon Presence Detector. Versatile surface bracket enabling flat wall or 90° inside/outside corner mounting.",
+    priceUSD: 11.88,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "Avigilon",
+    rating: 4.7,
+    reviewCount: 34,
+    stock: 227,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon Presence Detector (APD)",
+      "Mount Configuration": "Flat Wall or 90-Degree Corner Mounting",
+      "Material": "Durable UV-Stabilized Polymer",
+      "Profile": "Ultra-Compact Discreet Form Factor"
+    },
+    features: [
+      "Allows the Avigilon Presence Detector to be mounted on flat walls or 90-degree corners",
+      "Optimizes radar sensor detection angle across rooms and perimeter entrances",
+      "Ultra-low profile design blends unobtrusively into commercial interiors",
+      "Simple snap-fit bracket facilitates rapid device attachment and servicing"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-02552-001",
+    sku: "02552-001",
+    name: "AXIS TP3003-E Outdoor Mounting Bracket (4-Pack)",
+    description: "02552-001. AXIS TP3003-E MOUNTING BRACKET 4P. Spare part mounting bracket for AXIS P3265-LVE 22 mm, P3267-LVE, P3268-LVE. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    priceUSD: 116.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 193,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pack Quantity": "4-Pack Outdoor Mounting Brackets",
+      "Compatibility": "AXIS P3265-LVE 22mm, P3267-LVE, P3268-LVE",
+      "Junction Box Compatibility": "4\" Octagon, Single-Gang, Double-Gang Boxes",
+      "Weather Sealing": "Outdoor Perimeter Seal Gasket"
+    },
+    features: [
+      "Factory replacement outdoor mounting bracket supplied in an economical 4-pack",
+      "Enables secure mounting over standard commercial exterior electrical junction boxes",
+      "High-grade perimeter gasket maintains IP66 environmental protection",
+      "Compatible with a wide range of Axis wall, pole, and corner accessories"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-02515-001",
+    sku: "02515-001",
+    name: "AXIS TQ3001-E Mounting Bracket for Q3536-LVE & Q3538-LVE (5-Pack)",
+    description: "02515-001. AXIS TQ3001-E MOUNTING BRACKET 5P. Spare part mounting bracket in 5p for AXIS Q3536-LVE, AXIS Q3538-LVE.",
+    priceUSD: 148.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 24,
+    stock: 142,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pack Quantity": "5-Pack Mounting Brackets",
+      "Compatibility": "AXIS Q3536-LVE, AXIS Q3538-LVE Outdoor Domes",
+      "Impact Resistance": "IK10+ High-Security Vandal Rating",
+      "Material": "Industrial Powder-Coated Metal Alloy"
+    },
+    features: [
+      "5-pack spare mounting bracket specifically for AXIS Q3536-LVE and Q3538-LVE cameras",
+      "Reinforced heavy alloy design withstands high-impact IK10+ physical vandalism",
+      "Factory alignment slots ensure fast, precise camera body engagement",
+      "Built-in cable channels protect wiring against weather and abrasion"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-5505-161",
+    sku: "5505-161",
+    name: "AXIS Q604X Indoor Recessed Ceiling Mount for Drop Ceilings",
+    description: "5505-161. AXIS Q604X RECESSED MOUNT. Spare part indoor recessed mount for mounting AXIS Q60 indoor cameras in drop ceilings.",
+    priceUSD: 105.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 30,
+    stock: 191,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q60 Indoor Series PTZ Cameras (Q604X and similar)",
+      "Mount Type": "Recessed Drop Ceiling Mount Kit",
+      "Trim Ring": "Architectural White Trim Bezel Included",
+      "Support": "Ceiling Tile Support Rails"
+    },
+    features: [
+      "Recesses AXIS Q60 series PTZ cameras cleanly into false acoustic drop ceiling tiles",
+      "Low-profile architectural trim ring offers a sleek, professional indoor appearance",
+      "Internal steel support rails distribute camera weight safely across ceiling grid T-bars",
+      "Original Axis accessory engineered to meet commercial building fire and ceiling codes"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-5800-121",
+    sku: "5800-121",
+    name: "AXIS M501X Ceiling Mounting Kit for Hard and Drop Ceilings",
+    description: "5800-121. AXIS M501X MOUNTING KIT. Original ceiling mount kit for both hard and drop ceilings for the AXIS M501X series miniature PTZ cameras.",
+    priceUSD: 15.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.7,
+    reviewCount: 42,
+    stock: 297,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M501X Series Miniature PTZ Cameras",
+      "Ceiling Types": "Hard Ceilings (Drywall/Concrete) & Drop Ceilings",
+      "Contents": "Ceiling Bracket, Locking Ring, Fasteners",
+      "Finish": "Clean Indoor White"
+    },
+    features: [
+      "Versatile ceiling mounting kit supporting both solid ceilings and acoustic tiles",
+      "Allows clean, flush installation of compact AXIS M501X miniature pan-tilt cameras",
+      "Includes positive-locking ring to ensure camera stays securely anchored",
+      "Economical factory replacement hardware kit with complete screw set"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-5800-351",
+    sku: "5800-351",
+    name: "AXIS T98A Stainless Steel Mounting Bracket for Surveillance Cabinets",
+    description: "5800-351. AXIS T98A MOUNTING BRACKET. Original stainless steel mounting bracket for AXIS T98A-VE Surveillance Cabinet series.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 19,
+    stock: 157,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS T98A-VE Surveillance Cabinet Series",
+      "Material": "High-Strength Stainless Steel",
+      "Application": "Wall and Pole Cabinet Mounting",
+      "Environment": "Outdoor Harsh Industrial Environments"
+    },
+    features: [
+      "Heavy stainless steel bracket engineered for AXIS T98A-VE exterior surveillance cabinets",
+      "Impervious to rust, corrosion, and industrial airborne pollutants",
+      "High mechanical load rating securely holds heavy electrical cabinet payloads",
+      "Compatible with Axis stainless steel pole straps and wall mounting hardware"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-5505-171",
+    sku: "5505-171",
+    name: "AXIS T94F01S Mounting Bracket for M30 Series Cameras",
+    description: "5505-171. AXIS T94F01S MOUNTING BRACKET. Standard mount bracket for AXIS M3006-V, AXIS M3007-P/-PV, AXIS M3024-LVE/3025-VE/3026-VE network dome cameras.",
+    priceUSD: 31.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 28,
+    stock: 236,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3006-V, M3007-P/PV, M3024-LVE, M3025-VE, M3026-VE",
+      "Type": "Direct Surface Mount Adapter Plate",
+      "Fastening": "Twist-Lock Camera Mounting Base",
+      "Finish": "White"
+    },
+    features: [
+      "Standard surface mounting bracket for selected AXIS M30 panoramic and fixed domes",
+      "Enables swift bayonet twist-and-lock mounting for rapid field setup",
+      "Pre-drilled screw slots compatible with standard wall plugs and drywall anchors",
+      "Original Axis accessory ensuring precise optical alignment"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-01566-001",
+    sku: "01566-001",
+    name: "AXIS T94T02S Mounting Bracket with Spring Clips for M3057/58-PLVE",
+    description: "01566-001. AXIS T94T02S MOUNTING BRACKET. Spare part mounting brackets for AXIS M3057/58-PLVE, single pack. Includes spring clips for ease-of-installation.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 238,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3057-PLVE, AXIS M3058-PLVE Panoramic Cameras",
+      "Features": "Integrated Quick-Snap Spring Retention Clips",
+      "Material": "Impact-Resistant Weatherproof Alloy",
+      "Package": "Single Pack Mounting Assembly"
+    },
+    features: [
+      "Factory replacement mounting bracket specifically for AXIS M3057-PLVE and M3058-PLVE",
+      "Equipped with spring clips that hold the camera firmly during alignment and screw fastening",
+      "Engineered to maintain IK10 vandal resistance and IP66 weatherproofing",
+      "Includes all required screws and mounting hardware"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-5801-911",
+    sku: "5801-911",
+    name: "AXIS T94V01S Standard Mounting Bracket for Q36 Series Cameras",
+    description: "5801-911. AXIS T94V01S MOUNTING BRACKET. Standard mounting bracket for AXIS Q36 Series Network Cameras.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 17,
+    stock: 299,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q36 Series High-End Fixed Domes",
+      "Mount Type": "Base Mounting Adapter Plate",
+      "Material": "Cast Heavy-Duty Aluminum",
+      "Finish": "White Industrial Powder Coating"
+    },
+    features: [
+      "Standard factory mounting plate engineered for heavy AXIS Q36 series dome cameras",
+      "Cast aluminum structure provides high stability for remote PTRZ pan-tilt-roll-zoom operations",
+      "Protects internal cable loops within a weather-shielded enclosure base",
+      "Original Axis accessory ensuring certified structural compliance"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-5506-671",
+    sku: "5506-671",
+    name: "AXIS T94U02S Stainless Steel Mounting Bracket for Q3505-SVE",
+    description: "5506-671. AXIS T94U02S MOUNTING BRACKET. Standard mounting bracket for AXIS Q3505-SVE made of marine-grade stainless steel, including sealing gasket.",
+    priceUSD: 192.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 23,
+    stock: 228,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Solid Electropolished Marine-Grade Stainless Steel",
+      "Compatibility": "AXIS Q3505-SVE Stainless Steel Network Dome",
+      "Sealing": "Environmental Sealing Gasket Included",
+      "Environment": "Marine, Food Processing, Cleanroom & Heavy Chemical"
+    },
+    features: [
+      "Forged from solid electropolished stainless steel matching AXIS Q3505-SVE enclosures",
+      "Certified for offshore platforms, maritime shipping, and food hygiene washdown areas",
+      "Includes specialized chemical-resistant sealing gasket to prevent liquid ingress",
+      "Withstands high-pressure steam cleaning and aggressive chemical sanitization"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-axis-01806-001",
+    sku: "01806-001",
+    name: "AXIS TP3001 Mounting Bracket for M32 & P32 Cameras (4-Pack)",
+    description: "01806-001. AXIS TP3001 MOUNTING BRACKET 4P. Spare part mounting bracket for selected AXIS M32 and P32 cameras. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 35,
+    stock: 184,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pack Quantity": "4-Pack Mounting Brackets",
+      "Compatibility": "Selected AXIS M32 and P32 Indoor Camera Models",
+      "Junction Box Types": "4\" Octagon, Single-Gang, Double-Gang Electrical Boxes",
+      "Design": "Low-Profile Flush Ceiling/Wall Mount"
+    },
+    features: [
+      "Bulk 4-pack of indoor mounting brackets for selected AXIS M32 and P32 series cameras",
+      "Enables clean, flush mounting over standard single-gang, double-gang, and octagonal boxes",
+      "Lightweight reinforced chassis provides solid support and prevents drywall damage",
+      "Original Axis accessory ensuring hassle-free installation on commercial projects"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:08:00.000Z"
+  },
+  {
+    id: "prod-pelco-uewbta",
+    sku: "UEWBTA",
+    name: "Pelco UEWBTA Parapet or Ceiling Mounting Bracket UK",
+    description: "UEWBTA. Parapet or ceiling mounting bracket UK. Heavy-duty parapet or ceiling mounting bracket engineered for Pelco camera housing and dome assemblies in UK and international installations.",
+    priceUSD: 352.18,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 216,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Parapet or Ceiling Mounting Bracket",
+      "Standard": "UK / International Installation Standard",
+      "Compatibility": "Pelco Enclosures & Camera Assemblies",
+      "Construction": "Heavy-Duty Weather-Resistant Cast Alloy"
+    },
+    features: [
+      "Engineered for heavy-duty parapet roof edges and commercial ceiling mount locations",
+      "Provides high load-bearing support for outdoor camera housings and PTZs",
+      "Precision machined mounting surface with standard conduit ingress",
+      "Corrosion-resistant coating for exterior British and marine environments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wbma",
+    sku: "WBMA",
+    name: "Pelco WBMA Housing Wall Bracket with Ball Joint",
+    description: "WBMA. WBMA. Housing wall bracket with ball joint. Compact adjustable wall bracket featuring an integrated ball joint for precise camera enclosure articulation.",
+    priceUSD: 31.21,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.7,
+    reviewCount: 39,
+    stock: 192,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Type": "Wall Bracket with Swivel Ball Joint",
+      "Adjustment": "360° Pan and Multi-Angle Tilt Adjustment",
+      "Compatibility": "Pelco Fixed Camera Housings & Compact Enclosures",
+      "Load Capacity": "Supports Standard CCTV Camera Housings"
+    },
+    features: [
+      "Full 360-degree rotation and flexible tilt adjustment via locking ball joint",
+      "Allows exact camera positioning and FOV alignment on vertical wall surfaces",
+      "Sturdy metal construction prevents slippage once locked into place",
+      "Easy cable routing for discrete commercial surveillance installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wcm3a",
+    sku: "WCM3A",
+    name: "Pelco WCM3A Ceiling Bracket with Ball Joint",
+    description: "WCM3A. WCM3A. Ceiling bracket with ball joint. Versatile drop-down ceiling mounting bracket featuring an articulated ball joint head for security camera housings.",
+    priceUSD: 105.01,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 27,
+    stock: 176,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Ceiling Mount with Articulated Ball Joint",
+      "Articulation": "360° Swivel with Variable Tilt Angle",
+      "Compatibility": "Pelco CCTV Enclosures & Camera Assemblies",
+      "Finish": "Durable Architectural Neutral Powder Coat"
+    },
+    features: [
+      "Suspends surveillance camera housings from commercial ceilings and canopies",
+      "Integral locking ball joint enables swift and precise field-of-view aiming",
+      "Rigid column minimizes camera shake from building vibrations or HVAC airflows",
+      "Concealed mounting base with secure fastener anchor points"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wcm4a2",
+    sku: "WCM4A2",
+    name: "Pelco WCM4A2 Ceiling Bracket with Internal Cable Channel",
+    description: "WCM4A2. Ceiling bracket with internal cable channel. Professional ceiling mounting column with hollow internal cable management to protect wiring from exposure and tampering.",
+    priceUSD: 150.64,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 24,
+    stock: 163,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Design": "Hollow Ceiling Column with Internal Cable Pathway",
+      "Protection": "Tamper-Resistant Wirefeed Conduit",
+      "Compatibility": "Pelco Enclosures and Pan/Tilt Heads",
+      "Material": "High-Strength Structural Metal Tubing"
+    },
+    features: [
+      "Internal cable conduit isolates power and network lines from physical tampering",
+      "Clean aesthetic appearance for modern retail and commercial ceiling interiors",
+      "Heavy-gauge steel tubing ensures steady vibration-free footage",
+      "Pre-cut cable entry points for smooth wire pulling and fast termination"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wcmpa",
+    sku: "WCMPA",
+    name: "Pelco WCMPA Heavy-Duty Mounting Adapter Plate",
+    description: "WCMPA. Pelco WCMPA mounting adapter plate for commercial surveillance enclosures and junction brackets.",
+    priceUSD: 42.42,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.7,
+    reviewCount: 31,
+    stock: 146,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Item": "Pelco WCMPA Adapter Plate",
+      "Material": "Corrosion-Resistant Cast Alloy",
+      "Mounting": "Multi-Hole Pattern Mounting Plate",
+      "Compatibility": "Pelco Wall and Ceiling Enclosure Brackets"
+    },
+    features: [
+      "Universal mounting hole pattern interfaces Pelco brackets with structural framing",
+      "Prevents mounting stress fractures across drywall and masonry",
+      "High tensile strength alloy construction for long-term outdoor reliability",
+      "Factory-drilled cable pass-through hole prevents wire pinching"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wcpa",
+    sku: "WCPA",
+    name: "Pelco WCPA Wall Bracket Adapter Plate",
+    description: "WCPA. WCPA. Wall bracket adaptor plate. Specialized wall adapter mounting plate designed for Pelco exterior camera wall brackets and junction mounts.",
+    priceUSD: 48.66,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 29,
+    stock: 278,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Type": "Wall Bracket Adapter Plate",
+      "Compatibility": "Pelco Wall Brackets & Exterior Junction Mounts",
+      "Material": "Powder-Coated Aluminum Alloy",
+      "Hardware": "Anchor Mounting Hardware Included"
+    },
+    features: [
+      "Enables solid mounting of Pelco wall arms onto irregular or porous wall surfaces",
+      "Spreads mechanical load over wider surface area for heavier camera assemblies",
+      "Includes gasket-ready sealing perimeter to keep moisture out of wall cavities",
+      "Factory-finished to match Pelco standard architectural housing colors"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wcwa",
+    sku: "WCWA",
+    name: "Pelco WCWA External Corner Mount Adapter",
+    description: "WCWA. WCWA. Corner mount adaptor. 90-degree external corner mounting adapter designed for Pelco wall arms and security camera brackets.",
+    priceUSD: 76.68,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 33,
+    stock: 299,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Style": "90-Degree Exterior Corner Adapter",
+      "Compatibility": "Pelco Wall Brackets & Arms",
+      "Load Rating": "Heavy-Duty Exterior Commercial Grade",
+      "Finish": "Weather-Resistant Powder Coat"
+    },
+    features: [
+      "Mounts surveillance cameras on building corners for maximum 270-degree viewing angle",
+      "Eliminates blind spots along external building perimeters and facility walls",
+      "Pre-tapped mounting holes match Pelco standard wall arms and adapters",
+      "Welded heavy-gauge construction withstands storm-force winds"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wcwgc",
+    sku: "WCWGC",
+    name: "Pelco WCWGC Corner Mounting Adapter Bracket",
+    description: "WCWGC. WCWGC. Corner adaptor. Heavy commercial corner mounting adapter bracket engineered for Pelco camera housings and pan/tilt systems.",
+    priceUSD: 127.26,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 20,
+    stock: 162,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Type": "Heavy Commercial Corner Adapter",
+      "Application": "Exterior Corner Mounting for Large Housings & Pan/Tilts",
+      "Material": "High-Strength Structural Steel",
+      "Compatibility": "Pelco Heavy-Duty Arm & Bracket Series"
+    },
+    features: [
+      "Engineered for heavy-duty security installations on exterior building corners",
+      "Provides structural rigidity for large environmental housings and motorized PTZs",
+      "Accommodates internal cable routing around sharp structural masonry corners",
+      "Resistant to impact, corrosion, and extreme outdoor weather elements"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wfwca",
+    sku: "WFWCA",
+    name: "Pelco WFWCA Column Mount Ball Joint for Camera Housing",
+    description: "WFWCA. WFWCA. Column mount ball joint for housing. Heavy-duty column mount adapter equipped with an adjustable locking ball joint head for camera enclosures.",
+    priceUSD: 130.94,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 18,
+    stock: 120,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Column / Pole Top Mount with Swivel Ball Joint",
+      "Articulation": "Omnidirectional Ball Joint Head",
+      "Compatibility": "Pelco Protective Camera Housings",
+      "Material": "Machined Corrosion-Resistant Metal"
+    },
+    features: [
+      "Mounts camera housings securely to tops of vertical columns, posts, or pedestals",
+      "Ball joint mechanism permits swift omnidirectional angle adjustments",
+      "Positive-locking clamp ensures orientation remains stable under harsh conditions",
+      "Engineered to withstand heavy outdoor loads without mechanical drift"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-wlmt-1001",
+    sku: "WLMT-1001",
+    name: "Pelco WLMT-1001 Wall Mount Arm for Large Pendant Cameras",
+    description: "WLMT-1001. Wall Mount for large pendant camera. Commercial heavy-duty wall arm mount engineered specifically for Pelco large format pendant cameras.",
+    priceUSD: 145.58,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 36,
+    stock: 247,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Type": "Pendant Wall Arm",
+      "Compatibility": "Pelco Large Pendant Cameras & Domes",
+      "Interface": "1.5-inch NPT Threaded Fitting",
+      "Cable Management": "Internal Feedthrough Raceway"
+    },
+    features: [
+      "Rigid cast aluminum alloy wall arm for large pendant domes and PTZs",
+      "Conceals wiring internally to protect against vandalism and weather degradation",
+      "Universal 1.5-inch NPT connection for seamless camera installation",
+      "Compatible with Pelco pole and corner adapters for versatile field deployment"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pa402",
+    sku: "PA402",
+    name: "Pelco PA402 Pole Adapter for LWM41, IWM & IWM24 Wall Mounts",
+    description: "PA402. Pole adapter for LWM41; IWM; IWM24 wall mounts Spectra and DF5 pendant series. Pole adapter for LWM41 Legacy®; IWM; or IWM24 wall mounts for Legacy® and Intercept series or Spectra® and DF5 pendant series. Minimum pole diameter 3 in.",
+    priceUSD: 118.87,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 241,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco LWM41, IWM, IWM24 Wall Mounts; Spectra® & DF5 Series",
+      "Pole Diameter": "Minimum 3 inches (7.6 cm)",
+      "Strapping": "Stainless Steel Band Compatible",
+      "Finish": "Weather-Resistant Grey/White"
+    },
+    features: [
+      "Adapts standard Pelco IWM and LWM41 wall mounts directly to circular poles and masts",
+      "Supports heavy Spectra and DF5 series pendant domes in perimeter surveillance",
+      "Equipped with slots for high-tensile stainless steel mounting straps",
+      "Cast aluminum construction resists mechanical fatigue and outdoor corrosion"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pa402-sw",
+    sku: "PA402-SW",
+    name: "Pelco PA402-SW Pole Mount Adapter for IWM-SW (RAL 9003 White)",
+    description: "PA402-SW. Pole Mount Adaptor for IWM-SW for Spectra Enhanced 7 IP PTZ Cameras RAL 9003. Heavy-duty pole mount adapter designed for IWM-SW wall mounts matching Spectra Enhanced 7 series cameras in clean RAL 9003 signal white.",
+    priceUSD: 118.87,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 208,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Finish Color": "RAL 9003 Signal White",
+      "Compatibility": "Pelco IWM-SW Wall Mount & Spectra Enhanced 7 Series",
+      "Mounting": "Pole and Mast Installations",
+      "Material": "Marine-Grade Cast Aluminum"
+    },
+    features: [
+      "Architectural RAL 9003 white finish perfectly matches Spectra Enhanced 7 hardware",
+      "Solid cast aluminum design withstands high-wind torque on parking lot poles",
+      "Directly mounts IWM-SW wall brackets without requiring custom drilling",
+      "Includes stainless steel strapping channels for secure pole strapping"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-plmt-1001",
+    sku: "PLMT-1001",
+    name: "Pelco PLMT-1001 Pole Mount Adapter for WLMT-1001 Pendant Arm",
+    description: "PLMT-1001. Pole mount for large pendant WLMT-1001. POLE MOUNT FOR LRGE PENDT WLMT-1001. Heavy pole mount adapter plate engineered to anchor WLMT-1001 large pendant arms onto utility posts.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 115,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco WLMT-1001 Large Pendant Wall Arm",
+      "Mounting": "Utility Poles and Lighting Columns",
+      "Material": "High-Strength Cast Aluminum Alloy",
+      "Straps": "Accepts Heavy-Duty Stainless Strapping"
+    },
+    features: [
+      "Custom-engineered mounting pattern for Pelco WLMT-1001 pendant arms",
+      "Ensures rock-solid mounting of heavy PTZ and multi-sensor domes onto poles",
+      "Dual cable access ports facilitate neat weather-sealed conduit connections",
+      "Rugged corrosion-resistant powder coat finish"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pm2000",
+    sku: "PM2000",
+    name: "Pelco PM2000 Heavy-Duty Ceiling/Pedestal Mount (24-Inch)",
+    description: "PM2000. Heavy-duty; for pan/tilt's or enclosures. Ceiling/pedestal mount; 24-inch height. Can be used with AH2000 adjustable head. Supports up to 125 lbs. Use ST1 support strut for increased stability.",
+    priceUSD: 228.38,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 25,
+    stock: 244,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Height": "24 inches (61 cm)",
+      "Load Capacity": "Supports up to 125 lbs (56.7 kg)",
+      "Configuration": "Ceiling or Pedestal Mount",
+      "Compatibility": "Pelco Heavy-Duty Pan/Tilts, AH2000 Head, ST1 Strut"
+    },
+    features: [
+      "Massive 125-pound load capacity supports heavy motorized pan/tilt positioning systems",
+      "24-inch standoff height drops camera below ceiling obstacles, pipes, and trusses",
+      "Can be inverted for heavy pedestal floor/parapet mounting",
+      "Compatible with optional ST1 support strut for extreme wind stability"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pm2010",
+    sku: "PM2010",
+    name: "Pelco PM2010 Heavy-Duty Ceiling/Pedestal Mount (10-Inch)",
+    description: "PM2010. Heavy-duty; for pan/tilt's or enclosures. Ceiling/pedestal mount; 10-inch height. Can be used with AH2000 adjustable head. Supports up to 125 lbs. Use ST1 support strut for increased stability.",
+    priceUSD: 153.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 131,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Height": "10 inches (25.4 cm)",
+      "Load Capacity": "Supports up to 125 lbs (56.7 kg)",
+      "Type": "Compact Heavy-Duty Ceiling/Pedestal Mount",
+      "Compatibility": "AH2000 Adjustable Head & Heavy Enclosures"
+    },
+    features: [
+      "Compact 10-inch height provides rigid support with minimal ceiling drop",
+      "Engineered to support heavy commercial pan/tilt units up to 125 lbs",
+      "Thick structural flange prevents flex during high-speed PTZ slew motions",
+      "Dual-use design functions as both overhead ceiling drop and floor pedestal"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pp350-aw",
+    sku: "PP350-AW",
+    name: "Pelco PP350-AW Parapet Wall Mount for 1.5-Inch Pendants (Pantone 427C)",
+    description: "PP350-AW. Parapet Wall Mount for 1.5 Inch Pendant Swivels; Pantone 427C. Parapet Wall Mount for 1.5 Inch Small Pendants Swivels for Easy Install 45 lb Load Pantone 427C.",
+    priceUSD: 595.68,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 28,
+    stock: 157,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Finish Color": "Pantone 427C Light Grey",
+      "Thread Fitting": "1.5-inch NPT Threaded Pipe Interface",
+      "Swivel Feature": "Inward Swivel Mechanism for Safe Servicing",
+      "Max Load": "45 lbs (20.4 kg)"
+    },
+    features: [
+      "Swivels 180 degrees inward over rooftop for quick, ladder-free camera servicing",
+      "Engineered specifically for 1.5-inch NPT pendant domes up to 45 lbs",
+      "Coated in factory-matched Pantone 427C architectural finish",
+      "Through-pipe cable routing protects connection cabling from sun and moisture"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pp350-sw",
+    sku: "PP350-SW",
+    name: "Pelco PP350-SW Parapet Wall Mount for Spectra & DF5 Domes (White)",
+    description: "PP350-SW. Parapet wall mount for Spectra and DF5 outdoor pendant domes; White. Parapet wall mount for Spectra and DF5 outdoor pendant style domes. Mounts to inside or outside of parapet wall. White.",
+    priceUSD: 595.68,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 23,
+    stock: 261,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Finish": "Durable Exterior Signal White",
+      "Compatibility": "Pelco Spectra® and DF5 Outdoor Pendant Domes",
+      "Mounting": "Inside or Outside of Parapet Wall",
+      "Swivel": "Inward Swiveling Arm Design"
+    },
+    features: [
+      "Mounts versatilely to either the interior or exterior side of a rooftop parapet wall",
+      "Allows rooftop personnel to swing the camera inside for maintenance and cleaning",
+      "Heavy-gauge construction eliminates image vibration under strong gusts",
+      "Original Pelco accessory ensuring exact fit with Spectra pendant series"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pp450",
+    sku: "PP450",
+    name: "Pelco PP450 Parapet Adapter Mount for Spectra & DF5 Series (Gray)",
+    description: "PP450. Parapet adapter mount for Spectra and DF5 series pendant domes ; Gray. Parapet adapter mount for Spectra and DF5 series pendant domes utilizing 1.5-inch NPT threaded pipe for mounting. Mounts to inside or outside of parapet wall. Removable end cap. Gray.",
+    priceUSD: 658.45,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 30,
+    stock: 260,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Finish Color": "Industrial Gray",
+      "Thread Type": "1.5-inch NPT Threaded Pipe Interface",
+      "Removable Cap": "Removable End Cap for Fast Wire Pulling",
+      "Mount Location": "Inside or Outside Parapet Wall"
+    },
+    features: [
+      "Designed for Pelco Spectra and DF5 pendant domes with 1.5\" NPT connections",
+      "Removable end cap allows effortless cable pulling through the parapet arm",
+      "Mounts securely to either side of concrete or masonry parapet walls",
+      "Industrial gray finish withstands UV exposure, road salts, and chemical emissions"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pp450-sw",
+    sku: "PP450-SW",
+    name: "Pelco PP450-SW Parapet Adapter Mount for Spectra & DF5 Series (White)",
+    description: "PP450-SW. Parapet adapter mount for Spectra and DF5 series pendant domes; White. Parapet adapter mount for Spectra and DF5 series pendant domes with 1.5 inch NPT mounting. Mounts to inside or outside of parapet wall. Removable end cap. White.",
+    priceUSD: 658.45,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 249,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Finish Color": "Architectural White",
+      "Thread Interface": "1.5-inch NPT Threaded Fitting",
+      "Wire Access": "Quick-Access Removable End Cap",
+      "Compatibility": "Pelco Spectra & DF5 Series Outdoor Pendant Domes"
+    },
+    features: [
+      "Architectural white finish matches modern building parapets and exterior trim",
+      "1.5-inch NPT threaded receiver securely seats Pelco pendant caps",
+      "Removable end cap provides straight-through access for simple cable installation",
+      "High mechanical structural integrity prevents sag over extended outdoor deployments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-pelco-pp451",
+    sku: "PP451",
+    name: "Pelco PP451 Rooftop Parapet Adapter Mount for Spectra & DF5 Series",
+    description: "PP451. Rooftop parapet adapter mount for Spectra and DF5 series pendant domes. Rooftop parapet adapter mount for Spectra and DF5 series pendant domes utilizing 1.5-inch NPT threaded pipe for mounting. Mounts to rooftop or flat horizontal surface. Removable end cap.",
+    priceUSD: 969.61,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 5.0,
+    reviewCount: 22,
+    stock: 115,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Mount Configuration": "Flat Horizontal Rooftop or Parapet Cap Deck",
+      "Thread Interface": "1.5-inch NPT Threaded Pipe Interface",
+      "Service Access": "Swivel / Removable End Cap for Rooftop Maintenance",
+      "Compatibility": "Pelco Spectra® & DF5 Series Pendant Domes"
+    },
+    features: [
+      "Directly anchors to flat commercial rooftops and horizontal parapet surfaces",
+      "Permits complete camera maintenance from the safety of the roof deck",
+      "Removable end cap enables fast threading and connector termination",
+      "Engineered to withstand extreme rooftop exposure and severe wind loading"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:11:00.000Z"
+  },
+  {
+    id: "prod-avigilon-crnmt-1001-2",
+    sku: "CRNMT-1001-2",
+    name: "Avigilon CRNMT-1001-2 Corner Mount Adapter for WLMT-1001 Pendant Arm",
+    description: "CRNMT-1001-2. Corner mount for large pendant WLMT-1001. CORNER MNT FOR LRGE PENDT WLMT-1001. External 90-degree corner mount adapter plate engineered for Avigilon WLMT-1001 large pendant wall arms.",
+    priceUSD: 182.7,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 29,
+    stock: 248,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H4-Camera_Corner-Mount_Back_070520.jpg"
+    ],
+    specs: {
+      "Compatibility": "Avigilon WLMT-1001 Large Pendant Wall Arm",
+      "Mount Configuration": "External 90-Degree Corner Installation",
+      "Material": "Cast Aluminum Alloy with Architectural Coating",
+      "Fasteners": "Stainless Steel Fastener Hardware Included"
+    },
+    features: [
+      "Enables Avigilon WLMT-1001 pendant arms to mount cleanly onto building exterior corners",
+      "Provides expansive 270-degree viewing angle to minimize camera blind spots",
+      "Heavy cast alloy construction absorbs mechanical wind loads and vibration",
+      "Integrated cable ingress channels maintain weatherproof perimeter seals"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-crnmt-2600-smr-4852",
+    sku: "CRNMT-2600-SMR-4852",
+    name: "Avigilon CRNMT-2600-SMR-4852 SMR 26-Inch Corner Mount Adapter",
+    description: "CRNMT-2600-SMR-4852. SMR CORNER MOUNT ADAPTER 26INCH 2-004852. Heavy-duty 26-inch structural corner mounting adapter designed for Avigilon SMR multi-sensor and PTZ camera systems.",
+    priceUSD: 819.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 16,
+    stock: 216,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Dimensions": "26-Inch (660mm) Heavy Standoff Span",
+      "Model Part Number": "2-004852",
+      "Compatibility": "Avigilon SMR Multi-Sensor & PTZ Camera Stations",
+      "Construction": "Industrial Structural Grade Alloy Steel"
+    },
+    features: [
+      "26-inch wide standoff clearance provides complete peripheral line of sight around structural facades",
+      "Industrial structural build engineered for heavy multi-sensor payload platforms",
+      "Dual mounting flanges distribute high torque loads securely into masonry corners",
+      "Corrosion-resistant weatherized finish ensures lifetime outdoor durability"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-es-ps-mnt-pole",
+    sku: "ES-PS-MNT-POLE",
+    name: "Avigilon ES-PS-MNT-POLE Pole Mount Bracket for ES-PS-S4 Switch",
+    description: "ES-PS-MNT-POLE. Pole mount bracket for ES-PS-S4 switch. Specialized outdoor pole mounting bracket assembly engineered for the Avigilon ES-PS-S4 exterior PoE network switch.",
+    priceUSD: 102.04,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Avigilon",
+    rating: 4.7,
+    reviewCount: 21,
+    stock: 117,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon ES-PS-S4 Outdoor Hardened PoE Switch",
+      "Mounting Format": "Exterior Utility Poles, Masts & Light Columns",
+      "Material": "Heavy-Duty Zinc-Plated & Powder-Coated Steel",
+      "Clamping": "Slots for Industrial Stainless Steel Straps"
+    },
+    features: [
+      "Secures Avigilon ES-PS-S4 outdoor switch enclosures directly to exterior perimeter poles",
+      "Pre-drilled mounting studs match factory switch enclosure alignment points",
+      "Heavy gauge steel construction withstands environmental vibration and heavy winds",
+      "Includes slots accommodating up to 3/4-inch wide stainless steel banding straps"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-h4-mt-pole1",
+    sku: "H4-MT-POLE1",
+    name: "Avigilon H4-MT-POLE1 Universal Pole Mount Adapter",
+    description: "H4-MT-POLE1. Avigilon Pole Mount Adapter. Pole mount adapter for use with H4A-MT-Wall1; H4-BO-JBOX1; H4SL; H4F; H4 PTZ; H4 IR PTZ and H4 Multisensor cameras.",
+    priceUSD: 144.9,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 38,
+    stock: 123,
+    images: [
+      "http://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H4-Camera_Pole-Mount_Back_070120.jpg"
+    ],
+    specs: {
+      "Compatibility": "H4A-MT-WALL1, H4-BO-JBOX1, H4SL, H4F, H4 PTZ, H4 IR PTZ, H4 Multisensor",
+      "Pole Diameter": "3 to 12 inches (76 to 305 mm)",
+      "Material": "Cast Aluminum Alloy with Architectural White Finish",
+      "Hardware": "Includes Stainless Steel Clamping Bands"
+    },
+    features: [
+      "Universal mounting pattern interfaces with Avigilon H4 wall arms and junction boxes",
+      "Engineered for heavy multi-sensor and high-speed PTZ cameras",
+      "Heavy-duty marine grade stainless steel bands provide solid grip on varied pole diameters",
+      "Concealed pass-through channels for secure, weather-protected cable routing"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-h6m-mt-npta2",
+    sku: "H6M-MT-NPTA2",
+    name: "Avigilon H6M-MT-NPTA2 Pendant NPT Adapter (Outdoor, Grey V2)",
+    description: "H6M-MT-NPTA2. H6M-MT-NPTA2. MOUNT; Pendant Adapter; Grey; Odr; H6M. Version 2 outdoor pendant 1.5-inch NPT adapter engineered for Avigilon H6 Mini Dome (H6M) series cameras.",
+    priceUSD: 63.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 169,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon H6 Mini Dome (H6M) Camera Series",
+      "Thread Interface": "1.5-inch NPT Standard Female Thread",
+      "Environment": "Outdoor Weather-Resistant (IP66/NEMA 4X)",
+      "Color": "Industrial Grey"
+    },
+    features: [
+      "Adapts compact Avigilon H6M mini domes to standard 1.5-inch NPT pendant drop pipes and wall arms",
+      "Precision-machined cast construction with integrated environmental gasket",
+      "Outdoor grey finish blends with commercial metal structures and industrial conduit",
+      "Provides straight-line cable feeding directly into pendant conduit stems"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-h6sl-bo-shld1",
+    sku: "H6SL-BO-SHLD1",
+    name: "Avigilon H6SL-BO-SHLD1 Protective Bullet Camera Sunshield",
+    description: "H6SL-BO-SHLD1. H6SL-BO-SHLD1. H6SL Bullet Sunshield. Protective weather and solar shield replacement designed for Avigilon H6SL outdoor bullet cameras.",
+    priceUSD: 75.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Sun Shields",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 221,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon H6SL Outdoor Bullet Cameras",
+      "Type": "Adjustable Outdoor Solar and Rain Deflector Sunshield",
+      "Material": "UV-Stabilized Impact Polymer",
+      "Finish": "White"
+    },
+    features: [
+      "Shields camera lens against direct solar glare, thermal buildup, and blinding lens flare",
+      "Deflects driving rain and snow away from front optical glass for clearer video captures",
+      "Sliding adjustment rail allows custom positioning based on sun angle",
+      "OEM replacement part ensuring perfect aerodynamic fit onto H6SL bullet housings"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-jbox-1201-2",
+    sku: "JBOX-1201-2",
+    name: "Avigilon JBOX-1201-2 Weatherproof Junction Box for Dual-Head Cameras",
+    description: "JBOX-1201-2. Junction Box for Dual Head Cameras. Weatherproof outdoor junction box specifically designed for Avigilon dual-head multi-directional cameras.",
+    priceUSD: 132.3,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 278,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon Dual-Head Multi-Directional Cameras",
+      "Conduit Entries": "Side and Rear Conduit Knockouts (3/4\" NPT)",
+      "Weather Rating": "IP66 / NEMA 4X Environmental Sealing",
+      "Material": "Die-Cast Aluminum with Weatherproof Gaskets"
+    },
+    features: [
+      "Spacious internal junction compartment allows neat wire loops and Ethernet terminations",
+      "Dual conduit entries provide flexible surface conduit or back-wall cable feeds",
+      "Includes silicone gasket seal maintaining IP66 ingress protection in driving storms",
+      "Engineered mounting bosses match dual-head camera bases perfectly"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-mnt-ad-pole-b",
+    sku: "MNT-AD-POLE-B",
+    name: "Avigilon MNT-AD-POLE-B Pole Mount Adapter for MNT-PEND-Wall & H3 Bullets",
+    description: "MNT-AD-POLE-B. Pole Mount Adapter for MNT-PEND-Wall or H3 Bullet Cameras. Pole mount adapter for use with MNT-PEND-Wall; H3-BO-JB or HD Bullet Camera.",
+    priceUSD: 133.81,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 270,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon MNT-PEND-WALL, H3-BO-JB, HD Bullet Series",
+      "Application": "Mast and Pole Mounting",
+      "Material": "Cast Heavy-Gauge Aluminum",
+      "Straps": "Dual Strap Channel Support"
+    },
+    features: [
+      "Adapts pendant wall arms and bullet junction boxes onto outdoor circular masts and poles",
+      "Solid cast aluminum chassis eliminates camera wobble at long zoom settings",
+      "Dual vertical strap slots accommodate heavy-duty stainless banding",
+      "Weather-resistant architectural finish resists coastal salt spray and oxidation"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-msi-nptcon-1001-2",
+    sku: "MSI-NPTCON-1001-2",
+    name: "Avigilon MSI-NPTCON-1001-2 Conduit Adapter (1-1/2\" x 1/2\" NPT Male)",
+    description: "MSI-NPTCON-1001-2. MSI-NPTCON-1001. ADAPTOR; 1-1/2\" x 1/2\" NPT Male. Precision threaded conduit adapter reducing 1-1/2 inch female conduit down to 1/2 inch male NPT connection.",
+    priceUSD: 144.9,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 18,
+    stock: 116,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Thread Interface": "1-1/2\" NPT Female to 1/2\" NPT Male",
+      "Material": "Machined Weather-Resistant Metallic Alloy",
+      "Type": "Conduit Reducer and Thread Adapter",
+      "Application": "Commercial Electrical Conduit and Camera Bracket Interfacing"
+    },
+    features: [
+      "Provides precision transition between standard 1-1/2\" pendant conduit and 1/2\" NPT entries",
+      "Precision-machined threads prevent cross-threading and ensure watertight engagement",
+      "Tough metal alloy construction resists thread stripping under heavy torquing",
+      "Essential installation hardware for custom conduit runs and bracket conversions"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-avigilon-npta-1201-2",
+    sku: "NPTA-1201-2",
+    name: "Avigilon NPTA-1201-2 1.5-Inch NPT Adapter for Dual-Head Cameras",
+    description: "NPTA-1201-2. 1.5 inch NPT Adapter for Dual Head Cameras. Precision 1.5-inch NPT pendant mount adapter engineered specifically for Avigilon dual-head multi-directional camera systems.",
+    priceUSD: 88.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Avigilon",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 115,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Thread Interface": "1.5-inch NPT Female Tapered Thread",
+      "Compatibility": "Avigilon Dual-Head Multi-Directional Cameras",
+      "Material": "Cast Aluminum Alloy",
+      "Finish": "Architectural White Powder Coating"
+    },
+    features: [
+      "Connects Avigilon dual-head camera enclosures to 1.5-inch NPT pipe stems and wall brackets",
+      "Engineered cast base holds dual camera sensors firmly in place without optical drift",
+      "Pass-through cable bore accommodates dual-head PoE cabling smoothly",
+      "Locking set-screw prevents accidental rotational misalignment"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv-pcf",
+    sku: "SRXV-PCF",
+    name: "Pelco SRXV-PCF Ceiling Flange for Pendant Adapter & Pipe Extension",
+    description: "SRXV-PCF. Ceiling Flange for Pendant Adapter and Pipe Extension for Sarix Value Cameras. Heavy ceiling mounting flange for hanging Sarix Value pendant assemblies and pipe drops.",
+    priceUSD: 245.75,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 20,
+    stock: 136,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value Series Pendant Adapters & Extensions",
+      "Mount Type": "Ceiling Flange Anchor Base",
+      "Interface": "Receives SRXV-PP Pipe Extension",
+      "Material": "Industrial-Strength Cast Alloy"
+    },
+    features: [
+      "Anchors Sarix Value pendant extension pipes securely to concrete and structural steel ceilings",
+      "Four-hole wide perimeter pattern distributes load safely across overhead structures",
+      "Provides top-side conduit access for clean, protected wire entry into the pendant stem",
+      "Factory-matched powder coat finish resists flaking and discoloration"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv-plm",
+    sku: "SRXV-PLM",
+    name: "Pelco SRXV-PLM Pole Mount for Wall Mounted Sarix Value IP Cameras & Bullets",
+    description: "SRXV-PLM. Pole Mount for Wall Mounted Sarix Value IP Cameras and Bullets. Pole mount adapter plate for mounting Sarix Value wall brackets and bullet cameras onto exterior poles.",
+    priceUSD: 160.27,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 28,
+    stock: 238,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value Wall Mounts, Domes & Bullet Cameras",
+      "Mount Type": "Exterior Pole Mounting Adapter Plate",
+      "Straps": "Compatible with Standard Stainless Banding",
+      "Material": "Heavy-Duty Cast Alloy"
+    },
+    features: [
+      "Interfaces Sarix Value wall arms and bullet camera brackets onto round utility poles",
+      "Integrated strap guides hold mounting bands securely without slippage",
+      "Stiff alloy backplate prevents bracket deflection under wind gusts",
+      "Built-in center cable channel protects network wiring entering the pole"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv-pp",
+    sku: "SRXV-PP",
+    name: "Pelco SRXV-PP Pipe Extension for Sarix Value Pendant Adapters",
+    description: "SRXV-PP. Pipe Extenstion for Pendant Adapter for Sarix Value Cameras. Rigid threaded pipe extension connecting Sarix Value ceiling flanges and pendant camera adapters.",
+    priceUSD: 110.86,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.7,
+    reviewCount: 24,
+    stock: 130,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Item": "Pendant Pipe Extension Column",
+      "Compatibility": "Pelco Sarix Value Ceiling Flange (SRXV-PCF) & Pendant Adapters",
+      "Threading": "Standard Heavy-Wall Threaded Pipe Interconnect",
+      "Material": "Corrosion-Proof Coated Steel Tubing"
+    },
+    features: [
+      "Lowers Sarix Value dome cameras beneath high industrial ceilings, beams, and HVAC runs",
+      "Threaded ends ensure rigid, wobble-free alignment between ceiling flange and camera adapter",
+      "Internal conduit bore shields network cables against environmental exposure",
+      "Durable white architectural enamel matches Pelco indoor/outdoor camera aesthetics"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv-wmp",
+    sku: "SRXV-WMP",
+    name: "Pelco SRXV-WMP Wall Mount Arm for Sarix Value IP Cameras",
+    description: "SRXV-WMP. Wall Mount for Sarix Value IP Cameras using Pendant Adapter Plate. Commercial gooseneck wall mount arm for installing Sarix Value dome cameras via pendant adapter plates.",
+    priceUSD: 74.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 35,
+    stock: 246,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value Domes with Pendant Adapter Plate",
+      "Mounting Format": "Vertical Wall Arm Mount",
+      "Wiring": "Internal Cable Pass-Through with Wall Gasket",
+      "Finish": "Architectural White Powder Coat"
+    },
+    features: [
+      "Positions Sarix Value dome cameras away from walls for unobstructed 360-degree field of view",
+      "Designed for use with Sarix Value pendant adapter mounting plates",
+      "Hollow internal arm completely conceals and protects Ethernet cabling",
+      "Cast aluminum arm provides superior strength against outdoor weather and vandalism"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv-wms",
+    sku: "SRXV-WMS",
+    name: "Pelco SRXV-WMS Wall Mount for Sarix Value IMV, IJV & ITV Series",
+    description: "SRXV-WMS. Wall Mount for Sarix Value IMV; IJV; ITV; IJV Series. Wall Mount for Sarix Value Surface Mount Environmental IMV Series Varifocal Domes IJV Series Fixed Focal Domes ITV Series Varifocal Turrets And IJV Series Fixed Focal Domes.",
+    priceUSD: 70.79,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 32,
+    stock: 178,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value IMV, IJV, ITV Series Domes & Turrets",
+      "Mount Type": "Direct Wall Surface Mount Bracket",
+      "Cable Entry": "Rear Wall Pass-Through & Side 3/4\" Conduit Tap",
+      "Finish": "Architectural White"
+    },
+    features: [
+      "Dedicated wall bracket for Sarix Value surface-mount domes and turret cameras",
+      "Eliminates bracket mismatch with pre-aligned factory screw holes",
+      "Supports surface conduit feeds via bottom tap as well as direct rear wall cable ingress",
+      "Rugged metal construction ensures long-term outdoor reliability"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-adpt-1001",
+    sku: "SRXV2-ADPT-1001",
+    name: "Pelco SRXV2-ADPT-1001 Sarix Value 2 Adapter Plate for Domes",
+    description: "SRXV2-ADPT-1001. Sarix Value 2 Adaptor Plate for Indoor/Outdoor Domes. (Shipping from April2025). Universal mounting adapter plate for next-generation Pelco Sarix Value 2 indoor and outdoor dome cameras.",
+    priceUSD: 36.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "Pelco",
+    rating: 4.7,
+    reviewCount: 21,
+    stock: 243,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor & Outdoor Dome Cameras",
+      "Availability": "Shipping from April 2025 Release",
+      "Mounting Pattern": "Standard 4-Gang / Octagonal Box & Bracket Hole Pattern",
+      "Material": "Reinforced Weatherproof Polymer/Alloy"
+    },
+    features: [
+      "Next-generation adapter plate designed for Pelco Sarix Value 2 series dome cameras",
+      "Adapts camera base to standard electrical junction boxes and mounting arms",
+      "Precision alignment guide makes single-person camera installation quick and simple",
+      "Corrosion-resistant construction suitable for both indoor and outdoor environments"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-crnmt-1001",
+    sku: "SRXV2-CRNMT-1001",
+    name: "Pelco SRXV2-CRNMT-1001 Sarix Value 2 Corner Mount for Domes",
+    description: "SRXV2-CRNMT-1001. Sarix Value 2 Corner Mount for Indoor & Outdoor Domes. (Shipping from April2025). External corner mount bracket engineered for Pelco Sarix Value 2 indoor and outdoor dome camera installations.",
+    priceUSD: 144.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 274,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Domes and Wall Arms",
+      "Availability": "Shipping from April 2025 Release",
+      "Mounting": "Exterior / Interior 90-Degree Corner",
+      "Material": "Heavy-Duty Weather-Resistant Cast Alloy"
+    },
+    features: [
+      "Enables Sarix Value 2 dome installations on 90-degree building corners",
+      "Maximizes viewing coverage across intersecting facility walls and perimeter zones",
+      "Reinforced corner bracket prevents vibration and mechanical strain",
+      "Includes gasket seal and wire routing access holes"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-fcmnt-1002",
+    sku: "SRXV2-FCMNT-1002",
+    name: "Pelco SRXV2-FCMNT-1002 Sarix Value 2 Flush Mount for Indoor Domes",
+    description: "SRXV2-FCMNT-1002. Sarix Value 2 Flush Mount for Indoor Dome (Shipping from May2025). Architectural in-ceiling recessed flush mounting kit for Pelco Sarix Value 2 indoor dome cameras.",
+    priceUSD: 78.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 23,
+    stock: 146,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor Domes",
+      "Availability": "Shipping from May 2025 Release",
+      "Mount Type": "Recessed In-Ceiling Flush Mount Kit",
+      "Ceiling Types": "Drywall, Plaster, and Drop Acoustic Ceiling Tiles"
+    },
+    features: [
+      "Recesses Sarix Value 2 dome body into ceiling for an ultra-clean, discreet appearance",
+      "Quick-clamp ceiling retention wings ensure fast tool-less tightening onto drywall",
+      "Low-profile architectural trim bezel blends with commercial ceiling decors",
+      "Allows full pan, tilt, and optical adjustment while remaining recessed"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-jbx-1001",
+    sku: "SRXV2-JBX-1001",
+    name: "Pelco SRXV2-JBX-1001 Sarix Value 2 Indoor Junction Box",
+    description: "SRXV2-JBX-1001. Sarix Value 2 Junction Box for Indoor Dome (Shipping from May2025). Indoor junction box for clean cable management and surface conduit connections on Sarix Value 2 indoor dome cameras.",
+    priceUSD: 126.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 27,
+    stock: 126,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor Dome Cameras",
+      "Availability": "Shipping from May 2025 Release",
+      "Conduit Access": "Side and Rear Knockout Ports",
+      "Finish": "Commercial Architectural White"
+    },
+    features: [
+      "Provides tidy cable containment for indoor surface-mount camera installations",
+      "Supports surface-run EMT conduit where in-wall cable routing is not accessible",
+      "Precise factory screw mounting boss pattern for Sarix Value 2 indoor domes",
+      "Durable aesthetic housing keeps sensitive network connectors safe from tampering"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-jbx-1003",
+    sku: "SRXV2-JBX-1003",
+    name: "Pelco SRXV2-JBX-1003 Sarix Value 2 Outdoor Junction Box",
+    description: "SRXV2-JBX-1003. Sarix Value 2 Junction Box for Outdoor Domes (Shipping from April2025). IP66-rated weatherproof outdoor junction box engineered for Pelco Sarix Value 2 outdoor dome cameras.",
+    priceUSD: 186.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 30,
+    stock: 248,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Outdoor Dome Cameras",
+      "Availability": "Shipping from April 2025 Release",
+      "Ingress Protection": "IP66 / NEMA 4X Weatherproof and Dust-Tight",
+      "Conduit Entries": "Threaded NPT Conduit Ingress Ports"
+    },
+    features: [
+      "Factory outdoor junction box certified IP66/NEMA 4X for wet and harsh exterior environments",
+      "Heavy cast alloy housing with specialized moisture-resistant silicone perimeter gasket",
+      "Threaded NPT conduit ports allow secure waterproof pipe connections",
+      "Ample internal volume accommodates surge protectors and RJ45 waterproof couplers"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:13:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-lmt-1001",
+    sku: "SRXV2-LMT-1001",
+    name: "Pelco SRXV2-LMT-1001 Sarix Value 2 L-Mount for Domes",
+    description: "SRXV2-LMT-1001. Sarix Value 2 L-Mount for Indoor & Outdoor Domes. (Shipping from April2025). Rigid 90-degree L-bracket wall mount designed for Pelco Sarix Value 2 indoor and outdoor dome cameras.",
+    priceUSD: 54.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 246,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor & Outdoor Domes",
+      "Availability": "Shipping from April 2025 Release",
+      "Bracket Style": "90-Degree Cantilever L-Mount",
+      "Material": "Heavy-Duty Powder-Coated Aluminum"
+    },
+    features: [
+      "Positions Sarix Value 2 domes horizontally from vertical walls and structural posts",
+      "Maintains optimal camera leveling and horizon alignment",
+      "Integrated wire pass-through hole prevents cable pinching",
+      "Architectural neutral white powder coat finish"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-pdcp-1001",
+    sku: "SRXV2-PDCP-1001",
+    name: "Pelco SRXV2-PDCP-1001 Sarix Value 2 Pendant Cap for Outdoor Dome",
+    description: "SRXV2-PDCP-1001. Sarix Value 2 Pendant Cap for Outdoor Dome (Shipping from April2025). Weatherproof outdoor pendant cap adapter engineered for Pelco Sarix Value 2 outdoor dome series.",
+    priceUSD: 150.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 22,
+    stock: 263,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Outdoor Domes",
+      "Availability": "Shipping from April 2025 Release",
+      "Threading": "1.5-inch NPT Threaded Interface",
+      "Weather Rating": "IP66 / IK10 Vandal & Moisture Resistant"
+    },
+    features: [
+      "Interfaces Sarix Value 2 outdoor domes directly onto 1.5\" NPT pendant stems and wall arms",
+      "Weather-sealed silicone gasket prevents rain infiltration into camera electronics",
+      "Heavy cast alloy construction ensures vibration-free footage in gusty outdoor locations",
+      "Precision internal cable routing channel protects PoE wiring"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-pdcp-1002",
+    sku: "SRXV2-PDCP-1002",
+    name: "Pelco SRXV2-PDCP-1002 Sarix Value 2 Pendant Cap for Indoor Dome & Wedge",
+    description: "SRXV2-PDCP-1002. Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025). Dedicated indoor pendant mounting cap for Pelco Sarix Value 2 indoor dome and wedge camera housings.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 148,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor Domes & Wedge Form Factors",
+      "Availability": "Shipping from April 2025 Release",
+      "Mount Interface": "1.5-inch NPT Threaded Standard",
+      "Material": "Machined Commercial Alloy"
+    },
+    features: [
+      "Suspends Sarix Value 2 indoor domes and compact wedges neatly from overhead drop pipes",
+      "Seamless mechanical fit guarantees alignment without optical distortion",
+      "Conceals network cabling within pendant column for high-aesthetic indoor spaces",
+      "Positive locking screw secures pendant cap firmly against rotational drift"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-pdmt-1001",
+    sku: "SRXV2-PDMT-1001",
+    name: "Pelco SRXV2-PDMT-1001 Sarix Value 2 Heavy Pendant Mount Assembly",
+    description: "SRXV2-PDMT-1001. Sarix Value 2 Pendant Cap for Indoor Dome & Wedge. (Shipping from April2025). Heavy-duty commercial pendant mount assembly kit for Sarix Value 2 indoor domes and wedges.",
+    priceUSD: 198.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 17,
+    stock: 195,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor Dome and Wedge Series",
+      "Availability": "Shipping from April 2025 Release",
+      "Mount Configuration": "Complete Overhead Pendant Drop Assembly",
+      "Finish": "White Powder Coat"
+    },
+    features: [
+      "Complete commercial pendant mount system for retail and high-ceiling indoor environments",
+      "Provides rigid drop-down camera positioning below warehouse beams and HVAC ducts",
+      "Includes all necessary mounting flanges, adapter seals, and hardware fasteners",
+      "Smooth internal conduit raceway allows swift wire pulling and quick terminations"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-pdnt-1001",
+    sku: "SRXV2-PDNT-1001",
+    name: "Pelco SRXV2-PDNT-1001 Sarix Value 2 Pendant Cap (Indoor Dome & Wedge)",
+    description: "SRXV2-PDNT-1001. Sarix Value 2 Pendant Cap for Indoor Dome & Wedge (Shipping from April2025). Compact pendant interface cap for Pelco Sarix Value 2 indoor domes and wedge cameras.",
+    priceUSD: 108.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.7,
+    reviewCount: 23,
+    stock: 124,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor Domes & Wedge Form Factors",
+      "Availability": "Shipping from April 2025 Release",
+      "Thread Size": "Standard 1.5-inch NPT",
+      "Construction": "Precision Die-Cast Aluminum"
+    },
+    features: [
+      "Lightweight, low-profile pendant cap engineered for indoor Sarix Value 2 security domes",
+      "Standard 1.5-inch NPT pipe threading enables universal mounting compatibility",
+      "Includes set-screws to securely clamp onto suspension pipes without play",
+      "Architectural finish matches Pelco indoor cameras perfectly"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-pdnt-1002",
+    sku: "SRXV2-PDNT-1002",
+    name: "Pelco SRXV2-PDNT-1002 Sarix Value 2 Pendant Cap for Outdoor Domes",
+    description: "SRXV2-PDNT-1002. Sarix Value 2 Pendant Cap for Outdoor Dome. Rugged weather-sealed pendant cap adapter engineered for Pelco Sarix Value 2 outdoor dome cameras.",
+    priceUSD: 132.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 29,
+    stock: 240,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Outdoor Dome Series",
+      "Weather Sealing": "IP66 Environmental Gasket Protection",
+      "Thread Interface": "1.5-inch NPT Threaded Receiver",
+      "Material": "Corrosion-Resistant Cast Alloy"
+    },
+    features: [
+      "Connects outdoor Sarix Value 2 domes to standard 1.5\" NPT pendant drops and gooseneck arms",
+      "Engineered silicone gasket prevents water entry during high-pressure washdowns and storms",
+      "High torsional stability prevents camera rotation in high-wind conditions",
+      "Pre-tapped set screw locks bracket position solidly"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-plmt-1001",
+    sku: "SRXV2-PLMT-1001",
+    name: "Pelco SRXV2-PLMT-1001 Sarix Value 2 Pole Mount for Domes",
+    description: "SRXV2-PLMT-1001. Sarix Value 2 Pole Mount for Indoor & Outdoor Domes. (Shipping from April2025). Heavy outdoor pole mount adapter plate for Pelco Sarix Value 2 dome installations.",
+    priceUSD: 132.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 282,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Indoor & Outdoor Dome Brackets",
+      "Availability": "Shipping from April 2025 Release",
+      "Mounting": "Poles and Masts (3\" to 10\" diameter)",
+      "Material": "Heavy-Duty Cast Aluminum Alloy"
+    },
+    features: [
+      "Enables secure mounting of Sarix Value 2 dome brackets onto exterior utility poles",
+      "Accepts high-tensile stainless steel strapping for solid grip against round surfaces",
+      "Reinforced ribbing prevents bending or flexing under strong wind loads",
+      "Central cable passage allows discrete wiring through the center of pole mounts"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-sld-1001",
+    sku: "SRXV2-SLD-1001",
+    name: "Pelco SRXV2-SLD-1001 Sarix Value 2 Sunshield for Outdoor Domes",
+    description: "SRXV2-SLD-1001. Sarix Value 2 Sunshield for Outdoor Dome (Shipping from May2025). Protective solar sunshield cover designed for Pelco Sarix Value 2 outdoor dome cameras.",
+    priceUSD: 56.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Sun Shields",
+    brand: "Pelco",
+    rating: 4.7,
+    reviewCount: 20,
+    stock: 116,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Outdoor Domes",
+      "Availability": "Shipping from May 2025 Release",
+      "Type": "Snap-On Solar and Rain Protective Sunshield",
+      "Material": "UV-Stabilized Impact-Resistant Polymer"
+    },
+    features: [
+      "Shields camera optical bubble from direct midday solar rays, reducing internal heat buildup",
+      "Reduces glare and optical reflections for improved video contrast under harsh sunlight",
+      "Helps shed rainwater and snow accumulation from the optical dome bubble",
+      "Tool-free snap installation ensures swift maintenance during camera setup"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-sld-1002",
+    sku: "SRXV2-SLD-1002",
+    name: "Pelco SRXV2-SLD-1002 Sarix Value 2 Sunshield for Bullet Cameras",
+    description: "SRXV2-SLD-1002. Sarix Value 2 Sunshield for Bullets. (Shipping from April2025). Replacement adjustable sunshield deflector for Pelco Sarix Value 2 outdoor bullet cameras.",
+    priceUSD: 54.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Sun Shields",
+    brand: "Pelco",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 244,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Bullet Camera Series",
+      "Availability": "Shipping from April 2025 Release",
+      "Adjustment": "Sliding Forward/Aft Sunshade Track",
+      "Material": "UV-Resistant Polycarbonate / Alloy"
+    },
+    features: [
+      "Protects bullet camera lens from direct sunlight glare, water drops, and debris",
+      "Adjustable sliding track allows ideal overhang adjustment based on installation tilt",
+      "Aero-contoured design minimizes wind resistance and keeps housing cool",
+      "OEM precision fit matches Sarix Value 2 bullet housing body lines"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-pelco-srxv2-wmt-1001",
+    sku: "SRXV2-WMT-1001",
+    name: "Pelco SRXV2-WMT-1001 Sarix Value 2 Wall Mount for Domes & Wedge",
+    description: "SRXV2-WMT-1001. Sarix Value 2 Wall Mount for Domes & Wedge (Shipping from April2025). Heavy gooseneck wall mount arm for Pelco Sarix Value 2 dome and wedge cameras.",
+    priceUSD: 114.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "Pelco",
+    rating: 4.9,
+    reviewCount: 34,
+    stock: 115,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/H6%20Mini%20Dome/Pendant%20side%20White-02072022.png"
+    ],
+    specs: {
+      "Compatibility": "Pelco Sarix Value 2 Domes & Wedge Models",
+      "Availability": "Shipping from April 2025 Release",
+      "Mount Style": "Commercial Wall Mount Arm",
+      "Finish": "Outdoor Weather-Resistant White"
+    },
+    features: [
+      "Stands camera off wall surface to allow panoramic wide-angle viewing without wall cutoff",
+      "Internal wire passage isolates and conceals Ethernet connections completely",
+      "Solid cast aluminum arm handles high shock loads and extreme temperatures",
+      "Compatible with Sarix Value 2 corner and pole mount adapters"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-02343-001",
+    sku: "02343-001",
+    name: "AXIS TQ1301-E Pole Mount (50-150mm, 316L Stainless Steel)",
+    description: "02343-001. AXIS TQ1301-E POLE MOUNT 50-150mm. Pole mount in electro-polished 316L stainless steel for use together with AXIS TQ1001-E WALL MOUNT, designed for harsh industrial environments. Pole diameters 50-150 mm (2\" - 6\"). Max load 150 kg / 331 lb.",
+    priceUSD: 1174.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 18,
+    stock: 142,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Electro-Polished 316L Marine-Grade Stainless Steel",
+      "Pole Diameters": "50 to 150 mm (2\" to 6\")",
+      "Max Load Rating": "150 kg / 331 lb",
+      "Compatibility": "AXIS TQ1001-E Wall Mount & Heavy Industrial PTZ"
+    },
+    features: [
+      "Engineered from marine-grade 316L electro-polished stainless steel for extreme offshore, chemical, and industrial sites",
+      "Massive 150 kg (331 lb) load rating supports heavy explosion-protected PTZs and thermal cameras",
+      "Designed specifically to integrate with AXIS TQ1001-E wall mount bracket",
+      "Exceptional resistance to chloride corrosion, saltwater spray, and sulfuric industrial atmospheres"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-02648-001",
+    sku: "02648-001",
+    name: "AXIS TQ1303-E Corner Mount (316L Stainless Steel)",
+    description: "02648-001. AXIS TQ1303-E CORNER MOUNT. Corner bracket for AXIS XPQ1785 Explosion-protected PTZ Camera, to be used with AXIS TQ1001-E Wall Mount. Electro-polished stainless steel (316L) for harsh industrial and maritime environments. Max load 150 kg / 331 lb.",
+    priceUSD: 1174.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 15,
+    stock: 214,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Electro-Polished 316L Marine-Grade Stainless Steel",
+      "Max Load Capacity": "150 kg / 331 lb",
+      "Compatibility": "AXIS XPQ1785 Explosion-Protected PTZ & TQ1001-E Wall Mount",
+      "Application": "90-Degree Exterior Corner Industrial & Maritime Installation"
+    },
+    features: [
+      "Electro-polished 316L stainless steel provides ultimate resistance against harsh offshore and petrochemical environments",
+      "Supports explosion-protected AXIS XPQ1785 PTZ cameras weighing up to 150 kg (331 lb)",
+      "Directly pairs with AXIS TQ1001-E wall mount for corner panoramic coverage",
+      "Heavy structural gusseting eliminates mechanical resonance and vibration"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-01538-001",
+    sku: "01538-001",
+    name: "AXIS 01538-001 Wall Mount for ExCam XPT (Stainless Steel)",
+    description: "01538-001. WALL MOUNT EXCAM XPT. Wall mount for EXCAM XPT Q6055 in stainless steel with protective hood for cable glands.",
+    priceUSD: 1281.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 19,
+    stock: 202,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS ExCam XPT Q6055 Explosion-Protected PTZ Series",
+      "Material": "High-Grade Corrosion-Proof Stainless Steel",
+      "Cable Protection": "Integrated Protective Hood for Cable Glands",
+      "Environment": "Hazardous Location Class I, II, III / Zone 1, 21"
+    },
+    features: [
+      "Engineered specifically for hazardous area ExCam XPT explosion-protected PTZ domes",
+      "Integrated stainless protective hood shelters certified explosion-proof cable glands",
+      "Eliminates exposure to corrosive gases, mechanical impacts, and chemical splashes",
+      "Certified heavy load structural rating ensuring safety in severe industrial zones"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-01539-001",
+    sku: "01539-001",
+    name: "AXIS 01539-001 Pole Mount for ExCam XPT (110-150mm Stainless Steel)",
+    description: "01539-001. POLE MOUNT EXCAM XPT. Pole mount for EXCAM XPT Q6055 in stainless steel for pole diameters 110-150mm, requires Wall Mount ExCam XPT.",
+    priceUSD: 1281.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 16,
+    stock: 240,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Heavy-Duty Marine Grade Stainless Steel",
+      "Pole Diameter Range": "110 to 150 mm (4.3\" to 5.9\")",
+      "Prerequisite": "Requires Wall Mount ExCam XPT (01538-001)",
+      "Compatibility": "AXIS ExCam XPT Q6055 Series"
+    },
+    features: [
+      "Mounts heavy explosion-protected ExCam XPT units securely to outdoor industrial poles",
+      "All-stainless construction ensures zero rust in marine platforms, refineries, and chemical plants",
+      "Precision-engineered interface pairs seamlessly with Wall Mount ExCam XPT",
+      "Includes heavy stainless steel clamping bands for high-torque fastening"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-02423-001",
+    sku: "02423-001",
+    name: "AXIS 02423-001 Ceiling Mount Bracket for ExCam XPT Q6075",
+    description: "02423-001. CEILING MOUNT EXCAM XPT. Ceiling mount bracket for ExCam XPT Q6075. Stainless steel 1.4404, load rating 50kg. Dimensions 290x220x190 mm.",
+    priceUSD: 1496.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 14,
+    stock: 171,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Stainless Steel 1.4404 (316L Equivalent)",
+      "Load Rating": "50 kg (110.2 lb)",
+      "Dimensions": "290 x 220 x 190 mm (11.4\" x 8.7\" x 7.5\")",
+      "Compatibility": "AXIS ExCam XPT Q6075 Explosion-Protected PTZ"
+    },
+    features: [
+      "High-grade 1.4404 stainless steel ceiling drop bracket for hazardous zone cameras",
+      "Supports explosion-protected ExCam XPT Q6075 units with 50 kg dynamic load rating",
+      "Engineered for ceilings, overhead beams, and industrial canopies in chemical processing plants",
+      "Pre-drilled conduit connection points allow fully certified hazardous cable entries"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-01569-001",
+    sku: "01569-001",
+    name: "AXIS 01569-001 Wall Mount for Fixed ExCam XF (Stainless Steel 316L)",
+    description: "01569-001. WALL MOUNT EXCAM XF. Stainless steel (1.4404 / 316L) wall bracket for fixed explosion-protected cameras in the ExCam range, includes hinge and mounting material.",
+    priceUSD: 1281.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 21,
+    stock: 135,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "1.4404 / 316L Stainless Steel",
+      "Compatibility": "AXIS ExCam XF Fixed Explosion-Protected Cameras",
+      "Features": "Includes Articulated Hinge & Complete Mounting Hardware",
+      "Hazardous Standards": "ATEX / IECEx / Class I Div 1 Rated Zones"
+    },
+    features: [
+      "Engineered for fixed hazardous-area cameras across the AXIS ExCam XF series",
+      "Includes articulated stainless hinge for rapid camera aiming and locking",
+      "Extreme corrosion immunity against chemical fumes, acids, and offshore salt atmospheres",
+      "Supplied complete with certified heavy-duty stainless mounting fasteners"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-01570-001",
+    sku: "01570-001",
+    name: "AXIS 01570-001 Pole Mount for ExCam XF (Stainless Steel 316L)",
+    description: "01570-001. POLE MOUNT EXCAM XF. Stainless steel (1.4404 / 316L) pole mount, to be used with Wall Mount Excam XF. Mounting material included.",
+    priceUSD: 1281.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 18,
+    stock: 210,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "1.4404 / 316L Heavy Stainless Steel",
+      "Prerequisite": "To be used with Wall Mount ExCam XF (01569-001)",
+      "Hardware": "Complete Stainless Steel Mounting Hardware Included",
+      "Environment": "Explosion-Protected Industrial and Marine"
+    },
+    features: [
+      "Allows ExCam XF hazardous area cameras to mount onto round industrial poles and light towers",
+      "Heavy 316L stainless alloy prevents electrochemical galvanic corrosion",
+      "Custom mating pattern bolts directly to the ExCam XF wall mount bracket",
+      "Withstands heavy vibrations from factory machinery and severe coastal weather"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-5026-411",
+    sku: "5026-411",
+    name: "AXIS 5026-411 T8640 Wall Mount Bracket",
+    description: "5026-411. AXIS T8640 WALL MOUNT BRACKET. Wall mount bracket for AXIS T8640 Ethernet over Coax adapter base or device unit.",
+    priceUSD: 27.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 240,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS T8640 Ethernet over Coax Adapter Base & Device Units",
+      "Mounting": "Wall, DIN rail backplate, or Equipment Enclosure",
+      "Material": "Durable Rigid Steel with Corrosion-Resistant Coating",
+      "Installation": "Tool-Less Snap / Screw Lock"
+    },
+    features: [
+      "Secures AXIS T8640 Ethernet over Coax adapters cleanly onto telecom room walls and cabinets",
+      "Keeps network cabling organized and strain-relieved",
+      "Compact footprint allows multi-device side-by-side array installations",
+      "OEM precision fit prevents accidental disconnects or displacement"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-5026-421",
+    sku: "5026-421",
+    name: "AXIS 5026-421 T8640 19-Inch 1U Rack Mount Bracket (8 Units)",
+    description: "5026-421. AXIS T8640 RACK MOUNT BRACKET. Rack mount bracket for AXIS T8640 Ethernet over Coax adapter (8 units in 1U).",
+    priceUSD: 66.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 171,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Form Factor": "19-Inch Standard 1U Server Rack Mount",
+      "Capacity": "Houses up to 8 AXIS T8640 Coax Adapter Units",
+      "Material": "Heavy-Gauge Powder-Coated Steel",
+      "Compatibility": "AXIS T8640 Ethernet over Coax Transceivers"
+    },
+    features: [
+      "Consolidates up to 8 AXIS T8640 coax adapters in a single compact 1U 19-inch rack space",
+      "Streamlines head-end server room cabling in coax-to-IP surveillance upgrades",
+      "Front-facing status LED indicators remain fully visible for easy diagnostic monitoring",
+      "Includes rack mounting ears, cage nuts, and adapter retention clips"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-axis-5503-991",
+    sku: "5503-991",
+    name: "AXIS 5503-991 TF9904 Swivel Mount (5-Pack)",
+    description: "5503-991. TF9904 Swivel Mount 5P. AXIS TF9904 Swivel Mount allows to mount the sensor unit in different horizontal and vertical angles. It is sold a pack of 5.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 36,
+    stock: 280,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Packaging": "Pack of 5 Swivel Mounts (5P)",
+      "Adjustment": "Omnidirectional Multi-Angle Horizontal & Vertical Tilt/Pan",
+      "Compatibility": "AXIS Modular Sensor Units (F Series & P12 Series)",
+      "Material": "Precision Molded High-Impact Polymer"
+    },
+    features: [
+      "Multi-angle swivel ball joint allows discrete sensor aiming at precise focal points",
+      "Sold as a value 5-pack for multi-camera retail, ATM, and elevator installations",
+      "Compact footprint enables covert flush and corner mounting of miniature sensor heads",
+      "Firm friction lock retains camera FOV alignment without drifting over time"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:15:00.000Z"
+  },
+  {
+    id: "prod-2n-02530-001",
+    sku: "02530-001",
+    name: "2N 02530-001 IP Phone D7A Wall Mount Bracket",
+    description: "02530-001. 2N IP PHONE D7A WALL MOUNT BRACKET. Wall mount bracket for the 2N IP Phone D7A (02660-001). Enables secure vertical wall mounting in commercial reception, security desk, and corridor locations.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "2N",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 271,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "2N IP Phone D7A (02660-001)",
+      "Mount Type": "Vertical Wall Mount Bracket",
+      "Material": "Impact-Resistant Architectural Polymer / Metal",
+      "Application": "Security Desks, Entrance Stations & Office Walls"
+    },
+    features: [
+      "Custom engineered for the 2N IP Phone D7A intercom desk phone terminal",
+      "Firmly locks the handset in place even in high-vibration or high-traffic corridors",
+      "Maintains ergonomic display angle for comfortable video calling and touchscreen operation",
+      "Discrete rear cable passage keeps network and power wiring concealed"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-03110-001",
+    sku: "03110-001",
+    name: "AXIS 03110-001 TA1201 Wall Mount Enclosure for TA1101-B Converters",
+    description: "03110-001. AXIS TA1201 Wall Mount Enclosure. AXIS TA1201 Wall Mount Enclosure is designed to house up to four AXIS TA1101-B Wiegand to OSDP converters, offering a secure and flexible installation solution. It supports both wall and DIN rail mounting. The enclosure is plenum-rated, and it supports conduit installation, offering extra protection for wiring.",
+    priceUSD: 94.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 19,
+    stock: 188,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Capacity": "Houses up to 4 AXIS TA1101-B Wiegand-to-OSDP Converters",
+      "Mounting Options": "Wall Surface Mount or Standard 35mm DIN Rail Mount",
+      "Safety Standard": "Plenum-Rated Fire Safety Certification",
+      "Conduit Support": "Knockout Ports for Standard Conduit Installation"
+    },
+    features: [
+      "Securely encloses and organizes up to four Wiegand to OSDP converter modules",
+      "Dual mounting flexibility supporting both direct wall attachment and DIN rail racks",
+      "Plenum rating permits code-compliant installation in ceiling spaces and air handling plenums",
+      "Conduit knockout ports protect sensitive access control wiring against tampering"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-02687-001",
+    sku: "02687-001",
+    name: "AXIS 02687-001 TA1601 Mounting Plate for A1210-B Door Controllers",
+    description: "02687-001. AXIS TA1601 Mounting Plate. AXIS TA1601 Mounting Plate is compatible with AXIS TQ1808-VE Surveillance Cabinet and AXIS A1210-B Network Door Controller to build 4 door controller kit - AXIS A1214 Network Door Controller Kit.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 17,
+    stock: 105,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS TQ1808-VE Cabinet & AXIS A1210-B Network Door Controller",
+      "Application": "Builds AXIS A1214 4-Door Network Controller Kit",
+      "Material": "Heavy-Duty Zinc-Plated Rigid Steel",
+      "Hardware": "Includes Controller Mounting Standoffs & Fasteners"
+    },
+    features: [
+      "Precision pre-tapped mounting plate for high-density multi-door access control setups",
+      "Integrates cleanly inside AXIS TQ1808-VE outdoor surveillance cabinets",
+      "Provides organized, vibration-resistant anchoring for sensitive network door controllers",
+      "Grounding points and cable tie anchors facilitate clean, inspectable electrical installations"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-03091-001",
+    sku: "03091-001",
+    name: "AXIS 03091-001 TA4601 Surface Mount Concrete Wall Cavity Box",
+    description: "03091-001. AXIS TA4601 Surface Mount. Designed specifically for use with concrete or reinforced concrete walls, AXIS TA4601 Surface Mount creates a cavity that allows for easy and secure cable termination, ensuring a clean and professional installation.",
+    priceUSD: 37.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 24,
+    stock: 218,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Target Surface": "Concrete & Reinforced Concrete Masonry Walls",
+      "Function": "Creates Protected Surface Cavity for Cable Termination",
+      "Material": "High-Impact Weatherproof Polymer/Metal",
+      "Application": "Commercial Intercom & Security Hardware Mounting"
+    },
+    features: [
+      "Solves tough masonry wiring challenges without deep drilling into structural concrete",
+      "Provides a spacious cavity to safely loop and terminate thick Cat6/PoE network cables",
+      "Ensures tight perimeter seal against rain, dust, and structural moisture",
+      "Creates a flush, professional mounting interface for compatible AXIS intercoms and readers"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-02997-001",
+    sku: "02997-001",
+    name: "AXIS 02997-001 TA9001 Wall Mount Bracket (10-Pack)",
+    description: "02997-001. AXIS TA9001 Wall Mount Bracket 10P. AXIS TA9001 Wall Mount Bracket is a metal bracket designed for AXIS A9210 Network I/O Relay Module and AXIS A9910 I/O Relay Expansion Module wall mounting. It is included in the AXIS A9210 and A9910 packages, sold separately as a spare part, and available in packs of 10.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 190,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Packaging": "Multipack of 10 Brackets (10P)",
+      "Compatibility": "AXIS A9210 & AXIS A9910 Network I/O Relay Modules",
+      "Material": "Rigid Stamped Steel with Anti-Corrosion Plating",
+      "Mounting": "Flat Wall and Equipment Panel Screws"
+    },
+    features: [
+      "Value 10-pack designed for multi-relay enterprise security and automation deployments",
+      "Precision formed metal bracket securely holds AXIS A9210 and A9910 I/O modules",
+      "Enables clean, modular mounting across security control boards and electrical enclosures",
+      "Factory OEM spare part ensuring quick replacement and exact dimensional fit"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-01762-001",
+    sku: "01762-001",
+    name: "AXIS 01762-001 TA8201 Recessed Mount for A8207-VE Door Station",
+    description: "01762-001. AXIS TA8201 RECESSED MOUNT. Recessed mount offering neat and easy installation of the AXIS A8207-VE Network Video Door Station. Multiple mounting and wiring options along with a robust construction makes it suitable for most situations and wall types.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 33,
+    stock: 143,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS A8207-VE Network Video Door Station",
+      "Mount Type": "Flush / Recessed In-Wall Mount Kit",
+      "Wall Compatibility": "Drywall, Masonry, Brick, and Architectural Cladding",
+      "Material": "Corrosion-Proof Coated Aluminum / High-Grade Polymer"
+    },
+    features: [
+      "Provides seamless, ultra-low-profile recessed installation for AXIS A8207-VE intercoms",
+      "Enhances entrance aesthetics while protecting the station body against physical tampering",
+      "Multiple pre-drilled cable entry options for straight-in or angled conduit feeds",
+      "Includes all necessary weather-sealing gaskets and wall anchor hardware"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-02066-001",
+    sku: "02066-001",
+    name: "AXIS 02066-001 TI8602 Wall Mount Back Box for I8016-LVE Intercom (IK10/IP69)",
+    description: "02066-001. AXIS TI8602 WALL MOUNT BACK BOX. Wall mount to be used together with AXIS I8016-LVE Network Video Intercom. Highly robust with IK10 and IP69 rating.",
+    priceUSD: 170.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Back Boxes",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 20,
+    stock: 256,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS I8016-LVE Network Video Intercom",
+      "Ingress Protection": "IP66 / IP69 Extreme High-Pressure Washdown Certified",
+      "Impact Resistance": "IK10 Vandal-Resistant Heavy Alloy Housing",
+      "Conduit Ports": "Standard 3/4\" NPT Threaded Conduit Inlets"
+    },
+    features: [
+      "Certified IP69 and IK10 ratings withstand extreme high-pressure hot water washdowns and severe vandalism",
+      "Custom designed back box for the AXIS I8016-LVE network video intercom",
+      "Accommodates surface-mounted electrical conduit with weather-sealed compression seals",
+      "Heavy cast alloy construction ensures rock-solid durability at demanding building entry points"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-02067-001",
+    sku: "02067-001",
+    name: "AXIS 02067-001 TI8202 Recessed Mount for I8016-LVE Intercom",
+    description: "02067-001. AXIS TI8202 RECESSED MOUNT. Recessed mount offering neat installation of AXIS I8016-LVE Network Video Intercom. Multiple mounting and wiring options along with a robust construction makes it suitable for most situations and wall types.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 27,
+    stock: 129,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS I8016-LVE Network Video Intercom",
+      "Mount Style": "In-Wall Flush Recessed Mount",
+      "Wall Materials": "Compatible with Drywall, Plaster, and Masonry Openings",
+      "Finish": "Architectural Trim Bezel"
+    },
+    features: [
+      "Creates an elegant flush-mount profile for AXIS I8016-LVE video intercoms",
+      "Minimizes wall projection to prevent accidental impacts in busy building entryways",
+      "Flexible wiring knockouts accommodate in-wall Cat6 network cables with ease",
+      "Rigid mounting frame holds intercom unit firmly in position"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-02561-001",
+    sku: "02561-001",
+    name: "AXIS 02561-001 TI8204 Recessed Mount for I8116-E Intercom (White)",
+    description: "02561-001. AXIS TI8204 Recessed Mount White. Nice and easy recessed mount of AXIS I8116-E Network Video Intercom suitable for most wall types. Features an architectural clean white finish.",
+    priceUSD: 94.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 226,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS I8116-E Network Video Intercom",
+      "Color": "Clean Architectural White Finish",
+      "Mount Type": "Recessed In-Wall Mount Kit",
+      "Wall Types": "Suitable for Hollow Wall, Stud Wall, and Masonry"
+    },
+    features: [
+      "Discreet in-wall recessed installation kit for AXIS I8116-E intercoms",
+      "Architectural white bezel blends cleanly with light building facades and door frames",
+      "Provides weather protection and secure anchoring for the intercom station",
+      "Straightforward installation with all necessary mounting brackets and hardware included"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-02562-001",
+    sku: "02562-001",
+    name: "AXIS 02562-001 TI8204 Recessed Mount for I8116-E Intercom (Black)",
+    description: "02562-001. AXIS TI8204 Recessed Mount Black. Nice and easy recessed mount of AXIS I8116-E Network Video Intercom suitable for most wall types. Features a modern architectural black finish.",
+    priceUSD: 94.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 22,
+    stock: 115,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS I8116-E Network Video Intercom",
+      "Color": "Sleek Architectural Black Finish",
+      "Mount Type": "Recessed In-Wall Mount Kit",
+      "Wall Types": "Hollow Wall, Stud Wall, Brick, and Metal Facades"
+    },
+    features: [
+      "Sleek architectural black finish matches dark entrance frames, mullions, and modern facades",
+      "Recesses the AXIS I8116-E intercom flush into the mounting surface",
+      "Heavy-duty construction protects against physical impacts and weather exposure",
+      "Pre-aligned mounting holes ensure rapid, accurate positioning"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:17:00.000Z"
+  },
+  {
+    id: "prod-axis-03195-001",
+    sku: "03195-001",
+    name: "AXIS 03195-001 TI8606 Wedge Mount for I8116-E (30° Angle)",
+    description: "03195-001. AXIS TI8606 Wedge Mount. Nice and easy wedge mount which positions the AXIS I8116-E either 30 degrees left or right when installing it on a wall. This wedge mount can also be used to mount the intercom on poles.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 21,
+    stock: 155,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Angle Offset": "30° Left or Right Viewing Orientation",
+      "Compatibility": "AXIS I8116-E Network Video Intercom",
+      "Mount Types": "Wall Surface Mounting or Pole Strap Attachment",
+      "Material": "Impact-Resistant Weatherproof Polymer"
+    },
+    features: [
+      "Angled 30-degree tilt optimizes visitor camera framing and two-way audio clarity",
+      "Reversible design allows either left-hand or right-hand angle orientation",
+      "Dual-purpose installation supports direct wall mounting or pole strap integration",
+      "Conceals and protects terminal wiring against weather and vandalism"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-02928-001",
+    sku: "02928-001",
+    name: "AXIS 02928-001 TI8205 Recessed Mount for I8307-VE",
+    description: "02928-001. AXIS TI8205 Recessed Mount. Recessed Mount for AXIS I8307-VE video intercom station, providing a flush architectural finish.",
+    priceUSD: 212.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 296,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS I8307-VE Network Video Intercom",
+      "Mount Style": "In-Wall Flush Recessed Mounting Enclosure",
+      "Wall Types": "Masonry, Concrete, Brick, and Hollow Walls",
+      "Finish": "Standard Architectural Finish"
+    },
+    features: [
+      "Provides a clean, low-profile flush installation for AXIS I8307-VE intercom stations",
+      "Protects the intercom perimeter against physical impact, prying, and tampering",
+      "Spacious rear opening accommodates conduit fittings and network cables comfortably",
+      "Includes precision level brackets and exterior weather gasket"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-03174-001",
+    sku: "03174-001",
+    name: "AXIS 03174-001 TI8205 Safety Recessed Mount RAL 2004 Orange",
+    description: "03174-001. AXIS TI8205 Safety Recessed Mount. Recessed Mount in high-visibility RAL 2004 (Orange) for AXIS I8307-VE emergency help point stations.",
+    priceUSD: 212.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 16,
+    stock: 173,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Color / Finish": "High-Visibility Safety Orange (RAL 2004)",
+      "Compatibility": "AXIS I8307-VE Intercom & Emergency Help Points",
+      "Application": "Emergency Call Stations, Transit Hubs & Industrial Zones",
+      "Material": "Heavy-Gauge Corrosion-Resistant Coated Alloy"
+    },
+    features: [
+      "Vibrant RAL 2004 safety orange finish ensures instant recognition during emergencies",
+      "Designed specifically for emergency help points and transit call stations",
+      "Recessed architectural fit resists vandalism and accidental mechanical impacts",
+      "UV-stabilized powder coating prevents fading in extreme outdoor sunlight"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-03240-001",
+    sku: "03240-001",
+    name: "AXIS 03240-001 TI5201 Recessed Mount for I5304 Intercom",
+    description: "03240-001. AXIS TI5201 Recessed Mount. The TI5201 Recessed Mount accessory for AXIS I5304 White (03238-001) or AXIS I5304 Black (03239-001).",
+    priceUSD: 30.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 18,
+    stock: 133,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS I5304 Indoor Video Intercom (White & Black)",
+      "Mount Style": "Flush In-Wall Recessed Installation",
+      "Wall Types": "Drywall, Stud Wall, and Solid Masonry",
+      "Material": "Precision Engineered Structural Polymer"
+    },
+    features: [
+      "Recesses the AXIS I5304 indoor touchscreen terminal flush into the wall surface",
+      "Creates a modern, streamlined interior appearance for smart offices and luxury apartments",
+      "Quick snap-in bracket assembly speeds up large multi-unit residential rollouts",
+      "Provides ample rear clearance for Ethernet patch cables and low-voltage wires"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-03241-001",
+    sku: "03241-001",
+    name: "AXIS 03241-001 TI5601 Wall Mount for I5304 Intercom",
+    description: "03241-001. AXIS TI5601 Wall Mount. The TI5601 Wall Mount accessory for AXIS I5304 White (03238-001) or AXIS I5304 Black (03239-001).",
+    priceUSD: 30.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 23,
+    stock: 289,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS I5304 Indoor Video Intercom (White & Black)",
+      "Mount Style": "Surface Wall Mount Bracket",
+      "Material": "Rigid Reinforced Polymer",
+      "Installation": "Compatible with Standard 1-Gang Electrical Boxes"
+    },
+    features: [
+      "Enables fast surface-mounted installation on any wall or single-gang junction box",
+      "Low profile design keeps the indoor terminal close to the wall without cutting drywall",
+      "Secure locking mechanism prevents unauthorized removal of the indoor unit",
+      "Universal hole pattern fits international electrical wall boxes"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-01181-001",
+    sku: "01181-001",
+    name: "AXIS 01181-001 T99 Illuminator Bracket Kit A for Q8685-E & T99A10",
+    description: "01181-001. AXIS T99 ILLUMINATOR BRACKET KIT A. Bracket kit for installing a pair of compatible illuminators to Axis positioning cameras and positioning units. Designed for use with AXIS Q8685-E and AXIS T99A10. Compatible with selected T90 white-LED and IR-LED illuminators. Includes fitting brackets, illuminator connectors, screws, washers, cable glands and cable ties. Illuminators sold separately.",
+    priceUSD: 234.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 30,
+    stock: 163,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q8685-E & AXIS T99A10 Positioning Units",
+      "Illuminator Support": "Pair of AXIS T90 White-LED / IR-LED Illuminators",
+      "Kit Inclusions": "Brackets, Connectors, Cable Glands, Washers, Screws & Zip Ties",
+      "Material": "Corrosion-Resistant Powder-Coated Aluminum Alloy"
+    },
+    features: [
+      "Enables dual-illuminator attachment (IR and White LED) directly onto positioning heads",
+      "Lights move synchronously with the pan-tilt head for 24/7 long-range illumination",
+      "Includes comprehensive installation hardware with IP-rated weather-tight cable glands",
+      "Engineered for high wind-load stability and harsh outdoor perimeter surveillance"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-02458-001",
+    sku: "02458-001",
+    name: "AXIS 02458-001 TP6901-E Adapter Bracket P56 to Q6100 (Cycoloy C6600)",
+    description: "02458-001. TP6901-E ADAPTER BRACKET P56. Adapter bracket that allows Axis P56-series to be connected to Q6100. The material is PC+ABS Cycoloy C6600 GY8D352 and comes in Axis White.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 201,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P56 Series PTZ Cameras & AXIS Q6100-E Multi-Sensor",
+      "Material": "PC+ABS Cycoloy C6600 GY8D352 Structural Composite",
+      "Color": "AXIS White Architectural Finish",
+      "Outdoor Rating": "UV-Stabilized Weatherproof Construction"
+    },
+    features: [
+      "Seamlessly links AXIS P56-series PTZ cameras beneath AXIS Q6100 panoramic sensor heads",
+      "High-performance Cycoloy C6600 PC+ABS resin resists extreme impact and UV degradation",
+      "Preserves smooth internal cable routing between multi-directional and PTZ units",
+      "Factory matched Axis White color blends flawlessly with standard camera housings"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-02854-001",
+    sku: "02854-001",
+    name: "AXIS 02854-001 TP6902-E Adapter Bracket P5676-LE to Q6100 (Cycoloy C6600)",
+    description: "02854-001. AXIS TP6902-E ADAPTER BRACKET. Adapter bracket that allows Axis P5676-LE to be connected to Q6100. The material is PC+ABS Cycoloy C6600 GY8D352 and comes in Axis White.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 200,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P5676-LE PTZ Camera & AXIS Q6100-E Panoramic Base",
+      "Material": "PC+ABS Cycoloy C6600 GY8D352 Structural Resin",
+      "Color": "AXIS White",
+      "Environmental": "IP66 / NEMA 4X Vibration & Weather Proof"
+    },
+    features: [
+      "Custom engineered adapter bracket for mounting AXIS P5676-LE onto Q6100 systems",
+      "Provides rigid, vibration-free coupling for high-zoom 4K PTZ tracking",
+      "Crafted from impact-resistant Cycoloy C6600 composite with high thermal tolerance",
+      "Integrated cable guide preserves watertight IP66/NEMA 4X seals"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-03262-001",
+    sku: "03262-001",
+    name: "AXIS 03262-001 TQ1938-E Protection Bracket (5-Pack)",
+    description: "03262-001. AXIS TQ1938-E Protection Bracket 5P. AXIS TQ1938-E Protection Bracket provides a more rugged look and protects the glass against vandalism. It is compatible with selected outdoor AXIS Q17-series, AXIS TQ1815-E and TQ1819-E Housing. Sold in packs of five units.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 34,
+    stock: 227,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Packaging": "Multipack of 5 Units (5P)",
+      "Compatibility": "Outdoor AXIS Q17-Series, AXIS TQ1815-E & TQ1819-E Housings",
+      "Function": "Protective Window Cage / Vandal Guard",
+      "Material": "Reinforced Structural Alloy"
+    },
+    features: [
+      "Guards the front optical window against stones, thrown objects, and blunt vandalism",
+      "Adds a rugged industrial aesthetic while preserving complete unobstructed field of view",
+      "Pack of 5 brackets provides cost-effective fleet protection for multiple camera sites",
+      "Easy bolt-on installation using tamper-resistant security screws"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-02325-001",
+    sku: "02325-001",
+    name: "AXIS 02325-001 TQ1001-E Wall Mount (316L Stainless Steel, 150 kg Rating)",
+    description: "02325-001. AXIS TQ1001-E WALL MOUNT. Wall mount in electro-polished 316L stainless steel for AXIS XPQ1785, designed for harsh industrial environments. Max load 150 kg / 331 lb.",
+    priceUSD: 1174.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 15,
+    stock: 120,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Electro-Polished Marine-Grade 316L Stainless Steel (1.4404)",
+      "Maximum Load Rating": "150 kg (331 lbs) Extreme Duty",
+      "Compatibility": "AXIS XPQ1785 Explosion-Protected PTZ Cameras",
+      "Environmental Certifications": "C5-M Marine Extreme Corrosion Resistant, IK10"
+    },
+    features: [
+      "Engineered from solid 316L electro-polished stainless steel for offshore, chemical, and marine plants",
+      "Certified 150 kg (331 lb) load capacity securely supports heavy explosion-proof PTZ camera housings",
+      "Extreme C5-M atmospheric corrosion resistance withstands salt spray, acids, and industrial solvents",
+      "Protected internal wiring channel shields power and fiber connections from corrosive gases"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:20:00.000Z"
+  },
+  {
+    id: "prod-axis-5503-194",
+    sku: "5503-194",
+    name: "AXIS 5503-194 T91A03 DIN Rail Mount Clip",
+    description: "5503-194. AXIS T91A03 DIN RAIL MOUNT. DIN rail clip for AXIS Q7424-R video encoder and industrial surveillance devices. Provides firm attachment to standard 35mm DIN rail tracks.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 206,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q7424-R Video Encoder & Industrial Devices",
+      "Mount Standard": "Standard 35mm DIN Rail (EN 50022)",
+      "Material": "Heavy-Duty Spring Steel / High-Impact Polymer",
+      "Application": "Industrial Control Cabinets & Electrical Enclosures"
+    },
+    features: [
+      "Snaps firmly onto standard 35mm DIN rails for vibration-free industrial cabinet mounting",
+      "Specifically compatible with ruggedized AXIS Q7424-R video encoders",
+      "Tool-free quick-release latch facilitates rapid maintenance and hardware swaps",
+      "Compact form factor saves precious rail density in packed control panels"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-5507-331",
+    sku: "5507-331",
+    name: "AXIS 5507-331 T91A10 Stand and Clamp Mounting Kit",
+    description: "5507-331. AXIS T91A10 MOUNTING KIT. Plastic mounting kit with stand and clamp for flexible mounting of Axis products with tripod thread (1/4\"-20 UNC). Ideal for temporary setups, demo stands, and desk mounting.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Installation Accessories",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 191,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Thread Specification": "Standard 1/4\"-20 UNC Tripod Thread",
+      "Components": "Adjustable Table Stand & Multi-Angle Clamp",
+      "Material": "High-Strength Structural Polymer",
+      "Application": "Bench Testing, POS Desks, Retail Shelving & Demo Stations"
+    },
+    features: [
+      "Versatile modular clamp attaches easily to desk edges, shelf lips, and tubular poles",
+      "Standard 1/4\"-20 UNC thread supports a vast array of Axis compact cameras and sensors",
+      "Integrated swivel ball head provides quick angle and rotation adjustments",
+      "Lightweight, durable polymer construction ideal for portable commissioning tools"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-01464-001",
+    sku: "01464-001",
+    name: "AXIS 01464-001 T91A13 Threaded Ceiling Mount (10-Pack)",
+    description: "01464-001. AXIS T91A13 THREADED CEIL MOUNT 10P. 10-pack threaded ceiling mount for quick installation under ceiling tiles. Compatible with cameras with standard 1/4\"-20 UNC tripod thread. Total length 80mm (3\") with thread length 65mm (2.5\"). Threaded rod in nylon, counter nut with friction pad. 10-piece bulk pack.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 35,
+    stock: 274,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 10 Units (10P)",
+      "Thread Size": "Standard 1/4\"-20 UNC Tripod Thread",
+      "Dimensions": "Total Length 80mm (3.0\"), Thread Length 65mm (2.5\")",
+      "Materials": "Nylon Threaded Rod, Counter Nut with Integrated Friction Pad"
+    },
+    features: [
+      "Streamlines camera installation under acoustic ceiling tiles and false ceilings",
+      "Threaded nylon rod prevents galvanic corrosion and eliminates acoustic rattling",
+      "Counter nut with friction pad firmly clamps without crushing delicate ceiling panels",
+      "10-pack bundle reduces per-unit costs for large commercial building projects"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-01232-001",
+    sku: "01232-001",
+    name: "AXIS 01232-001 T85 Rack Mount Kit A for T8508 Switch",
+    description: "01232-001. AXIS T85 RACK MOUNT KIT A. Rack mount kit for AXIS T8508 PoE+ Network Switch. Enables clean 19-inch server rack installation with precision bracket alignment.",
+    priceUSD: 31.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 20,
+    stock: 197,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS T8508 PoE+ Managed Network Switch",
+      "Rack Format": "Standard 19-Inch 1U Equipment Rack",
+      "Material": "Cold-Rolled Structural Steel",
+      "Finish": "Electrostatic Black Powder Coat"
+    },
+    features: [
+      "Adapts the compact AXIS T8508 PoE+ switch into standard 19-inch IT equipment racks",
+      "Heavy-gauge steel brackets provide rigid support against cable strain and thermal expansion",
+      "Includes precision machine screws for chassis attachment and cage nuts for rack mounting",
+      "Preserves unobstructed airflow across the switch ventilation ports"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-5503-971",
+    sku: "5503-971",
+    name: "AXIS 5503-971 T91A27 Pole Mount Brackets (10-Pack)",
+    description: "5503-971. AXIS T91A27 POLE MOUNT 10PCS. Pole mount bracket compatible with all cameras with standard tripod threading (1/4\"-20 UNC). Pack of 10.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 159,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Multipack of 10 Brackets (10PCS)",
+      "Thread Compatibility": "Standard 1/4\"-20 UNC Tripod Thread",
+      "Attachment": "Accommodates Standard Metal Pole Straps and Hose Clamps",
+      "Material": "Corrosion-Resistant Reinforced Metal Alloy"
+    },
+    features: [
+      "Multi-pack of 10 brackets tailored for pole installations of compact security cameras",
+      "Standard 1/4\"-20 UNC mounting screw supports wide range of Axis sensors and bullet cameras",
+      "Slotted strap channels hold steel bands firmly without slipping on round or square poles",
+      "Durable weather-resistant coating withstands outdoor exposure"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-01470-001",
+    sku: "01470-001",
+    name: "AXIS 01470-001 T91B57 Aluminum Pole Mount 100-410mm (White)",
+    description: "01470-001. AXIS T91B57 POLE MOUNT 100-410MM. Aluminum Pole Mount for indoor and outdoor installations, for poles with diameter between 100-410 mm (4\"-16”). Includes 1 pair of AXIS Stainless Steel Straps 1450mm (57\") with TX30 screw interface for ease-of-installation. AXIS T91B57 is compatible with mounts such as AXIS T91G61, T91H61, and AXIS T98A Surveillance Cabinet series. Color: Axis white.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 38,
+    stock: 138,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pole Diameter Range": "100–410 mm (4\"–16\")",
+      "Material": "Corrosion-Resistant Cast Aluminum",
+      "Straps Included": "1 Pair Stainless Steel Straps 1450mm (57\") with TX30 Screw Interface",
+      "Mount Compatibility": "AXIS T91G61, T91H61 & T98A Surveillance Cabinet Series",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Heavy-duty marine-grade aluminum construction for demanding indoor and outdoor pole mounts",
+      "Wide diameter accommodation from 4 to 16 inches supports utility poles and structural pillars",
+      "Includes long 57\" stainless steel bands with easy TX30 screw tightening mechanism",
+      "Direct mechanical compatibility with AXIS T91G61/T91H61 wall mounts and T98A cabinets"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-01446-001",
+    sku: "01446-001",
+    name: "AXIS 01446-001 T91B57 Aluminum Pole Mount 100-410mm (Urban Grey)",
+    description: "01446-001. AXIS T91B57 POLE MOUNT GREY. Aluminum Pole Mount in Urban Grey color. For indoor and outdoor installations. Suitable for poles diameters between 100-410 mm (4\"-16”). Includes 1 pair of AXIS Stainless Steel Straps 1450mm (57\") with TX30 screw interface for ease-of-installation. AXIS T91B57 is compatible with mounts such as AXIS T91G61, T91H61, and AXIS T98A Surveillance Cabinet series.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 23,
+    stock: 121,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pole Diameter Range": "100–410 mm (4\"–16\")",
+      "Color": "Urban Grey Architectural Powder Coat",
+      "Material": "Die-Cast Aluminum with Marine-Grade Protective Coating",
+      "Included Hardware": "1 Pair Stainless Steel Straps 1450mm with TX30 Screw Interface",
+      "Environmental": "IK10 Impact & NEMA 4X Weather Resistance"
+    },
+    features: [
+      "Urban Grey architectural finish designed to blend into city infrastructure and dark poles",
+      "Supports large pole diameters up to 410 mm (16 inches) with heavy-duty stainless straps",
+      "Cast aluminum body rated for severe weather, salt spray, and physical impacts",
+      "Seamlessly mates with AXIS T91G61, T91H61 mounts and T98A cabinet series"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-01473-001",
+    sku: "01473-001",
+    name: "AXIS 01473-001 T91B67 Pole Mount 65-165mm (1.5\" NPS)",
+    description: "01473-001. AXIS T91B67 POLE MOUNT 65-165MM. Outdoor-ready, powder-coated aluminum pole mount with 1.5\" NPS thread for fixed dome pendant kits. Includes insect-proof cable gasket and 1 pair of stainless steel straps (with TX30 screw) for pole diameter between 65-165mm (2.5\"-6.5\"). White in color.",
+    priceUSD: 116.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 145,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Pole Diameter Range": "65–165 mm (2.5\"–6.5\")",
+      "Threading": "Standard 1.5\" NPS Female Thread for Pendant Kits",
+      "Material": "Powder-Coated Outdoor Aluminum",
+      "Included Accessories": "Insect-Proof Cable Gasket, 1 Pair Stainless Steel Straps with TX30 Screws",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Integrated 1.5\" NPS thread allows direct attachment of fixed dome pendant arms without adapter rings",
+      "Includes specialized insect-proof cable gasket preventing insect nests inside pole wiring",
+      "Sized for medium poles (65–165 mm / 2.5\"–6.5\") typical of parking lots and street lamps",
+      "Full weather-tight conduit routing keeps network wiring dry and secure"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-01149-001",
+    sku: "01149-001",
+    name: "AXIS 01149-001 T91M47 Pole Mount for Outdoor Midspans & Switches",
+    description: "01149-001. AXIS T91M47 POLE MOUNT. Pole mount for our outdoor midspans and switch. Rugged outdoor mounting plate designed for utility poles, light poles, and structural masts.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 138,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Outdoor High PoE Midspans & Outdoor Managed Switches",
+      "Mount Types": "Round, Hexagonal & Square Utility Poles",
+      "Material": "Corrosion-Proof Heavy Gauge Stainless Steel / Aluminum",
+      "Application": "Outdoor Perimeter Power & Network Infrastructure"
+    },
+    features: [
+      "Engineered specifically to support external outdoor PoE midspans and power supplies on poles",
+      "Provides stable, vibration-isolated mounting in windy outdoor environments",
+      "Multiple strap slots accommodate narrow and wide industrial stainless steel bands",
+      "Heavy-duty construction ensures decades of maintenance-free service"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-5504-821",
+    sku: "5504-821",
+    name: "AXIS 5504-821 T91D61 Aluminum Wall Mount (1.5\" NPS Pendant)",
+    description: "5504-821. AXIS T91D61 WALL MOUNT. Chromated and powder coated aluminum wall mount with 1.5\" NPS thread for fixed dome pendant kits. Cable routing from behind or through 3/4\" conduit hole on the side. Includes mounting plate, pipe seal and conduit hole cover. Color: White",
+    priceUSD: 105.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 42,
+    stock: 159,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Thread Specification": "Standard 1.5\" NPS Male/Female Pendant Thread",
+      "Conduit Access": "Rear Cable Entry or Side 3/4\" Conduit Hole with Cover",
+      "Material": "Chromated and Powder-Coated Cast Aluminum",
+      "Included Accessories": "Mounting Plate, Weather-Tight Pipe Seal, Conduit Hole Cover",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Chromated and powder-coated cast aluminum provides maximum resistance to coastal salt spray",
+      "Universal 1.5\" NPS thread supports the complete lineup of Axis fixed dome pendant kits",
+      "Dual cable routing choices: rear in-wall entry or side 3/4\" conduit entry for external piping",
+      "Supplied with separate back mounting plate for fast, one-person camera installation"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:22:00.000Z"
+  },
+  {
+    id: "prod-axis-5506-481",
+    sku: "5506-481",
+    name: "AXIS 5506-481 T91E61 Aluminum Wall Mount (1.5\" NPS, IK10/NEMA 4X)",
+    description: "5506-481. AXIS T91E61 WALL MOUNT. Wall mount with internal cable canal for dome cameras with 1.5\" NPS thread, compatible with Axis pendant kits. IK10 and NEMA 4X rated. Powder coated aluminum for indoor and outdoor installations.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 34,
+    stock: 268,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Thread Specification": "Standard 1.5\" NPS Thread for Axis Pendant Kits",
+      "Cable Routing": "Internal Protected Cable Canal",
+      "Environmental Ratings": "IK10 Vandal-Resistant, NEMA 4X Weatherproof",
+      "Material": "Corrosion-Resistant Powder-Coated Cast Aluminum"
+    },
+    features: [
+      "Protected internal cable canal shields Ethernet and power wiring from tampering and weathering",
+      "IK10 and NEMA 4X ratings ensure reliable performance in harsh outdoor industrial environments",
+      "Standard 1.5\" NPS thread fits seamlessly with all Axis fixed dome pendant kit accessories",
+      "Slim profile provides an aesthetically pleasing wall installation without bulky mounting boxes"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5506-951",
+    sku: "5506-951",
+    name: "AXIS 5506-951 T91G61 Wall Mount with IP66 Accessory Compartment (White)",
+    description: "5506-951. AXIS T91G61 WALL MOUNT. Aluminum wall mount with IP66 compartment to safely accommodate power and connectivity accessories (e.g. PoE midspan). IK10 and NEMA 4X rated in Axis white color. Includes a pre-terminated IP66 rated RJ45 connector. Compatible with wide range of Axis cameras, incl. AXIS M55, P56, Q37, Q60, Q61 Series.",
+    priceUSD: 234.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 47,
+    stock: 159,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compartment Rating": "Spacious IP66 & NEMA 4X Internal Accessory Bay",
+      "Included Connector": "Factory Pre-Terminated IP66 RJ45 Connector",
+      "Impact Rating": "IK10 Vandal Resistance",
+      "Compatibility": "AXIS M55, P56, Q37, Q60 & Q61 PTZ Camera Series",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Spacious IP66 weatherproof compartment safely encloses PoE midspans and fiber media converters",
+      "Eliminates the need for separate external electrical junction boxes on building facades",
+      "Pre-installed IP66 RJ45 connector streamlines fast outdoor terminations",
+      "Supports heavy PTZ and multi-sensor cameras with high wind-load stability"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-01444-001",
+    sku: "01444-001",
+    name: "AXIS 01444-001 T91G61 Wall Mount with IP66 Compartment (Urban Grey)",
+    description: "01444-001. AXIS T91G61 WALL MOUNT GREY. Aluminum wall mount with IP66 compartment to safely accommodate power and connectivity accessories (e.g. PoE midspan). IK10 and NEMA 4X rated in Urban Grey color to match AXIS Q62 series. Includes a pre-terminated IP66 rated RJ45 connector. Compatible with wide range of Axis cameras.",
+    priceUSD: 266.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 103,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Color Finish": "Urban Grey (Factory Color Matched to AXIS Q62 Series)",
+      "Compartment": "Integrated IP66 / NEMA 4X Weatherproof Accessory Bay",
+      "Included Interface": "Factory Pre-Terminated IP66 RJ45 Connector",
+      "Impact Rating": "IK10 Vandal Resistance",
+      "Material": "Marine-Grade Cast Aluminum"
+    },
+    features: [
+      "Urban Grey finish precisely matches AXIS Q62 series heavy-duty PTZ cameras",
+      "Protective IP66 compartment houses network power injectors and media converters",
+      "Eliminates auxiliary surface boxes for clean architectural integration",
+      "Robust marine-grade aluminum casting withstands hurricane-force winds and coastal salt air"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5507-641",
+    sku: "5507-641",
+    name: "AXIS 5507-641 T91H61 Wall Mount with RJ45 Cable & Connectivity Bay",
+    description: "5507-641. AXIS T91H61 WALL MOUNT. AXIS T91H61 Wall Mount is designed with a built-in RJ45 cable and connection, and spacious compartment for connectivity accessories such as midspans and media converters. The wall mount is impact-resistant (IK10) and weather-resistant (IP66, NEMA 4X) for indoor and outdoor use. The 1.5\" NPS thread mount ensures compatibility with all pendant kits for Axis fixed dome cameras.",
+    priceUSD: 212.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 39,
+    stock: 224,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Thread Interface": "Standard 1.5\" NPS Female Thread for Dome Pendant Kits",
+      "Integrated Cable": "Built-In Heavy-Duty RJ45 Cable and Weatherproof Connector",
+      "Internal Storage": "Spacious Compartment for Midspans and Fiber Media Converters",
+      "Ratings": "IP66, NEMA 4X and IK10 Impact Rated"
+    },
+    features: [
+      "Integrated factory-tested RJ45 cable assembly drastically reduces on-ladder termination time",
+      "Generous interior chamber safely encloses PoE midspans and fiber optic transceivers",
+      "1.5\" NPS thread pairs directly with all Axis fixed dome camera pendant caps",
+      "Weather-sealed gasket perimeter prevents water ingress under high-pressure rains"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5901-331",
+    sku: "5901-331",
+    name: "AXIS 5901-331 T94J01A Heavy Aluminum Wall Mount (White)",
+    description: "5901-331. AXIS T94J01A WALL MOUNT. Aluminum wall mount for Axis positioning cameras and positioning units. Robust and impact-resistant. Compatible with Axis ACI 3/4” conduit adapters, and offers multiple cable entries. Cables can be routed through the back or, by using a conduit connection, from each side or from the bottom. Suitable for indoor and outdoor use.",
+    priceUSD: 234.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 250,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Heavy Positioning Cameras & Positioning Units",
+      "Conduit Adapters": "Compatible with Axis ACI 3/4\" (M25) Conduit Fittings",
+      "Cable Entry Options": "Rear Feed, Left/Right Side, or Bottom Conduit Inlets",
+      "Material": "Heavy-Duty Die-Cast Aluminum with Weatherproof Coating",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Engineered for high-torque heavy positioning cameras and pan/tilt systems",
+      "Multi-directional cable entry accommodates conduit piping from left, right, bottom, or rear",
+      "Impact-resistant die-cast aluminum frame eliminates camera shake during high-speed tracking",
+      "Fully compatible with Axis ACI conduit adapters for clean commercial installations"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-01445-001",
+    sku: "01445-001",
+    name: "AXIS 01445-001 T94J01A Heavy Aluminum Wall Mount (Urban Grey)",
+    description: "01445-001. AXIS T94J01A WALL MOUNT GREY. Robust and impact-resistant aluminum wall mount for selected Axis PTZ and positioning cameras. Multiple cable entry points for 3/4” (M25) conduit pipes. Suitable for indoor and outdoor use. Color: Urban Grey.",
+    priceUSD: 266.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 146,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Color": "Urban Grey (Matches AXIS Q62 Series and Industrial Units)",
+      "Compatibility": "AXIS Heavy PTZ & Positioning Heads",
+      "Conduit Interfaces": "Multiple 3/4\" (M25) Conduit Threaded Inlets",
+      "Material": "Corrosion-Resistant Industrial Cast Aluminum"
+    },
+    features: [
+      "Finished in Urban Grey to integrate seamlessly with dark infrastructure and Q62 hardware",
+      "Multiple 3/4\" conduit ports enable flexible piping routes in complex industrial facilities",
+      "Solid aluminum cast construction provides superior torsional rigidity",
+      "Sealed against dust, rain, and corrosive airborne contaminants"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5507-501",
+    sku: "5507-501",
+    name: "AXIS 5507-501 T91D62 Retrofit Adapter Mounting Bracket",
+    description: "5507-501. AXIS T91D62 ADAPTER MOUNTING BRACKET. Retrofit adapter mount bracket for re-using holes drilled from Pelco’s PTZ dome parapet mount, or for increasing the attachment area towards the parapet.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 167,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Application": "Retrofit Adapter for Pelco PTZ Parapet Hole Patterns",
+      "Compatibility": "AXIS T91D62 & Parapet Mount Assemblies",
+      "Function": "Reuses Existing Holes & Expands Attachment Surface Area",
+      "Material": "Heavy-Duty Electro-Galvanized Structural Steel"
+    },
+    features: [
+      "Reuses existing drill holes from legacy Pelco PTZ parapet mounts without new drilling",
+      "Substantially expands load-bearing surface area against thin or weathered parapet walls",
+      "Saves significant labor time during large-scale camera modernization projects",
+      "Thick galvanized steel construction prevents metal fatigue and structural flex"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5507-461",
+    sku: "5507-461",
+    name: "AXIS 5507-461 T91B51 Swivel Ceiling Mount (Sloped Ceilings up to 45°)",
+    description: "5507-461. AXIS T91B51 CEILING MOUNT. The indoor/outdoor ceiling mount is ideal for low ceiling installations such as parking houses, with swivel action to prevent breaking if hit. Can be mounted in sloped ceilings/soffits to compensate angles up to 45 degrees. Available accessory extension pipes of 30 cm (12”) or 1 meter (39”). Compatible with all Axis pendant kits featuring a 1.5” NPS thread and the AXIS T91A05 Camera holder.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 36,
+    stock: 172,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Slope Angle Compensation": "Adjustable up to 45° for Sloped Ceilings & Soffits",
+      "Impact Protection": "Breakaway Swivel Action Absorbs Vehicle / Equipment Hits",
+      "Thread Standard": "1.5\" NPS Thread Compatible with Axis Pendant Kits",
+      "Extension Pipe Options": "Supports Optional 30cm (12\") & 1m (39\") Extension Pipes"
+    },
+    features: [
+      "Innovative swivel breakaway action swings upon impact to prevent camera damage in parking garages",
+      "Compensates for sloped roofs and angled soffits up to 45 degrees, maintaining true vertical camera alignment",
+      "Compatible with all Axis 1.5\" NPS fixed dome pendant kits and T91A05 camera holders",
+      "Rugged weather-sealed construction suitable for both indoor garages and exposed exterior eaves"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5504-641",
+    sku: "5504-641",
+    name: "AXIS 5504-641 T91B63 Aluminum Ceiling Mount (75cm / 29.5\")",
+    description: "5504-641. AXIS T91B63 CEILING MOUNT. Chromated and powder coated aluminum ceiling mount 75 cm / 29.5 inch compatible with fixed dome pendant kits and AXIS P55-series and AXIS Q60-series PTZ dome cameras. Cable routing from behind or through 3/4\" conduit hole on the side. Includes mounting plate, pipe seal, conduit hole cover and AXIS T94A01D Pendant Kit. Color: White",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 30,
+    stock: 101,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Drop Length": "75 cm (29.5 Inches) Extension Tube",
+      "Compatibility": "Fixed Dome Pendant Kits, AXIS P55 & AXIS Q60 PTZ Cameras",
+      "Cable Routing": "Through-Ceiling or Side 3/4\" Conduit Port",
+      "Included Accessories": "Mounting Plate, Pipe Seal, Conduit Hole Cover & T94A01D Pendant Kit",
+      "Material": "Chromated & Powder-Coated Aluminum"
+    },
+    features: [
+      "Drops cameras 75 cm below high industrial ceilings and warehouse rafters for optimal viewing",
+      "Includes complete AXIS T94A01D pendant kit for fast PTZ dome camera mounting",
+      "Dual cable routing paths accommodate concealed through-ceiling feeds or side conduit piping",
+      "Corrosion-resistant chromated aluminum finish ensures long lifespan in humid environments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5017-641",
+    sku: "5017-641",
+    name: "AXIS 5017-641 T91A64 Heavy-Duty External Corner Bracket",
+    description: "5017-641. AXIS T91A64 BRACKET CORNER. Corner Bracket that is compatible with several wall mounts: AXIS T91B61 Wall Mount, AXIS T91D61 Wall Mount 1.5” NPS, AXIS T91G61 Wall Mount, AXIS T91H61 Wall Mount, AXIS T91L61 Wall-and-Pole Mount. Compatible with AXIS P55, Q60/61/63, M32, Q37, M55, P56 and pendant kits.",
+    priceUSD: 94.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 41,
+    stock: 137,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Mounting Type": "Exterior 90° Corner Mount Bracket",
+      "Mount Compatibility": "AXIS T91B61, T91D61, T91G61, T91H61 & T91L61 Mounts",
+      "Camera Series": "AXIS P55, Q60/61/63, M32, Q37, M55 & P56 Series",
+      "Material": "Heavy-Gauge Powder-Coated Cast Aluminum",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Provides wide 270-degree panoramic coverage around exterior building corners",
+      "Universal pre-tapped hole patterns mate seamlessly with AXIS T91 series wall mounts",
+      "Heavy cast aluminum construction provides high rigidity under severe wind loads",
+      "Pass-through cabling channels keep network wiring completely protected inside the corner"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:24:00.000Z"
+  },
+  {
+    id: "prod-axis-5506-691",
+    sku: "5506-691",
+    name: "AXIS 5506-691 T91F67 Stainless Steel Marine Pole Mount (SS316L)",
+    description: "5506-691. AXIS T91F67 POLE MOUNT STAINLESS STEEL. Pole mount bracket for AXIS Q35-SLVE stainless steel cameras. Compatible with AXIS T91F61 Wall mount. Made of marine-grade stainless steel. Includes 1 pair marine-grade (SS316L) stainless steel straps with TX30 screw interface for ease-of-installation. Straps length 1450mm (57\"), suitable for pole diameter range 100-410mm (4\"-16\").",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 29,
+    stock: 207,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Marine-Grade 316L Stainless Steel (SS316L)",
+      "Pole Diameter Range": "100–410 mm (4\"–16\")",
+      "Straps Included": "1 Pair SS316L Straps 1450mm (57\") with TX30 Interface",
+      "Compatibility": "AXIS Q35-SLVE & AXIS T91F61 Stainless Wall Mount"
+    },
+    features: [
+      "Crafted from premium marine-grade 316L stainless steel for offshore, coastal, and chemical applications",
+      "Designed specifically to anchor AXIS Q35-SLVE explosion-resistant and hygienic dome cameras",
+      "Includes extra-long 57-inch SS316L straps with TX30 torque heads for vibration-free strapping",
+      "Provides supreme resistance against corrosive saltwater spray and aggressive washdown detergents"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-5506-181",
+    sku: "5506-181",
+    name: "AXIS 5506-181 T94A01F Hard Ceiling Bracket for P56 Series",
+    description: "5506-181. AXIS T94A01F CEILING BRACKET. Bracket for mounting an AXIS P56 Series camera in a hard ceiling. For indoor and outdoor installations. 3/4\" conduit hole, compatible with ACI adapters.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 236,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P56 PTZ Camera Series",
+      "Ceiling Type": "Hard Ceilings (Concrete, Wood, Gypsum, Metal Decking)",
+      "Conduit Port": "Side 3/4\" Conduit Hole Compatible with Axis ACI Adapters",
+      "Environment": "Indoor & Outdoor Weather-Sealed Installation"
+    },
+    features: [
+      "Enables rigid surface mounting of AXIS P56 series PTZ cameras onto solid ceilings and overhangs",
+      "Side 3/4\" conduit hole provides clean piping entry without opening up ceiling cavities",
+      "Engineered to absorb torsional torque loads from high-speed continuous PTZ panning",
+      "Compatible with Axis ACI conduit adapter lineup for standardized professional pipework"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-5801-601",
+    sku: "5801-601",
+    name: "AXIS 5801-601 T94A02F Aluminum Ceiling Bracket for PTZ & Q37",
+    description: "5801-601. AXIS T94A02F CEILING BRACKET. Aluminum ceiling bracket for Axis PTZ cameras and AXIS Q37 Series for indoor or outdoor use. 3/4\" conduit hole on the side.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 25,
+    stock: 194,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS PTZ Domes & AXIS Q37 Multi-Sensor Series",
+      "Conduit Hole": "Integrated Side 3/4\" Conduit Entry",
+      "Material": "Corrosion-Proof Die-Cast Powder-Coated Aluminum",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Heavy-duty die-cast aluminum bracket designed for high-payload multi-sensor and PTZ cameras",
+      "Direct ceiling attachment with integrated side conduit opening simplifies exterior canopies",
+      "Provides rock-solid vibration resistance essential for long-range 4K telephoto tracking",
+      "Weather-sealed gasket prevents moisture migration into camera wiring compartments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-5505-721",
+    sku: "5505-721",
+    name: "AXIS 5505-721 T94A01L Outdoor Recessed Mount for Q60-E (IK10)",
+    description: "5505-721. AXIS T94A01L RECESSED MOUNT. Outdoor recessed mount for AXIS Q60-E cameras. Can be mounted in panels, wood or pre-made holes solid concrete. The mount is very sturdy and made of aluminum and stainless steel. It supports the IK10 impact rating of the camera and has two 3/4\" conduit holes for a plenum rated and rodent safe installation.",
+    priceUSD: 288.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 21,
+    stock: 256,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q60-E Outdoor PTZ Cameras",
+      "Impact & Protection": "IK10 Vandal Resistance, Rodent-Safe Sealed Construction",
+      "Conduit Ports": "Dual 3/4\" Conduit Ports for Plenum-Rated Routing",
+      "Materials": "Marine-Grade Aluminum & Stainless Steel Hardware"
+    },
+    features: [
+      "Recesses powerful AXIS Q60-E outdoor PTZ cameras flush into exterior soffits and canopies",
+      "Maintains IK10 vandal resistance while significantly minimizing camera visual profile",
+      "Dual 3/4-inch conduit ports provide plenum-certified, rodent-proof cabling protection",
+      "Heavy stainless steel and aluminum framework secures the camera against wind buffeting"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-5801-861",
+    sku: "5801-861",
+    name: "AXIS 5801-861 T94B03L Plenum-Rated Recessed Mount (M2025/M2026)",
+    description: "5801-861. AXIS T94B03L RECESSED MOUNT. Indoor recessed mount for drop ceiling installations. The aluminum casing makes it suitable for use in air handling spaces. Compatible with AXIS M2025/26 and AXIS Companion Bullet.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 30,
+    stock: 244,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M2025-LE, M2026-LE & AXIS Companion Bullet Cameras",
+      "Plenum Rating": "Full Aluminum Enclosure Certified for Air Handling Spaces",
+      "Ceiling Type": "Drop Ceilings / Acoustic Ceiling Tiles",
+      "Material": "Sealed All-Aluminum Enclosure"
+    },
+    features: [
+      "Certified for installation in air-handling drop ceiling plenum spaces above office tiles",
+      "Recesses bullet cameras into ceiling tiles, turning them into sleek semi-flush sensors",
+      "All-aluminum enclosure prevents fire and smoke propagation per commercial building codes",
+      "Fast clamp mechanism grips ceiling tiles firmly without causing edge chipping"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-01242-001",
+    sku: "01242-001",
+    name: "AXIS 01242-001 T94C01L Drop Ceiling Recessed Mount for M42 Series",
+    description: "01242-001. AXIS T94C01L RECESSED MOUNT. Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces. Compatible with AXIS M42 series and AXIS Companion Dome mini LE.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 37,
+    stock: 181,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M42 Series & AXIS Companion Dome Mini LE",
+      "Mounting Mechanism": "Patent Single-Screw Rapid Attachment Clamp",
+      "Ceiling Type": "Drop Tile / Acoustic Tile Ceiling",
+      "Finish": "Architectural White Trim Ring"
+    },
+    features: [
+      "Single-screw rapid clamping mechanism cuts drop-ceiling installation time in half",
+      "Creates an ultra-clean flush look with only the dome bubble protruding below ceiling tiles",
+      "Lightweight yet durable composite frame holds camera securely without sagging tiles",
+      "Snap-on decorative trim ring hides ceiling tile cut lines completely"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-01244-001",
+    sku: "01244-001",
+    name: "AXIS 01244-001 T94C01U 4-in-1 Universal Mount & Conduit Back Box",
+    description: "01244-001. AXIS T94C01U UNIVERSAL MOUNT. Versatile 4-in-1 mount accessory for use as either a pendant kit with 3/4\" (M25) conduit interface, conduit back box with 1/2\" (M20) conduit side entry, pole mount, or standard camera thread. Compatible with AXIS M42 series and AXIS Companion Dome mini LE. Pole mounting straps available separately.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Back Boxes",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 42,
+    stock: 132,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Configuration Modes": "4-in-1: Pendant, Conduit Box, Pole Mount & Tripod Thread",
+      "Conduit Entries": "Side 1/2\" (M20) & Top 3/4\" (M25) Conduit Inlets",
+      "Compatibility": "AXIS M42 Series & AXIS Companion Dome Mini LE",
+      "Material": "Impact-Resistant Architectural Polymer"
+    },
+    features: [
+      "Innovative 4-in-1 design resolves multiple mounting scenarios with a single inventory SKU",
+      "Operates as a pendant cap, conduit surface back box, pole adapter, or tripod mount",
+      "Side 1/2\" (M20) and top 3/4\" (M25) ports give full piping routing flexibility",
+      "Compact, clean aesthetic maintains discreet architectural appearance"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-5504-911",
+    sku: "5504-911",
+    name: "AXIS 5504-911 T94D01S Flat Surface Adapter (10-Pack, White)",
+    description: "5504-911. AXIS T94D01S MT BRACKET FL WT 10PCS. White plastic adapter for mounting AXIS P3904-R and AXIS P3905-R on flat surfaces. Does not fit with AXIS P3915-R. Used when the cable must enter from the side. 10 pack.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 24,
+    stock: 276,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Multipack of 10 Adapters (10PCS)",
+      "Compatibility": "AXIS P3904-R & AXIS P3905-R Onboard Cameras",
+      "Function": "Flat Surface Mounting with Side Cable Entry",
+      "Color": "White Automotive Grade Polymer"
+    },
+    features: [
+      "Allows clean side cable entry when surface drilling is not permitted in trains or buses",
+      "Specifically engineered for mobile onboard surveillance in public transit vehicles",
+      "Tough, fire-retardant polymer meets strict transit interior safety standards",
+      "Supplied as a cost-effective 10-pack for fleet-wide vehicle retrofitting"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-5504-921",
+    sku: "5504-921",
+    name: "AXIS 5504-921 T94D02S Curved Surface Adapter (10-Pack, White)",
+    description: "5504-921. AXIS T94D02S MT BRACKET CU WT 10PCS. White plastic adapter for mounting AXIS P3904-R, AXIS P3905-R and AXIS P3915-R on curved surfaces. 10 pack.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 231,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Multipack of 10 Adapters (10PCS)",
+      "Compatibility": "AXIS P3904-R, P3905-R & P3915-R Transit Cameras",
+      "Target Surface": "Curved Ceilings, Arched Roofs & Vehicle Interior Ribs",
+      "Color": "White Fire-Retardant Polymer"
+    },
+    features: [
+      "Curved contour matches rounded vehicle ceilings and bus roof arches perfectly",
+      "Eliminates mounting gaps, preventing dirt buildup and passenger tampering in transit",
+      "Compatible with the complete AXIS P39-R onboard camera family",
+      "Multipack of 10 units delivers turnkey installation across vehicle fleets"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-02853-001",
+    sku: "02853-001",
+    name: "AXIS 02853-001 TM1902 Stand Mount for Wall & Ceiling (4-Pack, White)",
+    description: "02853-001. AXIS TM1902 Stand Mount 4 pcs. Mounting stand in plastic for wall and ceiling. Stand height 70 mm (2.7 in). Circular base with diameter 69 mm (2.7 in). White color.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 258,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Pack of 4 Stand Mounts (4 PCS)",
+      "Stand Height": "70 mm (2.7 inches)",
+      "Base Diameter": "Circular Base 69 mm (2.7 inches)",
+      "Mount Type": "Wall, Desktop or Ceiling Surface Mount",
+      "Color": "Clean AXIS White"
+    },
+    features: [
+      "Compact 70 mm standoff elevates sensor units from walls or ceilings for wide viewing angles",
+      "Circular 69 mm base with concealed screw holes provides clean architectural styling",
+      "Multi-pack of 4 stands supplies multiple camera mounting points for retail or office sites",
+      "Rigid UV-stabilized construction prevents camera droop over long deployment cycles"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:26:00.000Z"
+  },
+  {
+    id: "prod-axis-5901-341",
+    sku: "5901-341",
+    name: "AXIS 5901-341 T94N01G Heavy Stainless Steel Pole Mount (IK10)",
+    description: "5901-341. AXIS T94N01G POLE MOUNT. Stainless steel pole mount designed for use with heavier Axis products such as positioning cameras and positioning units. IK10. Includes 3pcs stainless steel straps included for pole diameter 60-400mm (2.4-15.7in) and sealing gaskets for multiple cable entries with protection against insect infestation.",
+    priceUSD: 234.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 38,
+    stock: 267,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "Heavy-Gauge Marine-Grade Stainless Steel",
+      "Impact Rating": "IK10 Extreme Impact Resistance",
+      "Pole Diameter Range": "60–400 mm (2.4\"–15.7\")",
+      "Included Straps": "3 Pieces Stainless Steel Straps",
+      "Gaskets": "Insect-Proof Weather-Tight Cable Sealing Gaskets"
+    },
+    features: [
+      "Engineered with 3 heavy stainless steel straps to support heavy positioning pan/tilt camera heads",
+      "IK10 vandal resistance and marine stainless construction ensure decades of outdoor survival",
+      "Integrated insect-proof cable gaskets eliminate pest nesting inside wiring cavities",
+      "Wide clamping range from 2.4 to 15.7 inches fits standard street lights and oversized utility masts"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-5504-711",
+    sku: "5504-711",
+    name: "AXIS 5504-711 T94P01B Corner Bracket for P54, Q17 & P33-VE",
+    description: "5504-711. AXIS T94P01B CORNER BRACKET. Corner mount for AXIS P5414-E/15-E, AXIS Q1765-LE, AXIS Q1931-E and AXIS P33-VE series.",
+    priceUSD: 94.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 29,
+    stock: 273,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Mount Angle": "90° Exterior Corner Mounting Bracket",
+      "Compatibility": "AXIS P5414-E/15-E, AXIS Q1765-LE, Q1931-E & P33-VE Series",
+      "Material": "Powder-Coated Weatherproof Cast Aluminum",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Provides expansive two-facade perimeter surveillance from a single external building corner",
+      "Factory tapped mounting patterns mate directly with specialized PTZ and thermal housings",
+      "Eliminates blind spots along long warehouse walls and commercial property perimeters",
+      "Rugged aluminum casting maintains precise optical alignment under heavy storm winds"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-01172-001",
+    sku: "01172-001",
+    name: "AXIS 01172-001 T94P01L Plenum-Rated Recessed Mount for M55 (UL)",
+    description: "01172-001. AXIS T94P01L RECESSED MOUNT. Indoor and outdoor recessed mount for AXIS M55 Series. Suitable for air-handling spaces in indoor installations as the enclosure is made of metal and has a 3/4\" (M25) conduit hole for protected cable-routing. UL-approved.",
+    priceUSD: 116.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 32,
+    stock: 289,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M55 PTZ Camera Series",
+      "Plenum Rating": "UL-Approved Metal Back Enclosure for Air Handling Spaces",
+      "Conduit Access": "Protected 3/4\" (M25) Conduit Routing Port",
+      "Environment": "Indoor Drop Ceilings & Outdoor Soffit Recessed Installations"
+    },
+    features: [
+      "UL-certified all-metal backbox meets strict commercial building fire codes for plenum air spaces",
+      "Recesses AXIS M55 PTZ domes into ceiling tiles, providing a discreet architectural profile",
+      "Integrated 3/4\" (M25) conduit port protects network cabling against rodents and heat",
+      "Spring-assisted mounting clamps guarantee secure, sag-free attachment to acoustic ceiling panels"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-5507-601",
+    sku: "5507-601",
+    name: "AXIS 5507-601 T94R01B Corner Bracket with Single Gang Pattern",
+    description: "5507-601. AXIS T94R01B CORNER BRACKET. The powder-coated aluminum AXIS T94R01B Corner Bracket is used for attaching the wall mount of Axis’ camera housing to the outer corners of a building. AXIS T94R01B Corner Bracket is compatible with AXIS T91E61 Wall Mount for fixed dome cameras. Small-size fixed dome and bullet-style cameras can also be mounted, thanks to the included and commonly used hole pattern of a single gang junction box.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 113,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Mount Compatibility": "AXIS T91E61 Wall Mount, Fixed Domes & Bullet Cameras",
+      "Electrical Pattern": "Integrated Single-Gang Junction Box Hole Pattern",
+      "Material": "Powder-Coated Architectural Aluminum",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Dual compatibility: supports large wall arms or direct mounting of compact bullet/dome cameras",
+      "Built-in single-gang box hole pattern fits standard security camera base plates",
+      "Enables comprehensive 270-degree corner coverage with minimal installation hardware",
+      "Weather-resistant powder coating prevents staining or corrosion on exterior walls"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-5801-541",
+    sku: "5801-541",
+    name: "AXIS 5801-541 T94X01A Wall Mount for T92F10 Housing (6-Pack)",
+    description: "5801-541. AXIS T94X01A WALL MOUNT 6PCS. Wall mount for AXIS T92F10 Outdoor Housing. 6-piece pack. Optional accessory: AXIS T94Y01G Pole Mount 6PCS (sold separately).",
+    priceUSD: 170.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 30,
+    stock: 216,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 6 Wall Mounts (6PCS)",
+      "Compatibility": "AXIS T92F10 Outdoor Surveillance Housing",
+      "Companion Accessory": "AXIS T94Y01G Pole Mount 6PCS (Sold Separately)",
+      "Material": "Corrosion-Proof Coated Cast Aluminum"
+    },
+    features: [
+      "Turnkey multi-pack of 6 wall mounts designed for commercial fixed camera housing deployments",
+      "Precision cast aluminum construction ensures stable vibration-free support for long-range lenses",
+      "Pre-drilled mounting flange facilitates rapid bolt-on installation to masonry and wood walls",
+      "Can be paired directly with AXIS T94Y01G pole mounts for mast and utility pole installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-5801-551",
+    sku: "5801-551",
+    name: "AXIS 5801-551 T94Y01G Pole Mount for T92F10 Housing (6-Pack)",
+    description: "5801-551. AXIS T94Y01G POLE MOUNT 6PCS. Pole mount for AXIS T92F10 Outdoor Housing, with 1 pair stainless steel straps included per piece. 6-piece pack. Required accessory: AXIS T94X01A Wall Mount 6PCS (sold separately).",
+    priceUSD: 192.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 299,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 6 Pole Adapters (6PCS)",
+      "Hardware Included": "1 Pair Stainless Steel Straps per Mount (6 Pairs Total)",
+      "Compatibility": "AXIS T94X01A Wall Mounts & AXIS T92F10 Housings",
+      "Material": "Marine-Grade Aluminum with Stainless Straps"
+    },
+    features: [
+      "Complete 6-pack pole kit with matching stainless steel bands for each individual mount",
+      "Adapts AXIS T94X01A wall arms onto utility poles, fence posts, and floodlight masts",
+      "High clamping friction eliminates slippage during high wind events and seasonal storms",
+      "Streamlines large campus perimeter and parking lot camera installation projects"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-5000-011",
+    sku: "5000-011",
+    name: "AXIS 5000-011 PS24 Wall Mount Metal Enclosure Box",
+    description: "5000-011. WALL MOUNT AXIS PS24. Metal box to mount AXIS PS24 power supply unit securely to a wall or control panel.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 20,
+    stock: 274,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS PS24 Outdoor Power Supply Unit",
+      "Mount Style": "Wall Surface Mount Enclosure Box",
+      "Material": "Heavy-Duty Electro-Galvanized Stamped Steel",
+      "Application": "Industrial Power Supply Anchoring & Security Enclosure"
+    },
+    features: [
+      "Specifically engineered to lock and protect the AXIS PS24 24VAC power supply module",
+      "Heavy steel box protects power electronics against mechanical impacts and unauthorized access",
+      "Ventilated geometry dissipates heat efficiently while preventing falling moisture entry",
+      "Serves as the foundation for the AXIS 21764 pole bracket assembly"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-21764",
+    sku: "21764",
+    name: "AXIS 21764 PS-24 & T97A10 Outdoor Pole Bracket",
+    description: "21764. AXIS PS-24 Pole bracket. Outdoor pole mount bracket for PS-24 and AXIS T97A10. Requires the Wall Mount AXIS PS-24 (5000-011) and a mounting tool for straps (21776 or similar).",
+    priceUSD: 48.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pole Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 243,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS PS-24 (via 5000-011) & AXIS T97A10 Outdoor Housing",
+      "Mounting Target": "Utility Poles, Masts & Light Stanchions",
+      "Required Hardware": "AXIS 5000-011 Box & Standard Steel Banding Straps",
+      "Material": "High-Strength Galvanized Weatherproof Steel"
+    },
+    features: [
+      "Allows outdoor mounting of heavy 24VAC power units directly onto perimeter poles",
+      "Works in synergy with AXIS 5000-011 wall enclosure box for unified pole deployment",
+      "Dual slotted strap channels accommodate standard 3/4\" industrial stainless steel banding",
+      "Rugged corrosion-proof steel structure delivers dependable multi-year outdoor endurance"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-5502-401",
+    sku: "5502-401",
+    name: "AXIS 5502-401 P33 Junction Box Adapter Mounting Bracket",
+    description: "5502-401. AXIS P33 MOUNTING BRACKET. Mounting bracket for AXIS P33-V/-LV indoor cameras. For mounting cameras on junction boxes (4\" square, 4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. Also compatible with selected AXIS M30 and P32 cameras.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 36,
+    stock: 200,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P33-V/-LV, Selected AXIS M30 & P32 Series",
+      "Electrical Box Types": "4\" Square, 4\" Octagon, Single-Gang & Double-Gang Boxes",
+      "Material": "Reinforced Structural Polymer / Steel Plate",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Universal electrical box mounting plate covers 4\" square, 4\" octagonal, and standard gang boxes",
+      "Prevents wall damage by using pre-existing conduit boxes in commercial ceilings and walls",
+      "Precision screw alignment speeds up indoor dome camera installations across office floors",
+      "Clean edge flange covers drywall cutouts and electrical junction box borders"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-5800-461",
+    sku: "5800-461",
+    name: "AXIS 5800-461 TF9905 Flush Mount Wall Bracket (5-Pack)",
+    description: "5800-461. TF9905 Wall Mount 5P. Mounting kit for AXIS P1204/E. Kit contents: Flush mount wall bracket. 5 pack.",
+    priceUSD: 31.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 23,
+    stock: 201,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Value Pack of 5 Brackets (5P)",
+      "Compatibility": "AXIS P1204 & AXIS P1204/E Modular Pinhole Cameras",
+      "Mount Style": "Flush In-Wall Mounting Bracket",
+      "Application": "ATMs, Kiosks, Retail Counters & Hidden Surveillance"
+    },
+    features: [
+      "Enables ultra-discreet flush mounting of miniature AXIS P1204 sensor heads",
+      "Perfect for covert ATM facial cameras, self-checkout kiosks, and retail display integration",
+      "Includes 5 bracket assemblies to cover multiple banking or point-of-sale lanes",
+      "Firm friction-retention collar keeps miniature optical lenses securely aligned"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:28:00.000Z"
+  },
+  {
+    id: "prod-axis-02451-001",
+    sku: "02451-001",
+    name: "AXIS 02451-001 TQ1904 Mounting Bracket for Q1715",
+    description: "02451-001. AXIS TQ1904 MOUNTING BRACKET. Mounting bracket compatible with AXIS Q1715. It includes bracket, pad, and TX20 screw.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 202,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q1715 Block / Bullet Camera",
+      "Included Hardware": "Mounting Bracket, Anti-Vibration Pad, TX20 Security Screw",
+      "Material": "Corrosion-Resistant Reinforced Alloy",
+      "Finish": "AXIS White"
+    },
+    features: [
+      "Tailored specifically for AXIS Q1715 high-performance network surveillance cameras",
+      "Integrated cushioning pad dampens building vibration and structural hum",
+      "Includes security Torx TX20 screw for rapid, tamper-resistant installation",
+      "Low profile design maintains clean aesthetics without blocking lens adjustments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-5505-821",
+    sku: "5505-821",
+    name: "AXIS 5505-821 F8202 Straight Flush Mount Bracket for F1025 (5-Pack)",
+    description: "5505-821. AXIS F8202 STRAIGHT MT BRACKET 5PCS. Mounting bracket that allows the pinhole sensor unit of AXIS F1025 to be mounted onto a flat surface with the cone being flush with opposite surface. Comes in pack of 5 pcs.",
+    priceUSD: 31.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 200,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Value Pack of 5 Brackets (5PCS)",
+      "Compatibility": "AXIS F1025 Modular Pinhole Sensor Unit",
+      "Mount Style": "Straight Flush Mount Opposite Surface Alignment",
+      "Application": "ATMs, Ticket Machines, Door Frames & Panels"
+    },
+    features: [
+      "Positions the optical pinhole cone exactly flush with the front surface of panels and doors",
+      "Enables virtually undetectable pinhole surveillance in self-service automated kiosks",
+      "Pack of 5 units equips multiple ATM machines or retail POS registers",
+      "Precision-machined bracket holds miniature optical sensor perfectly level"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-5505-831",
+    sku: "5505-831",
+    name: "AXIS 5505-831 F8203 Fixed Metal Mounting Bracket (5-Pack)",
+    description: "5505-831. AXIS F8203 FIXED MT BRACKET 5PCS. Metal bracket for stable mounting of AXIS F1005-E, F1015 and F1035-E. Variety of holes for screws for flexible mounting. Comes in pack of 5 units.",
+    priceUSD: 170.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 126,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Pack of 5 Heavy Metal Brackets (5PCS)",
+      "Compatibility": "AXIS F1005-E, F1015 & F1035-E Sensor Units",
+      "Hole Pattern": "Multi-Pattern Screw Array for Flexible Angular Alignment",
+      "Material": "Industrial-Grade Coated Steel"
+    },
+    features: [
+      "Rugged metal construction provides vibration-proof anchoring for modular sensor heads",
+      "Multi-hole array supports customized installation angles inside vehicles and tight walls",
+      "Compatible with both indoor variable-focus and outdoor ruggedized sensor lenses",
+      "Supplied as a 5-unit pack for comprehensive security system deployments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-02281-001",
+    sku: "02281-001",
+    name: "AXIS 02281-001 TD4601 ACI Conduit Bracket for D4100-E (5-Pack)",
+    description: "02281-001. AXIS TD4601 ACI Conduit Bracket 5pcs. AXIS TD4601 is an ACI Conduit Bracket for AXIS D4100-E Network Strobe Siren. 5P.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 22,
+    stock: 223,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Multipack of 5 Conduit Brackets (5P)",
+      "Compatibility": "AXIS D4100-E Network Strobe Siren",
+      "Conduit Standard": "Compatible with Axis ACI Conduit Adapters",
+      "Material": "Impact-Resistant Weatherproof Polymer"
+    },
+    features: [
+      "Enables neat, watertight conduit pipe connection directly into the D4100-E strobe siren",
+      "Compatible with standard Axis ACI conduit adapters for clean piping runs",
+      "Multi-pack of 5 brackets supports multi-device security alarm installations",
+      "Protects electrical wiring and audio alarm signals against tampering and water ingress"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-01748-001",
+    sku: "01748-001",
+    name: "AXIS 01748-001 TM3001 15° Tilt Mount with 1/2\" (M20) Conduit",
+    description: "01748-001. AXIS TM3001 TILT MOUNT. Tilt Mount Plastic, 15deg tilt, 1/2\" (M20) conduit. BRACKET MOUNT ASSEMBLY M3067.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 35,
+    stock: 262,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Fixed Tilt Angle": "15° Fixed Downward Angle Offset",
+      "Conduit Port": "Side 1/2\" (M20) Threaded Conduit Entry",
+      "Compatibility": "AXIS M3067-P, M3068-P & Compatible Mini Domes",
+      "Material": "Reinforced Engineered Polymer"
+    },
+    features: [
+      "Angled 15-degree incline improves camera coverage down hallways and against doorway walls",
+      "Integrated 1/2\" (M20) conduit port facilitates surface-mounted electrical piping",
+      "Conceals cable slack behind the camera housing for a clean architectural finish",
+      "Lightweight and sturdy polymer bracket prevents camera sag over time"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-01742-001",
+    sku: "01742-001",
+    name: "AXIS 01742-001 TM3101 Indoor Pendant Wall Mount with Internal Cavity",
+    description: "01742-001. AXIS TM3101 PENDANT WALL MOUNT. Elegant mount for indoor mounting of Axis mini dome cameras in pendant style. Concealed mounting with no visible screws. Room for microphone and connectivity devices (e.g.: AXIS T6101, AXIS T8643). Compatible with wide range of cameras, incl. AXIS M20/M30/M31/M42, etc. Made from strengthened eco-friendly plastic.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 44,
+    stock: 202,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Design Style": "Indoor Pendant Arm with Concealed Hardware",
+      "Internal Storage": "Dedicated Cavity for Audio/I/O Modules (T6101, T8643)",
+      "Compatibility": "AXIS M20, M30, M31 & M42 Camera Series",
+      "Material": "Strengthened Eco-Friendly Polymer"
+    },
+    features: [
+      "Modern curved pendant aesthetic completely hides mounting screws for pristine interiors",
+      "Spacious internal cavity houses AXIS T6101 Audio/IO interfaces or Ethernet-over-Coax transceivers",
+      "Suspends mini dome cameras horizontally from walls for true nadir vertical monitoring",
+      "Crafted from durable eco-friendly polymer with premium matte white finish"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-01856-001",
+    sku: "01856-001",
+    name: "AXIS 01856-001 TM3201 Recessed Ceiling Mount for M30 Series",
+    description: "01856-001. AXIS TM3201 RECESSED MOUNT. Recessed mount for selected AXIS M30 cameras. Includes covers for fixed mini dome and panoramic cameras.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 28,
+    stock: 115,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "Selected AXIS M30 Fixed Mini Domes & Panoramic Domes",
+      "Mount Style": "In-Ceiling Flush Recessed Installation",
+      "Covers Included": "Interchangeable Trim Covers for Dome and Panoramic Models",
+      "Ceiling Types": "Drop Ceiling Acoustic Tiles & Drywall Ceilings"
+    },
+    features: [
+      "Recesses AXIS M30 mini domes flush into ceilings, reducing visual intrusion",
+      "Includes interchangeable fascia trim covers for both mini domes and 360-degree panoramic lenses",
+      "Quick clamping mechanism attaches securely without tearing ceiling acoustic boards",
+      "Leaves only the optical dome exposed for clean retail and office surveillance"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-02425-001",
+    sku: "02425-001",
+    name: "AXIS 02425-001 TM3204 Recessed Mount for M4308-PLE",
+    description: "02425-001. AXIS TM3204 RECESSED MOUNT. Indoor recessed mount for ceiling/wall installations. Compatible with AXIS M4308-PLE. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 148,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M4308-PLE Panoramic Camera",
+      "Mounting Mechanism": "Single-Screw Rapid Clamping Wing System",
+      "Installation Targets": "Indoor Ceilings and Partition Walls",
+      "Trim Finish": "Architectural White Low-Profile Bezel"
+    },
+    features: [
+      "Single-screw rapid attachment allows installation in under two minutes from below the ceiling",
+      "Flush-mounts the panoramic AXIS M4308-PLE camera for seamless commercial ceiling integration",
+      "Firm retaining clips hold securely without distorting ceiling drywall or acoustic tiles",
+      "Low-profile aesthetic minimizes camera visibility in lobbies and executive offices"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-02381-001",
+    sku: "02381-001",
+    name: "AXIS 02381-001 TM3205 Plenum-Rated Recessed Mount (IK10, M3057/M3077)",
+    description: "02381-001. AXIS TM3205 RECESSED MOUNT. Designed for indoor drop ceiling installations for selected Axis cameras (M3057/8 and M3077). It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces. Casing includes mic holes for M3077 and plugs in mic holes when used with M3057/8.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 39,
+    stock: 117,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3057-PLVE, M3058-PLVE & M3077-PLVE",
+      "Plenum Rating": "All-Metal Enclosure Certified for Air-Handling Plenum Spaces",
+      "Impact Rating": "IK10 Vandal Resistance",
+      "Audio Features": "Integrated Microphone Ports with Removable Acoustic Plugs"
+    },
+    features: [
+      "All-metal alloy construction complies with building codes for air-handling plenum ceiling spaces",
+      "IK10 impact rating provides superior vandal resistance in public corridors and schools",
+      "Engineered mic ports support M3077 audio surveillance or seal completely for M3057/8 models",
+      "Sturdy metal suspension arms ensure safe long-term retention in suspended ceilings"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-02449-001",
+    sku: "02449-001",
+    name: "AXIS 02449-001 TM3208 Recessed Mount for M30 Panoramic Cameras",
+    description: "02449-001. AXIS TM3208 RECESSED MOUNT. Indoor recessed mount for ceiling/wall installations. Compatible with AXIS M3057-PLVE, AXIS M3057-PLVE Mk II, AXIS M3058-PLVE, AXIS M3077-PLVE. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 23,
+    stock: 153,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3057-PLVE Mk II, M3058-PLVE & M3077-PLVE",
+      "Mounting Mechanism": "Single-Screw Rapid Clamp System",
+      "Mount Targets": "Indoor Ceiling and Drywall Installations",
+      "Color": "AXIS White"
+    },
+    features: [
+      "Patented single-screw clamp mechanism fastens mount tightly without tools or crawling into attics",
+      "Flushes large 360-degree panoramic sensor domes cleanly against ceilings",
+      "Compatible with Mk II and latest-generation M30 panoramic series",
+      "Snaps firmly in place with smooth decorative trim ring covering cutout gaps"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:30:00.000Z"
+  },
+  {
+    id: "prod-axis-02454-001",
+    sku: "02454-001",
+    name: "AXIS 02454-001 TM3209 Plenum Recessed Mount for M30 Series",
+    description: "02454-001. AXIS TM3209 RECESSED MOUNT. Indoor recessed mount for drop ceiling installation. The aluminum casing makes it suitable for use in air handling spaces. Compatible with AXIS M3064-V, AXIS M3065-V, AXIS M3066-V, AXIS M3067-P, AXIS M3068-P, AXIS M3075-V, AXIS M3085-V, AXIS M3086-V, AXIS M3088-V.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 212,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3064/65/66-V, M3067/68-P, M3075-V, M3085/86/88-V",
+      "Plenum Certified": "Aluminum Casing Suitable for Air Handling Spaces",
+      "Installation Type": "Drop Ceiling / Suspended Acoustic Tile Recessed",
+      "Material": "Robust Die-Cast Aluminum Housing"
+    },
+    features: [
+      "Certified for installations in plenum air handling spaces per commercial building codes",
+      "Recesses AXIS M30 compact fixed mini dome and panoramic sensors flush into drop ceiling tiles",
+      "Sturdy all-aluminum back enclosure prevents spread of smoke or fire",
+      "Includes low-profile trim bezel that cleanly masks ceiling tile cutouts"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02817-001",
+    sku: "02817-001",
+    name: "AXIS 02817-001 TM3210 Plenum Recessed Mount for M43 Series",
+    description: "02817-001. AXIS TM3210 RECESSED MOUNT. Indoor recessed mount for drop ceiling installation. The aluminum casing makes it suitable for use in air handling spaces. Compatible with selected AXIS M43 Series fisheye panoramic cameras.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 22,
+    stock: 141,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "Selected AXIS M43 Series Fisheye Panoramic Cameras",
+      "Plenum Certified": "Sealed Aluminum Housing for Air Handling Spaces",
+      "Ceiling Type": "Drop Ceilings / Acoustic Tile Grid Systems",
+      "Material": "Cast Aluminum with Matte White Trim"
+    },
+    features: [
+      "Engineered specifically for AXIS M43 fisheye panoramic cameras in drop ceilings",
+      "Plenum-rated aluminum casing satisfies commercial building safety standards",
+      "Minimizes visual footprint, leaving only the 360-degree optic lens exposed",
+      "Heavy-duty retention wings hold the camera securely without sagging acoustic panels"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02818-001",
+    sku: "02818-001",
+    name: "AXIS 02818-001 TM3211 Recessed Mount for M43 Panoramic Cameras",
+    description: "02818-001. AXIS TM3211 RECESSED MOUNT. Recessed mount for selected AXIS M43 cameras. Includes cover for fisheye panoramic cameras.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 128,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "Selected AXIS M43 Panoramic Series",
+      "Mount Style": "In-Ceiling Flush Recessed Mount",
+      "Cover Included": "Fascia Trim Ring for Fisheye Panoramic Lens",
+      "Color": "AXIS Architectural White"
+    },
+    features: [
+      "Provides an ultra-clean flush installation for AXIS M43 panoramic fisheye cameras",
+      "Includes decorative cover ring that masks ceiling cuts and hardware",
+      "Quick clamping mechanism for effortless installation from below ceiling tiles",
+      "Reduces camera prominence in retail showrooms, banks, and modern lobbies"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-01783-001",
+    sku: "01783-001",
+    name: "AXIS 01783-001 TP3101 Indoor Pendant Wall Mount for M32/P32",
+    description: "01783-001. AXIS TP3101 PENDANT WALL MOUNT. Elegant mount for indoor mounting of Axis dome cameras in pendant style. Concealed mounting with no visible screws. Room for microphone and connectivity devices (e.g.: AXIS T6101, T8643) and AXIS I/O Indication LED. Compatible with AXIS M32-LVE and AXIS P32-V/-LV cameras. Made from strengthened eco-friendly plastic.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 38,
+    stock: 187,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M32-LVE, AXIS P32-V/-LV Series",
+      "Mount Style": "Indoor Pendant Style Wall Arm",
+      "Internal Cavity": "Houses AXIS T6101, T8643 Audio/IO Modules & LED Indicator",
+      "Material": "Strengthened Eco-Friendly High-Impact Polymer"
+    },
+    features: [
+      "Concealed mounting design completely hides wall fasteners for a sleek interior appearance",
+      "Spacious internal chamber holds AXIS audio/IO modules or Ethernet transceivers",
+      "Dedicated port supports the AXIS I/O Indication LED for visual surveillance status",
+      "Constructed from durable eco-friendly polymer with scratch-resistant white finish"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-01757-001",
+    sku: "01757-001",
+    name: "AXIS 01757-001 TP3201 Plenum Recessed Mount for M32/P32/P33/Q35",
+    description: "01757-001. AXIS TP3201 RECESSED MOUNT. Indoor recessed mount for drop ceiling installation. Supports the optional use of an internal microphone. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS M32-LVE, AXIS P32-V/-LV, AXIS P33/-V and AXIS Q35-V/-LV series; and AXIS Device Microphone A and B.",
+    priceUSD: 94.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 45,
+    stock: 253,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M32-LVE, P32-V/-LV, P33/-V, Q35-V/-LV & Device Mics A/B",
+      "Plenum Rating": "Metal Enclosure with Conduit Entries for Air Handling Spaces",
+      "Audio Support": "Built-In Provisions for AXIS Device Microphones A & B",
+      "Ceiling Type": "Drop Ceilings / Suspended Tile Grids"
+    },
+    features: [
+      "Certified for commercial air-handling plenum ceiling spaces above office tiles",
+      "Broad compatibility across AXIS M32, P32, P33, and flagship Q35 dome series",
+      "Pre-engineered acoustic openings integrate seamlessly with AXIS Device Microphones A and B",
+      "Rigid metal casing with conduit knockouts ensures fire-safe, rodent-proof cable protection"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02452-001",
+    sku: "02452-001",
+    name: "AXIS 02452-001 TP3201-E Outdoor Plenum Recessed Mount for M32/P32-VE",
+    description: "02452-001. AXIS TP3201-E RECESSED MOUNT. Outdoor recessed mount for drop ceiling plenum installations. Supports the optional use of an internal microphone. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS M32-LVE, AXIS P32-VE/-LVE. T94M02L used in the past for outdoor but size was too big not matching form factor.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 113,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M32-LVE & AXIS P32-VE/-LVE Outdoor Vandal Domes",
+      "Environment": "Outdoor-Rated & Plenum-Certified Metal Enclosure",
+      "Conduit Ports": "Threaded Conduit Entries for Weatherproof Cable Sealing",
+      "Form Factor": "Optimized Compact Form Factor Replacing Bulky T94M02L"
+    },
+    features: [
+      "Engineered specifically for outdoor soffits, canopies, and exterior plenum overhangs",
+      "Compact redesigned form factor matches the sleek profile of modern P32-VE domes",
+      "Full metal enclosure with conduit entries prevents weather and moisture ingress",
+      "Supports optional integrated internal surveillance microphone modules"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: true,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02509-001",
+    sku: "02509-001",
+    name: "AXIS 02509-001 TP3203 Single-Screw Recessed Mount for M32/P32",
+    description: "02509-001. AXIS TP3203 RECESSED MOUNT. Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces. Compatible with selected AXIS M32 and AXIS P32 cameras.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 126,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "Selected AXIS M32 & AXIS P32 Fixed Dome Cameras",
+      "Installation Mechanism": "Patented Single-Screw Rapid Clamping Wing System",
+      "Application": "Indoor Drop Ceilings & Suspended Acoustic Tiles",
+      "Trim": "Architectural White Low-Profile Decorative Bezel"
+    },
+    features: [
+      "Single-screw rapid clamping system enables installation in seconds without overhead access",
+      "Provides sleek flush ceiling aesthetics for AXIS M32 and P32 dome models",
+      "Durable lightweight polymer construction prevents acoustic tile sagging",
+      "Snap-fit trim ring completely conceals rough ceiling tile hole edges"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02020-001",
+    sku: "02020-001",
+    name: "AXIS 02020-001 TP8201 Plenum Recessed Mount for P8815-2 3D Counter",
+    description: "02020-001. AXIS TP8201 RECESSED MOUNT. A plenum rated recessed mount for P8815-2 3D People Counter.",
+    priceUSD: 116.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 18,
+    stock: 100,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P8815-2 3D People Counter",
+      "Plenum Certified": "Commercial Code-Compliant Plenum-Rated Enclosure",
+      "Installation Type": "Recessed In-Ceiling Sensor Mount",
+      "Material": "Fire-Resistant Metal Enclosure"
+    },
+    features: [
+      "Specifically designed to recess the AXIS P8815-2 3D stereoscopic people counter flush into ceilings",
+      "Plenum certification allows legal installation in overhead commercial air-handling spaces",
+      "Maintains exact optical downward orientation essential for 3D counting accuracy",
+      "Discreet ceiling presence preserves high-end retail and corporate architectural aesthetics"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02136-001",
+    sku: "02136-001",
+    name: "AXIS 02136-001 TQ3201-E Outdoor Recessed Mount for Q36/P38/Q38",
+    description: "02136-001. AXIS TQ3201-E RECESSED MOUNT. Recessed mount for indoor and outdoor use of AXIS Q36, P38 and Q38 Series.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 34,
+    stock: 245,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q36 Multi-Megapixel, P38 & Q38 Panoramic Multisensor Series",
+      "Environment": "Indoor & Outdoor Weatherproof Weather-Sealed Installation",
+      "Mounting Targets": "Ceilings, Soffits, Canopies & Exterior Overhangs",
+      "Material": "Heavy-Duty Corrosion-Resistant Powder-Coated Aluminum"
+    },
+    features: [
+      "Accommodates high-performance AXIS Q36, P38, and Q38 multi-sensor panoramic cameras",
+      "Recesses large multi-lens cameras flush into soffits and ceilings for low visual profile",
+      "Full outdoor weather sealing prevents moisture, dust, and temperature condensation",
+      "Rugged aluminum construction safely supports heavier multi-sensor camera payloads"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02110-001",
+    sku: "02110-001",
+    name: "AXIS 02110-001 TQ6501-E Outdoor Parapet & Pole Mount (P55/Q60)",
+    description: "02110-001. AXIS TQ6501-E PARAPET MOUNT. Parapet Mount is an outdoor-ready mount. The round base of the mount makes it easy to install as well as suitable for installations on poles. Cables can be routed through the bottom, or from the side by using a conduit connection. Chromated and powder coated aluminum parapet mount compatible with fixed dome pendant kits and AXIS P55-series and AXIS Q60-series PTZ dome cameras. Includes mounting plate, pipe seal, conduit hole cover. Color: White",
+    priceUSD: 234.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Pendant Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 41,
+    stock: 138,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P55 Series, Q60 Series & Fixed Dome Pendant Kits",
+      "Base Design": "Round Base for Parapet Roof Edges & Pole Installation",
+      "Cable Routing": "Internal Through-Bottom or Side Conduit Port with Cover",
+      "Material & Finish": "Chromated & Powder-Coated Weatherproof Aluminum (White)"
+    },
+    features: [
+      "Enables robust mounting of flagship AXIS PTZ domes along rooftop parapet walls and utility masts",
+      "Round mounting base facilitates quick rotation and swivel for rooftop maintenance servicing",
+      "Flexible cabling channels support through-base bottom feed or side conduit attachment",
+      "Heavy chromated and powder-coated aluminum delivers ultimate protection against marine atmospheres"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:34:00.000Z"
+  },
+  {
+    id: "prod-axis-02111-001",
+    sku: "02111-001",
+    name: "AXIS 02111-001 TQ6901-E Retrofit Adapter Bracket (4-Pack)",
+    description: "02111-001. AXIS TQ6901-E ADAPTER BRACKET 4P. AXIS TQ6901-E is a useful adapter for retrofitting AXIS Q6215-LE in camera installations that have 3rd party competitor mounts. AXIS TQ6901-E is made of powder coated aluminum and is sold in packs of four.",
+    priceUSD: 234.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 237,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Multipack of 4 Adapter Plates (4P)",
+      "Compatibility": "AXIS Q6215-LE Heavy-Duty PTZ Cameras",
+      "Retrofit Function": "Adapts AXIS Cameras to 3rd-Party Competitor Mounting Arms",
+      "Material & Finish": "Powder-Coated Corrosion-Resistant Aluminum"
+    },
+    features: [
+      "Allows seamless replacement of competitor PTZ cameras with AXIS Q6215-LE without redrilling",
+      "Eliminates expensive bucket truck time and pole modifications during system upgrades",
+      "Heavy-duty powder-coated aluminum structure withstands extreme gale-force wind loads",
+      "Supplied in a cost-effective 4-pack for multi-camera perimeter modernization projects"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02081-001",
+    sku: "02081-001",
+    name: "AXIS 02081-001 TS3001 Recorder Mount for S3008",
+    description: "02081-001. AXIS TS3001 Recorder Mount ensures that the AXIS S3008 Recorder is in a fixed position either if it is mounted on walls, shelves, or under tables. Its design and shape allows the recorder to be mounted in two opposite directions.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 125,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS S3008 Compact 8-Channel Recorder",
+      "Mounting Options": "Wall, Shelf, Desktop, or Under-Table Inverted Mounting",
+      "Orientation": "Dual Reversible Directional Retention Tabs",
+      "Material": "Reinforced Structural Steel Bracket"
+    },
+    features: [
+      "Secures compact AXIS S3008 network video recorders firmly against accidental dislodging",
+      "Reversible design allows mounting right-side-up or upside-down under desks and shelves",
+      "Open airflow design prevents heat buildup around the recorder chassis",
+      "Provides secure screw-down locking to deter opportunistic theft in retail environments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02102-001",
+    sku: "02102-001",
+    name: "AXIS 02102-001 TQ6201-E Outdoor Plenum Recessed Mount for Q6315-LE",
+    description: "02102-001. AXIS TQ6201-E RECESSED MOUNT. Indoor and outdoor plenum recessed mount for AXIS Q6315-LE PTZ. Suitable for outdoor installations in roof overhangs and soffits. Also suitable for indoor installations in plenum spaces.",
+    priceUSD: 298.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 22,
+    stock: 193,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q6315-LE High-Speed PTZ Network Camera",
+      "Plenum & Outdoor": "Plenum Certified & Weatherproof Outdoor Soffit Rated",
+      "Mount Targets": "Exterior Eaves, Soffits, Canopies & Indoor Plenum Ceilings",
+      "Material": "Heavy-Duty Marine-Treated Aluminum Alloy"
+    },
+    features: [
+      "Recesses the flagship AXIS Q6315-LE PTZ camera cleanly into exterior soffits and roof overhangs",
+      "Preserves smooth architectural building lines while providing 360-degree pan/tilt surveillance",
+      "Complies with strict plenum safety codes for commercial interior air handling zones",
+      "Engineered to absorb torsional vibrations caused by rapid pan-tilt motor movements"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02384-001",
+    sku: "02384-001",
+    name: "AXIS 02384-001 TQ1501-E Anti-Vibration Crane & Traffic Mount (IK10/NEMA 4X)",
+    description: "02384-001. AXIS TQ1501-E CRANE TRAFFIC MOUNT. A crane and traffic mount for more stability and less vibrations. Note: Pivot mount for more stability, Robust, IK10, Coating in corrosion resilient material, offers more stability to your camera installations in demanding situations, such as mounting on cranes or traffic lights. NEMA 4X-ratings and can be tilted up to 45 degrees. Compatible with P13-E/LE, T92E, T93F, Q16-LE, T92G20, T91B47.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 46,
+    stock: 257,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Tilt Range": "Adjustable Pivot Tilt up to 45°",
+      "Impact & Corrosion": "IK10 Impact Rating, NEMA 4X Marine-Resilient Coating",
+      "Compatibility": "AXIS P13-E/LE, Q16-LE, T92E, T93F, T92G20 & T91B47",
+      "Target Environments": "Industrial Cranes, Traffic Signals & High-Vibration Bridges"
+    },
+    features: [
+      "Specialized vibration-dampening pivot geometry neutralizes heavy crane and vehicle oscillations",
+      "IK10 and NEMA 4X ratings resist chemical corrosion, road salts, and high-impact impacts",
+      "Full 45-degree tilt adjustment accommodates steep downward angles on highway gantries",
+      "Compatible with major Axis fixed box housings and pole mounting assemblies"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02382-001",
+    sku: "02382-001",
+    name: "AXIS 02382-001 TM3206 Plenum Recessed Mount for M4308 (IK10)",
+    description: "02382-001. AXIS TM3206 RECESSED MOUNT. Designed for indoor drop ceiling installations for M4308. It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces. Casing includes mic holes.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 106,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M4308 Panoramic Camera Series",
+      "Plenum Rating": "Certified Metal Alloy Housing for Air-Handling Plenum Spaces",
+      "Impact Rating": "IK10 Vandal-Resistant Construction",
+      "Acoustics": "Integrated Precision Microphone Acoustic Apertures"
+    },
+    features: [
+      "Engineered from flame-retardant metal alloy for commercial drop ceiling plenum compliance",
+      "IK10 vandal resistance guards panoramic optics in transit stations and schools",
+      "Integrated audio ports allow built-in microphones to capture crystal-clear situational audio",
+      "Firm retaining arms hold the assembly tight against ceiling tiles with zero tile sagging"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02383-001",
+    sku: "02383-001",
+    name: "AXIS 02383-001 TM3207 Plenum Recessed Mount for M3067/8 & M4216 (IK10)",
+    description: "02383-001. AXIS TM3207 RECESSED MOUNT. Designed for indoor drop ceiling installations for selected Axis cameras (M3067/8, M4216). It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 30,
+    stock: 118,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3067-P, AXIS M3068-P & AXIS M4216 Domes",
+      "Plenum Certified": "Sealed Metal Alloy Box for Air-Handling Ceilings",
+      "Impact Rating": "IK10 Vandal Resistance",
+      "Installation Type": "Drop Ceiling Grid Recessed Installation"
+    },
+    features: [
+      "Certified metal alloy casing allows code-compliant installation above plenum return air tiles",
+      "IK10 vandal rating protects mini dome and panoramic sensors against strikes and tampering",
+      "Recesses cameras flush with the ceiling plane for an unobtrusive architectural presence",
+      "Tool-less quick-clamp mounting tabs facilitate rapid, one-person installation"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02360-001",
+    sku: "02360-001",
+    name: "AXIS 02360-001 TF9902 Anti-Vibration Surface Mount for F Series",
+    description: "02360-001. AXIS TF9902 SURFACE MOUNT. Bracket to mount and secure a F series main unit onto a surface. It withstands vibrations and secures all cables to/from the main unit.",
+    priceUSD: 42.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 21,
+    stock: 153,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS F-Series Modular Main Processing Units",
+      "Vibration Rating": "High Shock & Continuous Industrial Vibration Resistance",
+      "Cable Management": "Integrated Cable Tie & Strain Relief Locking Channels",
+      "Material": "High-Strength Coated Sheet Steel"
+    },
+    features: [
+      "Locks modular F-series main processing units solidly to vehicle frames and walls",
+      "Absorbs road shocks and machine vibrations in transit and industrial installations",
+      "Integrated strain-relief clamps prevent accidental disconnects of sensor and network cables",
+      "Low profile design fits inside tight equipment cabinets and ATM housings"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02214-001",
+    sku: "02214-001",
+    name: "AXIS 02214-001 TF1902-RE Flexible Sensor Mounting Bracket (4-Pack)",
+    description: "02214-001. AXIS TF1902-RE MOUNTING BRACKET 4P. AXIS TF1902-RE Mounting Bracket 4P is a bulk pack of 4x Mounting brackets. The mounting bracket is an accessory for the AXIS F2105-RE and F2135-RE, F7225-RE, FA1105, FA1125 and FA1080-E sensors. Thanks to the different hole pattens as well as the possibility to bend the bracket in numerous directions, AXIS TF1202-RE Mounting bracket gives extra flexibility and resilience of the sensor unit.",
+    priceUSD: 9.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 39,
+    stock: 257,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Mounting Brackets (4P)",
+      "Compatibility": "AXIS F2105-RE, F2135-RE, F7225-RE, FA1105, FA1125 & FA1080-E",
+      "Flexibility": "Multi-Directional Bendable Bracket Structure",
+      "Hole Array": "Multiple Pre-Punched Fastener & Tie Holes"
+    },
+    features: [
+      "Bendable design conforms to unique installation angles in vehicle grilles and doorways",
+      "Multi-pattern screw holes support diverse mounting surfaces with minimal drilling",
+      "Compatible with the complete lineup of AXIS F and FA modular sensor heads",
+      "Supplied in an ultra-economical 4-pack for fleet and multi-door deployments"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02216-001",
+    sku: "02216-001",
+    name: "AXIS 02216-001 TF1202-RE Waterproof Recessed Mount for F2105-RE (4-Pack)",
+    description: "02216-001. AXIS TF1202-RE RECESSED MOUNT 4P. TF1202-RE Recessed Mount 4P is a bulk pack of 4x Recessed Mounts for AXIS F2105-RE Standard sensor. AXIS TF1202-RE Recessed Mount is the perfect accessory when installing AXIS F2105-RE standard sensor in a wall, a glass, plastic or metal panel from 1 to 15mm. Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel. AXIS TF1202-RE Recessed Mount is made of plastic and comes with a built-in lens protection highly recommended when AXIS F2105-RE is used in harsh environment.",
+    priceUSD: 33.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 33,
+    stock: 196,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Recessed Assemblies (4P)",
+      "Compatibility": "AXIS F2105-RE Standard Optical Sensor Unit",
+      "Panel Thickness Range": "1 to 15 mm (0.04\" to 0.6\")",
+      "Protection": "Integrated Watertight Gasket & Built-in Optical Lens Shield"
+    },
+    features: [
+      "Provides a clean waterproof seal when mounting through glass, plastic, or metal panels",
+      "Built-in protective lens cover shields delicate optics against debris and airborne abrasives",
+      "Clamping collar accommodates panel thicknesses from 1 mm up to 15 mm",
+      "Pack of 4 units equips multiple vehicle panels or secure intercom door stations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02217-001",
+    sku: "02217-001",
+    name: "AXIS 02217-001 TF1203-RE Waterproof Recessed Mount for F2135-RE (4-Pack)",
+    description: "02217-001. AXIS TF1203-RE RECESSED MOUNT 4P. AXIS TF1203-RE Recessed Mount 4P is a bulk pack of 4x Recessed Mount for AXIS F2135-RE Fisheye sensor. AXIS TF1203-RE Recessed Mount is the perfect accessory when installing AXIS F2135-RE standard sensor in a wall, a glass, plastic or metal panel from 1 to 15mm. Beyond the esthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel. AXIS TF1203-RE Recessed Mount is made of plastic and comes with a built-in lens protection highly recommended when AXIS F2135-RE is used in harsh environments.",
+    priceUSD: 33.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 138,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Recessed Assemblies (4P)",
+      "Compatibility": "AXIS F2135-RE Fisheye Optical Sensor Unit",
+      "Panel Thickness Range": "1 to 15 mm (0.04\" to 0.6\")",
+      "Protection": "Integrated Watertight Perimeter Gasket & Dome Lens Shield"
+    },
+    features: [
+      "Designed specifically for the curved wide-angle optics of the AXIS F2135-RE fisheye sensor",
+      "Hermetic gasket system guarantees zero water leakage through wall and vehicle panels",
+      "Built-in protective dome preserves panoramic optical clarity in harsh outdoor conditions",
+      "Pack of 4 units delivers turnkey fleet-wide or perimeter panel mounting"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:36:00.000Z"
+  },
+  {
+    id: "prod-axis-02212-001",
+    sku: "02212-001",
+    name: "AXIS 02212-001 TF1901-RE Adjustable Swivel Mount for F21 Sensors (4-Pack)",
+    description: "02212-001. AXIS TF1901-RE SWIVEL MOUNT 4P. AXIS TF1901-RE Swivel Mount 4P is a bulk pack of 4x Swivel Mounts for AXIS F21 sensors. It allows the modular sensor unit to be fixed and angled to get the desired viewing direction.",
+    priceUSD: 20.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 34,
+    stock: 262,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Swivel Mounts (4P)",
+      "Compatibility": "AXIS F21 Modular Sensor Series",
+      "Adjustment": "Full Multi-Axis Swivel Tilt & Pan Mechanism",
+      "Application": "Precision Aiming in Tight Indoor & Vehicle Enclosures"
+    },
+    features: [
+      "Provides full 3-axis swivel positioning for miniature AXIS F21 modular sensor heads",
+      "Enables precise angular adjustment towards cash registers, doorways, or vehicle aisles",
+      "Locking collar secures the optical unit firmly against road and building vibration",
+      "Supplied in an economical 4-pack for multi-sensor installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02433-001",
+    sku: "02433-001",
+    name: "AXIS 02433-001 TF1201-RE Aluminum Waterproof Recessed Mount (4-Pack, Silver)",
+    description: "02433-001. AXIS TF1201-RE RECESSED MOUNT 4P. AXIS TF1201-RE Recessed Mount is a bulk pack of 4x Recessed Mount for AXIS F2105-RE standard sensor unit and AXIS F2135-RE fisheye sensor unit. AXIS TF1201-RE Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm. Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel. AXIS TF1201-RE comes in silver and is made of aluminium.",
+    priceUSD: 66.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 28,
+    stock: 164,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Recessed Mounts (4P)",
+      "Compatibility": "AXIS F2105-RE Standard & AXIS F2135-RE Fisheye Sensors",
+      "Panel Thickness Range": "1 mm to 15 mm (0.04\" to 0.6\")",
+      "Material & Finish": "Solid Machined Aluminum (Natural Silver Finish)"
+    },
+    features: [
+      "Precision machined solid aluminum collar with watertight sealing O-ring and gasket",
+      "Guarantees hermetic waterproof sealing through glass, sheet metal, and plastic panels",
+      "Accommodates panel depths from 1 mm up to 15 mm with threaded retention ring",
+      "Multipack of 4 units equips exterior access control stations or vehicle body panels"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02567-001",
+    sku: "02567-001",
+    name: "AXIS 02567-001 TQ1003-E Outdoor Fixed Box Wall Mount (IK10/NEMA 4X)",
+    description: "02567-001. AXIS TQ1003-E Wall Mount. Wall mount compatible with all Axis outdoor fixed box cameras and housings. Corrosion tested according to NEMA 4X, UL listed and IK10 rated. Highly robust, Rotatable, and Flexible cable routing.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 42,
+    stock: 188,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "All AXIS Outdoor Fixed Box Cameras & Protective Housings",
+      "Ratings & Certification": "IK10 Vandal Resistance, NEMA 4X Corrosion Proof, UL Listed",
+      "Flexibility": "Rotatable Swivel Joint & Internal/Conduit Cable Routing",
+      "Material": "Heavy-Duty Powder-Coated Weatherproof Aluminum"
+    },
+    features: [
+      "Universal outdoor wall mount engineered for all AXIS fixed box cameras and outdoor housings",
+      "Rotatable head assembly provides fine-tuned horizontal and vertical angle positioning",
+      "Tested to NEMA 4X and IK10 standards for exceptional corrosion and impact resilience",
+      "Flexible cable management supports internal wall feed or external surface conduit entry"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02856-001",
+    sku: "02856-001",
+    name: "AXIS 02856-001 TQ3202-E Plenum Recessed Mount with Metal Back Box (Q3626/8-VE)",
+    description: "02856-001. AXIS TQ3202-E RECESSED MOUNT. Recessed mount for indoor and outdoor use of AXIS Q3626/8 VE. It has a metal back box and is suitable for installation in plenum (air-handling) spaces.",
+    priceUSD: 170.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Back Boxes",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 254,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q3626-VE & AXIS Q3628-VE Flagship Network Domes",
+      "Enclosure": "Plenum-Rated Heavy Metal Back Box",
+      "Environment": "Indoor Plenum Drop Ceilings & Outdoor Architectural Soffits",
+      "Material": "Die-Cast Weatherproof Aluminum & Sealed Steel Back Enclosure"
+    },
+    features: [
+      "Full metal back box meets commercial building plenum safety requirements",
+      "Recesses large AXIS Q3626/8-VE flagship domes into ceilings for an elegant, low profile",
+      "Weather-sealed construction allows deployment in outdoor overhangs and porticos",
+      "Durable bracket anchors firmly into acoustic tiles and exterior gypsum board"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02836-001",
+    sku: "02836-001",
+    name: "AXIS 02836-001 TM4201 Soft Ceiling Recessed Mount for M42 (4-Pack, 15mm)",
+    description: "02836-001. AXIS TM4201 RECESSED MOUNT 4P. A recessed mount compatible with M42 series of cameras. Designed for soft ceilings that have thickness of 15+/-1 mm. Includes adapter mount top and mount bottom. Comes in 4p.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 26,
+    stock: 193,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Multipack of 4 Mount Kits (4P)",
+      "Compatibility": "AXIS M42 Series Compact Dome Cameras",
+      "Ceiling Thickness": "Optimized for Soft Ceilings 15 ± 1 mm (0.6\")",
+      "Kit Includes": "Adapter Mount Top Plate & Mount Bottom Bezel"
+    },
+    features: [
+      "Specially designed two-piece sandwich clamp for fragile 15mm mineral fiber acoustic tiles",
+      "Spreads mounting clamping force evenly to eliminate tile cracking and edge chipping",
+      "Flushes AXIS M42 mini domes neatly into commercial office ceiling grids",
+      "Includes 4 complete mount assemblies for fast multi-room rollouts"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02830-001",
+    sku: "02830-001",
+    name: "AXIS 02830-001 TP5201-E Outdoor Plenum Recessed Mount for P56 Series",
+    description: "02830-001. AXIS TP5201-E RECESSED MOUNT. Outdoor recessed mount for AXIS P56 cameras. Also suitable indoor for recessed camera installations in plenum as the back box is made of metal and has a hole for cable protection conduits.",
+    priceUSD: 212.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Back Boxes",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 35,
+    stock: 221,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P56 PTZ Network Camera Series",
+      "Enclosure": "Heavy-Duty Metal Back Box with Conduit Entry",
+      "Safety Rating": "Plenum Rated for Indoor Air Handling & Outdoor Weather Sealed",
+      "Finish": "White Corrosion-Resistant Powder Coat"
+    },
+    features: [
+      "Recesses high-performance AXIS P56 PTZ domes into outdoor soffits and indoor drop ceilings",
+      "All-metal back box satisfies plenum safety codes and protects against rodent damage",
+      "Pre-drilled conduit knockout provides direct attachment for rigid electrical pipe",
+      "Reduces visible PTZ overhang while maintaining unrestricted 360-degree pan tracking"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02923-001",
+    sku: "02923-001",
+    name: "AXIS 02923-001 TP3004-E Aluminum Wall Mount 1.5\" NPS (Black)",
+    description: "02923-001. AXIS TP3004-E Wall Mount Black. A black version of T91D61 which is chromated and powder coated aluminum wall mount with 1.5\" NPS thread for fixed dome pendant kits. Cable routing from behind or through 3/4\" conduit hole on the side. Includes mounting plate, pipe seal and conduit hole cover. Color: Black",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 33,
+    stock: 131,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Color": "Sleek Matte Black (Special Edition)",
+      "Thread Standard": "1.5\" NPS Pendant Thread Interface",
+      "Cable Entry": "Rear Through-Wall Feed or Side 3/4\" Conduit Hole",
+      "Included Hardware": "Wall Mounting Plate, Weatherproof Pipe Seal & Conduit Hole Cover"
+    },
+    features: [
+      "Premium matte black finish blends into dark architectural facades and industrial buildings",
+      "Black finish variant of the proven T91D61 heavy aluminum wall mount arm",
+      "Features standard 1.5\" NPS thread compatible with AXIS pendant kits",
+      "Chromated and powder-coated aluminum offers exceptional weather and salt spray resistance"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02961-001",
+    sku: "02961-001",
+    name: "AXIS 02961-001 TP3301-E Aluminum Pole Mount 1.5\" NPS (Black)",
+    description: "02961-001. AXIS TP3301-E Pole Mount Black. A black version of T91B67 which is Outdoor-ready, powder-coated aluminum pole mount with 1.5\" NPS thread for fixed dome pendant kits. Includes insect-proof cable gasket and 1 pair of stainless steel straps (with TX30 screw) for pole diameter between 65-165mm (2.5\"-6.5\"). Black in color.",
+    priceUSD: 170.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 129,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Color": "Matte Black Outdoor Powder Coat",
+      "Thread Standard": "1.5\" NPS Thread for Fixed Dome Pendant Kits",
+      "Pole Range": "65–165 mm (2.5\"–6.5\") Diameter",
+      "Included Hardware": "Insect-Proof Cable Gasket & Pair of Stainless Steel TX30 Straps"
+    },
+    features: [
+      "Architectural black edition of the T91B67 pole mount for stylish mast installations",
+      "Includes marine-grade stainless steel straps with tamper-resistant TX30 fasteners",
+      "Integrated insect-proof gasket blocks insects and debris from entering wiring conduit",
+      "Robust 1.5\" NPS thread connects directly to pendant caps and dome kits"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02873-001",
+    sku: "02873-001",
+    name: "AXIS 02873-001 TP3204-E Outdoor Plenum Recessed Mount for P3735/37/38-PLE",
+    description: "02873-001. AXIS TP3204-E RECESSED MOUNT. Outdoor recessed mount for discreet installations in drop ceilings, roof overhangs/soffits of AXIS P3735-PLE, AXIS P3737-PLE, AXIS P3738-PLE. Suitable for installations in plenum space, as the back box is made of metal with a ¾\" hole for cable protection conduits.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Back Boxes",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 40,
+    stock: 224,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P3735-PLE, AXIS P3737-PLE & AXIS P3738-PLE Multi-Sensor Domes",
+      "Enclosure": "Metal Back Box with 3/4\" Conduit Routing Port",
+      "Plenum Rated": "Certified for Overhead Air Handling & Exterior Soffits",
+      "Finish": "Outdoor UV-Stabilized Architectural White"
+    },
+    features: [
+      "Specially tailored for the four-sensor multi-directional AXIS P37-PLE series cameras",
+      "Flushes multi-directional panoramic cameras neatly into soffits, canopies, and drop ceilings",
+      "Metal back box satisfies plenum safety standards while resisting moisture and rodents",
+      "Includes 3/4-inch conduit entry port for professional armored or rigid electrical pipe"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02411-001",
+    sku: "02411-001",
+    name: "AXIS 02411-001 TQ5001-E Integrated Wall & Pole Mount with IP66 RJ45",
+    description: "02411-001. AXIS TQ5001-E Wall/Pole Mount. Wall-and-Pole Mount for Axis PTZ and multi-sensor cameras. Built-in Ethernet cable with an IP66 RJ45 connector for quick installation with protection against dust and water. Connect PoE via either RJ45 or IDC (insulation-displacement contact) connectors. Suitable for both indoor and outdoor environments. Separate stainless steel straps required for pole installation.",
+    priceUSD: 170.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 48,
+    stock: 219,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS PTZ & Multi-Sensor Cameras",
+      "Integrated Cable": "Pre-Installed Ethernet Cable with Factory IP66 RJ45 Connector",
+      "Termination Options": "Dual Connection: Standard RJ45 Port or IDC Punch-Down Block",
+      "Mount Capability": "Direct Wall Surface Mount or Pole Mount (with Straps)",
+      "Environment": "Indoor & Rugged Outdoor Weatherproof"
+    },
+    features: [
+      "Integrated factory-sealed IP66 RJ45 connector eliminates crimping in field buckets",
+      "Dual PoE wiring interface accommodates either modular RJ45 plugs or raw IDC punch-down leads",
+      "Hybrid bracket design supports direct wall mounting or pole strap attachment on masts",
+      "Heavy die-cast construction provides rigid vibration dampening for high-zoom PTZ monitoring"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:38:00.000Z"
+  },
+  {
+    id: "prod-axis-02851-001",
+    sku: "02851-001",
+    name: "AXIS 02851-001 TP1001-E Wall/Pole Mount 1.5\" NPS with IP66 RJ45",
+    description: "02851-001. AXIS TP1001-E Wall/Pole Mount. Wall-and-Pole Mount for Axis PTZ and multi-sensor cameras. Built-in Ethernet cable with an IP66 RJ45 connector for quick installation with protection against dust and water. Connect PoE via either RJ45 or IDC (insulation-displacement contact) connectors. Suitable for both indoor and outdoor environments. Separate stainless steel straps required for pole installation. The 1.5\" NPS thread mount ensures compatibility with all pendant kits for Axis fixed dome cameras.",
+    priceUSD: 201.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 45,
+    stock: 222,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Thread Standard": "1.5\" NPS Pendant Thread Interface",
+      "Pre-Wired Cable": "Built-In Ethernet Cable with Factory IP66 RJ45 Connector",
+      "Termination Options": "Dual PoE Connection: RJ45 Plug or IDC Punch-Down Blocks",
+      "Compatibility": "AXIS PTZ, Multi-Sensor Cameras & Fixed Dome Pendant Kits"
+    },
+    features: [
+      "Pre-terminated IP66 waterproof RJ45 connector simplifies high-ladder installations",
+      "Universal 1.5\" NPS thread pairs with Axis pendant caps and dome kits",
+      "Supports versatile wall mounting or pole strap attachment on industrial masts",
+      "Dual PoE terminations accept standard modular RJ45 or raw IDC punch-down lines"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-02978-001",
+    sku: "02978-001",
+    name: "AXIS 02978-001 TW4100 Front Windshield Adhesive Mount for F-Series",
+    description: "02978-001. AXIS TW4100 Front Windshield Mount. Adhesive windshield mount compatible with selected F-series sensors for secure and easy mounting on the front windshield.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 223,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "Selected AXIS F-Series Modular Camera Sensors",
+      "Installation": "Automotive-Grade High-Bond Adhesive Front Windshield Mount",
+      "Application": "Fleet Vehicles, Police Cruisers, Transit Buses & Commercial Vans",
+      "Design": "Anti-Glare Glazing Alignment Bracket"
+    },
+    features: [
+      "Automotive-grade high-bond adhesive firmly secures sensor against windshield vibration",
+      "Designed for optimal forward-looking road perspective through vehicle front glass",
+      "Compact bracket minimizes driver field-of-view obstruction",
+      "Compatible with AXIS F modular camera sensor units"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-02979-001",
+    sku: "02979-001",
+    name: "AXIS 02979-001 TW4101 Rear Windshield Adhesive Mount for F-Series",
+    description: "02979-001. AXIS TW4101 Rear Windshield Mount. Adhesive windshield mount compatible with selected F-series sensors for secure and easy mounting on the rear windshield.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 27,
+    stock: 179,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "Selected AXIS F-Series Modular Sensors",
+      "Mounting Surface": "Automotive Rear Windshield / Liftgate Glass",
+      "Adhesive": "Industrial-Grade UV & Heat Resistant High-Bond Tape",
+      "Application": "Rear Traffic Monitoring & Passenger Compartment Surveillance"
+    },
+    features: [
+      "Engineered specifically for steep-angle rear windshields and cargo liftgates",
+      "High-strength adhesive resists severe sun heat and automotive rear defroster cycles",
+      "Captures unobstructed rear traffic and cabin activity without drilling vehicle panels",
+      "Streamlined form factor conceals wiring neatly along headliner seams"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-03003-001",
+    sku: "03003-001",
+    name: "AXIS 03003-001 TQ9301 Indoor Corner Bracket (P3265/67/68, Q9307-LV)",
+    description: "03003-001. AXIS TQ9301 Corner Bracket. Corner indoor bracket compatible with: AXIS P3265-LV, AXIS P3265-V, AXIS P3267-LV, AXIS P3268-LV, AXIS Q9307-LV. Comes with 4 TX20 screws. Made of steel, and painted Axis white.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 38,
+    stock: 121,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P3265-LV/V, P3267-LV, P3268-LV & AXIS Q9307-LV",
+      "Mounting Angle": "90° Interior Corner Bracket",
+      "Included Hardware": "4x Torx TX20 Security Screws",
+      "Material & Finish": "Structural Steel Painted in AXIS White"
+    },
+    features: [
+      "Provides perfect 90-degree corner mounting inside rooms, hospital wards, and corridors",
+      "Pre-drilled mounting patterns match AXIS P32 series domes and Q9307-LV audiovisual sensors",
+      "Supplied with 4 tamper-resistant Torx TX20 security screws",
+      "Heavy steel construction provides solid, vibration-free camera positioning"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-03116-001",
+    sku: "03116-001",
+    name: "AXIS 03116-001 TM3213 Plenum Recessed Mount for M3125/26/28-LVE",
+    description: "03116-001. AXIS TM3213 Recessed Mount. Indoor recessed mount for drop ceiling installation. The aluminum (plenum) casing makes it suitable for use in air handling spaces. Compatible with AXIS M3125-LVE, AXIS M3126-LVE, AXIS M3128-LVE.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 33,
+    stock: 136,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3125-LVE, M3126-LVE & M3128-LVE Flat-Faced Domes",
+      "Safety Rating": "Plenum-Rated Cast Aluminum Casing for Air Handling Ceilings",
+      "Ceiling Style": "Drop Ceilings / Suspended Acoustic Tile Grids",
+      "Finish": "Powder-Coated Architectural White"
+    },
+    features: [
+      "Plenum-rated aluminum casing satisfies commercial building codes for overhead air spaces",
+      "Flushes AXIS M31 flat-faced dome cameras into ceiling tiles for a sleek profile",
+      "Prevents fire and smoke passage into ventilation return air spaces",
+      "Heavy-duty retention wings hold tightly without damaging delicate ceiling tiles"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-03054-001",
+    sku: "03054-001",
+    name: "AXIS 03054-001 TQ9302 Healthcare Telesitting IV Pole Mount (18–25mm)",
+    description: "03054-001. AXIS TQ9302 Pole Mount. A pole mount for Telesitting in Healthcare is main use case when a IV pole type needs a mount for a pole to attach a camera. The mount should be mountable on thin poles from 18mm to 25mm. Cable entry from top or bottom up. Mount compatible with Q9307-LV, several P32 cameras and I8116.",
+    priceUSD: 105.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 41,
+    stock: 126,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Medical Application": "Healthcare Telesitting & Patient Bedside Remote Observation",
+      "Pole Diameter Range": "18 mm to 25 mm (0.7\" to 1.0\") Fits Hospital IV Poles & Mobile Carts",
+      "Cable Entry": "Flexible Top-Down or Bottom-Up Routing",
+      "Compatibility": "AXIS Q9307-LV, Selected P32 Cameras & AXIS I8116 Intercom"
+    },
+    features: [
+      "Designed specifically for hospital telesitting applications on mobile IV poles and medical stanchions",
+      "Precision clamp accommodates thin medical tubing diameters between 18mm and 25mm",
+      "Flexible cable entries route Ethernet neatly up or down without tangling in wheels",
+      "Medical-grade finish stands up to daily disinfectant hospital wipe-downs"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-03208-001",
+    sku: "03208-001",
+    name: "AXIS 03208-001 TF1202 Recessed Mount for FA1105 (4-Pack)",
+    description: "03208-001. AXIS TF1202 RECESSED MOUNT 4P. TF1202 Recessed Mount 4P is a bulk pack of 4x Recessed Mounts for AXIS FA1105 sensor unit. Beyond the aesthetics aspect giving a finishing look of the installation, AXIS TF1202 Recessed Mount is the perfect accessory when installing AXIS FA1105 sensor unit in a wall, a glass, plastic or metal panel from 1 to 15mm. AXIS TF1202 Recessed Mount is made of plastic and comes with a built-in lens protection highly recommended to protect FA1105 lens from tempering or vandalism.",
+    priceUSD: 33.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 29,
+    stock: 291,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Recessed Assemblies (4P)",
+      "Compatibility": "AXIS FA1105 Miniature Sensor Unit",
+      "Panel Thickness Range": "1 mm to 15 mm (0.04\" to 0.6\")",
+      "Protection": "Integrated Optical Lens Protection Shield"
+    },
+    features: [
+      "Integrated front protective lens shield defends sensor optics against tampering and scratching",
+      "Secures AXIS FA1105 miniature sensors cleanly through wall panels, glass, or metal enclosures",
+      "Adjustable threaded collar fits panel depths from 1 mm to 15 mm",
+      "Multipack of 4 units equips multi-door access control or ATM installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-03115-001",
+    sku: "03115-001",
+    name: "AXIS 03115-001 TM3212 Single-Screw Recessed Mount for M3125/26/28-LVE",
+    description: "03115-001. AXIS TM3212 Recessed Mount. Recessed mount for AXIS M3125-LVE, AXIS M3126-LVE, AXIS M3128-LVE. Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 36,
+    stock: 187,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M3125-LVE, M3126-LVE & M3128-LVE Network Cameras",
+      "Fastening Mechanism": "Patented Single-Screw Rapid Clamping Wing System",
+      "Installation Target": "Standard Indoor Drop Ceilings & Suspended Acoustic Tiles",
+      "Trim": "Low-Profile White Aesthetic Bezel"
+    },
+    features: [
+      "Single-screw rapid clamping system enables installation in seconds from below the ceiling",
+      "Recesses M31 flat-faced dome cameras flush with ceiling tiles for low visual presence",
+      "Lightweight engineered polymer design prevents ceiling tile sag",
+      "Decorative trim ring cleanly conceals drywall cuts and acoustic tile rough edges"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-03008-001",
+    sku: "03008-001",
+    name: "AXIS 03008-001 TP3005-E Concealed Outdoor Pendant Wall Mount",
+    description: "03008-001. AXIS TP3005-E Wall Mount. Elegant mount for outdoor/indoor mounting of Axis dome cameras in pendant style. Concealed mounting with no visible screws. Audio sensor input entry. Natural weather protection as well. Room for cable slack. Compatible with P32 LV/LVE variants and M3215/16-LVE variants.",
+    priceUSD: 105.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Cables & Connectors",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 47,
+    stock: 289,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P32 LV/LVE Variants & AXIS M3215/16-LVE Variants",
+      "Mount Style": "Pendant Wall Arm with Fully Concealed Hardware",
+      "Environmental": "Integrated Rain Weather Shield & Internal Cable Slack Cavity",
+      "Audio Support": "Dedicated Audio Sensor Input Entry Port"
+    },
+    features: [
+      "Sleek curved pendant design completely hides mounting screws for a seamless look",
+      "Built-in overhang provides natural weather and sun shielding for outdoor installations",
+      "Spacious internal cavity accommodates extra cable loops and audio sensor connections",
+      "Direct compatibility with AXIS P32 and M32 generation dome cameras"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-02987-001",
+    sku: "02987-001",
+    name: "AXIS 02987-001 TQ3003-SE Marine Stainless Steel Wall Mount (SS316L)",
+    description: "02987-001. AXIS TQ3003-SE Wall Mount. Wall mount for AXIS P3268-SLVE, AXIS Q3538-SLVE made of marine grade stainless steel. Resistant to sea water and chemicals.",
+    priceUSD: 640.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 30,
+    stock: 167,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Material": "SS316L Marine-Grade Stainless Steel",
+      "Corrosion Resistance": "Immune to High-Salinity Saltwater, Acidic Atmosphere & Chemical Washdowns",
+      "Compatibility": "AXIS P3268-SLVE & AXIS Q3538-SLVE Stainless Steel Domes",
+      "Target Industries": "Offshore Oil Platforms, Chemical Processing, Marine Harbors & Food Cleanrooms"
+    },
+    features: [
+      "Constructed from electropolished SS316L marine-grade stainless steel",
+      "Impervious to sea salt spray, chlorinated atmospheres, and caustic chemical washdowns",
+      "Matches the exact metallurgy and mounting flange of Axis SLVE stainless steel cameras",
+      "Heavy structural arm engineered for extreme marine environments and coastal ports"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:41:00.000Z"
+  },
+  {
+    id: "prod-axis-03186-001",
+    sku: "03186-001",
+    name: "AXIS 03186-001 TC1605 Corridor Ceiling Mount for C1720 Display Speaker",
+    description: "03186-001. AXIS TC1605 Ceiling Mount. For ceiling installation of the AXIS C1720 Network Display Speaker (Corridor version with two displays and speakers). This accessory is designed to fit axis range of (pipe-) ceiling mounts, such as the AXIS T91B51 Ceiling Mount.",
+    priceUSD: 138.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 32,
+    stock: 222,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS C1720 Dual-Display Corridor Network Speaker",
+      "Ceiling Interface": "Compatible with AXIS T91B51 & Standard Axis Pipe Mounts",
+      "Application": "Hospital Hallways, School Corridors & Airport Concourses",
+      "Material": "Robust Powder-Coated Metal Assembly"
+    },
+    features: [
+      "Suspends dual-sided AXIS C1720 network corridor display speakers from high ceilings",
+      "Allows double-sided visual announcements and audio messaging along pedestrian halls",
+      "Integrates seamlessly with AXIS T91B51 telescopic ceiling pipe mount systems",
+      "Internal cable routing hides PoE wiring inside the drop pole for clean aesthetics"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03185-001",
+    sku: "03185-001",
+    name: "AXIS 03185-001 TC1604 Corridor Wall Mount for C1720 Display Speaker",
+    description: "03185-001. AXIS TC1604 Wall Mount. AXIS TC1604 Wall Mount, intended for wall mounting the AXIS C1720 Network Display Speaker (Corridor version with two displays and speakers).",
+    priceUSD: 170.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 277,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS C1720 Corridor Network Display Speaker",
+      "Mounting Style": "Perpendicular Cantilever Wall Projection Mount",
+      "Corridor Alignment": "Double-Sided Sightline Projection for Two-Way Visibility",
+      "Material": "Rigid Steel Construction with AXIS Architectural White Finish"
+    },
+    features: [
+      "Projects AXIS C1720 speakers perpendicularly off corridor walls for bi-directional visibility",
+      "Provides secure structural anchoring to support dual displays and high-output audio drivers",
+      "Internal conduit raceways conceal network cabling cleanly against wall surfaces",
+      "Engineered for high-traffic hospital wings, educational facilities, and corporate corridors"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03385-001",
+    sku: "03385-001",
+    name: "AXIS 03385-001 TQ1501-E Heavy Crane & Traffic Mount (IK10/NEMA 4X, Wide Compat)",
+    description: "03385-001. AXIS TQ1501-E CRANE TRAFFIC MOUNT. A crane and traffic mount for more stability and less vibrations. Note: Pivot mount for more stability, Robust, IK10, Coating in corrosion resilient material, offers more stability to your camera installations in demanding situations, such as mounting on cranes or traffic lights. NEMA 4X-ratings and can be tilted up to 45 degrees. Compatible with P13-E/LE, P15-E/LE, T92E, T93F, Q16-LE, Q21-E/TE, T92G20, T91B47, TQ1809 Housing T92G.",
+    priceUSD: 84.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 44,
+    stock: 141,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Tilt Range": "Multi-Angle Pivot Tilt up to 45°",
+      "Impact & Environmental": "IK10 Impact Rating, NEMA 4X Marine & Chemical Resilient Coating",
+      "Compatibility": "AXIS P13-E/LE, P15-E/LE, Q16-LE, Q21-E/TE, T92E, T93F, T92G20, T91B47, TQ1809",
+      "Industrial Use": "Harbor Cranes, Highway Traffic Poles, Drawbridges & Heavy Machinery"
+    },
+    features: [
+      "Vibration-isolated pivot mount dampens violent machinery and gantry oscillations",
+      "Full 45-degree vertical tilt accommodates downward monitoring on traffic signal arms",
+      "Corrosion-resistant coating and IK10 impact certification survive punishing weather",
+      "Extensive compatibility across modern P15, Q21, and classic T92/T93 protective enclosures"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03006-001",
+    sku: "03006-001",
+    name: "AXIS 03006-001 TD4301-E Angle & Corner Mount for D4200-VE Network Strobe",
+    description: "03006-001. AXIS TD4301-E Angle Mount. Mount for the AXIS D4200-VE Network Strobe Speaker. For use cases where angling of the speaker is better and also allows for corner mounting.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 31,
+    stock: 232,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS D4200-VE Outdoor Network Strobe Speaker Siren",
+      "Mounting Options": "Angled Flat Wall Mount or 90° Exterior/Interior Corner Mount",
+      "Acoustic/Visual Aiming": "Directs Strobe Flash & Audio Projection into Key Zones",
+      "Weather Rating": "Outdoor Weatherproof UV-Stabilized Enclosure"
+    },
+    features: [
+      "Angles the AXIS D4200-VE strobe siren directly towards walkways, doors, or perimeter fence lines",
+      "Dual-purpose geometry functions as an angled wall bracket or 90-degree corner mount",
+      "Maximizes visibility of warning strobe flashes and acoustic clarity of emergency messages",
+      "Durable weather-resistant construction matches outdoor rating of the D4200-VE"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03249-001",
+    sku: "03249-001",
+    name: "AXIS 03249-001 TQ3204-E Outdoor Plenum Recessed Mount for Q3546/48/56/58-LVE",
+    description: "03249-001. AXIS TQ3204-E Recessed Mount. Outdoor recessed mount for AXIS Q3546-LVE, AXIS Q3548-LVE, AXIS Q3556-LVE, AXIS Q3558-LVE. Suitable for outdoor installations in roof overhangs and soffits. Also suitable for indoor installations in plenum spaces.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 37,
+    stock: 105,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Q3546-LVE, Q3548-LVE, Q3556-LVE & Q3558-LVE Dome Series",
+      "Environmental": "Weatherproof Exterior Soffit & Plenum Certified Indoor Ceilings",
+      "Mounting Target": "Drop Ceilings, Roof Eaves, Architectural Soffits & Overhangs",
+      "Material": "Robust Weather-Sealed Metal Casing"
+    },
+    features: [
+      "Recesses top-tier AXIS Q35-LVE dome cameras flush into exterior eaves and interior ceilings",
+      "Plenum rated to meet fire codes for commercial air-handling plenum spaces",
+      "Sealed metal enclosure prevents rainwater intrusion in outdoor soffit installations",
+      "Sturdy clamping tabs lock tight against ceiling panels for permanent alignment"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03267-001",
+    sku: "03267-001",
+    name: "AXIS 03267-001 TP3206-E Outdoor/Indoor Plenum Recessed Mount for P326x/7x/8x",
+    description: "03267-001. AXIS TP3206-E Recessed Mount. Outdoor/indoor recessed mount for drop ceiling plenum installations. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS P326x, P327x, P328x, LV/LVE.",
+    priceUSD: 105.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 42,
+    stock: 152,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P326x, P327x, P328x LV and LVE Generation Domes",
+      "Safety Rating": "Plenum-Certified Sealed Metal Enclosure with Conduit Entries",
+      "Application": "Outdoor Soffits & Indoor Suspended Drop Ceilings",
+      "Cable Entry": "Integrated Threaded Conduit Knockouts"
+    },
+    features: [
+      "Full metal back box certified for indoor air handling plenums and outdoor overhangs",
+      "Threaded conduit ports ensure protected, code-compliant cable routing",
+      "Flushes AXIS P32 series cameras with ceiling tiles for an ultra-clean appearance",
+      "Heavy-duty retention wings prevent tile sagging or loosening over time"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03266-001",
+    sku: "03266-001",
+    name: "AXIS 03266-001 TP3205 Single-Screw Recessed Mount for P3267/7x/8x",
+    description: "03266-001. AXIS TP3205 Recessed Mount. Indoor recessed mount for drop ceiling installations. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces. Compatible with: AXIS P3267-LVE Mic, AXIS P327x-LV/LVE, AXIS P328x-LV/LVE.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 39,
+    stock: 235,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P3267-LVE Mic, P327x-LV/LVE & P328x-LV/LVE Fixed Domes",
+      "Fastener System": "Patented Single-Screw Rapid Clamping Wing System",
+      "Installation Target": "Standard Non-Plenum Indoor Drop Ceilings & Suspended Tiles",
+      "Finish": "Low-Profile White Aesthetic Trim Ring"
+    },
+    features: [
+      "Single-screw rapid clamping mechanism secures the camera in seconds without ceiling access",
+      "Specially designed clearance accommodates AXIS P3267-LVE models with built-in microphone",
+      "Lightweight engineered polymer design prevents acoustic tile deflection",
+      "Beveled white trim bezel covers rough drywall or tile cutouts cleanly"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03404-001",
+    sku: "03404-001",
+    name: "AXIS 03404-001 TF1201 Aluminum Recessed Mount for F2108 & FA1105 (4-Pack, Silver)",
+    description: "03404-001. AXIS TF1201 Recessed Mount 4P. AXIS TF1201 Recessed Mount 4P is a bulk pack of 4x Recessed Mount for indoor modular sensor units. It is compatible with both AXIS F2108 dome sensor and AXIS FA1105 sensor unit. Beyond the aesthetics aspect giving a finishing look of the installation, AXIS TF1201 Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm. AXIS TF1201 comes in silver and is made of aluminium.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 34,
+    stock: 192,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Multipack of 4 Aluminum Recessed Mounts (4P)",
+      "Compatibility": "AXIS F2108 Dome Sensor & AXIS FA1105 Modular Sensor Head",
+      "Panel Thickness Range": "1 mm to 15 mm (0.04\" to 0.6\")",
+      "Material & Finish": "Solid Machined Aluminum (Silver Satin Anodized)"
+    },
+    features: [
+      "Precision machined solid aluminum recessed bezel in sleek satin silver",
+      "Enables flush mounting through walls, glass panels, plastic bezels, or sheet metal",
+      "Threaded rear retention collar firmly grips panels between 1 mm and 15 mm thickness",
+      "4-pack equips multiple sensor heads across access points or ATM vestibules"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03159-001",
+    sku: "03159-001",
+    name: "AXIS 03159-001 TQ5301-E Outdoor Heavy-Duty PTZ Corner Mount (IK10)",
+    description: "03159-001. AXIS TQ5301-E Corner Mount. Outer corner mount for Axis PTZ cameras. With a stylish design, this compact, all-in-one, outdoor-ready mount blends seamlessly into most indoor and outdoor environments. It offers flexible installation and can be mounted on either the left or right side to suit specific needs. Room for connectivity devices. Robust, IK10-rated. Outdoor and indoor-ready.",
+    priceUSD: 534.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 46,
+    stock: 137,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS High-Speed Heavy PTZ Cameras",
+      "Mount Geometry": "Outdoor Outer Corner Mount with Reversible Left/Right Offset",
+      "Protection Rating": "IK10 Vandal Resistance & Marine Weatherproof",
+      "Internal Cavity": "Spacious Compartment for Media Converters & PoE Injectors"
+    },
+    features: [
+      "Heavy structural corner mount engineered to support high-wind torque of large PTZ domes",
+      "Provides full 270-degree surveillance coverage around building exterior corners",
+      "Spacious internal junction compartment conceals surge protectors and fiber transceivers",
+      "IK10 vandal rating and robust powder-coated aluminum resist severe environmental abuse"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03158-001",
+    sku: "03158-001",
+    name: "AXIS 03158-001 TP3302-E Outdoor Dome & Panoramic Corner Mount (IK10)",
+    description: "03158-001. AXIS TP3302-E Corner Mount. Corner mount for dome and panoramic cameras. With a stylish design, this compact, all-in-one, outdoor-ready mount blends seamlessly into most indoor and outdoor environments. It offers flexible installation and can be mounted on either the left or right side to suit specific needs. Spacious compartment for connectivity devices, Robust, IK10-rated, Outdoor and indoor-ready.",
+    priceUSD: 534.0,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Corner Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 43,
+    stock: 276,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS Fixed Domes & Multisensor Panoramic Cameras",
+      "Mount Geometry": "Outer Corner Bracket with Flexible Left or Right Orientation",
+      "Impact Rating": "IK10 Vandal Resistance & Weatherproof Construction",
+      "Internal Storage": "Spacious Built-In Compartment for Network & Connectivity Devices"
+    },
+    features: [
+      "Wraps around 90-degree building corners for commanding two-wall panoramic coverage",
+      "Engineered for heavy multi-sensor panoramic cameras and high-performance fixed domes",
+      "Integrated weather-sealed junction chamber houses PoE extenders and I/O modules",
+      "IK10 impact resistance shields mission-critical perimeter security installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:44:00.000Z"
+  },
+  {
+    id: "prod-axis-03511-001",
+    sku: "03511-001",
+    name: "AXIS 03511-001 TF1204-RE Black Aluminum Waterproof Recessed Mount (4-Pack)",
+    description: "03511-001. AXIS TF1204-RE Recessed Mount 4 pcs. AXIS TF1204-RE Recessed Mount is a bulk pack of 4x Black Aluminum Recessed Mount for AXIS F210X-RE standard sensor units and AXIS F213X-RE fisheye sensor units. AXIS TF1204-RE Recessed Mount is the perfect accessory when installing the selected sensor units in a wall, a glass, plastic or metal panel from 1mm to 15mm. Beyond the aesthetics aspect giving a finishing look of the installation, it also guarantees that no water will leak into the wall or the panel. AXIS TF1204-RE Recessed Mount comes in black and is made of aluminium.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Wall Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 35,
+    stock: 239,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Recessed Mounts (4P)",
+      "Compatibility": "AXIS F210X-RE Standard & F213X-RE Fisheye Sensor Heads",
+      "Color & Material": "Anodized Black Machined Aluminum",
+      "Panel Range": "1 mm to 15 mm (0.04\" to 0.6\") Thickness"
+    },
+    features: [
+      "Black anodized aluminum collar blends with dark panels, vehicle bodies, and glass facades",
+      "Watertight sealing gasket prevents moisture intrusion behind panel walls",
+      "Precision threaded locking nut secures sensor heads in panels from 1 mm to 15 mm",
+      "Bulk pack of 4 units supports multi-sensor fleet or building access installations"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-03420-001",
+    sku: "03420-001",
+    name: "AXIS 03420-001 TP3208-E Plenum Recessed Mount with IR Mask Ring (P3747/48-PLVE)",
+    description: "03420-001. AXIS TP3208-E Recessed Mount. Outdoor/indoor recessed mount for drop ceiling plenum installations. Metal enclosure with conduit entries, suitable for installation in air handling / plenum spaces. Compatible with: AXIS P3747-PLVE, AXIS P3748-PLVE. Note comes with a ring to hide the IR if a smaller more discrete footprint is desired.",
+    priceUSD: 427.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 28,
+    stock: 106,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P3747-PLVE & P3748-PLVE 4-Sensor Panoramic Domes",
+      "Plenum Enclosure": "Full Metal Back Box with Conduit Ports for Air Handling Ceilings",
+      "IR Masking Ring": "Includes Optional Low-Profile Bezel to Conceal IR Illuminator",
+      "Environment": "Indoor Suspended Ceilings & Outdoor Architectural Eaves/Soffits"
+    },
+    features: [
+      "Flushes high-capacity 4-sensor AXIS P37-PLVE cameras into ceilings and exterior soffits",
+      "Includes removable IR concealing ring for installations requiring minimal visual presence",
+      "Plenum-certified all-metal back box complies with overhead air-handling building codes",
+      "Equipped with threaded conduit entries for rigid electrical connections"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-03473-001",
+    sku: "03473-001",
+    name: "AXIS 03473-001 TP5202-E Drop Ceiling Recessed Mount (P5655-E, P5654-E Mk II)",
+    description: "03473-001. AXIS TP5202-E Recessed Mount. Recessed mount with a good footprint and a nice discrete design for drop ceilings. Compatible with P5655-E, P5654-E Mk II.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 39,
+    stock: 294,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS P5655-E & AXIS P5654-E Mk II PTZ Domes",
+      "Installation": "Drop Ceilings / Suspended Acoustic Grid Systems",
+      "Form Factor": "Compact Aesthetic Bezel with Low Visual Profile",
+      "Material": "Corrosion-Resistant Reinforced Structural Frame"
+    },
+    features: [
+      "Recesses powerful AXIS P56 series PTZ dome cameras into drop ceilings",
+      "Substantially minimizes visual protrusion into executive spaces and commercial retail",
+      "Preserves full continuous 360-degree pan and tilt freedom of the PTZ camera",
+      "Engineered for fast, wobble-free installation into standard acoustic ceiling tiles"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-03419-001",
+    sku: "03419-001",
+    name: "AXIS 03419-001 TF2001-E Dual Sensor Mount Bracket for F21 Optical & Thermal",
+    description: "03419-001. AXIS TF2001-E Dual Mount Bracket. A dual mount accessory bracket for F21 sensor units (video and thermal). Includes a mounting bracket and holder for two sensor units.",
+    priceUSD: 127.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Mounting Brackets",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 31,
+    stock: 235,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "Dual AXIS F21 Sensor Units (Visual Optical + Thermal Sensor)",
+      "Kit Includes": "Twin-Sensor Carrier Bracket, Precision Holder & Fasteners",
+      "Alignment": "Side-by-Side Boresight Alignment for Visual/Thermal Fusion",
+      "Environment": "Indoor & Rugged Outdoor Weather-Ready"
+    },
+    features: [
+      "Holds two AXIS F21 sensor units side-by-side for simultaneous color and thermal capture",
+      "Aligns boresight axes for effective visual verification and thermal perimeter alerts",
+      "Compact bracket mounts cleanly on poles, fences, building corners, or surveillance masts",
+      "Weather-treated alloy protects cable terminations from rain and temperature swings"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-03523-001",
+    sku: "03523-001",
+    name: "AXIS 03523-001 TM3214 Single-Screw Recessed Mount for M4337/38/47/48-PLVE",
+    description: "03523-001. AXIS TM3214 RECESSED MOUNT. Indoor recessed mount for ceiling/wall installations. Compatible with AXIS M4337-PLVE, AXIS M4338-PLVE, AXIS M4347-PLVE, AXIS M4348-PLVE. Single-screw ceiling attachment for quick and easy installation. Not suitable for air-handling (plenum) spaces.",
+    priceUSD: 74.4,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.8,
+    reviewCount: 33,
+    stock: 176,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M4337-PLVE, M4338-PLVE, M4347-PLVE & M4348-PLVE Panoramic Domes",
+      "Fastener System": "Patented Single-Screw Rapid Clamping Wing System",
+      "Placement": "Ceiling & Wall Non-Plenum Recessed Installations",
+      "Bezel": "Architectural White Low-Profile Cover Bezel"
+    },
+    features: [
+      "Rapid single-screw ceiling clamping mechanism enables one-person ceiling installation",
+      "Recesses 360-degree panoramic AXIS M43 cameras into drywall and acoustic drop ceilings",
+      "Provides secure, flush finish that blends into retail, educational, and corporate ceilings",
+      "Lightweight design distributes load to prevent ceiling tile deformation"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-03522-001",
+    sku: "03522-001",
+    name: "AXIS 03522-001 TM3215 Plenum Recessed Mount IK10 for M4337/38/47/48-PLVE",
+    description: "03522-001. AXIS TM3215 RECESSED MOUNT. Designed for indoor drop ceiling installations. It’s robust with an IK10-rating and is easily installed. The enclosure is made of metal alloy, making it suitable for installations in air-handling (plenum) spaces. Compatible with: AXIS M4337-PLVE, AXIS M4338-PLVE, AXIS M4347-PLVE, AXIS M4348-PLVE.",
+    priceUSD: 159.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Ceiling Mounts",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 37,
+    stock: 264,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS M4337-PLVE, M4338-PLVE, M4347-PLVE & M4348-PLVE Series",
+      "Impact & Fire Rating": "IK10 Vandal Resistance & Plenum Certified for Air-Handling Ceilings",
+      "Enclosure Material": "Heavy-Duty Metal Alloy Back Box",
+      "Cable Entry": "Integrated Metal Conduit Attachment Ports"
+    },
+    features: [
+      "Metal alloy back box meets strict commercial building plenum airflow fire safety codes",
+      "IK10 vandal rating protects 360-degree panoramic cameras against intentional impacts",
+      "Flushes panoramic dome with ceiling surface to prevent tampering and dust buildup",
+      "Sturdy clamping tabs lock assembly tightly against suspended acoustic tiles"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-02222-001",
+    sku: "02222-001",
+    name: "AXIS 02222-001 TC1601 Universal Pendant, Conduit & Tripod Mount for C1410",
+    description: "02222-001. AXIS TC1601 Universal Mount. Versatile accessory to be used with AXIS C1410 Network Mini Speaker. It can be used as either a pendant kit with 3/4\" (M25) conduit interface, conduit back box with 1/2\" (M20) conduit side entry, or with standard stands or holders using the integrated female (M6) tripod thread.",
+    priceUSD: 52.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Back Boxes",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 41,
+    stock: 123,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Compatibility": "AXIS C1410 Network Mini Speaker",
+      "Pendant Interface": "3/4\" (M25) Conduit Pipe Thread",
+      "Conduit Side Entry": "1/2\" (M20) Side Entry Conduit Knockout",
+      "Tripod/Stand Interface": "Integrated Female M6 Standard Thread",
+      "Application": "Pendant Hanging, Surface Conduit Box, or Articulated Arm Mounting"
+    },
+    features: [
+      "3-in-1 multi-configuration mount: pendant drop, surface conduit junction box, or stand mount",
+      "Features standard 3/4\" (M25) pipe threading for pendant drop installations from open ceilings",
+      "Side 1/2\" (M20) port enables exposed electrical surface conduit connection",
+      "Female M6 brass thread connects with camera arms, wall brackets, and magnetic clamps"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-0979-001",
+    sku: "0979-001",
+    name: "AXIS 0979-001 Q1941-E PT Mount Outdoor Thermal Camera 19mm 30fps",
+    description: "0979-001. AXIS Q1941-E PT MOUNT 19MM 30 FPS. Outdoor Thermal Network Camera for positioning unit, 384x288 resolution, 30 fps, and 19 mm lens with 19.4° angle of view. It supports Electronic Image Stabilization, Zipstream, ONVIF, H.264, PoE and local storage. It includes Video motion detection, shock detection and support for AXIS Camera Application Platform enabling installation of AXIS Perimeter Defender and third-party applications. IP66, NEMA 4X rated and UL listed.",
+    priceUSD: 3367.2,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 22,
+    stock: 278,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Thermal Resolution & Frame Rate": "384x288 Uncooled Microbolometer at 30 fps",
+      "Lens Optics": "19 mm Germanium Lens with 19.4° Horizontal FOV",
+      "Mount Interface": "Direct PT Positioning Head Mount Integration",
+      "Environmental & Ratings": "IP66 Water/Dust Proof, NEMA 4X Corrosion Proof & UL Listed",
+      "Advanced Features": "Electronic Image Stabilization, Zipstream & AXIS Perimeter Defender"
+    },
+    features: [
+      "Thermal network camera engineered for direct mounting onto high-speed pan/tilt positioning heads",
+      "19 mm Germanium optics deliver crisp 19.4° thermal imaging through darkness, fog, and smoke",
+      "Electronic Image Stabilization counteracts wind vibration on masts and bridges",
+      "IP66 and NEMA 4X certified housing survives heavy weather, freezing ice, and coastal salt"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-0977-001",
+    sku: "0977-001",
+    name: "AXIS 0977-001 Q1941-E PT Mount Outdoor Thermal Camera 60mm 30fps (Long Range)",
+    description: "0977-001. AXIS Q1941-E PT MOUNT 60MM 30 FPS. Outdoor Thermal Network Camera for positioning unit, 384x288 resolution, 30 fps, and 60 mm lens with 6.2° angle of view. It supports Electronic Image Stabilization, Zipstream, ONVIF, H.264, PoE and local storage. It includes Video motion detection, shock detection and support for AXIS Camera Application Platform enabling installation of AXIS Perimeter Defender and third-party applications. IP66, NEMA 4X rated and UL listed.",
+    priceUSD: 6520.8,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Camera Mounts",
+    brand: "AXIS",
+    rating: 5.0,
+    reviewCount: 19,
+    stock: 166,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Thermal Resolution & Frame Rate": "384x288 Uncooled Sensor at 30 fps",
+      "Lens Optics": "60 mm Telephoto Germanium Lens with 6.2° Angle of View",
+      "Mount Type": "PT Positioning Unit Mount Integration",
+      "Detection Distance": "Ultra Long-Range Perimeter Threat Detection up to several kilometers",
+      "Ratings": "IP66, NEMA 4X, UL Listed & Shock Detection"
+    },
+    features: [
+      "Ultra long-range 60 mm Germanium telephoto lens provides precise 6.2° narrow thermal surveillance",
+      "Mounts directly to motorized PT positioning heads for perimeter sweeping and border patrol",
+      "Electronic Image Stabilization compensates for high-mast wind and ground vibrations",
+      "Certified IP66 and NEMA 4X for harsh maritime, border, and industrial perimeter security"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-axis-02551-001",
+    sku: "02551-001",
+    name: "AXIS 02551-001 TP3002-E Junction Box Adapter Bracket for P3267/68-LV (4-Pack)",
+    description: "02551-001. AXIS TP3002-E MOUNTING BRACKET 4P. Spare part mounting bracket for AXIS P3267-LV, P3268-LV. Suitable for mounting cameras over junction boxes (4\" octagon, single-gang, or double-gang), and other Axis mounting accessories. 4-piece bulk pack.",
+    priceUSD: 63.6,
+    category: "Mounting & Surveillance Accessories",
+    subcategory: "Junction Boxes",
+    brand: "AXIS",
+    rating: 4.9,
+    reviewCount: 36,
+    stock: 232,
+    images: [
+      "https://www.axis.com/sites/axis/files/2021-09/1600_mounting-acc-tq1501e-angle-left-2107.png"
+    ],
+    specs: {
+      "Quantity": "Bulk Pack of 4 Adapter Plates (4P)",
+      "Compatibility": "AXIS P3267-LV & AXIS P3268-LV Network Cameras",
+      "Junction Box Fit": "4\" Octagon, Single-Gang & Double-Gang Electrical Boxes",
+      "Material": "Heavy-Gauge Steel with Corrosion-Resistant White Paint"
+    },
+    features: [
+      "Adapts AXIS P3267/P3268 domes directly onto 4-inch octagonal, single-gang, and double-gang boxes",
+      "Universal hole pattern fits standard Axis wall arms, pendant caps, and pole adapters",
+      "Sturdy stamped steel construction supports heavy outdoor security dome installations",
+      "Economical 4-pack equips multiple camera locations across commercial projects"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T14:47:00.000Z"
+  },
+  {
+    id: "prod-net-poe130-atus",
+    sku: "POE130-ATUS",
+    name: "Microchip Microsemi POE130-ATUS PD-9001GC/AC Single Port PoE+ 30W Midspan",
+    description: "POE130-ATUS. Single Port PoE Plus 30W Midspan AC Input US Powercord PD-9001GC/AC. High-reliability Gigabit PoE midspan power injector delivering up to 30W IEEE 802.3at power to IP security cameras, wireless APs, and IoT endpoints.",
+    priceUSD: 162.95,
+    category: "Networking & Connectivity",
+    subcategory: "Network Switches",
+    brand: "Microsemi",
+    rating: 4.9,
+    reviewCount: 27,
+    stock: 173,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "Port Count": "1 Gigabit Ethernet Data Input, 1 PoE+ Power/Data Output",
+      "Power Output": "30 Watts Continuous",
+      "Standard": "IEEE 802.3at / 802.3af Compliant",
+      "AC Input": "100-240V AC Universal with US Power Cord Included",
+      "Model Reference": "PD-9001GC/AC Equivalent Midspan"
+    },
+    features: [
+      "Delivers up to 30W of safe, certified IEEE 802.3at Power over Ethernet",
+      "Full Gigabit 10/100/1000 Mbps pass-through maintains uncompromised bandwidth",
+      "Plug-and-play installation requires no software or network configuration",
+      "Internal universal AC power supply with included US 3-prong power cord"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe130-xt",
+    sku: "POE130-XT",
+    name: "Microsemi POE130-XT Gigabit 802.3af/at 100M Ethernet & PoE Extender Repeater",
+    description: "POE130-XT. Single Port 802.3AF 802.3AT Extender 100M PD-POE Extender. Extends Gigabit Ethernet data and PoE power beyond the standard 100-meter Cat5e/Cat6 distance limitation.",
+    priceUSD: 381.98,
+    category: "Networking & Connectivity",
+    subcategory: "Unmanaged Switches",
+    brand: "Microsemi",
+    rating: 4.8,
+    reviewCount: 19,
+    stock: 213,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "Data Rate": "10/100/1000 Mbps Gigabit Ethernet",
+      "Extension Distance": "Additional 100 Meters (328 ft) per Extender",
+      "Power Handling": "IEEE 802.3at Input; 15W PoE Output at Distance",
+      "Connectors": "Dual Shielded RJ45 Ports (Data In / Data Out)"
+    },
+    features: [
+      "Repeats Gigabit Ethernet signals up to an additional 100 meters over copper Cat5e/Cat6",
+      "Powered directly from incoming PoE+ without requiring local electrical outlets",
+      "Passes through up to 15W PoE output to power remote IP cameras or access points",
+      "Rugged in-line form factor fits neatly in conduits, junction boxes, and ceiling voids"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe2436-atus",
+    sku: "POE2436-ATUS",
+    name: "Microchip Microsemi POE2436-ATUS PD-9024G/ACDC 24-Port 36W PoE+ Gigabit Midspan",
+    description: "POE2436-ATUS. 24 Port 36W Per Port PoE AT Midspan 10 100 1000 Base T AC DC Input US Power Cord PD-9024G/ACDC. High-density 24-port PoE+ midspan delivering up to 36W per port and up to 1000W aggregate power across enterprise surveillance clusters.",
+    priceUSD: 2834.15,
+    category: "Networking & Connectivity",
+    subcategory: "Industrial Switches",
+    brand: "Microsemi",
+    rating: 5,
+    reviewCount: 14,
+    stock: 71,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Port Density": "24 Data In Ports, 24 Data+PoE Out Ports",
+      "Per-Port Power": "Up to 36 Watts per Port (IEEE 802.3at / af)",
+      "Total PoE Power Budget": "Up to 1000 Watts Aggregate Power",
+      "Redundant Power": "Dual AC and DC Redundant Power Supply Inputs",
+      "Rack Height": "19-Inch 1U Standard Rack Mount"
+    },
+    features: [
+      "High-density 24-port Gigabit midspan injects PoE+ into existing non-PoE network switches",
+      "Supports power-demanding outdoor PTZ domes with up to 36W on each dedicated channel",
+      "Dual AC and DC power inputs ensure continuous uptime in critical monitoring centers",
+      "Safe remote power management with individual port overload and short-circuit protection"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe60u-1bte-wap",
+    sku: "POE60U-1BTE",
+    name: "Phihong POE60U-1BTE Gigabit 802.3bt 60W Ultra PoE Injector for Access Points",
+    description: "POE60U-1BTE. Gigabit 802.3bt 60 W PoE Injector; Indoor; single port. High-power 60W IEEE 802.3bt Type 3 PoE injector designed for Wi-Fi 6/6E/7 access points, PTZ cameras, and multi-radio outdoor bridges.",
+    priceUSD: 212.4,
+    category: "Networking & Connectivity",
+    subcategory: "Wireless Access Points",
+    brand: "Phihong",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 91,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "Standard": "IEEE 802.3bt Type 3 4-Pair Power",
+      "Max Power Output": "60 Watts Regulated Output",
+      "Data Rate": "10/100/1000 Mbps Gigabit Ethernet",
+      "Protection": "Over-Voltage, Over-Current and Short-Circuit Protection",
+      "Environment": "Indoor Commercial Enclosure"
+    },
+    features: [
+      "Provides up to 60W over 4-pair Ethernet to power high-throughput Wi-Fi access points",
+      "Certified IEEE 802.3bt Type 3 compliant with backward compatibility for 802.3at/af",
+      "Integrated diagnostic LEDs display power connection status and fault indicators",
+      "Compact desktop or wall-mount footprint saves space in telecommunications closets"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe90u-1bt-wifi",
+    sku: "POE90U-1BT",
+    name: "Phihong POE90U-1BT Single Port 90W IEEE 802.3bt Gigabit PoE++ Injector",
+    description: "POE90U-1BT. PoE injector 802.3bt 90W Single Port. Ultra-high 90W Type 4 PoE power injector supplying full IEEE 802.3bt power to power-hungry high-power PTZ cameras, digital signage, and enterprise Wi-Fi systems.",
+    priceUSD: 342.83,
+    category: "Networking & Connectivity",
+    subcategory: "Wi-Fi Equipment",
+    brand: "Phihong",
+    rating: 5,
+    reviewCount: 24,
+    stock: 112,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "Standard": "IEEE 802.3bt Type 4 (Class 8 90W)",
+      "Max Output Power": "90 Watts Continuous",
+      "Data Speed": "10/100/1000 Mbps Gigabit Ethernet",
+      "Operating Voltage": "56V DC Output",
+      "Safety Certifications": "UL, cUL, CE, FCC, RoHS"
+    },
+    features: [
+      "Supplies maximum 90W power budget under IEEE 802.3bt Type 4 standards",
+      "Powers heavy-duty outdoor PTZ positioning systems, heaters, wipers, and displays",
+      "Automatic detection and classification prevents damage to legacy non-PoE equipment",
+      "Heavy-duty internal transformer designed for continuous 24/7 commercial operation"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poea30u-na-1",
+    sku: "POEA30U-1ATE-M-R-NA-MSI",
+    name: "Phihong Microsemi POEA30U-1ATE-M-R-NA-MSI Gigabit 30W PoE+ Injector (NA Cord)",
+    description: "POEA30U-1ATE-M-R-NA-MSI. PoE+ Single port injector 30W with North American power cord. Reliable single-port Gigabit PoE+ midspan injector compliant with IEEE 802.3at standards, supplied with standard NA 3-prong power cord.",
+    priceUSD: 118.87,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Microsemi",
+    rating: 4.8,
+    reviewCount: 35,
+    stock: 150,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Standard": "IEEE 802.3at PoE+ (30W)",
+      "Output Voltage": "56V DC Regulated",
+      "Power Cord": "North American NEMA 5-15P Cable Included",
+      "Data Rate": "10/100/1000 Mbps Gigabit Pass-Through"
+    },
+    features: [
+      "Powers IEEE 802.3at compliant fixed cameras, biometric terminals, and access controllers",
+      "Complete kit includes grounded North American power cord ready for deployment",
+      "Over-voltage and short-circuit protection prevents equipment failure",
+      "Compact lightweight housing mounts easily inside equipment enclosures"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-ec-1501c-m",
+    sku: "EC-1501C-M",
+    name: "ComNet EC-1501C-M EthernetConnect Single Port Coax Extender with Pass-Through PoE",
+    description: "EC-1501C-M. EthernetConnect Local or Remote Single Port Extender Coax with Pass Through PoE to 15 Watts Mini Case 12VDC/24VAC. Allows legacy RG-59 / RG-6 coaxial cables to transmit IP Ethernet data and up to 15W PoE power.",
+    priceUSD: 431.4,
+    category: "Networking & Connectivity",
+    subcategory: "Network Adapters",
+    brand: "ComNet",
+    rating: 4.9,
+    reviewCount: 22,
+    stock: 206,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "Cable Medium": "75-Ohm RG-59, RG-6, or RG-11 Coaxial Cable",
+      "Distance Extension": "Up to 5,000 ft (1,500 m) over 75-Ohm Coax",
+      "PoE Pass-Through": "Up to 15 Watts (IEEE 802.3af)",
+      "Operating Power": "12VDC / 24VAC or PoE Powered",
+      "Form Factor": "ComFit Compact Rugged Aluminum Case"
+    },
+    features: [
+      "Transmits full IP Ethernet data and PoE power over existing analog coaxial cable runs",
+      "Eliminates the enormous expense and disruption of pulling new Cat5e/Cat6 network cables",
+      "Supports distances up to 5,000 feet depending on coaxial cable gauge and quality",
+      "Dip-switch configurable as either local head-end unit or remote camera-end device"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-ec-1516cl-r",
+    sku: "EC-1516CL-R",
+    name: "ComNet EC-1516CL-R EthernetConnect 16-Port Coax Receiver with Pass-Through PoE (1RU)",
+    description: "EC-1516CL-R. EthernetConnect Local Sixteen Port Extender Coax with Pass Through PoE to 15 Watts 1 RU Rack Mount. 16-channel head-end Ethernet-over-Coax receiver hub with 15W pass-through PoE per channel in a 1RU rack-mount unit.",
+    priceUSD: 5695,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "ComNet",
+    rating: 5,
+    reviewCount: 16,
+    stock: 205,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "Channels": "16 BNC Coaxial Inputs, 16 RJ45 10/100 Ethernet Ports",
+      "Rack Height": "19-Inch 1RU Form Factor",
+      "PoE Support": "Pass-Through PoE up to 15 Watts per Channel",
+      "Operating Temp": "-40°C to +75°C Industrial Range",
+      "Chassis Material": "Hardened Heavy-Gauge Aluminum/Steel Chassis"
+    },
+    features: [
+      "Centralizes 16 coaxial camera channels into standard network ports in a single 1RU rack unit",
+      "Allows seamless migration from analog surveillance to IP cameras without rewiring",
+      "Delivers up to 15W pass-through PoE to remote cameras across long coaxial distances",
+      "Hardened operating temperature range from -40°C to +75°C for rugged telecom rooms"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-ec-3016clpoe-r",
+    sku: "EC-3016CLPOE-R",
+    name: "ComNet EC-3016CLPOE-R EthernetConnect 16-Port Coax Receiver with True 30W PoE+ (1RU)",
+    description: "EC-3016CLPOE-R. EthernetConnect Local Sixteen Port Extender Coax with True PoE to 30 Watts 1 RU Rack Mount. High-capacity 16-port Ethernet-over-Coax head-end receiver delivering True 30W PoE+ per channel over legacy coax.",
+    priceUSD: 7892.06,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "ComNet",
+    rating: 5,
+    reviewCount: 12,
+    stock: 86,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Channels": "16 BNC Coax Ports with True PoE+ Generation",
+      "PoE Standard": "IEEE 802.3at True PoE+ Up to 30W per Port",
+      "Data Rate": "10/100 Mbps Symmetrical Bandwidth per Channel",
+      "Rack Unit": "19-Inch 1RU Heavy-Duty Rack Mount",
+      "Temperature Range": "-40°C to +75°C Hardened Industrial"
+    },
+    features: [
+      "Injects full 30W True PoE+ onto every coaxial run to power PTZ and infrared IP cameras",
+      "High-bandwidth digital modulation guarantees smooth multi-megapixel video streams",
+      "Internal industrial power supply eliminates external power brick clutter in server racks",
+      "Industrial hardened design built for extreme environments and enterprise longevity"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-rack1b",
+    sku: "RACK1B",
+    name: "ComNet RACK1B 1-Slot Blank Filler Panel Plate for ComFit Chassis",
+    description: "RACK1B. 1 Slot Blank Filler Plate. Architectural blank filler panel plate designed for ComNet rack-mount card cages and equipment racks to optimize airflow cooling and visual aesthetics.",
+    priceUSD: 38.74,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "ComNet",
+    rating: 4.7,
+    reviewCount: 18,
+    stock: 66,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "Width": "1 Standard Module Slot Width",
+      "Compatibility": "ComNet C1, C2, and Standard Modular Card Cages",
+      "Material": "Rigid Anodized Aluminum with Black Powder Coating",
+      "Fasteners": "Includes Captive Thumbscrew Fasteners"
+    },
+    features: [
+      "Covers unused card slots in ComNet modular chassis to maintain proper thermal airflow",
+      "Protects internal backplanes from airborne dust, debris, and accidental contact",
+      "Precision pre-drilled holes ensure seamless alignment and rapid thumbscrew attachment",
+      "Provides a clean, professional finish across enterprise communications racks"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-ex1",
+    sku: "EX1",
+    name: "ComNet EX1 Single-Port 100Mbps Ethernet & PoE Extender (Over 100m Cat5)",
+    description: "EX1. POE Extender, Single port 100Mbps POE Extender for extending Cat 5 beyond the 100m cable limit. In-line repeater powered by PoE that repeats Ethernet signals up to an additional 100 meters.",
+    priceUSD: 453.35,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "ComNet",
+    rating: 4.8,
+    reviewCount: 23,
+    stock: 181,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "Network Speed": "10/100 Mbps Fast Ethernet",
+      "Power Source": "Powered by Incoming PoE (No AC Adapter Required)",
+      "Distance Extension": "100m Additional Distance per Unit",
+      "Form Factor": "Ultra-Compact Metal Inline Enclosure"
+    },
+    features: [
+      "Extends Cat5e/Cat6 network links beyond the 100m standard without external power supplies",
+      "Maintains full 100 Mbps Ethernet throughput across perimeter camera installations",
+      "Rugged metal housing withstands harsh plenum and outdoor enclosure conditions",
+      "Simple transparent inline connection requires zero software setup"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-pd-9501gr-ac-na",
+    sku: "PD-9501GR/AC-NA-MSI",
+    name: "Microsemi PD-9501GR/AC-NA-MSI Single Port 60W PoE+ Gigabit Injector (NA Cord)",
+    description: "PD-9501GR/AC-NA-MSI. PoE+ Single port injector 60W with North American power cord. Enterprise 60W Gigabit Power over Ethernet midspan injector designed for high-draw PTZ domes and access terminals.",
+    priceUSD: 212.4,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Microsemi",
+    rating: 4.9,
+    reviewCount: 38,
+    stock: 258,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Output Power": "60 Watts Maximum",
+      "Ethernet Speed": "10/100/1000 Mbps Gigabit Ethernet",
+      "Power Standard": "IEEE 802.3at / 4-Pair High-Power PoE",
+      "AC Input": "Universal 100-240VAC with NA Power Cord Included"
+    },
+    features: [
+      "Provides up to 60W over all 4 wire pairs for motorized PTZ cameras and IR illuminators",
+      "Full Gigabit Ethernet speeds preserve ultra-high definition video bitrates",
+      "Safety-certified internal AC power supply with North American power cord included",
+      "Diagnostic status LEDs confirm AC power and PoE load classification"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe-inj2-60w-na",
+    sku: "POE-INJ2-60W-NA",
+    name: "Avigilon POE-INJ2-60W-NA Indoor Gigabit PoE++ 60W Injector for H4 PTZ (NA Cord)",
+    description: "POE-INJ2-60W-NA. Indoor single port Gigabit PoE++ 60W; North American power cord included. May also be used in European Union, Japan, Australia, New Zealand, Mexico, China, South Korea, Russia, Argentina, Saudi Arabia, Kuwait, UAE and Brazil. Temperature range of the PoE injector is -10C to +45C (14 °F to 113 °F). When used with the H4 IR PTZ, the camera will operate in a reduced temperature range from -10 °C to +50 °C (14 °F to 122 °F).",
+    priceUSD: 223.02,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Avigilon",
+    rating: 5,
+    reviewCount: 45,
+    stock: 140,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "Compatibility": "Avigilon H4 PTZ & H4 IR PTZ High-Speed Surveillance Cameras",
+      "PoE Output": "60W PoE++ (IEEE 802.3bt compliant)",
+      "Operating Range": "-10°C to +45°C (14°F to 113°F)",
+      "Power Cord": "North American Standard NEMA 5-15P Power Cord Included"
+    },
+    features: [
+      "Official Avigilon 60W PoE++ injector matched to H4 PTZ and H4 IR PTZ power demands",
+      "Enables continuous pan/tilt/zoom operation and integrated infrared illuminators",
+      "Certified for international deployment across North America, EU, Japan, and Australia",
+      "Includes heavy-duty North American grounded electrical cord"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe-inj2-std-au",
+    sku: "POE-INJ2-STD-AU",
+    name: "Avigilon POE-INJ2-STD-AU Single Port Gigabit 802.3af PoE Injector Class 3 (AU Cord)",
+    description: "POE-INJ2-STD-AU. Indoor single port Gigabit 802.3af PoE injector; Class 3 - AU power cord. Injector temperature range 0°C to +40°C (32°F to 104°F). Designed for Avigilon fixed domes and bullet cameras.",
+    priceUSD: 104.09,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 219,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3af Class 3 (15.4W)",
+      "Data Rate": "10/100/1000 Mbps Gigabit Ethernet",
+      "Power Cord": "Australian Plug Type I Cord Included",
+      "Operating Temperature": "0°C to +40°C (32°F to 104°F)"
+    },
+    features: [
+      "Engineered specifically for Avigilon fixed dome, bullet, and panoramic network cameras",
+      "IEEE 802.3af Class 3 power delivery ensures safe operation without over-voltage risks",
+      "Includes Australian/New Zealand certified mains electrical power cord",
+      "Compact plug-and-play desktop design with wall-mounting bracket slots"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe-inj2-std-na",
+    sku: "POE-INJ2-STD-NA",
+    name: "Avigilon POE-INJ2-STD-NA Single Port Gigabit 802.3af PoE Injector Class 3 (NA Cord)",
+    description: "POE-INJ2-STD-NA. Indoor single port Gigabit 802.3af PoE injector; Class 3 - NA power cord. Injector temperature range 0°C to +40°C (32°F to 104°F). Standard power injector for Avigilon fixed IP cameras.",
+    priceUSD: 104.09,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 48,
+    stock: 292,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3af Class 3 (15.4W)",
+      "Data Speed": "10/100/1000 Mbps Gigabit Ethernet",
+      "Power Cord": "North American NEMA 5-15P Cord Included",
+      "Operating Temp": "0°C to +40°C (32°F to 104°F)"
+    },
+    features: [
+      "Official Avigilon Class 3 PoE power injector for fixed indoor/outdoor camera models",
+      "Transmits 15.4W of stable DC power alongside full Gigabit network data",
+      "North American 3-prong grounded plug included in retail packaging",
+      "Low standby power draw meets commercial energy efficiency guidelines"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe-inj2-std-uk",
+    sku: "POE-INJ2-STD-UK",
+    name: "Avigilon POE-INJ2-STD-UK Single Port Gigabit 802.3af PoE Injector Class 3 (UK Cord)",
+    description: "POE-INJ2-STD-UK. Indoor single port Gigabit 802.3af PoE injector; Class 3 - UK power cord. Injector temperature range 0°C to +40°C (32°F to 104°F).",
+    priceUSD: 104.09,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Avigilon",
+    rating: 4.9,
+    reviewCount: 26,
+    stock: 203,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3af Class 3 (15.4W)",
+      "Data Speed": "10/100/1000 Mbps Gigabit Ethernet",
+      "Power Cord": "UK BS 1363 3-Pin Fused Power Lead Included",
+      "Operating Temp": "0°C to +40°C (32°F to 104°F)"
+    },
+    features: [
+      "Supplies IEEE 802.3af Class 3 power for Avigilon network surveillance cameras",
+      "Supplied with UK British Standard BS 1363 fused 3-pin power cable",
+      "Isolated internal power regulation prevents ground loops and electrical interference",
+      "Built-in LED indicators show live power presence and active Ethernet connectivity"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe60u-1bte-2",
+    sku: "POE60U-1BTE",
+    name: "Phihong POE60U-1BTE Indoor Single Port Gigabit 60W IEEE 802.3bt PoE Midspan Injector",
+    description: "POE60U-1BTE. Gigabit 802.3bt 60 W PoE Injector; Indoor; single port. Enterprise single-port PoE injector supplying 60W over standard Ethernet cabling.",
+    priceUSD: 223.02,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Phihong",
+    rating: 4.9,
+    reviewCount: 31,
+    stock: 94,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3bt Type 3 60W",
+      "Speed": "10/100/1000 Mbps Gigabit",
+      "Port Count": "1 Data In (RJ45), 1 Data+Power Out (RJ45)",
+      "Protection": "Short-Circuit & Over-Current Auto-Recovery"
+    },
+    features: [
+      "Delivers up to 60W of power across all 4 Ethernet wire pairs for heavy IoT loads",
+      "Seamlessly powers pan/tilt/zoom cameras, multi-sensor imagers, and wireless APs",
+      "Auto-sensing circuitry delivers only the wattage requested by connected devices",
+      "Durable non-conductive plastic casing with integrated wall-mount screw slots"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poe90u-1bt-2",
+    sku: "POE90U-1BT",
+    name: "Phihong POE90U-1BT Single Port 90W 802.3bt Ultra PoE Injector (Commercial)",
+    description: "POE90U-1BT. PoE injector 802.3bt 90W Single Port. High-capacity 90-watt 802.3bt PoE injector with auto-sensing Gigabit Ethernet.",
+    priceUSD: 359.96,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Phihong",
+    rating: 5,
+    reviewCount: 22,
+    stock: 101,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3bt Type 4 (90W Class 8)",
+      "Output Voltage": "56V DC Regulated",
+      "Throughput": "10/100/1000 Mbps Gigabit Data Rate",
+      "Efficiency": "Meets DoE Level VI Energy Efficiency"
+    },
+    features: [
+      "Full 90W output capacity under IEEE 802.3bt Type 4 specifications",
+      "Powers harsh-climate security enclosures with built-in defrosters and blowers",
+      "Advanced diagnostics with multi-color LED power and load level status",
+      "Shielded RJ45 ports eliminate electromagnetic interference across dense rack environments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poea30u-au",
+    sku: "POEA30U-1ATE-M-R-AU-MSI",
+    name: "Microsemi POEA30U-1ATE-M-R-AU-MSI 30W Gigabit PoE+ Injector (Australian Cord)",
+    description: "POEA30U-1ATE-M-R-AU-MSI. PoE+ Single port injector 30W with Australian power cord. 30W IEEE 802.3at Gigabit PoE+ midspan injector with AS/NZS 3112 Australian power lead.",
+    priceUSD: 124.81,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Microsemi",
+    rating: 4.8,
+    reviewCount: 25,
+    stock: 278,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3at PoE+ (30W)",
+      "Mains Input": "Universal 100-240V AC with Australian AS/NZS 3112 Lead",
+      "Network Rate": "10/100/1000 Mbps Full Duplex",
+      "Protection": "Internal Surge & Short-Circuit Safeguards"
+    },
+    features: [
+      "Injects 30W PoE+ onto Gigabit Ethernet runs for Australian and New Zealand installations",
+      "Shipped with compliant 3-prong Australian mains power cord",
+      "Safely powers PTZ presets, motorized zoom lenses, and VoIP door phones",
+      "Compact desktop casing with LED power indicators"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poea30u-eu",
+    sku: "POEA30U-1ATE-M-R-EU-MSI",
+    name: "Microsemi POEA30U-1ATE-M-R-EU-MSI 30W Gigabit PoE+ Injector (European Schuko Cord)",
+    description: "POEA30U-1ATE-M-R-EU-MSI. PoE+ Single port injector 30W with European power cord. 30W IEEE 802.3at Gigabit PoE+ midspan injector with European 2-pin CEE 7/7 Schuko power lead.",
+    priceUSD: 124.81,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Microsemi",
+    rating: 4.8,
+    reviewCount: 21,
+    stock: 86,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3at PoE+ (30W)",
+      "Mains Input": "Universal 100-240V AC with European CEE 7/7 Schuko Cord",
+      "Network Rate": "10/100/1000 Mbps Full Duplex",
+      "Compliance": "CE, RoHS, WEEE Certified"
+    },
+    features: [
+      "Supplies 30W IEEE 802.3at Power over Ethernet across European continental facilities",
+      "Supplied with certified European 2-pin grounded Schuko mains cable",
+      "Protects non-PoE network interfaces via intelligent signature detection",
+      "Engineered for 24/7 reliability in security operations centers"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poea30u-na-2",
+    sku: "POEA30U-1ATE-M-R-NA-MSI",
+    name: "Microsemi POEA30U-1ATE-M-R-NA-MSI 30W Gigabit PoE+ Injector (North American Cord, Rev B)",
+    description: "POEA30U-1ATE-M-R-NA-MSI. PoE+ Single port injector 30W with North American power cord. Standard single-port Gigabit PoE+ power injector delivering 30 Watts of regulated 56V DC power.",
+    priceUSD: 124.81,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Microsemi",
+    rating: 4.9,
+    reviewCount: 39,
+    stock: 298,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3at PoE+ (30W)",
+      "Output Voltage": "56V DC Regulated Output",
+      "Cable Included": "North American NEMA 5-15P 3-Prong Cord",
+      "Data Rate": "10/100/1000 Mbps Gigabit"
+    },
+    features: [
+      "Delivers reliable 30W PoE+ power to high-resolution IP surveillance cameras",
+      "Grounding wire and 3-prong North American plug eliminate static charge buildup",
+      "Auto-detects PoE Class to safely regulate voltage output",
+      "Compact footprint installs cleanly into telecom enclosures and rack trays"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-poea30u-uk",
+    sku: "POEA30U-1ATE-M-R-UK-MSI",
+    name: "Microsemi POEA30U-1ATE-M-R-UK-MSI 30W Gigabit PoE+ Injector (UK 3-Pin Cord)",
+    description: "POEA30U-1ATE-M-R-UK-MSI. PoE+ Single port injector 30W with United Kingdom power cord. 30W IEEE 802.3at Gigabit PoE+ midspan injector with BS 1363 fused UK power lead.",
+    priceUSD: 124.81,
+    category: "Networking & Connectivity",
+    subcategory: "Network Accessories",
+    brand: "Microsemi",
+    rating: 4.8,
+    reviewCount: 27,
+    stock: 88,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png"
+    ],
+    specs: {
+      "PoE Standard": "IEEE 802.3at PoE+ (30W)",
+      "Mains Input": "Universal 100-240V AC with UK BS 1363 Fused Cord",
+      "Throughput": "10/100/1000 Mbps Gigabit Full Duplex",
+      "Safety Certifications": "UKCA, CE, RoHS"
+    },
+    features: [
+      "30W PoE+ midspan injector equipped with British Standard BS 1363 3-pin fused plug",
+      "Supplies stable DC power over Cat5e/Cat6 cables up to 100 meters",
+      "Protects against voltage spikes, surges, and short circuits",
+      "Ideal for UK and Commonwealth commercial surveillance and access control deployments"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-cbs350-8fp-e-2g-uk",
+    sku: "CBS350-8FP-E-2G-UK",
+    name: "Cisco Business CBS350-8FP-E-2G-UK 10-Port Gigabit Managed Switch (8 PoE+ 120W, 2 Combo SFP, UK Cord)",
+    description: "CBS350-8FP-E-2G-UK. 10-port Gigabit Managed Switch (8 PoE+ budget 120W; 2 copper/SFP combo) - UK. Enterprise Layer 2/3 managed switch featuring 8 Gigabit PoE+ ports with 120W budget and 2 combo Gigabit RJ45/SFP uplink ports with UK power cord.",
+    priceUSD: 1157.57,
+    category: "Networking & Connectivity",
+    subcategory: "Managed Switches",
+    brand: "Cisco",
+    rating: 5,
+    reviewCount: 41,
+    stock: 100,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "Total Ports": "10 Ports (8 Gigabit PoE+ RJ45, 2 Combo Gigabit RJ45/SFP Slots)",
+      "PoE Power Budget": "120 Watts Dedicated PoE+ Budget",
+      "Switching Capacity": "20 Gbps Non-Blocking Forwarding Bandwidth",
+      "Management Features": "Layer 2/3 Static Routing, VLANs, QoS, IPv6, Web GUI & CLI",
+      "Power Cord": "UK BS 1363 Power Cord Included"
+    },
+    features: [
+      "High-reliability Cisco Business 350 series switch with robust Layer 2/3 network management",
+      "8 Gigabit PoE+ ports power surveillance cameras, VoIP phones, and Wi-Fi access points",
+      "Dual combo SFP uplink ports enable fiber backbone runs between buildings and floors",
+      "Advanced security with 802.1X port security, ACLs, and DoS attack prevention"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-es-ps-s4-npc",
+    sku: "ES-PS-S4-NPC",
+    name: "Avigilon ES-PS-S4-NPC Outdoor Hardened IP66 5-Port Gigabit Managed PoE Switch for H4 PTZ",
+    description: "ES-PS-S4-NPC. Managed switch; 5 port; Outdoor IP66; -40°C (-40°F) to 50°C (122°F); Gigabit Ethernet; AC power input. 1x SFP uplink and 4 port RJ45. No power cord. Maximum PoE power allocation: Up to 4 ports of PoE+ each; or 2 ports of 60W PoE each. In 60W PoE mode; compatible with all H4 PTZ and H4 IR PTZ.",
+    priceUSD: 2286.55,
+    category: "Networking & Connectivity",
+    subcategory: "Routers",
+    brand: "Avigilon",
+    rating: 5,
+    reviewCount: 33,
+    stock: 258,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Enclosure": "Hardened IP66 Weatherproof & Dust-Tight Outdoor Enclosure",
+      "Ports": "4 RJ45 Gigabit PoE Ports + 1 SFP Gigabit Fiber Uplink Port",
+      "PoE Capability": "Up to 4 Ports PoE+ (30W each) or 2 Ports 60W PoE++",
+      "Camera Compatibility": "Specifically Matched to Avigilon H4 PTZ & H4 IR PTZ Cameras",
+      "Operating Temperature": "-40°C (-40°F) to +50°C (122°F)"
+    },
+    features: [
+      "Industrial IP66 weatherproof enclosure mounts directly onto exterior poles and walls",
+      "Configurable PoE delivery: powers up to 4 standard PoE+ cameras or 2 heavy 60W PTZ domes",
+      "Integrated SFP optical port provides isolated high-speed fiber uplink over kilometers",
+      "Extreme -40°C to +50°C temperature endurance for demanding outdoor perimeter deployments"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-sm24tat2sa-na",
+    sku: "SM24TAT2SA-NA",
+    name: "Lantronix SM24TAT2SA-NA 26-Port Gigabit Managed Switch (24 PoE+ 370W, 2 SFP, NA Cord)",
+    description: "SM24TAT2SA-NA. 26-Port Gigabit Managed Switch (24) PoE+ budget 370W; (2) SFP - NA. Smart managed 24-port Gigabit PoE+ switch with 2 Gigabit SFP uplink slots, 370W total PoE power budget, and North American power cord.",
+    priceUSD: 2023.44,
+    category: "Networking & Connectivity",
+    subcategory: "PoE Switches",
+    brand: "Lantronix",
+    rating: 5,
+    reviewCount: 46,
+    stock: 135,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM24TAT2SA.jpg"
+    ],
+    specs: {
+      "Total Ports": "24 Gigabit Copper PoE+ Ports + 2 100/1000 SFP Slots",
+      "PoE Power Budget": "370 Watts Full PoE+ Budget",
+      "Switch Management": "Smart Managed Layer 2/2+ with Web GUI, SNMP, VLAN & QoS",
+      "Chassis": "19-Inch 1U Standard Rack Mount with Hardware Included",
+      "Power Cord": "North American NEMA 5-15P Cable Included"
+    },
+    features: [
+      "24 Gigabit PoE+ ports with 370W budget easily powers full security camera networks",
+      "Dual SFP optical transceiver slots provide flexible fiber backbones to core server rooms",
+      "Smart managed interface offers port power rebooting, scheduling, and bandwidth throttling",
+      "Heavy-duty internal cooling and surge suppression ensure high reliability"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-sm8tat2sa-eu",
+    sku: "SM8TAT2SA-EU",
+    name: "Lantronix SM8TAT2SA-EU 10-Port Gigabit Managed Switch (8 PoE+ 130W, 2 SFP, EU Cord)",
+    description: "SM8TAT2SA-EU. 10-Port Gigabit Managed Switch (8) PoE+ budget 130W; (2) SFP - EU. Industrial smart managed 8-port Gigabit PoE+ switch with 2 Gigabit SFP uplink slots, 130W PoE power budget, and European power cord.",
+    priceUSD: 1021.73,
+    category: "Networking & Connectivity",
+    subcategory: "PoE Switches",
+    brand: "Lantronix",
+    rating: 4.9,
+    reviewCount: 29,
+    stock: 162,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Total Ports": "8 Gigabit RJ45 PoE+ Ports + 2 100/1000 SFP Uplink Slots",
+      "PoE Budget": "130 Watts Aggregate PoE+ Power",
+      "Management": "Industrial Smart Managed with Auto-Camera Reboot (DMS)",
+      "Form Factor": "Desktop / 19-Inch Rack Mount (Brackets Included)",
+      "Power Cord": "European Continental Schuko Cord Included"
+    },
+    features: [
+      "Compact 8-port Gigabit PoE+ switch with generous 130W power pool for multi-camera hubs",
+      "Dual optical SFP cages allow daisy-chaining and fiber uplinks across campuses",
+      "Built-in Device Management System (DMS) auto-detects and visually maps IP cameras",
+      "European grounded electrical power cord included in package"
+    ],
+    isChoice: true,
+    isBestSeller: false,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-sm8tat2sa-na",
+    sku: "SM8TAT2SA-NA",
+    name: "Lantronix SM8TAT2SA-NA 10-Port Gigabit Managed Switch (8 PoE+ 130W, 2 SFP, NA Cord)",
+    description: "SM8TAT2SA-NA. 10-Port Gigabit Managed Switch (8) PoE+ budget 130W; (2) SFP - NA. Industrial smart managed 8-port Gigabit PoE+ switch with 2 Gigabit SFP uplink slots, 130W PoE power budget, and North American power cord.",
+    priceUSD: 1021.73,
+    category: "Networking & Connectivity",
+    subcategory: "PoE Switches",
+    brand: "Lantronix",
+    rating: 4.9,
+    reviewCount: 44,
+    stock: 64,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Total Ports": "8 Gigabit RJ45 PoE+ Ports + 2 100/1000 SFP Uplink Slots",
+      "PoE Budget": "130 Watts Dedicated PoE+ Power",
+      "Management": "Smart Managed Layer 2 with Device Management System (DMS)",
+      "Form Factor": "Desktop or 19-Inch Rack Mount",
+      "Power Cord": "North American NEMA 5-15P Cord Included"
+    },
+    features: [
+      "8 PoE+ ports delivering up to 30W per port with 130W total budget for edge clusters",
+      "Embedded Device Management System (DMS) monitors camera uptime and auto-cycles frozen ports",
+      "Dual Gigabit SFP fiber cages provide noise-immune uplink over extended distances",
+      "North American 3-prong grounded power cord included"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: false,
+    createdAt: "2026-09-17T15:15:00.000Z"
+  },
+  {
+    id: "prod-net-sm24tat2sa-eu",
+    sku: "SM24TAT2SA-EU",
+    name: "Lantronix SM24TAT2SA-EU 26-Port Gigabit Managed Switch (24 PoE+ 370W, 2 SFP, EU Cord)",
+    description: "SM24TAT2SA-EU. 26-Port Gigabit Managed Switch (24) PoE+ budget 370W; (2) SFP - EU. Smart managed 24-port Gigabit PoE+ switch with 2 Gigabit SFP uplink slots, 370W PoE budget, and European power cord.",
+    priceUSD: 2023.44,
+    category: "Networking & Connectivity",
+    subcategory: "PoE Switches",
+    brand: "Lantronix",
+    rating: 5,
+    reviewCount: 38,
+    stock: 56,
+    images: [
+      "https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Lantronix%20PoE%20Switch/LANTRONIX-POE_SM8TAT2SA.jpg"
+    ],
+    specs: {
+      "Total Ports": "24 Gigabit Copper PoE+ Ports + 2 Gigabit SFP Slots",
+      "PoE Budget": "370 Watts High-Power Budget",
+      "Management": "Full Layer 2 Smart Management with Web GUI & SNMP",
+      "Form Factor": "19-Inch 1U Standard Rack Mount",
+      "Power Cord": "European Continental Schuko Cord Included"
+    },
+    features: [
+      "High-density 24-port PoE+ rack switch delivering 370W aggregate power",
+      "Auto-detects and automatically powers 802.3af/at IP cameras and VoIP devices",
+      "Dual SFP optical ports connect seamlessly to building fiber distribution cores",
+      "Includes European Schuko power cable and rack-mounting hardware"
+    ],
+    isChoice: true,
+    isBestSeller: true,
+    featured: true,
+    createdAt: "2026-09-17T15:15:00.000Z"
   }
 ];
 

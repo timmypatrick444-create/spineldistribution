@@ -2,12 +2,12 @@ import React from 'react';
 import { ShieldCheck, Zap, Lock } from 'lucide-react';
 import { useCurrency } from '../context/CurrencyContext';
 
-interface AmazonFooterProps {
+export interface FooterProps {
   onNavigate: (view: string, param?: string) => void;
   noMarginTop?: boolean;
 }
 
-export const AmazonFooter: React.FC<AmazonFooterProps> = ({ onNavigate, noMarginTop = false }) => {
+export const Footer: React.FC<FooterProps> = ({ onNavigate, noMarginTop = false }) => {
   const { exchangeRate } = useCurrency();
 
   const scrollToTop = () => {

@@ -12,7 +12,7 @@ import { useCart } from '../context/CartContext';
 import { useAuth } from '../context/AuthContext';
 import { CATEGORIES } from '../data/categories';
 
-interface AmazonHeaderProps {
+export interface HeaderProps {
   onOpenDrawer: () => void;
   onSearch?: (query: string, category?: string) => void;
   onSearchSubmit?: (query: string, category?: string) => void;
@@ -21,7 +21,7 @@ interface AmazonHeaderProps {
   onNavigate: (view: string, param?: string) => void;
 }
 
-export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
+export const Header: React.FC<HeaderProps> = ({
   onOpenDrawer,
   onSearch,
   onSearchSubmit,
@@ -99,139 +99,134 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
             className="absolute right-0 mt-1 w-52 bg-white text-gray-800 rounded-md shadow-2xl border border-gray-200 py-2 z-50 text-xs sm:text-sm"
             onMouseLeave={() => setCurrencyMenuOpen(false)}
           >
-            <div className="px-3 py-1 font-semibold text-gray-500 border-b border-gray-100 uppercase tracking-wider text-[10px]">
-              Select Currency
+            <div className="px-4 py-2 font-bold text-gray-500 border-b border-gray-100 uppercase tracking-wider text-[11px]">
+              Currency Settings
             </div>
             <button
               type="button"
               onClick={() => { setCurrency('USD'); setCurrencyMenuOpen(false); }}
-              className={`w-full text-left px-3 py-2 flex items-center justify-between hover:bg-gray-100 transition-colors ${currency === 'USD' ? 'font-bold text-[#b12704] bg-amber-50/60' : ''}`}
+              className={`w-full text-left px-4 py-2.5 flex items-center justify-between hover:bg-gray-50 transition-colors ${currency === 'USD' ? 'font-bold text-[#b12704] bg-amber-50' : 'text-gray-700'}`}
             >
-              <span className="flex items-center gap-2.5">
+              <div className="flex items-center gap-2">
                 <img 
                   src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788620186/usa-flag.png" 
-                  alt="USA Flag" 
-                  className="w-5 h-3.5 object-cover rounded-xs border border-gray-300 shadow-xs"
+                  alt="USA" 
+                  className="w-4 h-3 object-cover rounded-xs"
                   referrerPolicy="no-referrer"
                 />
-                <span>USD (US Dollar)</span>
-              </span>
-              {currency === 'USD' && <span>✓</span>}
+                <span>USD - US Dollar ($)</span>
+              </div>
+              {currency === 'USD' && <span className="text-[#b12704] font-bold">✓</span>}
             </button>
             <button
               type="button"
               onClick={() => { setCurrency('NGN'); setCurrencyMenuOpen(false); }}
-              className={`w-full text-left px-3 py-2 flex items-center justify-between hover:bg-gray-100 transition-colors ${currency === 'NGN' ? 'font-bold text-[#b12704] bg-amber-50/60' : ''}`}
+              className={`w-full text-left px-4 py-2.5 flex items-center justify-between hover:bg-gray-50 transition-colors ${currency === 'NGN' ? 'font-bold text-[#b12704] bg-amber-50' : 'text-gray-700'}`}
             >
-              <span className="flex items-center gap-2.5">
+              <div className="flex items-center gap-2">
                 <img 
                   src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788620186/nigeria-flag.png" 
-                  alt="Nigeria Flag" 
-                  className="w-5 h-3.5 object-cover rounded-xs border border-gray-300 shadow-xs"
+                  alt="Nigeria" 
+                  className="w-4 h-3 object-cover rounded-xs"
                   referrerPolicy="no-referrer"
                 />
-                <span>NGN (Nigerian Naira)</span>
-              </span>
-              {currency === 'NGN' && <span>✓</span>}
+                <span>NGN - Nigerian Naira (₦)</span>
+              </div>
+              {currency === 'NGN' && <span className="text-[#b12704] font-bold">✓</span>}
             </button>
           </div>
         )}
       </div>
 
-      {/* 2-REQUEST QUOTE NAV BUTTON: BACKGROUND #FEBD69 */}
+      {/* 2-REQUEST QUOTE: HIGH-VISIBILITY PROFESSIONAL ACTION BUTTON */}
       <button
         type="button"
-        onClick={() => onNavigate('quote')}
-        className="flex items-center gap-1.5 px-2.5 sm:px-3.5 py-1.5 bg-[#FEBD69] hover:bg-[#f3a847] active:bg-[#e29b3c] text-[#111] font-extrabold text-[11px] sm:text-xs md:text-sm rounded border border-[#df9b3e] shadow-sm hover:shadow transition-all cursor-pointer whitespace-nowrap"
-        title="Request Enterprise Quotation (RFQ)"
+        onClick={() => onNavigate('request-quote')}
+        className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 bg-[#febd69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs sm:text-sm rounded-md transition-all shadow-sm cursor-pointer whitespace-nowrap"
+        title="Request Official Corporate Quote / Proforma Invoice"
       >
         <FileText size={15} className="stroke-[2.5]" />
-        <span className={isMobile ? "hidden sm:inline" : "inline"}>Request Quote</span>
+        <span>Request Quote</span>
       </button>
 
-      {/* 3-ACCOUNTS: HOVER BORDER #6b7280 */}
+      {/* 3-ACCOUNTS & LISTS DROPDOWN */}
       <div className="relative">
-        <div
-          onClick={() => setAccountMenuOpen(!accountMenuOpen)}
-          className="p-1 sm:p-1.5 rounded cursor-pointer leading-tight border border-transparent hover:border-[#6b7280] transition-colors"
+        <div 
+          onClick={() => {
+            if (user) {
+              setAccountMenuOpen(!accountMenuOpen);
+            } else {
+              onNavigate('auth');
+            }
+          }}
+          className="flex flex-col justify-center p-1 sm:p-1.5 rounded cursor-pointer border border-transparent hover:border-[#6b7280] transition-colors leading-tight"
         >
-          <div className="text-[10px] sm:text-xs text-gray-300 truncate max-w-[100px] sm:max-w-[120px]">
+          <span className="text-[10px] sm:text-xs text-gray-300">
             {user ? `Hello, ${user.fullName.split(' ')[0]}` : 'Hello, sign in'}
-          </div>
-          <div className="text-[11px] sm:text-xs md:text-sm font-bold text-white flex items-center gap-0.5">
-            <span>Accounts</span>
-            <ChevronDown size={12} className="text-gray-400" />
+          </span>
+          <div className="flex items-center gap-0.5 font-bold text-xs sm:text-sm text-white">
+            <span>Account</span>
+            <ChevronDown size={11} className="text-gray-300" />
           </div>
         </div>
 
-        {accountMenuOpen && (
+        {/* Account popup */}
+        {accountMenuOpen && user && (
           <div 
-            className="absolute right-0 mt-1 w-64 bg-white text-gray-800 rounded-md shadow-2xl border border-gray-200 py-3 z-50 text-sm"
+            className="absolute right-0 mt-1 w-64 bg-white text-gray-800 rounded-md shadow-2xl border border-gray-200 py-3 z-50 text-xs sm:text-sm"
             onMouseLeave={() => setAccountMenuOpen(false)}
           >
-            {!user ? (
-              <div className="px-4 pb-3 border-b border-gray-200 text-center">
-                <button
-                  type="button"
-                  onClick={() => { setAccountMenuOpen(false); onNavigate('auth'); }}
-                  className="w-full bg-[#f0c14b] hover:bg-[#e2b33c] text-black font-semibold py-2 px-4 rounded border border-[#a88734] shadow-sm text-xs sm:text-sm cursor-pointer"
-                >
-                  Sign in to your account
-                </button>
-                <p className="text-xs text-gray-600 mt-2">
-                  New customer?{' '}
-                  <span 
-                    onClick={() => { setAccountMenuOpen(false); onNavigate('auth'); }}
-                    className="text-blue-600 hover:underline cursor-pointer font-medium"
-                  >
-                    Start here.
-                  </span>
-                </p>
-              </div>
-            ) : (
-              <div className="px-4 pb-2 border-b border-gray-200">
-                <div className="text-xs text-gray-500">Signed in as:</div>
-                <div className="font-bold text-gray-900 truncate">{user.email}</div>
-              </div>
-            )}
-
-            <div className="py-2 px-3 text-xs sm:text-sm space-y-1">
-              <div className="font-bold text-gray-700 text-[11px] uppercase tracking-wider mb-1">
-                Your Account
-              </div>
-              <button
-                type="button"
-                onClick={() => { setAccountMenuOpen(false); onNavigate('orders'); }}
-                className="w-full text-left px-2 py-1.5 hover:bg-gray-100 rounded text-gray-700 flex items-center gap-2"
-              >
-                <FileText size={15} className="text-gray-500" />
-                Your Orders &amp; Invoices
-              </button>
-              <button
-                type="button"
-                onClick={() => { setAccountMenuOpen(false); onNavigate('quote'); }}
-                className="w-full text-left px-2 py-1.5 hover:bg-gray-100 rounded text-gray-700 flex items-center gap-2"
-              >
-                <FileText size={15} className="text-gray-500" />
-                Request Quote / RFQ
-              </button>
-
-              {user && (
-                <button
-                  type="button"
-                  onClick={() => { customerLogout(); setAccountMenuOpen(false); }}
-                  className="w-full text-left px-2 py-1.5 hover:bg-red-50 text-red-600 rounded flex items-center gap-2 mt-1 border-t border-gray-100"
-                >
-                  <LogOut size={15} />
-                  Sign Out
-                </button>
+            <div className="px-4 pb-2 border-b border-gray-100">
+              <div className="font-bold text-gray-900 truncate">{user.fullName}</div>
+              <div className="text-xs text-gray-500 truncate">{user.email}</div>
+              {user.company && (
+                <div className="text-[11px] text-blue-600 font-medium truncate mt-0.5">{user.company}</div>
               )}
+            </div>
+
+            <div className="py-1">
+              <button
+                type="button"
+                onClick={() => { onNavigate('orders'); setAccountMenuOpen(false); }}
+                className="w-full text-left px-4 py-2 hover:bg-gray-100 flex items-center justify-between text-gray-700"
+              >
+                <span>Your Orders &amp; Invoices</span>
+              </button>
+              
+              <button
+                type="button"
+                onClick={() => { onNavigate('request-quote'); setAccountMenuOpen(false); }}
+                className="w-full text-left px-4 py-2 hover:bg-gray-100 flex items-center justify-between text-gray-700"
+              >
+                <span>Request B2B Quote</span>
+              </button>
+            </div>
+
+            <div className="pt-2 border-t border-gray-100 px-4">
+              <button
+                type="button"
+                onClick={() => { customerLogout(); setAccountMenuOpen(false); }}
+                className="w-full text-left py-1 text-red-600 hover:text-red-700 font-medium flex items-center gap-2"
+              >
+                <LogOut size={14} />
+                Sign Out
+              </button>
             </div>
           </div>
         )}
       </div>
 
-      {/* Amazon Cart with Circular, Slowly Blinking Count Badge */}
+      {/* 4-ORDERS & INVOICES DIRECT LINK */}
+      <div 
+        onClick={() => onNavigate('orders')}
+        className="hidden md:flex flex-col justify-center p-1 sm:p-1.5 rounded cursor-pointer border border-transparent hover:border-[#6b7280] transition-colors leading-tight"
+        title="View Past Orders &amp; Download Invoices"
+      >
+        <span className="text-[10px] sm:text-xs text-gray-300">Returns</span>
+        <span className="font-bold text-xs sm:text-sm text-white">&amp; Orders</span>
+      </div>
+
+      {/* 5-SHOPPING CART WITH BADGE */}
       <div 
         onClick={() => onNavigate('cart')}
         className="flex items-center p-1 sm:p-1.5 rounded cursor-pointer relative border border-transparent hover:border-[#6b7280] transition-colors"
@@ -257,7 +252,7 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
       onSubmit={handleSearchSubmit} 
       className={`relative flex items-center h-10 sm:h-11 rounded-md bg-white text-black min-w-0 ${className}`}
     >
-      {/* Category Dropdown inside Search - Styled cleanly with 'All' */}
+      {/* Category Dropdown inside Search */}
       <div className="relative h-full flex items-center shrink-0">
         <button
           type="button"
@@ -330,25 +325,25 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
   return (
     <header className="sticky top-0 z-40 w-full max-w-full flex flex-col font-sans select-none shadow-md">
       
-      {/* Top Primary Amazon Navbar with consistent gutter: w-full px-4 sm:px-6 lg:px-8 */}
+      {/* Top Primary Navbar with consistent gutter: w-full px-4 sm:px-6 lg:px-8 */}
       <div className="bg-[#131921] text-white w-full px-4 sm:px-6 lg:px-8 py-2">
         
         {/* DESKTOP LAYOUT (lg and up): Brand on Left, Search in Middle, Actions on Right */}
         <div className="hidden lg:flex items-center justify-between gap-4 w-full">
-          {/* Brand Logo - Official SPINEL DISTRIBUITION */}
+          {/* Brand Logo - Official SPINEL DISTRIBUTION */}
           <div 
             onClick={() => onNavigate('home')}
             className="flex items-center gap-3 p-1 rounded cursor-pointer shrink-0 transition-opacity"
-            title="SPINEL DISTRIBUITION - Homepage"
+            title="SPINEL DISTRIBUTION - Homepage"
           >
             <img 
               src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788619290/Spinel_Distribution.jpg"
-              alt="SPINEL DISTRIBUITION"
+              alt="SPINEL DISTRIBUTION"
               className="h-11 w-auto min-w-[48px] object-contain rounded bg-white p-1 shadow-md"
               referrerPolicy="no-referrer"
             />
             <span className="font-extrabold tracking-tight text-white text-base xl:text-lg leading-tight uppercase font-sans whitespace-nowrap">
-              SPINEL DISTRIBUITION
+              SPINEL DISTRIBUTION
             </span>
           </div>
 
@@ -367,15 +362,19 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
           <div className="flex items-center justify-between gap-2 w-full">
             <div 
               onClick={() => onNavigate('home')}
-              className="flex items-center p-0.5 rounded cursor-pointer shrink-0"
-              title="SPINEL DISTRIBUITION - Homepage"
+              className="flex items-center gap-2 sm:gap-2.5 p-0.5 rounded cursor-pointer shrink-0"
+              title="SPINEL DISTRIBUTION - Homepage"
             >
               <img 
                 src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788619290/Spinel_Distribution.jpg"
-                alt="SPINEL DISTRIBUITION"
+                alt="SPINEL DISTRIBUTION"
                 className="h-9 w-auto min-w-[36px] object-contain rounded bg-white p-1 shadow-md"
                 referrerPolicy="no-referrer"
               />
+              {/* Text logo shown on tablet (sm & md) but hidden on mobile (< sm) */}
+              <span className="hidden sm:inline-block font-extrabold tracking-tight text-white text-sm md:text-base leading-tight uppercase font-sans whitespace-nowrap">
+                SPINEL DISTRIBUTION
+              </span>
             </div>
 
             {/* Action buttons on mobile/tablet */}
@@ -390,7 +389,7 @@ export const AmazonHeader: React.FC<AmazonHeaderProps> = ({
 
       </div>
 
-      {/* Sub Navbar (Amazon Dark Slate #232f3e) with exact matching gutter: w-full px-4 sm:px-6 lg:px-8 */}
+      {/* Sub Navbar with exact matching gutter: w-full px-4 sm:px-6 lg:px-8 */}
       <div className="bg-[#232f3e] text-white w-full px-4 sm:px-6 lg:px-8 py-1 flex items-center gap-4 text-xs font-medium overflow-x-auto whitespace-nowrap scrollbar-none shadow-sm">
         
         {/* All Products Drawer Toggle */}

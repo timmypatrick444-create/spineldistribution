@@ -110,7 +110,7 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
         </span>
       </nav>
 
-      {/* Main PDP 3-Column Amazon Layout (Gallery | Details | Buy Box) */}
+      {/* Main PDP 3-Column Layout (Gallery | Details | Buy Box) */}
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
         
         {/* Left: Interactive Image Gallery (Col 1-5) */}
@@ -160,7 +160,7 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
             {product.name}
           </h1>
 
-          {/* Amazon Choice & Reviews */}
+          {/* Choice Badge & Reviews */}
           <div className="flex flex-wrap items-center gap-3 pb-4 border-b border-gray-200 text-xs sm:text-sm">
             {product.isChoice && (
               <span className="bg-[#131921] text-white font-bold px-2.5 py-0.5 rounded text-xs flex items-center gap-1">
@@ -266,7 +266,7 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
 
         </div>
 
-        {/* Right: Amazon Buy Box (Col 10-12) */}
+        {/* Right: Buy Box (Col 10-12) */}
         <div className="lg:col-span-3">
           <div className="bg-white border border-gray-300 rounded-xl p-5 sm:p-6 shadow-sm space-y-4 text-xs sm:text-sm">
             
@@ -324,7 +324,7 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
             {/* ACTION BUTTONS: EITHER (Add to Cart + Buy Now) OR (Request Quote) */}
             {hasPrice ? (
               <div className="space-y-2.5 pt-2">
-                {/* Add to Cart Yellow Amazon Button */}
+                {/* Add to Cart Yellow Button */}
                 <button
                   type="button"
                   onClick={handleAddToCart}
@@ -333,7 +333,7 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
                   Add to Cart
                 </button>
 
-                {/* Buy Now Orange Amazon Button */}
+                {/* Buy Now Orange Button */}
                 <button
                   type="button"
                   onClick={handleBuyNow}

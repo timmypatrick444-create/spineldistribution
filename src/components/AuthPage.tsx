@@ -54,12 +54,12 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess }) => {
       <div className="mb-8 flex flex-col items-center text-center select-none">
         <img 
           src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788619290/Spinel_Distribution.jpg"
-          alt="SPINEL DISTRIBUITION"
+          alt="SPINEL DISTRIBUTION"
           className="h-16 w-auto object-contain rounded-lg bg-white p-2 shadow-md border border-gray-200"
           referrerPolicy="no-referrer"
         />
         <h2 className="mt-3 font-extrabold text-xl sm:text-2xl text-[#131921] tracking-tight uppercase">
-          SPINEL DISTRIBUITION
+          SPINEL DISTRIBUTION
         </h2>
         <p className="text-xs sm:text-sm text-gray-500 font-medium">
           Enterprise Security, Networking &amp; Renewable Energy Portal

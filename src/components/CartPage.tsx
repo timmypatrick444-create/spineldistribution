@@ -223,7 +223,7 @@ export const CartPage: React.FC<CartPageProps> = ({
 
         </div>
 
-        {/* Right: Amazon Order Summary (Col 9-12 / Col 10-12 on XL) */}
+        {/* Right: Order Summary (Col 9-12 / Col 10-12 on XL) */}
         {cart.length > 0 && (
           <div className="lg:col-span-4 xl:col-span-3 bg-white p-6 sm:p-7 rounded-xl border border-gray-200 shadow-xs space-y-5">
             

@@ -142,7 +142,7 @@ export const OrdersPage: React.FC<OrdersPageProps> = ({
               key={order.id || order.orderNumber || `order-card-${idx}`}
               className="bg-white rounded-lg border border-gray-300 shadow-sm overflow-hidden text-xs"
             >
-              {/* Order Header Bar (Amazon Grey) */}
+              {/* Order Header Bar (Light Grey) */}
               <div className="bg-gray-100 p-4 border-b border-gray-200 flex flex-wrap items-center justify-between gap-4 text-gray-600">
                 <div className="flex flex-wrap items-center gap-6 sm:gap-10">
                   <div>

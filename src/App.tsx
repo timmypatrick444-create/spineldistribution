@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import { CurrencyProvider } from './context/CurrencyContext';
 import { CartProvider } from './context/CartContext';
-import { AmazonHeader } from './components/AmazonHeader';
-import { AmazonDrawer } from './components/AmazonDrawer';
-import { AmazonFooter } from './components/AmazonFooter';
+import { Header } from './components/Header';
+import { NavigationDrawer } from './components/NavigationDrawer';
+import { Footer } from './components/Footer';
 import { HomePage } from './components/HomePage';
 import { CatalogPage } from './components/CatalogPage';
 import { ProductDetailPage } from './components/ProductDetailPage';
@@ -179,8 +179,8 @@ function MainApp() {
 
   return (
     <div className={`min-h-screen flex flex-col ${isAdminView ? 'bg-[#0f172a]' : 'bg-[#eaeded]'} text-[#0F1111] font-sans antialiased w-full max-w-full overflow-x-hidden`}>
-      {/* 1. Amazon Main Header */}
-      <AmazonHeader
+      {/* 1. Main Header */}
+      <Header
         onOpenDrawer={() => setIsDrawerOpen(true)}
         onSearch={handleSearchSubmit}
         onSearchSubmit={handleSearchSubmit}
@@ -189,8 +189,8 @@ function MainApp() {
         currentCategory={selectedCategory}
       />
 
-      {/* 2. Amazon Slide-Out Drawer */}
-      <AmazonDrawer
+      {/* 2. Slide-Out Navigation Drawer */}
+      <NavigationDrawer
         isOpen={isDrawerOpen}
         onClose={() => setIsDrawerOpen(false)}
         onSelectCategory={handleSelectCategory}
@@ -344,8 +344,8 @@ function MainApp() {
         )}
       </main>
 
-      {/* 4. Amazon Footer */}
-      <AmazonFooter 
+      {/* 4. Footer */}
+      <Footer 
         onNavigate={navigateTo} 
         noMarginTop={isAdminView}
       />

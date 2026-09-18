@@ -31,8 +31,8 @@ const HERO_SLIDES = [
     subtitle: 'Ultra low-light Starlight sensors, vehicle classification & facial recognition',
     ctaText: 'Explore Cameras & NVRs',
     category: 'Video Surveillance & Cameras',
-    image: 'https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=1200&q=75',
-    accentColor: 'from-blue-900/90'
+    image: 'https://res.cloudinary.com/bmv4hvtk/image/upload/v1789723359/cctv.png',
+    accentColor: 'from-amber-900/90'
   },
   {
     id: 2,
@@ -40,17 +40,17 @@ const HERO_SLIDES = [
     subtitle: '10kW 3-Phase Pure Sine Wave Inverters with 5.12kWh 6,000-Cycle Lithium Batteries',
     ctaText: 'Shop Renewable Energy',
     category: 'Renewable Energy',
-    image: 'https://i.ibb.co/rYdWyVy/1e9363de-2e5d-4f8f-8ad0-c74b346660f2.png',
+    image: 'https://res.cloudinary.com/bmv4hvtk/image/upload/v1789723360/solar.png',
     accentColor: 'from-amber-900/90'
   },
   {
     id: 3,
-    title: 'Mission-Critical Access Control & Industrial PoE',
-    subtitle: 'Touchless multi-biometric terminals & 24-Port 400W Managed PoE+ switches',
-    ctaText: 'View Network Security',
+    title: 'Network Video Recorders (NVRs)',
+    subtitle: 'Reliable video recording, intelligent surveillance & centralized security management',
+    ctaText: 'View NVR Range',
     category: 'Networking & Connectivity',
-    image: 'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1200&q=75',
-    accentColor: 'from-emerald-900/90'
+    image: 'https://res.cloudinary.com/bmv4hvtk/image/upload/v1789723359/nvr.png',
+    accentColor: 'from-amber-900/90'
   }
 ];
 
@@ -87,7 +87,7 @@ export const HomePage: React.FC<HomePageProps> = ({
   return (
     <div className="min-h-screen bg-[#eaeded] pb-12 font-sans">
       
-      {/* 1. AMAZON HERO BANNER WITH GRADIENT OVERLAY */}
+      {/* 1. HERO BANNER WITH GRADIENT OVERLAY */}
       <div className="relative h-[320px] sm:h-[420px] md:h-[500px] w-full overflow-hidden bg-black select-none">
         
         {/* Pre-rendered Stacked Slide Images for Instant Switching */}
@@ -151,14 +151,14 @@ export const HomePage: React.FC<HomePageProps> = ({
           <ChevronRight size={32} />
         </button>
 
-        {/* Amazon Bottom Gradient Fade into Gray Background */}
+        {/* Bottom Gradient Fade into Gray Background */}
         <div className="absolute bottom-0 inset-x-0 h-32 bg-gradient-to-t from-[#eaeded] via-[#eaeded]/70 to-transparent pointer-events-none z-20" />
       </div>
 
-      {/* 2. OVERLAPPING AMAZON 4-ITEM / FEATURED BENTO CARDS */}
+      {/* 2. OVERLAPPING 4-ITEM / FEATURED BENTO CARDS */}
       <div className="w-full px-4 sm:px-6 lg:px-8 relative -mt-24 sm:-mt-36 z-20">
         
-        {/* Amazon 4-Column Grid */}
+        {/* 4-Column Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           
           {/* Box 1: Video Surveillance */}
@@ -173,9 +173,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=300&q=80" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H5A-Camera_Bullet_Angle_062020.jpg" 
                     alt="Bullet Cameras"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Bullet Cameras
@@ -186,9 +187,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1549109926-58f039549485?auto=format&fit=crop&w=300&q=80" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789726897/ptz.jpg" 
                     alt="PTZ Cameras"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     PTZ Cameras
@@ -199,9 +201,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=300&q=80" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H5A-Camera_Dome-IR_Side_062020.jpg" 
                     alt="Dome Cameras"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Dome Cameras
@@ -212,9 +215,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&w=300&q=80" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Sarix%20Enhanced%20Duo/Sarix-Enh-Duo-500x500%20%282%29.png" 
                     alt="Thermal Cameras"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Thermal Cameras
@@ -247,9 +251,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=300&q=80" 
-                    alt="Smart Hybrid Inverters"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788634097/inverter-9.jpg" 
+                    alt="Hybrid Inverters"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Hybrid Inverters
@@ -260,9 +265,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=300&q=80" 
-                    alt="Lithium LiFePO4 Batteries"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788633807/battery-6.jpg" 
+                    alt="LiFePO4 Batteries"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     LiFePO4 Batteries
@@ -273,9 +279,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=300&q=80" 
-                    alt="Industrial Solar Panels"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788633737/panel-3.jpg" 
+                    alt="Tier-1 Solar Panels"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Tier-1 Solar Panels
@@ -286,9 +293,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=300&q=80" 
-                    alt="UPS Systems"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729131/ups.jpg" 
+                    alt="Online Rack UPS"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Online Rack UPS
@@ -316,9 +324,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=300&q=80" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png" 
                     alt="PoE Switches"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     PoE Switches
@@ -329,9 +338,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=300&q=80" 
-                    alt="Industrial Switches"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729780/motorola.jpg" 
+                    alt="DIN-Rail Industrial"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     DIN-Rail Industrial
@@ -342,9 +352,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=300&q=80" 
-                    alt="Wireless Access Points"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729938/Network_Adapter.jpg" 
+                    alt="Wi-Fi 6 APs"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Wi-Fi 6 APs
@@ -355,9 +366,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=300&q=80" 
-                    alt="Microwave Radio"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789730104/Industrial_Switch.jpg" 
+                    alt="Wireless Bridges"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Wireless Bridges
@@ -385,9 +397,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&w=300&q=80" 
-                    alt="Biometric Readers"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg" 
+                    alt="Facial Terminals"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Facial Terminals
@@ -398,9 +411,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&w=300&q=80" 
-                    alt="Electronic Locks"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csr35_1200x1200_071520.jpg" 
+                    alt="Magnetic Locks"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Magnetic Locks
@@ -411,9 +425,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=300&q=80" 
-                    alt="Door Stations"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-B-063022.jpg" 
+                    alt="Video Intercoms"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Video Intercoms
@@ -424,9 +439,10 @@ export const HomePage: React.FC<HomePageProps> = ({
                   className="cursor-pointer group"
                 >
                   <img 
-                    src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=300&q=80" 
-                    alt="Software"
-                    className="w-full h-24 object-cover rounded group-hover:opacity-90" 
+                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTK15_HO_071620.jpg" 
+                    alt="Software Licenses"
+                    referrerPolicy="no-referrer"
+                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
                   />
                   <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
                     Software Licenses
@@ -446,7 +462,7 @@ export const HomePage: React.FC<HomePageProps> = ({
 
       </div>
 
-      {/* 3. HORIZONTAL PRODUCT CAROUSEL ROW (Amazon "Best Sellers & Featured Hardware") */}
+      {/* 3. HORIZONTAL PRODUCT CAROUSEL ROW ("Best Sellers & Featured Hardware") */}
       <div className="w-full px-4 sm:px-6 lg:px-8 mt-8">
         {safeProducts.length > 0 ? (
           <div className="bg-white p-5 rounded shadow-sm border border-gray-200">

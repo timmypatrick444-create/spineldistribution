@@ -17,6 +17,14 @@ const PORT = 3000;
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
+// Health check endpoints for platform monitoring
+app.get('/api/health', (req, res) => {
+  res.json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+app.get('/health', (req, res) => {
+  res.json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+
 // Environment variables configuration (All sensitive data parsed through server env)
 const ADMIN_TECHNICAL_EMAIL = (process.env.ADMIN_TECHNICAL_EMAIL || 'admin@spineldistribution.com').replace(/^["']|["']$/g, '').trim().toLowerCase();
 const ADMIN_ACCESS_KEY = (process.env.ADMIN_ACCESS_KEY || 'SPINEL_SECURE_ACCESS_2026_KEY').replace(/^["']|["']$/g, '').trim();
@@ -616,6 +624,14 @@ app.delete('/api/quotes/:id', (req, res) => {
     return res.status(404).json({ error: 'Quote not found' });
   }
   res.json({ success: true, remaining: quotesStore.length });
+});
+
+// Global API error handler
+app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
+  console.error('[Server Error]', err);
+  if (!res.headersSent) {
+    res.status(500).json({ error: 'Internal Server Error', message: err?.message || String(err) });
+  }
 });
 
 // -------------------------------------------------------------

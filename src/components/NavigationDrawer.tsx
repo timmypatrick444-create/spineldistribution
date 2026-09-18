@@ -4,14 +4,14 @@ import { CATEGORIES } from '../data/categories';
 import { useAuth } from '../context/AuthContext';
 import { CategoryDefinition } from '../types';
 
-interface AmazonDrawerProps {
+export interface NavigationDrawerProps {
   isOpen: boolean;
   onClose: () => void;
   onSelectCategory: (categoryName: string, subcategoryName?: string) => void;
   onNavigate: (view: string) => void;
 }
 
-export const AmazonDrawer: React.FC<AmazonDrawerProps> = ({
+export const NavigationDrawer: React.FC<NavigationDrawerProps> = ({
   isOpen,
   onClose,
   onSelectCategory,
@@ -33,7 +33,7 @@ export const AmazonDrawer: React.FC<AmazonDrawerProps> = ({
       {/* Drawer Content */}
       <div className="relative w-full max-w-sm bg-white h-full shadow-2xl flex flex-col z-10 animate-in slide-in-from-left duration-200">
         
-        {/* Drawer Header (Amazon Navy) */}
+        {/* Drawer Header (Navy) */}
         <div className="bg-[#232f3e] text-white px-6 py-4 flex items-center justify-between shrink-0">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-full bg-gray-600 flex items-center justify-center">

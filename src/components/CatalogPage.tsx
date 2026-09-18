@@ -246,7 +246,7 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
 
       <div className="flex gap-6 items-start">
         
-        {/* AMAZON LEFT SIDEBAR FILTERS (Desktop) */}
+        {/* LEFT SIDEBAR FILTERS (Desktop) */}
         <aside className="hidden md:block w-60 xl:w-64 shrink-0 space-y-5 text-sm">
           
           {/* Active Filter Clear */}
@@ -394,7 +394,7 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
 
         </aside>
 
-        {/* AMAZON PRODUCT LISTING GRID: 5 per row (xl:grid-cols-5), 50 per page */}
+        {/* PRODUCT LISTING GRID: 5 per row (xl:grid-cols-5), 50 per page */}
         <main className="flex-1 min-w-0">
           {paginatedProducts.length === 0 ? (
             <div className="bg-white p-12 text-center rounded border border-gray-200 shadow-xs">

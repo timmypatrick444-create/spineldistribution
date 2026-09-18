@@ -13,7 +13,7 @@ export function downloadInvoicePDF(order: Order) {
   let y = 18;
 
   // Header Banner
-  doc.setFillColor(19, 25, 33); // Amazon dark navy #131921
+  doc.setFillColor(19, 25, 33); // Dark navy #131921
   doc.rect(0, 0, pageWidth, 28, 'F');
 
   // Brand Name
@@ -24,7 +24,7 @@ export function downloadInvoicePDF(order: Order) {
 
   doc.setFontSize(9);
   doc.setFont('helvetica', 'normal');
-  doc.setTextColor(254, 189, 105); // Amazon yellow #febd69
+  doc.setTextColor(254, 189, 105); // Brand accent yellow #febd69
   doc.text('INTERNATIONAL ENTERPRISE E-COMMERCE & SECURITY SYSTEMS', margin, 20);
 
   doc.setTextColor(255, 255, 255);
@@ -196,7 +196,7 @@ export function downloadQuotationPDF(quote: SubmittedQuote) {
   let y = 18;
 
   // Header Banner
-  doc.setFillColor(19, 25, 33); // Amazon dark navy #131921
+  doc.setFillColor(19, 25, 33); // Dark navy #131921
   doc.rect(0, 0, pageWidth, 28, 'F');
 
   // Brand Name

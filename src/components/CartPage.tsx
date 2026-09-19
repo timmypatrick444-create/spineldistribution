@@ -7,7 +7,6 @@ import {
   ShieldCheck, 
   Truck, 
   Lock, 
-  FileText, 
   Star, 
   Sparkles,
   ShoppingBag
@@ -170,9 +169,8 @@ export const CartPage: React.FC<CartPageProps> = ({
                                 onRequestQuote(item.product);
                               }
                             }}
-                            className="text-amber-800 bg-amber-100 hover:bg-amber-200 px-3 py-1 rounded-full text-xs font-bold flex items-center gap-1"
+                            className="text-amber-800 bg-amber-100 hover:bg-amber-200 px-3 py-1 rounded-full text-xs font-bold flex items-center justify-center"
                           >
-                            <FileText size={13} />
                             <span>Request Quote for this</span>
                           </button>
                         )}
@@ -270,9 +268,8 @@ export const CartPage: React.FC<CartPageProps> = ({
                       onRequestQuote(firstUnpriced);
                     }
                   }}
-                  className="w-full bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold py-2 px-3 rounded-lg text-xs flex items-center justify-center gap-1.5 cursor-pointer"
+                  className="w-full bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold py-2 px-3 rounded-lg text-xs flex items-center justify-center cursor-pointer"
                 >
-                  <FileText size={15} />
                   <span>Request Quote for Items</span>
                 </button>
               </div>
@@ -404,9 +401,8 @@ export const CartPage: React.FC<CartPageProps> = ({
                             onRequestQuote(rec);
                           }
                         }}
-                        className="w-full bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs py-1.5 px-2 rounded-full border border-[#df9b3e] shadow-xs cursor-pointer transition-colors flex items-center justify-center gap-1"
+                        className="w-full bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs py-1.5 px-2 rounded-full border border-[#df9b3e] shadow-xs cursor-pointer transition-colors flex items-center justify-center"
                       >
-                        <FileText size={12} />
                         <span>Quote</span>
                       </button>
                     )}

@@ -88,10 +88,13 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
       if (selectedCategory && selectedCategory !== 'All') {
         const selLower = selectedCategory.toLowerCase().trim();
         const pCatLower = p.category.toLowerCase().trim();
+        const pSubLower = (p.subcategory || '').toLowerCase().trim();
         const isCatMatch = 
           pCatLower === selLower ||
           pCatLower.includes(selLower) ||
-          selLower.includes(pCatLower);
+          selLower.includes(pCatLower) ||
+          pSubLower === selLower ||
+          pSubLower.includes(selLower);
         if (!isCatMatch) return false;
       }
       // Subcategory

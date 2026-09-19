@@ -1,6 +1,4 @@
 import React from 'react';
-import { ShieldCheck, Zap, Lock } from 'lucide-react';
-import { useCurrency } from '../context/CurrencyContext';
 
 export interface FooterProps {
   onNavigate: (view: string, param?: string) => void;
@@ -8,8 +6,6 @@ export interface FooterProps {
 }
 
 export const Footer: React.FC<FooterProps> = ({ onNavigate, noMarginTop = false }) => {
-  const { exchangeRate } = useCurrency();
-
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
@@ -40,7 +36,6 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, noMarginTop = false 
         <div>
           <h4 className="font-bold text-base mb-3 text-white">Make Money with Us</h4>
           <ul className="space-y-2 text-xs sm:text-sm text-gray-300">
-            <li className="hover:underline cursor-pointer">Supply Equipment to Spinel</li>
             <li className="hover:underline cursor-pointer">Certified System Integrator Program</li>
             <li className="hover:underline cursor-pointer">OEM &amp; Brand Partnerships</li>
             <li className="hover:underline cursor-pointer">Bulk Procurement for Projects</li>
@@ -50,14 +45,9 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, noMarginTop = false 
         <div>
           <h4 className="font-bold text-base mb-3 text-white">Spinel Payment Products</h4>
           <ul className="space-y-2 text-xs sm:text-sm text-gray-300">
-            <li className="hover:underline cursor-pointer flex items-center gap-1">
-              <Lock size={12} className="text-green-400" />
-              Paystack Live Payment Gateway
-            </li>
             <li className="hover:underline cursor-pointer">USD ($) &amp; NGN (₦) Billing</li>
             <li className="hover:underline cursor-pointer">Corporate Invoicing &amp; Wire Transfer</li>
             <li className="hover:underline cursor-pointer">Reload Your Enterprise Balance</li>
-            <li className="text-gray-400">Current Rate: 1 USD = ₦{exchangeRate.toLocaleString()}</li>
           </ul>
         </div>
 

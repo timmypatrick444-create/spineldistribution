@@ -19,6 +19,7 @@ import {
 } from 'lucide-react';
 import { Product } from '../types';
 import { useCurrency } from '../context/CurrencyContext';
+import { useAuth } from '../context/AuthContext';
 
 interface RequestQuotePageProps {
   initialProduct?: Product | null;
@@ -57,11 +58,13 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
   onSelectProduct
 }) => {
   const { currency } = useCurrency();
+  const { user } = useAuth();
 
   const [companyName, setCompanyName] = useState('');
   const [contactName, setContactName] = useState('');
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
+  const [hardwareModel, setHardwareModel] = useState('');
   const [location, setLocation] = useState('');
   const [preferredCurrency, setPreferredCurrency] = useState(currency || 'USD');
   const [quantity, setQuantity] = useState(1);
@@ -69,6 +72,16 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
   const [notes, setNotes] = useState('');
   const [needsInstallation, setNeedsInstallation] = useState(false);
   const [needsPartnerDiscount, setNeedsPartnerDiscount] = useState(false);
+
+  // Auto-populate from logged-in user profile if available
+  useEffect(() => {
+    if (user) {
+      if (user.fullName && !contactName) setContactName(user.fullName);
+      if (user.email && !email) setEmail(user.email);
+      if (user.company && !companyName) setCompanyName(user.company);
+      if (user.phone && !phone) setPhone(user.phone);
+    }
+  }, [user]);
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submittedQuote, setSubmittedQuote] = useState<SubmittedQuote | null>(null);
@@ -120,7 +133,14 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
           brand: initialProduct.brand,
           category: initialProduct.category,
           image: initialProduct.images[0] || 'https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=400'
-        } : undefined,
+        } : (hardwareModel ? {
+          id: 'custom-hardware',
+          sku: 'BOM-CUSTOM',
+          name: hardwareModel,
+          brand: 'Client Specified',
+          category: 'Enterprise Hardware',
+          image: 'https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=400'
+        } : undefined),
         status: 'Under Review'
       };
 
@@ -326,7 +346,7 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
           </div>
 
           {/* Selected Product Card (if navigated from an unpriced or specific item) */}
-          {initialProduct && (
+          {initialProduct ? (
             <div className="bg-amber-50/60 border-b border-amber-200 p-4 sm:px-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
               <div className="flex items-center gap-3.5">
                 <img 
@@ -361,6 +381,29 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
                   Change Product
                 </button>
               </div>
+            </div>
+          ) : (
+            <div className="bg-blue-50/60 border-b border-blue-200 p-4 sm:px-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+              <div className="flex items-center gap-3">
+                <div className="p-2 bg-blue-100 text-blue-900 rounded-lg shrink-0">
+                  <Package size={22} />
+                </div>
+                <div>
+                  <div className="text-sm font-bold text-gray-900">
+                    Enterprise Project &amp; Bill of Materials (BOM) Quotation
+                  </div>
+                  <div className="text-xs text-gray-600 mt-0.5">
+                    Request official project pricing, wholesale contractor tiers, or submit multi-brand equipment lists below.
+                  </div>
+                </div>
+              </div>
+              <button
+                type="button"
+                onClick={() => onNavigate('catalog')}
+                className="shrink-0 px-3.5 py-1.5 bg-white hover:bg-gray-50 border border-gray-300 text-gray-800 text-xs font-semibold rounded-lg shadow-xs cursor-pointer transition-colors"
+              >
+                Browse Catalog
+              </button>
             </div>
           )}
 
@@ -521,6 +564,24 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
                     <option value="Budgeting & Planning">Budgeting &amp; Planning</option>
                   </select>
                 </div>
+
+                {!initialProduct && (
+                  <div className="sm:col-span-3">
+                    <label className="block font-semibold text-gray-700 mb-1">
+                      Required Hardware / Model Numbers / Equipment Brand
+                    </label>
+                    <input
+                      type="text"
+                      value={hardwareModel}
+                      onChange={(e) => setHardwareModel(e.target.value)}
+                      placeholder="e.g. Hikvision ColorVu Turret Cameras, Suprema Biometric Terminals, Deye 12kW Inverter..."
+                      className="w-full px-3 py-2 border border-gray-300 rounded focus:border-[#e77600] focus:ring-1 focus:ring-[#e77600] outline-none"
+                    />
+                    <span className="text-[11px] text-gray-500 mt-1 block">
+                      Mention specific part numbers or brands if known, or leave blank to describe in project notes below.
+                    </span>
+                  </div>
+                )}
 
                 <div className="sm:col-span-3">
                   <label className="block font-semibold text-gray-700 mb-1">

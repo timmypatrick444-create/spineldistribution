@@ -10,7 +10,6 @@ import {
   ChevronRight,
   Share2,
   Heart,
-  FileText,
   ArrowRight,
   PackageCheck,
   CheckCircle2,
@@ -221,9 +220,8 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
                 <button
                   type="button"
                   onClick={handleRequestQuote}
-                  className="inline-flex items-center gap-2 px-4 py-2 bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs sm:text-sm rounded-lg border border-[#df9b3e] shadow-sm cursor-pointer transition-colors"
+                  className="inline-flex items-center justify-center px-4 py-2 bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs sm:text-sm rounded-lg border border-[#df9b3e] shadow-sm cursor-pointer transition-colors"
                 >
-                  <FileText size={16} />
                   <span>Request Quote for this Item</span>
                 </button>
               </div>
@@ -351,9 +349,8 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
                 <button
                   type="button"
                   onClick={handleRequestQuote}
-                  className="w-full bg-[#FEBD69] hover:bg-[#f3a847] active:bg-[#e29b3c] text-[#131921] font-bold py-3 px-4 rounded-full border border-[#df9b3e] shadow-md hover:shadow cursor-pointer transition-all text-xs sm:text-sm flex items-center justify-center gap-2"
+                  className="w-full bg-[#FEBD69] hover:bg-[#f3a847] active:bg-[#e29b3c] text-[#131921] font-bold py-3 px-4 rounded-full border border-[#df9b3e] shadow-md hover:shadow cursor-pointer transition-all text-xs sm:text-sm flex items-center justify-center"
                 >
-                  <FileText size={17} />
                   <span>Request Quote</span>
                 </button>
               </div>
@@ -489,9 +486,8 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
                             onRequestQuote(rec, 1);
                           }
                         }}
-                        className="w-full bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs py-2 px-3 rounded-full border border-[#df9b3e] shadow-sm cursor-pointer transition-colors flex items-center justify-center gap-1.5"
+                        className="w-full bg-[#FEBD69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs py-2 px-3 rounded-full border border-[#df9b3e] shadow-sm cursor-pointer transition-colors flex items-center justify-center"
                       >
-                        <FileText size={14} />
                         <span>Request Quote</span>
                       </button>
                     )}

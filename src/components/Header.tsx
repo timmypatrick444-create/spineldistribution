@@ -4,7 +4,6 @@ import {
   ShoppingCart, 
   ChevronDown, 
   Menu, 
-  FileText,
   LogOut
 } from 'lucide-react';
 import { useCurrency } from '../context/CurrencyContext';
@@ -141,11 +140,10 @@ export const Header: React.FC<HeaderProps> = ({
       {/* 2-REQUEST QUOTE: HIGH-VISIBILITY PROFESSIONAL ACTION BUTTON */}
       <button
         type="button"
-        onClick={() => onNavigate('request-quote')}
-        className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 bg-[#febd69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs sm:text-sm rounded-md transition-all shadow-sm cursor-pointer whitespace-nowrap"
+        onClick={() => onNavigate('quote')}
+        className="flex items-center justify-center px-2.5 sm:px-3 py-1.5 bg-[#febd69] hover:bg-[#f3a847] text-[#131921] font-bold text-xs sm:text-sm rounded-md transition-all shadow-sm cursor-pointer whitespace-nowrap"
         title="Request Official Corporate Quote / Proforma Invoice"
       >
-        <FileText size={15} className="stroke-[2.5]" />
         <span>Request Quote</span>
       </button>
 
@@ -195,7 +193,7 @@ export const Header: React.FC<HeaderProps> = ({
               
               <button
                 type="button"
-                onClick={() => { onNavigate('request-quote'); setAccountMenuOpen(false); }}
+                onClick={() => { onNavigate('quote'); setAccountMenuOpen(false); }}
                 className="w-full text-left px-4 py-2 hover:bg-gray-100 flex items-center justify-between text-gray-700"
               >
                 <span>Request B2B Quote</span>

@@ -84,7 +84,7 @@ function MainApp() {
         setCurrentView('invoice');
       } else if (path === '/catalog') {
         setCurrentView('catalog');
-      } else if (path === '/quote') {
+      } else if (path === '/quote' || path === '/request-quote') {
         setCurrentView('quote');
       }
     };
@@ -96,6 +96,9 @@ function MainApp() {
 
   // Update browser URL on navigation
   const navigateTo = (view: string, param?: string) => {
+    if (view === 'request-quote') {
+      view = 'quote';
+    }
     if (view === 'category' && param) {
       handleSelectCategory(param);
       return;
@@ -238,7 +241,7 @@ function MainApp() {
               />
             )}
 
-            {currentView === 'quote' && (
+            {(currentView === 'quote' || currentView === 'request-quote') && (
               <RequestQuotePage
                 initialProduct={quoteInitialProduct}
                 onNavigate={navigateTo}
@@ -347,7 +350,7 @@ function MainApp() {
       {/* 4. Footer */}
       <Footer 
         onNavigate={navigateTo} 
-        noMarginTop={isAdminView}
+        noMarginTop={isAdminView || currentView === 'home'}
       />
     </div>
   );

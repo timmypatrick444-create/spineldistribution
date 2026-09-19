@@ -167,60 +167,68 @@ export const HomePage: React.FC<HomePageProps> = ({
               <h3 className="text-lg font-bold text-gray-900 mb-3 leading-snug">
                 Video Surveillance &amp; Cameras
               </h3>
-              <div className="grid grid-cols-2 gap-2.5 mb-3">
+              <div className="grid grid-cols-2 gap-3 mb-3.5">
                 <div 
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'Bullet Cameras')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H5A-Camera_Bullet_Angle_062020.jpg" 
-                    alt="Bullet Cameras"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/bullet.jpg" 
+                      alt="Bullet Cameras"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Bullet Cameras
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'PTZ Cameras')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789726897/ptz.jpg" 
-                    alt="PTZ Cameras"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/ptz.jpg" 
+                      alt="PTZ Cameras"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     PTZ Cameras
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'Dome Cameras')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/VS/Avigilon_H5A-Camera_Dome-IR_Side_062020.jpg" 
-                    alt="Dome Cameras"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/dome_camera.jpg" 
+                      alt="Dome Cameras"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Dome Cameras
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'Thermal Cameras')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Sarix%20Enhanced%20Duo/Sarix-Enh-Duo-500x500%20%282%29.png" 
-                    alt="Thermal Cameras"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Sarix%20Enhanced%20Duo/Sarix-Enh-Duo-500x500%20%282%29.png" 
+                      alt="Thermal Cameras"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Thermal Cameras
                   </span>
                 </div>
@@ -245,60 +253,68 @@ export const HomePage: React.FC<HomePageProps> = ({
                   NEW
                 </span>
               </div>
-              <div className="grid grid-cols-2 gap-2.5 mb-3">
+              <div className="grid grid-cols-2 gap-3 mb-3.5">
                 <div 
                   onClick={() => onSelectCategory('Renewable Energy', 'Smart Hybrid Inverters')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788634097/inverter-9.jpg" 
-                    alt="Hybrid Inverters"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788634097/inverter-9.jpg" 
+                      alt="Hybrid Inverters"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Hybrid Inverters
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Renewable Energy', 'Lithium LiFePO4 Batteries')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788633807/battery-6.jpg" 
-                    alt="LiFePO4 Batteries"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/solar_battery.jpg" 
+                      alt="LiFePO4 Batteries"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     LiFePO4 Batteries
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Renewable Energy', 'Industrial Solar Panels')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788633737/panel-3.jpg" 
-                    alt="Tier-1 Solar Panels"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/solar_panel.jpg" 
+                      alt="Tier-1 Solar Panels"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Tier-1 Solar Panels
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Power & Electrical Systems', 'UPS Systems')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729131/ups.jpg" 
-                    alt="Online Rack UPS"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729131/ups.jpg" 
+                      alt="Online Rack UPS"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Online Rack UPS
                   </span>
                 </div>
@@ -318,60 +334,68 @@ export const HomePage: React.FC<HomePageProps> = ({
               <h3 className="text-lg font-bold text-gray-900 mb-3 leading-snug">
                 Networking &amp; Connectivity
               </h3>
-              <div className="grid grid-cols-2 gap-2.5 mb-3">
+              <div className="grid grid-cols-2 gap-3 mb-3.5">
                 <div 
                   onClick={() => onSelectCategory('Networking & Connectivity', 'PoE Switches')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/8-port-PoE-switch-06252021.png" 
-                    alt="PoE Switches"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/poe_switch.jpg" 
+                      alt="PoE Switches"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     PoE Switches
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Networking & Connectivity', 'Industrial Switches')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729780/motorola.jpg" 
-                    alt="DIN-Rail Industrial"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729780/motorola.jpg" 
+                      alt="DIN-Rail Industrial"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     DIN-Rail Industrial
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Networking & Connectivity', 'Wireless Access Points')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729938/Network_Adapter.jpg" 
-                    alt="Wi-Fi 6 APs"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729938/Network_Adapter.jpg" 
+                      alt="Wi-Fi 6 APs"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Wi-Fi 6 APs
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Telecommunication & Communication Equipment', 'Microwave Radio')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789730104/Industrial_Switch.jpg" 
-                    alt="Wireless Bridges"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789730104/Industrial_Switch.jpg" 
+                      alt="Wireless Bridges"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Wireless Bridges
                   </span>
                 </div>
@@ -391,60 +415,68 @@ export const HomePage: React.FC<HomePageProps> = ({
               <h3 className="text-lg font-bold text-gray-900 mb-3 leading-snug">
                 Access Control &amp; Biometrics
               </h3>
-              <div className="grid grid-cols-2 gap-2.5 mb-3">
+              <div className="grid grid-cols-2 gap-3 mb-3.5">
                 <div 
                   onClick={() => onSelectCategory('Access Control & Door Security', 'Biometric Readers')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg" 
-                    alt="Facial Terminals"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg" 
+                      alt="Facial Terminals"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Facial Terminals
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Access Control & Door Security', 'Electronic Locks')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csr35_1200x1200_071520.jpg" 
-                    alt="Magnetic Locks"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csr35_1200x1200_071520.jpg" 
+                      alt="Magnetic Locks"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Magnetic Locks
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Intercom & IP Communication', 'Door Stations')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-B-063022.jpg" 
-                    alt="Video Intercoms"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-B-063022.jpg" 
+                      alt="Video Intercoms"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Video Intercoms
                   </span>
                 </div>
                 <div 
                   onClick={() => onSelectCategory('Security Software & Licenses', 'Access Control Software')}
-                  className="cursor-pointer group"
+                  className="cursor-pointer group flex flex-col"
                 >
-                  <img 
-                    src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTK15_HO_071620.jpg" 
-                    alt="Software Licenses"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-24 object-contain bg-white rounded border border-gray-100 p-1 group-hover:opacity-90" 
-                  />
-                  <span className="text-[11px] font-medium text-gray-800 line-clamp-1 mt-1 group-hover:text-blue-700">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                    <img 
+                      src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTK15_HO_071620.jpg" 
+                      alt="Software Licenses"
+                      referrerPolicy="no-referrer"
+                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                    />
+                  </div>
+                  <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
                     Software Licenses
                   </span>
                 </div>

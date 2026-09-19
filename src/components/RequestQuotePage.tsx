@@ -150,7 +150,7 @@ export const RequestQuotePage: React.FC<RequestQuotePageProps> = ({
   };
 
   return (
-    <div className="w-full px-4 sm:px-6 lg:px-8 py-8 font-sans">
+    <div className="w-full px-[20px] py-8 font-sans">
       
       {/* Breadcrumb / Back Navigation */}
       <div className="flex items-center justify-between gap-3 mb-6">

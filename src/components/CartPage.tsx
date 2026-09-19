@@ -46,7 +46,7 @@ export const CartPage: React.FC<CartPageProps> = ({
   const hasUnpricedCartItems = cart.some(item => !item.product.priceUSD || item.product.priceUSD <= 0);
 
   return (
-    <div className="w-full px-4 sm:px-6 lg:px-8 py-8 font-sans">
+    <div className="w-full px-[20px] py-8 font-sans">
       <div className={`grid grid-cols-1 ${cart.length > 0 ? 'lg:grid-cols-12' : ''} gap-8 items-start`}>
         
         {/* Left: Cart Items List (Full width when empty, Col 1-8 / Col 1-9 on XL when items present) */}

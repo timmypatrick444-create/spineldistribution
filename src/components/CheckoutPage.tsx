@@ -172,7 +172,7 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
   // SUCCESS SCREEN
   if (createdOrder) {
     return (
-      <div className="max-w-3xl mx-auto px-4 py-12 text-center font-sans">
+      <div className="max-w-4xl mx-auto px-[20px] py-12 text-center font-sans">
         <div className="bg-white p-8 rounded-lg border border-gray-200 shadow-md space-y-6">
           <div className="w-16 h-16 bg-green-100 text-green-600 rounded-full flex items-center justify-center mx-auto">
             <CheckCircle2 size={36} />
@@ -245,7 +245,7 @@ export const CheckoutPage: React.FC<CheckoutPageProps> = ({
   }
 
   return (
-    <div className="w-full px-4 sm:px-6 lg:px-8 py-8 font-sans">
+    <div className="w-full px-[20px] py-8 font-sans">
       <button
         onClick={onBackToCart}
         className="flex items-center gap-1.5 text-xs text-blue-700 hover:underline mb-6 font-medium"

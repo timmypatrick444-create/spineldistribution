@@ -78,7 +78,7 @@ export const OrdersPage: React.FC<OrdersPageProps> = ({
   };
 
   return (
-    <div className="w-full px-4 sm:px-6 lg:px-8 py-8 font-sans">
+    <div className="w-full px-[20px] py-8 font-sans">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-gray-200 mb-6">
         <div>
           <h1 className="text-2xl font-bold text-gray-900">Your Orders &amp; Tax Invoices</h1>

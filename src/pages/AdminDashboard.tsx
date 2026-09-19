@@ -926,8 +926,8 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({
 
       {/* 4. MAIN CONTENT AREA */}
       <main className="flex-1 min-w-0 flex flex-col pb-16">
-        {/* Desktop Top Header Bar */}
-        <div className="bg-[#1e293b]/90 backdrop-blur-xs border-b border-slate-700/80 px-4 sm:px-6 lg:px-8 py-4 sticky top-0 z-20 flex items-center justify-between">
+        {/* Desktop Top Header Bar with 20px gutter */}
+        <div className="bg-[#1e293b]/90 backdrop-blur-xs border-b border-slate-700/80 px-[20px] py-4 sticky top-0 z-20 flex items-center justify-between">
           <div>
             <h1 className="text-lg sm:text-xl font-extrabold text-white tracking-tight">
               {activeTab === 'inventory' && 'Master Inventory Management'}
@@ -951,8 +951,8 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({
           </div>
         </div>
 
-        {/* Content Container */}
-        <div className="max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 pt-6 space-y-6">
+        {/* Content Container with 20px gutter */}
+        <div className="w-full px-[20px] pt-6 space-y-6">
           {/* Stat Metric Cards */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             

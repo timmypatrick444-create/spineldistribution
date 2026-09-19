@@ -35,7 +35,7 @@ export const AdminLogin: React.FC<AdminLoginProps> = ({ onSuccess }) => {
   };
 
   return (
-    <div className="w-full py-16 px-4 sm:px-6 flex flex-col justify-center items-center font-sans">
+    <div className="w-full py-16 px-[20px] flex flex-col justify-center items-center font-sans">
       <div className="w-full max-w-md bg-white border border-gray-300 rounded-xl shadow-sm p-8 space-y-6">
         
         {/* Security Shield Header */}

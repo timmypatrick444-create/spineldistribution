@@ -131,8 +131,8 @@ export const InvoicePage: React.FC<InvoicePageProps> = ({
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 py-6 sm:py-10 px-3 sm:px-6 lg:px-8 font-sans">
-      <div className="max-w-4xl mx-auto space-y-6">
+    <div className="min-h-screen bg-gray-50 py-6 sm:py-10 px-[20px] font-sans">
+      <div className="max-w-5xl mx-auto space-y-6">
         
         {/* Top Control Bar (Hidden on print) */}
         <div className="flex flex-wrap items-center justify-between gap-3 bg-white p-4 rounded-xl border border-gray-200 shadow-xs print:hidden">

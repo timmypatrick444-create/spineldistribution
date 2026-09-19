@@ -171,8 +171,8 @@ export const CatalogPage: React.FC<CatalogPageProps> = ({
   };
 
   return (
-    // Standardized gutter matching header: w-full px-4 sm:px-6 lg:px-8
-    <div className="w-full px-4 sm:px-6 lg:px-8 py-6 font-sans">
+    // Standardized 20px gutter matching all pages: w-full px-[20px]
+    <div className="w-full px-[20px] py-6 font-sans">
       
       {/* Breadcrumbs & Results Top Bar */}
       <div className="bg-white p-3 rounded-md border border-gray-200 mb-5 flex flex-wrap items-center justify-between gap-3 text-xs text-gray-600 shadow-xs">

@@ -24,8 +24,8 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, noMarginTop = false 
         Back to top
       </div>
 
-      {/* Main Footer Links */}
-      <div className="w-full px-4 sm:px-6 lg:px-8 py-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-sm">
+      {/* Main Footer Links with 20px gutter */}
+      <div className="w-full px-[20px] py-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-sm">
         <div>
           <h4 className="font-bold text-base mb-3 text-white">Get to Know Us</h4>
           <ul className="space-y-2 text-xs sm:text-sm text-gray-300">
@@ -78,8 +78,8 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, noMarginTop = false 
         </div>
       </div>
 
-      {/* Bottom Legal bar */}
-      <div className="bg-[#131921] py-6 text-center text-xs sm:text-sm text-gray-400 border-t border-gray-800">
+      {/* Bottom Legal bar with 20px gutter */}
+      <div className="bg-[#131921] px-[20px] py-6 text-center text-xs sm:text-sm text-gray-400 border-t border-gray-800">
         <div className="flex flex-wrap justify-center gap-6 mb-2">
           <span className="hover:underline cursor-pointer">Conditions of Use</span>
           <span className="hover:underline cursor-pointer">Privacy Notice</span>

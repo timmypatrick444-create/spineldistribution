@@ -325,8 +325,8 @@ export const Header: React.FC<HeaderProps> = ({
   return (
     <header className="sticky top-0 z-40 w-full max-w-full flex flex-col font-sans select-none shadow-md">
       
-      {/* Top Primary Navbar with consistent gutter: w-full px-4 sm:px-6 lg:px-8 */}
-      <div className="bg-[#131921] text-white w-full px-4 sm:px-6 lg:px-8 py-2">
+      {/* Top Primary Navbar with 20px left/right gutter: w-full px-[20px] */}
+      <div className="bg-[#131921] text-white w-full px-[20px] py-2">
         
         {/* DESKTOP LAYOUT (lg and up): Brand on Left, Search in Middle, Actions on Right */}
         <div className="hidden lg:flex items-center justify-between gap-4 w-full">
@@ -348,7 +348,7 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
 
           {/* Search bar in center */}
-          <div className="flex-1 max-w-2xl xl:max-w-3xl mx-2 min-w-0">
+          <div className="flex-1 max-w-3xl xl:max-w-5xl mx-2 min-w-0">
             {renderSearchForm("w-full shadow-xs")}
           </div>
 
@@ -389,8 +389,8 @@ export const Header: React.FC<HeaderProps> = ({
 
       </div>
 
-      {/* Sub Navbar with exact matching gutter: w-full px-4 sm:px-6 lg:px-8 */}
-      <div className="bg-[#232f3e] text-white w-full px-4 sm:px-6 lg:px-8 py-1 flex items-center gap-4 text-xs font-medium overflow-x-auto whitespace-nowrap scrollbar-none shadow-sm">
+      {/* Sub Navbar with exact matching 20px gutter: w-full px-[20px] */}
+      <div className="bg-[#232f3e] text-white w-full px-[20px] py-1 flex items-center gap-4 text-xs font-medium overflow-x-auto whitespace-nowrap scrollbar-none shadow-sm">
         
         {/* All Products Drawer Toggle */}
         <button

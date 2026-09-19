@@ -27,7 +27,7 @@ interface HomePageProps {
 const HERO_SLIDES = [
   {
     id: 1,
-    title: 'Enterprise 4K AI Video Surveillance',
+    title: 'Intelligent Video Surveillance',
     subtitle: 'Ultra low-light Starlight sensors, vehicle classification & facial recognition',
     ctaText: 'Explore Cameras & NVRs',
     category: 'Video Surveillance & Cameras',
@@ -36,7 +36,7 @@ const HERO_SLIDES = [
   },
   {
     id: 2,
-    title: 'Smart Hybrid Solar Inverters & LiFePO4 PowerVaults',
+    title: 'Smart Hybrid Solar Inverters',
     subtitle: '10kW 3-Phase Pure Sine Wave Inverters with 5.12kWh 6,000-Cycle Lithium Batteries',
     ctaText: 'Shop Renewable Energy',
     category: 'Renewable Energy',
@@ -88,7 +88,7 @@ export const HomePage: React.FC<HomePageProps> = ({
     <div className="min-h-screen bg-[#eaeded] pb-12 font-sans">
       
       {/* 1. HERO BANNER WITH GRADIENT OVERLAY */}
-      <div className="relative h-[320px] sm:h-[420px] md:h-[500px] w-full overflow-hidden bg-black select-none">
+      <div className="relative h-[340px] sm:h-[440px] md:h-[500px] w-full overflow-hidden bg-black select-none">
         
         {/* Pre-rendered Stacked Slide Images for Instant Switching */}
         {HERO_SLIDES.map((s, idx) => (
@@ -111,23 +111,20 @@ export const HomePage: React.FC<HomePageProps> = ({
           </div>
         ))}
 
-        {/* Hero Slide Content */}
-        <div className="relative w-full h-full px-4 sm:px-6 lg:px-8 flex flex-col justify-center text-white z-20">
-          <div className="max-w-xl space-y-4">
-            <span className="inline-block bg-[#febd69] text-black text-xs font-bold uppercase tracking-wider px-2.5 py-1 rounded">
-              Spinel Distribution Enterprise Exclusive
-            </span>
-            <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white drop-shadow-md">
+        {/* Hero Slide Content moved upward by 20px without the exclusive badge */}
+        <div className="relative w-full h-full px-[20px] flex flex-col justify-start pt-1 sm:pt-5 md:pt-7 text-white z-20">
+          <div className="max-w-xl space-y-3 sm:space-y-4">
+            <h1 className="text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight leading-tight text-white drop-shadow-md">
               {slide.title}
             </h1>
-            <p className="text-sm sm:text-base text-gray-200 line-clamp-2 drop-shadow">
+            <p className="text-xs sm:text-sm md:text-base text-gray-200 line-clamp-2 drop-shadow">
               {slide.subtitle}
             </p>
             <div>
               <button
                 type="button"
                 onClick={() => onSelectCategory(slide.category)}
-                className="bg-[#febd69] hover:bg-[#f3a847] text-[#131921] font-bold px-6 py-2.5 rounded shadow-lg text-sm transition-all transform hover:scale-[1.02] cursor-pointer"
+                className="bg-[#febd69] hover:bg-[#f3a847] text-[#131921] font-bold px-5 sm:px-6 py-2 sm:py-2.5 rounded shadow-lg text-xs sm:text-sm transition-all transform hover:scale-[1.02] cursor-pointer"
               >
                 {slide.ctaText}
               </button>
@@ -135,17 +132,17 @@ export const HomePage: React.FC<HomePageProps> = ({
           </div>
         </div>
 
-        {/* Hero Slider Nav Arrows */}
+        {/* Hero Slider Nav Arrows aligned with the visible text area */}
         <button
           onClick={() => setCurrentSlide(prev => (prev - 1 + HERO_SLIDES.length) % HERO_SLIDES.length)}
-          className="absolute left-2 top-1/2 -translate-y-1/2 z-30 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-r transition-colors"
+          className="absolute left-2 top-[35%] sm:top-[38%] -translate-y-1/2 z-30 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-r transition-colors"
           aria-label="Previous Slide"
         >
           <ChevronLeft size={32} />
         </button>
         <button
           onClick={() => setCurrentSlide(prev => (prev + 1) % HERO_SLIDES.length)}
-          className="absolute right-2 top-1/2 -translate-y-1/2 z-30 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-l transition-colors"
+          className="absolute right-2 top-[35%] sm:top-[38%] -translate-y-1/2 z-30 p-2 text-white/80 hover:text-white bg-black/30 hover:bg-black/60 rounded-l transition-colors"
           aria-label="Next Slide"
         >
           <ChevronRight size={32} />
@@ -155,14 +152,14 @@ export const HomePage: React.FC<HomePageProps> = ({
         <div className="absolute bottom-0 inset-x-0 h-32 bg-gradient-to-t from-[#eaeded] via-[#eaeded]/70 to-transparent pointer-events-none z-20" />
       </div>
 
-      {/* 2. OVERLAPPING 4-ITEM / FEATURED BENTO CARDS */}
-      <div className="w-full px-4 sm:px-6 lg:px-8 relative -mt-24 sm:-mt-36 z-20">
+      {/* 2. OVERLAPPING 4-ITEM / FEATURED BENTO CARDS with 20px gutter */}
+      <div className="w-full px-[20px] relative -mt-24 sm:-mt-36 z-20">
         
-        {/* 4-Column Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        {/* 4-Column Grid with 10px gap increasing the width of the 4 sections */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-[10px]">
           
           {/* Box 1: Video Surveillance */}
-          <div className="bg-white p-4.5 rounded shadow-sm border border-gray-200 flex flex-col justify-between">
+          <div className="bg-white p-4.5 rounded-[20px] shadow-sm border border-gray-200 flex flex-col justify-between">
             <div>
               <h3 className="text-lg font-bold text-gray-900 mb-3 leading-snug">
                 Video Surveillance &amp; Cameras
@@ -172,12 +169,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'Bullet Cameras')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/bullet.jpg" 
                       alt="Bullet Cameras"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -188,12 +185,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'PTZ Cameras')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/ptz.jpg" 
                       alt="PTZ Cameras"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -204,12 +201,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'Dome Cameras')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/dome_camera.jpg" 
                       alt="Dome Cameras"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -220,12 +217,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Video Surveillance & Cameras', 'Thermal Cameras')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/Sarix%20Enhanced%20Duo/Sarix-Enh-Duo-500x500%20%282%29.png" 
                       alt="Thermal Cameras"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -243,7 +240,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           </div>
 
           {/* Box 2: Renewable Energy & Power */}
-          <div className="bg-white p-4.5 rounded shadow-sm border border-gray-200 flex flex-col justify-between">
+          <div className="bg-white p-4.5 rounded-[20px] shadow-sm border border-gray-200 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between mb-3">
                 <h3 className="text-lg font-bold text-gray-900 leading-snug">
@@ -258,12 +255,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Renewable Energy', 'Smart Hybrid Inverters')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1788634097/inverter-9.jpg" 
                       alt="Hybrid Inverters"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -274,12 +271,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Renewable Energy', 'Lithium LiFePO4 Batteries')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/solar_battery.jpg" 
                       alt="LiFePO4 Batteries"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -290,12 +287,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Renewable Energy', 'Industrial Solar Panels')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/solar_panel.jpg" 
                       alt="Tier-1 Solar Panels"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -306,12 +303,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Power & Electrical Systems', 'UPS Systems')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729131/ups.jpg" 
                       alt="Online Rack UPS"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -329,7 +326,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           </div>
 
           {/* Box 3: Networking & Industrial PoE */}
-          <div className="bg-white p-4.5 rounded shadow-sm border border-gray-200 flex flex-col justify-between">
+          <div className="bg-white p-4.5 rounded-[20px] shadow-sm border border-gray-200 flex flex-col justify-between">
             <div>
               <h3 className="text-lg font-bold text-gray-900 mb-3 leading-snug">
                 Networking &amp; Connectivity
@@ -339,12 +336,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Networking & Connectivity', 'PoE Switches')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789800516/poe_switch.jpg" 
                       alt="PoE Switches"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -355,12 +352,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Networking & Connectivity', 'Industrial Switches')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729780/motorola.jpg" 
                       alt="DIN-Rail Industrial"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -371,12 +368,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Networking & Connectivity', 'Wireless Access Points')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789729938/Network_Adapter.jpg" 
                       alt="Wi-Fi 6 APs"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -387,12 +384,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Telecommunication & Communication Equipment', 'Microwave Radio')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://res.cloudinary.com/bmv4hvtk/image/upload/v1789730104/Industrial_Switch.jpg" 
                       alt="Wireless Bridges"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -410,7 +407,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           </div>
 
           {/* Box 4: Access Control & Biometrics */}
-          <div className="bg-white p-4.5 rounded shadow-sm border border-gray-200 flex flex-col justify-between">
+          <div className="bg-white p-4.5 rounded-[20px] shadow-sm border border-gray-200 flex flex-col justify-between">
             <div>
               <h3 className="text-lg font-bold text-gray-900 mb-3 leading-snug">
                 Access Control &amp; Biometrics
@@ -420,12 +417,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Access Control & Door Security', 'Biometric Readers')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/AC-HID-READER-SIGNO-40NKS-00-000000_071620.jpg" 
                       alt="Facial Terminals"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -436,12 +433,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Access Control & Door Security', 'Electronic Locks')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/csr35_1200x1200_071520.jpg" 
                       alt="Magnetic Locks"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -452,12 +449,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Intercom & IP Communication', 'Door Stations')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/PRODUCT%20MARKETING/STid-READER-ARC-B-063022.jpg" 
                       alt="Video Intercoms"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -468,12 +465,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onSelectCategory('Security Software & Licenses', 'Access Control Software')}
                   className="cursor-pointer group flex flex-col"
                 >
-                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden">
+                  <div className="w-full h-28 sm:h-32 bg-white flex items-center justify-center overflow-hidden rounded-[10px]">
                     <img 
                       src="https://avoweb1.s3-us-west-2.amazonaws.com/Prod/ACM/SC_MTK15_HO_071620.jpg" 
                       alt="Software Licenses"
                       referrerPolicy="no-referrer"
-                      className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-200" 
+                      className="w-full h-full object-contain rounded-[10px] group-hover:scale-105 transition-transform duration-200" 
                     />
                   </div>
                   <span className="text-xs font-medium text-gray-800 line-clamp-1 mt-1.5 group-hover:text-blue-700 transition-colors">
@@ -494,8 +491,8 @@ export const HomePage: React.FC<HomePageProps> = ({
 
       </div>
 
-      {/* 3. HORIZONTAL PRODUCT CAROUSEL ROW ("Best Sellers & Featured Hardware") */}
-      <div className="w-full px-4 sm:px-6 lg:px-8 mt-8">
+      {/* 3. HORIZONTAL PRODUCT CAROUSEL ROW ("Best Sellers & Featured Hardware") with 20px gutter */}
+      <div className="w-full px-[20px] mt-8">
         {safeProducts.length > 0 ? (
           <div className="bg-white p-5 rounded shadow-sm border border-gray-200">
             <div className="flex items-center justify-between mb-4">
@@ -513,8 +510,8 @@ export const HomePage: React.FC<HomePageProps> = ({
               </button>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-              {safeProducts.slice(0, 8).map((prod, idx) => (
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5">
+              {safeProducts.slice(0, 10).map((prod, idx) => (
                 <div 
                   key={`${prod.id || 'prod'}-${prod.sku || idx}-${idx}`}
                   className="group flex flex-col justify-between bg-white border border-gray-100 hover:border-gray-300 p-3.5 rounded transition-all hover:shadow-md"

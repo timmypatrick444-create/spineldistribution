@@ -87,7 +87,7 @@ export const ProductDetailPage: React.FC<ProductDetailPageProps> = ({
     .slice(0, 8);
 
   return (
-    <div className="w-full px-4 sm:px-6 lg:px-8 py-6 font-sans">
+    <div className="w-full px-[20px] py-6 font-sans">
       
       {/* Breadcrumbs */}
       <nav aria-label="Breadcrumbs" className="flex items-center gap-2 text-xs sm:text-sm text-gray-500 mb-6 flex-wrap">

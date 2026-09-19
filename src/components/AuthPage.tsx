@@ -49,7 +49,7 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onSuccess }) => {
   };
 
   return (
-    <div className="py-12 px-4 flex flex-col items-center justify-center font-sans">
+    <div className="py-12 px-[20px] flex flex-col items-center justify-center font-sans">
       {/* Official Spinel Distribution Logo */}
       <div className="mb-8 flex flex-col items-center text-center select-none">
         <img 

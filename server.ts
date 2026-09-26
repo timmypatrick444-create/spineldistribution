@@ -1,7 +1,7 @@
 import express from 'express';
 import path from 'path';
+import fs from 'fs';
 import dotenv from 'dotenv';
-import { createServer as createViteServer } from 'vite';
 import { createClient } from '@supabase/supabase-js';
 import { SEED_PRODUCTS } from './src/data/seedProducts';
 import { UPLOADED_RENEWABLE_ENERGY_PRODUCTS } from './src/data/uploadedProducts';
@@ -10,8 +10,17 @@ import { Product, Order, UserProfile } from './src/types';
 
 dotenv.config();
 
+// Prevent uncaught errors from crashing the shared hosting process
+process.on('uncaughtException', (err) => {
+  console.error('[SPINEL] Uncaught Exception:', err);
+});
+process.on('unhandledRejection', (reason, promise) => {
+  console.error('[SPINEL] Unhandled Rejection at:', promise, 'reason:', reason);
+});
+
 const app = express();
-const PORT = 3000;
+// cPanel Phusion Passenger assigns dynamic PORT or Unix socket pipe via process.env.PORT
+const PORT = process.env.PORT || 3000;
 
 // High body limits to easily receive thousands of product uploads via JSON or CSV
 app.use(express.json({ limit: '50mb' }));
@@ -639,24 +648,79 @@ app.use((err: any, req: express.Request, res: express.Response, next: express.Ne
 // -------------------------------------------------------------
 async function startServer() {
   if (process.env.NODE_ENV !== 'production') {
-    const vite = await createViteServer({
-      server: { middlewareMode: true },
-      appType: 'spa',
-    });
-    app.use(vite.middlewares);
+    try {
+      const { createServer: createViteServer } = await import('vite');
+      const vite = await createViteServer({
+        server: { middlewareMode: true },
+        appType: 'spa',
+      });
+      app.use(vite.middlewares);
+    } catch (viteErr) {
+      console.warn('[Vite Middleware] Could not start Vite dev middleware:', viteErr);
+    }
   } else {
-    const distPath = path.join(process.cwd(), 'dist');
+    // Robust search for compiled dist directory across common cPanel and production path configurations
+    const candidates = [
+      path.join(process.cwd(), 'dist'),
+      path.join(__dirname, 'dist'),
+      __dirname,
+      process.cwd()
+    ];
+    const distPath = candidates.find(candidate => fs.existsSync(path.join(candidate, 'index.html'))) || candidates[0];
+
     app.use(express.static(distPath));
     app.get('*', (req, res) => {
-      res.sendFile(path.join(distPath, 'index.html'));
+      const indexPath = path.join(distPath, 'index.html');
+      if (fs.existsSync(indexPath)) {
+        res.sendFile(indexPath);
+      } else {
+        res.status(200).send(`
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <title>Spinel Distribution Server - Online</title>
+            <style>
+              body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0b1329; color: #f8fafc; padding: 40px 20px; text-align: center; }
+              .card { background: #1e293b; max-width: 600px; margin: 30px auto; padding: 32px; border-radius: 12px; border: 1px solid #334155; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
+              h1 { color: #f59e0b; margin-top: 0; font-size: 24px; }
+              p { color: #94a3b8; font-size: 15px; line-height: 1.6; }
+              code { background: #0f172a; padding: 3px 8px; border-radius: 4px; color: #38bdf8; font-family: monospace; }
+              .badge { display: inline-block; background: #065f46; color: #34d399; padding: 6px 12px; border-radius: 9999px; font-weight: 600; font-size: 13px; margin-bottom: 16px; }
+              a { color: #38bdf8; text-decoration: none; }
+              a:hover { text-decoration: underline; }
+            </style>
+          </head>
+          <body>
+            <div class="card">
+              <span class="badge">Backend Active</span>
+              <h1>Spinel Distribution Server Online</h1>
+              <p>The Node.js server is successfully running on cPanel shared hosting.</p>
+              <p>To view the full storefront, ensure you have built the frontend assets with <code>npm run build</code> and uploaded the resulting <code>dist/</code> directory.</p>
+              <p style="margin-top: 24px;"><a href="/api/health">Verify API Health Check &rarr;</a></p>
+            </div>
+          </body>
+          </html>
+        `);
+      }
     });
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`[SPINEL DISTRIBUTION] Server running on http://localhost:${PORT}`);
-    console.log(`[Admin Portal] Available at http://localhost:${PORT}/admin`);
-    console.log(`[Exchange Rate] 1 USD = ₦${USD_TO_NGN_EXCHANGE_RATE}`);
-  });
+  // Handle cPanel Phusion Passenger socket pipe or numeric port
+  const isNamedPipeOrSocket = isNaN(Number(PORT));
+  if (isNamedPipeOrSocket) {
+    app.listen(PORT, () => {
+      console.log(`[SPINEL DISTRIBUTION] Server running on passenger socket: ${PORT}`);
+    });
+  } else {
+    const portNumber = parseInt(String(PORT), 10);
+    app.listen(portNumber, () => {
+      console.log(`[SPINEL DISTRIBUTION] Server running on port ${portNumber}`);
+      console.log(`[Admin Portal] Available at port ${portNumber}/admin`);
+      console.log(`[Exchange Rate] 1 USD = ₦${USD_TO_NGN_EXCHANGE_RATE}`);
+    });
+  }
 }
 
 startServer();

@@ -663,10 +663,21 @@ async function startServer() {
     const candidates = [
       path.join(process.cwd(), 'dist'),
       path.join(__dirname, 'dist'),
+      path.join(__dirname, '../dist'),
       __dirname,
       process.cwd()
     ];
-    const distPath = candidates.find(candidate => fs.existsSync(path.join(candidate, 'index.html'))) || candidates[0];
+    const distPath = candidates.find(candidate => {
+      const file = path.join(candidate, 'index.html');
+      if (!fs.existsSync(file)) return false;
+      try {
+        const content = fs.readFileSync(file, 'utf8');
+        // Ensure it is the compiled production index.html (not raw dev index referencing src/main.tsx)
+        return (content.includes('assets/') || content.includes('/assets/')) && !content.includes('src/main.tsx');
+      } catch {
+        return false;
+      }
+    }) || path.join(process.cwd(), 'dist');
 
     app.use(express.static(distPath));
     app.get('*', (req, res) => {

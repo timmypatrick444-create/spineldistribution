@@ -39,7 +39,33 @@ On cPanel shared hosting with CloudLinux **"Setup Node.js App"** (Phusion Passen
 
 ---
 
-## 3. Step-by-Step cPanel Configuration
+## 3. Top Reasons Why 503 Still Shows (And How to Fix in 1 Minute)
+
+### 1. Folder Path Mismatch (The Most Common Cause)
+In cPanel File Manager, look at where `app.js` is located:
+- If `app.js` is in `/home/yourusername/public_html/app.js`:
+  Set **Application root** = `public_html`
+- If `app.js` is inside a subfolder like `/home/yourusername/public_html/spinel/app.js`:
+  Set **Application root** = `public_html/spinel`
+- If `app.js` is in `/home/yourusername/spinel/app.js` (outside `public_html`):
+  Set **Application root** = `spinel`
+
+If the Application root does not match the exact folder where `app.js` lives, Phusion Passenger cannot find the startup file and immediately returns **503 Service Unavailable**.
+
+### 2. Uploading Newly Built Files
+If you configured cPanel before downloading the updated code:
+1. Ensure the new **`server.cjs`**, **`app.js`**, and **`dist/`** directory are uploaded to your Application root folder.
+2. The new `server.cjs` is **100% self-contained**: all backend dependencies (Express, dotenv, Supabase, etc.) are pre-bundled inside it, meaning **no `node_modules` installation is required on cPanel**!
+
+### 3. Check the Error Log (`stderr.log`)
+In cPanel File Manager:
+- Open your Application root directory (or check `~/.cagefs/tmp/` or your home directory).
+- Look for a file named **`stderr.log`**.
+- This file records the exact crash error if Node failed to start.
+
+---
+
+## 4. Step-by-Step cPanel Configuration
 
 ### Step A: Build the Project
 Because shared hosting servers often have memory limits (512MB–1GB RAM), it is recommended to run the build before uploading, or run it once in cPanel terminal:
